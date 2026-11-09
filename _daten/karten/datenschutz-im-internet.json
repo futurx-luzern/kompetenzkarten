@@ -25,7 +25,8 @@
    "url": "https://www.youtube.com/watch?v=jXLZIYwRJLE",
    "titel": "So schützt du deine Daten auf Social Media",
    "dauer": "1 Min.",
-   "quelle": "147, Pro Juventute"
+   "quelle": "147, Pro Juventute",
+   "notiz": "Schweizer Jugendberatung, sehr kurz"
   },
   {
    "stufe": 1,
@@ -33,7 +34,8 @@
    "url": "https://www.youtube.com/watch?v=CgfdDAaGUeg",
    "titel": "Datenschutz: So schützt du deine persönlichen Daten",
    "dauer": "2 Min.",
-   "quelle": "planet schule (ARD)"
+   "quelle": "planet schule (ARD)",
+   "notiz": "Laut Kanal fachlich weiterhin gültig"
   },
   {
    "stufe": 1,
@@ -41,7 +43,8 @@
    "url": "https://www.handysektor.de/artikel/darum-solltest-du-im-internet-nicht-alles-preisgeben/",
    "titel": "Darum solltest du im Internet nicht alles preisgeben",
    "dauer": "4 Min.",
-   "quelle": "Handysektor"
+   "quelle": "Handysektor",
+   "notiz": "Direkt für Jugendliche geschrieben"
   },
   {
    "stufe": 2,
@@ -49,7 +52,8 @@
    "url": "https://www.youtube.com/watch?v=OBdCiOY8-Xg",
    "titel": "Tschüss Privatsphäre! Was Apps über dich verraten",
    "dauer": "16 Min.",
-   "quelle": "SRF «Impact», Recherche zu Standortdaten"
+   "quelle": "SRF «Impact», Recherche zu Standortdaten",
+   "notiz": "Schweizer Recherche: Apps verkaufen Standortdaten"
   },
   {
    "stufe": 3,
@@ -57,7 +61,8 @@
    "url": "https://www.youtube.com/watch?v=tsrkB9I7m80",
    "titel": "Deine Daten im Netz: Ende der Privatheit?",
    "dauer": "29 Min.",
-   "quelle": "NZZ Format, Dokumentarfilm"
+   "quelle": "NZZ Format, Dokumentarfilm",
+   "notiz": "Schweizer Doku mit Selbstversuch"
   },
   {
    "stufe": 3,
@@ -65,7 +70,19 @@
    "url": "https://www.konsumentenschutz.ch/online-ratgeber/datenschutz-im-internet/",
    "titel": "Ratgeber Datenschutz im Internet",
    "dauer": "8 Min.",
-   "quelle": "Stiftung für Konsumentenschutz, Tipps zu Browser, Apps und Auskunftsrecht"
+   "quelle": "Stiftung für Konsumentenschutz, Tipps zu Browser, Apps und Auskunftsrecht",
+   "notiz": "Praktische Tipps, laufend aktualisiert",
+   "warnung": "Sie-Form und viele Fachbegriffe"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=oE4D8GHQhL8",
+   "grund": "Reisserischer Titel, Kanal eines Beraters"
+  },
+  {
+   "url": "https://www.datenschutz.org/datenschutz-im-internet/",
+   "grund": "Bezieht sich auf deutsches Recht (DSGVO)"
   }
  ]
 }

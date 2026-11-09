@@ -65,7 +65,8 @@
    "url": "https://www.youtube.com/watch?v=l5ld0SlNYEk",
    "titel": "Die SMART-Methode",
    "dauer": "3 Min.",
-   "quelle": "STARK Verlag (Lernvideo)"
+   "quelle": "STARK Verlag (Lernvideo)",
+   "notiz": "Lernvideo eines Schulbuchverlags"
   },
   {
    "stufe": 1,
@@ -73,7 +74,8 @@
    "url": "https://www.youtube.com/watch?v=cxmmLgTMX2U",
    "titel": "SMART-Ziele formulieren, mit Beispielen",
    "dauer": "5 Min.",
-   "quelle": "Erzieherkanal"
+   "quelle": "Erzieherkanal",
+   "notiz": "Mit Beispielen"
   },
   {
    "stufe": 1,
@@ -81,7 +83,9 @@
    "url": "https://studyflix.de/wirtschaft/smart-methode-6658",
    "titel": "SMART-Methode: Definition und Beispiele",
    "dauer": "6 Min.",
-   "quelle": "Studyflix, mit Erklärvideo"
+   "quelle": "Studyflix, mit Erklärvideo",
+   "notiz": "Erklärt auch die verschiedenen Bedeutungen von A",
+   "warnung": "Seite hat Werbeboxen"
   },
   {
    "stufe": 2,
@@ -89,7 +93,8 @@
    "url": "https://www.youtube.com/watch?v=eykaYzKDVLk",
    "titel": "Ziele SMART formulieren: die SMART-Formel einfach erklärt",
    "dauer": "9 Min.",
-   "quelle": "Projekte leicht gemacht, ausführlich mit Beispielen"
+   "quelle": "Projekte leicht gemacht, ausführlich mit Beispielen",
+   "notiz": "Ausführlich, eher Projekt-Kontext"
   },
   {
    "stufe": 3,
@@ -97,7 +102,9 @@
    "url": "https://bildungsportal.sachsen.de/opal/oer/3PQWTLdGbkf4",
    "titel": "Die SMART-Methode: Herkunft, Anwendung und Kritik",
    "dauer": "2 Seiten",
-   "quelle": "Hochschule für Technik und Wirtschaft Dresden (PDF-Poster)"
+   "quelle": "Hochschule für Technik und Wirtschaft Dresden (PDF-Poster)",
+   "notiz": "Herkunft, Anwendung und Kritik (offene Lernressource)",
+   "warnung": "Studentisches Poster"
   }
  ]
 }

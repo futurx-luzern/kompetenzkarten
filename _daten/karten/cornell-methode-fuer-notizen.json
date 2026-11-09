@@ -62,7 +62,9 @@
    "url": "https://www.youtube.com/watch?v=8ODlGme5Qmo",
    "titel": "Bessere Mitschriften mit der Cornell-Methode",
    "dauer": "3,5 Min.",
-   "quelle": "Lernförderung, mit Beispielen aus der Schule"
+   "quelle": "Lernförderung, mit Beispielen aus der Schule",
+   "notiz": "Schulbezug: Mitschrift im Unterricht",
+   "warnung": "Videobeschreibung wirbt für ein Buch"
   },
   {
    "stufe": 1,
@@ -70,7 +72,8 @@
    "url": "https://blog.hslu.ch/studythings/2021/02/12/notizen-machen/2/",
    "titel": "Notizen mit der Cornell-Methode, mit Vorlage zum Ausdrucken",
    "dauer": "5 Min.",
-   "quelle": "Hochschule Luzern"
+   "quelle": "Hochschule Luzern",
+   "notiz": "Schweizer Quelle, Vorlage zum Ausdrucken"
   },
   {
    "stufe": 2,
@@ -78,7 +81,8 @@
    "url": "https://www.youtube.com/watch?v=yjutSUDuhbc",
    "titel": "Richtig mitschreiben: die Cornell-Methode",
    "dauer": "6 Min.",
-   "quelle": "Heinrich-Heine-Universität Düsseldorf"
+   "quelle": "Heinrich-Heine-Universität Düsseldorf",
+   "notiz": "Hochschulquelle, sachlich"
   },
   {
    "stufe": 2,
@@ -86,7 +90,18 @@
    "url": "https://www.youtube.com/watch?v=kGJdU17qVmw",
    "titel": "Cornell-Methode: besser notieren, mitschreiben und zusammenfassen",
    "dauer": "12 Min.",
-   "quelle": "Markus Oppitz, ausführlich mit Beispielen"
+   "quelle": "Markus Oppitz, ausführlich mit Beispielen",
+   "notiz": "Ausführlich mit Beispielen. Älter, die Methode hat sich nicht verändert"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=T6CG6403_W8",
+   "grund": "Video existiert nicht mehr"
+  },
+  {
+   "url": "https://www.buero-kaizen.de/cornell-methode/",
+   "grund": "Bürokontext, ersetzt durch HSLU"
   }
  ]
 }

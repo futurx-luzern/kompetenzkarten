@@ -25,7 +25,8 @@
    "url": "https://www.youtube.com/watch?v=Xphn3_z7KDc",
    "titel": "Grenzen setzen: Wie du Nein sagen kannst",
    "dauer": "4 Min.",
-   "quelle": "Studyflix"
+   "quelle": "Studyflix",
+   "notiz": "Aktuell, kurz, du-Form"
   },
   {
    "stufe": 1,
@@ -33,7 +34,8 @@
    "url": "https://www.srf.ch/play/tv/we-myself--why/video/nein-sagen-so-klappt-es?urn=urn:srf:video:ee8d2591-400e-4c49-b39f-cf844fb3e0b5",
    "titel": "Nein sagen: So klappt es",
    "dauer": "4 Min.",
-   "quelle": "SRF «We, Myself & Why»"
+   "quelle": "SRF «We, Myself & Why»",
+   "notiz": "Bleibt von der alten Seite, bei SRF weiterhin verfügbar"
   },
   {
    "stufe": 1,
@@ -41,7 +43,8 @@
    "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/tests/tests/nein_sagen.cfm",
    "titel": "Mini-Test: Wie gut kannst du Nein sagen?",
    "dauer": "3 Min.",
-   "quelle": "feel-ok.ch, 10 Fragen"
+   "quelle": "feel-ok.ch, 10 Fragen",
+   "notiz": "10 Fragen, kein Login"
   },
   {
    "stufe": 2,
@@ -49,7 +52,8 @@
    "url": "https://www.youtube.com/watch?v=KLgop0GyKD8",
    "titel": "People Pleasing: Warum wir so schwer Nein sagen können",
    "dauer": "10 Min.",
-   "quelle": "ARD Gesund (rbb), Gespräch mit einer Psychologin"
+   "quelle": "ARD Gesund (rbb), Gespräch mit einer Psychologin",
+   "notiz": "Gespräch mit Psychologin und Betroffenen, Alltagssituationen"
   },
   {
    "stufe": 2,
@@ -57,7 +61,8 @@
    "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/nein_sagen/tipps/ich_sage_nein.cfm",
    "titel": "Ich sage Nein: Situationen, in denen es schwierig wird",
    "dauer": "5 Min.",
-   "quelle": "feel-ok.ch (Gesundheitsstiftung RADIX)"
+   "quelle": "feel-ok.ch (Gesundheitsstiftung RADIX)",
+   "notiz": "Typische Situationen: Gruppe, Sympathie, Verkauf"
   },
   {
    "stufe": 3,
@@ -65,7 +70,18 @@
    "url": "https://www.youtube.com/watch?v=Q16NkzC3czM",
    "titel": "Ich kann keine Grenzen setzen: woher das kommt",
    "dauer": "7 Min.",
-   "quelle": "Psychologin Stefanie Stahl, viel Hintergrund in kurzer Zeit"
+   "quelle": "Psychologin Stefanie Stahl, viel Hintergrund in kurzer Zeit",
+   "notiz": "Psychologischer Hintergrund, kurz aber anspruchsvoll"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=R1-2gqgP3PI",
+   "grund": "Karriere-Coaching für Erwachsene"
+  },
+  {
+   "url": "https://www.swr3.de/aktuell/service/nein-sagen-lernen-tipps-102.html",
+   "grund": "Seite nicht mehr erreichbar"
   }
  ]
 }

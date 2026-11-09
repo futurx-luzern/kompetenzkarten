@@ -66,7 +66,8 @@
    "url": "https://www.youtube.com/watch?v=SyNoySmKlok",
    "titel": "Das Eisenhower-Prinzip: richtig priorisieren lernen",
    "dauer": "4 Min.",
-   "quelle": "DAK-Gesundheit, mit Psychologe René Träder"
+   "quelle": "DAK-Gesundheit, mit Psychologe René Träder",
+   "notiz": "Seriöse Quelle, kurz, Alltagsbezug"
   },
   {
    "stufe": 1,
@@ -74,7 +75,9 @@
    "url": "https://studyflix.de/wirtschaft/eisenhower-prinzip-3229",
    "titel": "Eisenhower-Prinzip mit Beispielen",
    "dauer": "8 Min.",
-   "quelle": "Studyflix, Text mit kurzem Erklärvideo"
+   "quelle": "Studyflix, Text mit kurzem Erklärvideo",
+   "notiz": "Klare Beispiele, auch aus Schule und Lernen",
+   "warnung": "Seite hat Werbeboxen"
   },
   {
    "stufe": 2,
@@ -82,7 +85,8 @@
    "url": "https://www.youtube.com/watch?v=iiXRRIoW9aQ",
    "titel": "Eisenhower-Matrix: Was ist wichtig und was dringend?",
    "dauer": "6 Min.",
-   "quelle": "Heinrich-Heine-Universität Düsseldorf, mit Beispielen"
+   "quelle": "Heinrich-Heine-Universität Düsseldorf, mit Beispielen",
+   "notiz": "Hochschulquelle, Beispiele aus Bewerbung und Planung"
   },
   {
    "stufe": 2,
@@ -90,7 +94,9 @@
    "url": "https://www.youtube.com/watch?v=dWQoldjrB1s",
    "titel": "Zeitmanagement: Eisenhower und drei weitere Methoden im Vergleich",
    "dauer": "11 Min.",
-   "quelle": "Herr Gerold"
+   "quelle": "Herr Gerold",
+   "notiz": "Eisenhower im Vergleich mit drei anderen Methoden",
+   "warnung": "Amazon-Partnerlinks in der Videobeschreibung"
   },
   {
    "stufe": 3,
@@ -98,7 +104,9 @@
    "url": "https://www.youtube.com/watch?v=oKjYVjl_G60",
    "titel": "Hör auf, die Eisenhower-Matrix zu nutzen? Drei typische Missverständnisse",
    "dauer": "10 Min.",
-   "quelle": "Sascha Feth, eine kritische Sicht auf die Methode"
+   "quelle": "Sascha Feth, eine kritische Sicht auf die Methode",
+   "notiz": "Kritische Sicht auf die Methode, gut für das Gespräch",
+   "warnung": "Kleiner Kanal, wirbt für ein Buch"
   },
   {
    "stufe": 3,
@@ -106,7 +114,22 @@
    "url": "https://blogs.uni-bremen.de/wissenswert/files/Studierpersoenlichkeit_EisenhowerMatrix.pdf",
    "titel": "Eisenhower-Matrix: Herkunft und Anleitung für Gruppen",
    "dauer": "3 Seiten",
-   "quelle": "Universität Bremen (PDF)"
+   "quelle": "Universität Bremen (PDF)",
+   "notiz": "Herkunft der Methode und Anleitung für Gruppen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=x8viG5KaVfo",
+   "grund": "Zielgruppe Studierende, verweist auf Verkauf einer Vorlage"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=X0Vk4cTyYtE",
+   "grund": "Projektmanagement-Kontext"
+  },
+  {
+   "url": "https://asana.com/de/resources/eisenhower-matrix",
+   "grund": "Softwarefirma, Werbung für eigenes Produkt"
   }
  ]
 }

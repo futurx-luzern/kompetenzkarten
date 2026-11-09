@@ -1,0 +1,214 @@
+[
+ {
+  "nr": 0,
+  "name": "Grundlage und Pilot",
+  "karten": [
+   "eisenhower-matrix-anwenden",
+   "cornell-methode-fuer-notizen",
+   "schlafhygiene-verbessern",
+   "nein-sagen",
+   "datenschutz-im-internet",
+   "erfolgsliste-erstellen",
+   "zielsetzung-mit-smart-methode"
+  ]
+ },
+ {
+  "nr": 1,
+  "name": "Zeitmanagement und Motivation",
+  "karten": [
+   "prioritaeten-setzen-mit-der-abc-analyse",
+   "arbeiten-in-kurzen-einheiten",
+   "tages--und-wochenplanung",
+   "pausen-sinnvoll-einplanen",
+   "selbstbelohnung-einsetzen",
+   "visualisierung-von-zielen",
+   "motivation-durch-vorbilder",
+   "morgenrituale-fuer-mehr-motivation"
+  ]
+ },
+ {
+  "nr": 2,
+  "name": "Machen statt Aufschieben",
+  "karten": [
+   "5-minuten-regel-kennenlernen",
+   "zeitdiebe-identifizieren-und-eliminieren",
+   "sofort-anfangen-statt-aufschieben",
+   "tagesplanung-gegen-aufschieberitis",
+   "realistische-ziele-setzen",
+   "umgang-mit-innerem-widerstand",
+   "klein-anfangen-mit-der-10-minuten-regel",
+   "selbstdisziplin-staerken",
+   "flexibilitaet-bei-der-aufgabenwahl",
+   "woop-methode-anwenden",
+   "selbstreflexion-zur-ueberwindung-von-aufschieberitis",
+   "muellzeit-reduzieren"
+  ]
+ },
+ {
+  "nr": 3,
+  "name": "Lerntechniken und Lesekompetenz",
+  "karten": [
+   "feynman-methode-kennenlernen",
+   "sq3r-methode-fuer-effektives-lesen",
+   "loci-methode-als-gedaechtnistechnik",
+   "chunking-zur-informationsverarbeitung",
+   "mind-mapping-zur-visualisierung-von-ideen",
+   "schnelllesetechniken-kennenlernen",
+   "pqrst-methode-fuer-besseres-textverstaendnis",
+   "wichtige-informationen-extrahieren",
+   "zusammenfassungen-schreiben"
+  ]
+ },
+ {
+  "nr": 4,
+  "name": "Prüfungen bestehen",
+  "karten": [
+   "lernstoff-gliedern",
+   "zeitplan-fuer-die-pruefungsvorbereitung-erstellen",
+   "entspannungsuebungen-vor-pruefungen",
+   "positive-affirmationen-fuer-die-pruefungsangstbewaeltigung",
+   "pruefungsstrategien-entwickeln",
+   "umgang-mit-blackouts-in-pruefungen"
+  ]
+ },
+ {
+  "nr": 5,
+  "name": "Digitale Kompetenzen und Methodenkompetenzen",
+  "karten": [
+   "nutzung-von-rechtschreibtools",
+   "ai-gestuetzte-textueberarbeitung",
+   "effiziente-internetrecherche",
+   "online-datenbanken-nutzen",
+   "sichere-passwoerter-erstellen",
+   "ordnung-halten",
+   "ergebnisse-verkaufen"
+  ]
+ },
+ {
+  "nr": 6,
+  "name": "Konzentration",
+  "karten": [
+   "liegende-acht-ueben",
+   "arbeitsplatz-optimieren",
+   "konzentrationspausen-richtig-gestalten",
+   "achtsamkeitsuebungen-kennenlernen",
+   "ernaehrung-und-konzentration",
+   "konzentrationsbooster-im-alltag",
+   "augenyoga-kennenlernen",
+   "rueckwaerts-schreiben-als-konzentrationsuebung",
+   "balance-uebungen-zur-konzentrationssteigerung",
+   "arbeitszeit-strukturieren",
+   "stimmung-und-wohlbefinden-als-konzentrationsfaktoren"
+  ]
+ },
+ {
+  "nr": 7,
+  "name": "Gesundheit und Work-Life-Balance",
+  "karten": [
+   "gesunde-ernaehrung-fuer-konzentration",
+   "bewegung-und-fitness-fuer-den-alltag",
+   "auswirkung-von-stress-auf-die-gesundheit",
+   "entspannungstechniken-fuer-den-alltag",
+   "hydration-und-mentale-leistung",
+   "gezielte-pausen-einplanen",
+   "kurzentspannungsuebungen-fuer-den-alltag",
+   "freizeitaktivitaeten-zur-erholung",
+   "kreative-auszeiten-planen",
+   "arbeitszeiten-festlegen-und-einhalten"
+  ]
+ },
+ {
+  "nr": 8,
+  "name": "Entscheidungsfindung und Problemlösung",
+  "karten": [
+   "pro--und-contra-liste-zur-entscheidungsfindung",
+   "entscheidungsbaum-zur-loesung-komplexer-probleme",
+   "brainstorming-techniken-zur-kreativen-problemloesung",
+   "scamper-methode-zur-problemloesung",
+   "risikomanagement-bei-entscheidungen",
+   "plan-b-entwickeln-fuer-den-fall-der-faelle"
+  ]
+ },
+ {
+  "nr": 9,
+  "name": "Selbstreflexion und Achtsamkeit",
+  "karten": [
+   "gehmeditation-kennenlernen",
+   "progressive-muskelentspannung",
+   "regelmaessige-selbstreflexion-praktizieren",
+   "tagebuchfuehrung-zur-selbstreflexion",
+   "stressoren-identifizieren",
+   "achtsamkeit-im-alltag-integrieren"
+  ]
+ },
+ {
+  "nr": 10,
+  "name": "Gefühle und Selbstbild",
+  "karten": [
+   "gefuehle-in-worte-fassen",
+   "deine-emotionen-zeigen",
+   "emotionen-im-griff-haben",
+   "deine-staerken-kennen",
+   "echt-sein",
+   "wie-andere-dich-sehen",
+   "deine-kraefte-und-zeit-clever-nutzen",
+   "dranbleiben-auch-wenn-es-schwierig-wird"
+  ]
+ },
+ {
+  "nr": 11,
+  "name": "Meinung und Auftreten",
+  "karten": [
+   "deine-meinung-sagen",
+   "zu-deiner-meinung-stehen",
+   "unterschiedliche-meinungen-aushalten",
+   "selbstbewusst-auftreten",
+   "koerpersprache-verstehen",
+   "mutig-neues-ausprobieren",
+   "neue-ideen-willkommen-heissen",
+   "was-ist-wirklich-wichtig"
+  ]
+ },
+ {
+  "nr": 12,
+  "name": "Sozialkompetenz: Team und Konflikte",
+  "karten": [
+   "konflikte-ansprechen",
+   "konfliktmanagement-im-team",
+   "konstruktives-feedback-geben",
+   "feedback-empfangen-und-nutzen",
+   "rollenverteilung-im-team",
+   "gemeinsam-entscheiden",
+   "zu-deinem-wort-stehen",
+   "unterstuetzung-annehmen-und-geben",
+   "grenzen-respektieren"
+  ]
+ },
+ {
+  "nr": 13,
+  "name": "Sozialkompetenz: Empathie und Beziehungen",
+  "karten": [
+   "perspektivuebernahme-ueben",
+   "emotionale-intelligenz-foerdern",
+   "gefuehle-anderer-wahrnehmen",
+   "was-bewegt-andere",
+   "naehe-und-distanz-regulieren",
+   "miteinander-fuehlen",
+   "beziehungen-aktiv-gestalten",
+   "wertschaetzung-zeigen",
+   "schwaechen-zeigen"
+  ]
+ },
+ {
+  "nr": 14,
+  "name": "Kommunikation und Präsentation",
+  "karten": [
+   "lampenfieber-reduzieren",
+   "sprech--und-atemtechniken",
+   "aktives-zuhoeren-praktizieren",
+   "gewaltfreie-kommunikation-anwenden",
+   "inhalte-verstaendlich-strukturieren",
+   "visuelle-hilfsmittel-nutzen"
+  ]
+ }
+]
