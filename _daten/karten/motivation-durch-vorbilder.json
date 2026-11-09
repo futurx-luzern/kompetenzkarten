@@ -1,0 +1,84 @@
+{
+ "titel": "Motivation durch Vorbilder",
+ "kategorie": "Motivation",
+ "aufgabe": "Recherchiere, wie Vorbilder und ihre Geschichten zur eigenen Motivation beitragen können. Wähle ein Vorbild aus und erstelle eine kurze Zusammenfassung, wie dessen Geschichte dich inspirieren könnte.",
+ "ziel": "Entdecke, wie Vorbilder inspirieren und motivieren können, eigene Ziele zu verfolgen.",
+ "text": [
+  "Fast alle haben Vorbilder: eine Sportlerin, einen Musiker, die grosse Schwester, eine Lehrperson oder den Chef im Lehrbetrieb. Vorbilder zeigen uns, was möglich ist, und machen Mut, es selbst zu versuchen.",
+  "Fachleute nennen das «Lernen am Modell»: Wir schauen anderen zu und übernehmen, was bei ihnen funktioniert. Das passiert oft ganz unbewusst. Darum lohnt es sich, Vorbilder bewusst zu wählen.",
+  "Ein gutes Vorbild muss nicht berühmt oder perfekt sein. Oft helfen Menschen aus dem eigenen Umfeld am meisten, weil man sieht, wie sie mit Schwierigkeiten umgehen. Und bei Influencern lohnt sich ein kritischer Blick: Was zeigen sie, und was nicht?"
+ ],
+ "fragen": [
+  "Wer ist ein Vorbild für dich? Was bewunderst du an dieser Person?",
+  "Was hat dein Vorbild erlebt oder überwunden, bis es dort war, wo es heute ist?",
+  "Für wen bist du vielleicht selbst ein Vorbild?"
+ ],
+ "suche": [
+  "Vorbilder Jugendliche",
+  "Lernen am Modell",
+  "Influencer als Vorbilder"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ryFRGisHN7M",
+   "titel": "Lernen am Modell mit Beispielen, kurz erklärt",
+   "dauer": "5 Min.",
+   "quelle": "Erzieherkanal",
+   "notiz": "Warum wir von Vorbildern lernen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=epm8BKYh5h0",
+   "titel": "Wer bin ich? Warum wir Vorbilder brauchen",
+   "dauer": "17 Min.",
+   "quelle": "ARD «we be like», mit einem Psychologen",
+   "notiz": "Jugendformat, Gespräch mit Comedian und Psychologe"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://famigros.migros.ch/de/kinder-und-jugendliche/erziehung-und-entwicklung/mediale-vorbilder-von-jugendlichen",
+   "titel": "Mediale Vorbilder von Jugendlichen",
+   "dauer": "5 Min.",
+   "quelle": "Famigros (Migros)",
+   "notiz": "Schweizer Quelle zu Influencern und Stars als Vorbilder",
+   "warnung": "Eigentlich für Eltern geschrieben"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=lRPLIElAq9A",
+   "titel": "Banduras Experiment: wie wir durch Beobachten lernen",
+   "dauer": "5,5 Min.",
+   "quelle": "Sprouts",
+   "notiz": "Das berühmte Experiment hinter der Theorie",
+   "warnung": "Kanal zeigt Werbung für ein Online-Angebot"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://www.psychologie.uzh.ch/dam/jcr:7d10171c-4c81-4e08-adba-6f1a32c4e8ca/2016Nr1_Psychologie%20und%20Erziehung_Die%20Rolle%20von%20Vorbildern%20in%20der%20sozial-kognitiven%20Entwicklung.pdf",
+   "titel": "Die Rolle von Vorbildern in der Entwicklung",
+   "dauer": "15 Min.",
+   "quelle": "Universität Zürich, Fachartikel (PDF)",
+   "notiz": "Schweizer Forschung, eher zu Kindern"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=tWtz_f8YgMI",
+   "grund": "Kanal einer Coachin zu «glücklich leben»"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=lr_3HsZvoKk",
+   "grund": "Motivations-Kanal, 16 Minuten ohne fachlichen Hintergrund"
+  },
+  {
+   "url": "https://www.wiwo.de/erfolg/beruf/die-zahlenfrau-die-relevanz-von-vorbildern-wird-unterschaetzt/26289318.html",
+   "grund": "Wirtschaftszeitung, Berufswelt von Erwachsenen"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "titel": "Arbeiten in kurzen Einheiten",
+ "kategorie": "Zeitmanagement",
+ "aufgabe": "Finde heraus, wie die Pomodoro-Technik funktioniert, bei der Arbeit in kurze, konzentrierte Einheiten unterteilt wird. Erstelle eine kurze Zusammenfassung oder eine Anleitung zur Anwendung der Methode.",
+ "ziel": "Verstehe, wie kurze Arbeitseinheiten die Effizienz steigern können.",
+ "text": [
+  "Hast du schon einmal zwei Stunden «gelernt» und danach gemerkt, dass du eigentlich die halbe Zeit am Handy warst? Lange Arbeitsphasen ohne Plan sind anstrengend, und die Konzentration lässt schnell nach.",
+  "Wer in kurzen, festen Einheiten arbeitet, kann sich besser konzentrieren und fängt leichter an. 25 Minuten fühlen sich viel machbarer an als «den ganzen Nachmittag»."
+ ],
+ "methode_titel": "So funktioniert die Pomodoro-Technik",
+ "fragen": [
+  "Wie lange kannst du dich am Stück gut konzentrieren?",
+  "Was lenkt dich beim Lernen oder Arbeiten am meisten ab?",
+  "Bei welcher Aufgabe könntest du die Pomodoro-Technik diese Woche ausprobieren?"
+ ],
+ "suche": [
+  "Pomodoro-Technik",
+  "Pomodoro Timer",
+  "konzentriert lernen Tipps"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=RwB5IDemKoI",
+   "titel": "Mit der Pomodoro-Technik das Aufschieben vermeiden",
+   "dauer": "3 Min.",
+   "quelle": "sofatutor (Lerntipps)",
+   "notiz": "Kurz, aus Sicht von Schülerinnen und Schülern"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=XKdLEwCIYZo",
+   "titel": "Die Pomodoro-Technik in 4 Minuten erklärt",
+   "dauer": "4 Min.",
+   "quelle": "PINKTUM",
+   "notiz": "Klar und knapp. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://studyflix.de/jobs/karriere-tipps/pomodoro-technik-6190",
+   "titel": "Pomodoro-Technik: Was ist das und wie lernst du es?",
+   "dauer": "6 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Mit Varianten (z.B. 50 Minuten Arbeit)",
+   "warnung": "Seite hat Werbeboxen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=O8Y3WvWM42g",
+   "titel": "Die Pomodoro-Technik: so verbesserst du dein Zeitmanagement",
+   "dauer": "5 Min.",
+   "quelle": "IU Internationale Hochschule",
+   "notiz": "Mit Tipps zur Anwendung"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=fYidB0rKnuI",
+   "titel": "Die Gefahr der Pomodoro-Technik: wie man sie falsch benutzt",
+   "dauer": "14 Min.",
+   "quelle": "Henry Hildebrandt",
+   "notiz": "Kritische Sicht: wann starre 25 Minuten nicht passen",
+   "warnung": "Lerncoach-Kanal, wirbt für eigene Angebote"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=kXoTIimyGPQ",
+   "grund": "Für Studierende, ersetzt durch sofatutor und IU"
+  },
+  {
+   "url": "https://www.personio.ch/hr-lexikon/pomodoro-technik/",
+   "grund": "HR-Software-Firma, für Arbeitgeber geschrieben"
+  }
+ ]
+}

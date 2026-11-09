@@ -15,12 +15,6 @@ Legende: ✅ geprüft · ⚠️ bitte selbst anschauen · ❌ Problem
 | ⚠️ | Fortgeschritten | [Hör auf, die Eisenhower-Matrix zu nutzen? Drei typische Missverständnisse](https://www.youtube.com/watch?v=oKjYVjl_G60) | 9:38 | Sascha Feth, eine kritische Sicht auf die Methode | 2025-09-28 | Kritische Sicht auf die Methode, gut für das Gespräch ⚠️ Kleiner Kanal, wirbt für ein Buch |
 | ✅ | Fortgeschritten | [Eisenhower-Matrix: Herkunft und Anleitung für Gruppen](https://blogs.uni-bremen.de/wissenswert/files/Studierpersoenlichkeit_EisenhowerMatrix.pdf) | 3 Seiten | Universität Bremen (PDF) |  | Herkunft der Methode und Anleitung für Gruppen |
 
-**Entfernt (bisher online):**
-
-- YouTube: Eisenhower-Matrix erklärt: https://www.youtube.com/watch?v=x8viG5KaVfo · Zielgruppe Studierende, verweist auf Verkauf einer Vorlage
-- YouTube: Effektives Zeitmanagement mit der Eisenhower-Matrix: https://www.youtube.com/watch?v=X0Vk4cTyYtE · Projektmanagement-Kontext
-- Asana: Die Eisenhower-Matrix anwenden: https://asana.com/de/resources/eisenhower-matrix · Softwarefirma, Werbung für eigenes Produkt
-
 ## Cornell-Methode für Notizen
 
 | | Niveau | Link | Dauer | Quelle | Datum | Begründung |
@@ -29,11 +23,6 @@ Legende: ✅ geprüft · ⚠️ bitte selbst anschauen · ❌ Problem
 | ✅ | Einstieg | [Notizen mit der Cornell-Methode, mit Vorlage zum Ausdrucken](https://blog.hslu.ch/studythings/2021/02/12/notizen-machen/2/) | 5 Min. | Hochschule Luzern |  | Schweizer Quelle, Vorlage zum Ausdrucken |
 | ✅ | Vertiefung | [Richtig mitschreiben: die Cornell-Methode](https://www.youtube.com/watch?v=yjutSUDuhbc) | 5:59 | Heinrich-Heine-Universität Düsseldorf | 2021-06-17 | Hochschulquelle, sachlich |
 | ✅ | Vertiefung | [Cornell-Methode: besser notieren, mitschreiben und zusammenfassen](https://www.youtube.com/watch?v=kGJdU17qVmw) | 11:47 | Markus Oppitz, ausführlich mit Beispielen | 2016-11-17 | Ausführlich mit Beispielen. Älter, die Methode hat sich nicht verändert |
-
-**Entfernt (bisher online):**
-
-- Video: Die Cornell-Methode erklärt: https://www.youtube.com/watch?v=T6CG6403_W8 · Video existiert nicht mehr
-- Anwendung der Cornell-Methode: https://www.buero-kaizen.de/cornell-methode/ · Bürokontext, ersetzt durch HSLU
 
 ## Schlafhygiene verbessern
 
@@ -44,12 +33,6 @@ Legende: ✅ geprüft · ⚠️ bitte selbst anschauen · ❌ Problem
 | ⚠️ | Einstieg | [Schlafqualität verbessern: Tipps für Jugendliche](https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/schlafprobleme/infos_und_tipps/schlafqualitaet_verbessern.cfm) | 6 Min. | feel-ok.ch (Gesundheitsstiftung RADIX) |  | Schweizer Jugendportal ⚠️ Einzelne Tipps (Tee, Pflanzenmittel) schwach belegt |
 | ✅ | Vertiefung | [Lebenszeit gewinnen durch weniger Schlaf? Ein Selbstversuch](https://www.youtube.com/watch?v=tyCKfnW6I8Y) | 27:28 | Terra Xplore (ZDF) | 2024-06-06 | Selbstversuch mit jungen Leuten, zeigt Folgen von Schlafmangel |
 | ⚠️ | Fortgeschritten | [Gesunder Schlaf: wie du dein Schlafproblem in den Griff bekommst](https://www.youtube.com/watch?v=HxR1s05CLu4) | 31:29 | SRF «Puls», mit Schlafforscherin Christine Blume | 2022-07-11 | Schweizer Schlafforscherin Christine Blume, eher für Erwachsene ⚠️ Knapp über 30 Minuten |
-
-**Entfernt (bisher online):**
-
-- Barmer: Schlafhygiene – Tipps für besseren Schlaf: https://www.barmer.de/gesundheit-verstehen/leben/schlaf/schlafhygiene-1056080 · Für Erwachsene, ersetzt durch feel-ok
-- Oberbergkliniken: 15 Tipps für besseren Schlaf: https://www.oberbergkliniken.de/artikel/schlafhygiene-15-tipps-fuer-besseren-schlaf-von-dr-med-muzaffer-arkac · Privatklinik, für Erwachsene
-- YouTube: Schlafhygiene – Besser schlafen leicht gemacht: https://www.youtube.com/watch?v=YqkL-VeTysE · 13 Minuten, Kanal verkauft Nahrungsergänzung
 
 ## Nein sagen
 
@@ -62,11 +45,6 @@ Legende: ✅ geprüft · ⚠️ bitte selbst anschauen · ❌ Problem
 | ✅ | Vertiefung | [Ich sage Nein: Situationen, in denen es schwierig wird](https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/nein_sagen/tipps/ich_sage_nein.cfm) | 5 Min. | feel-ok.ch (Gesundheitsstiftung RADIX) |  | Typische Situationen: Gruppe, Sympathie, Verkauf |
 | ✅ | Fortgeschritten | [Ich kann keine Grenzen setzen: woher das kommt](https://www.youtube.com/watch?v=Q16NkzC3czM) | 7:22 | Psychologin Stefanie Stahl, viel Hintergrund in kurzer Zeit | 2026-02-24 | Psychologischer Hintergrund, kurz aber anspruchsvoll |
 
-**Entfernt (bisher online):**
-
-- Video: Nein sagen lernen: https://www.youtube.com/watch?v=R1-2gqgP3PI · Karriere-Coaching für Erwachsene
-- Tipps zum Nein sagen: https://www.swr3.de/aktuell/service/nein-sagen-lernen-tipps-102.html · Seite nicht mehr erreichbar
-
 ## Datenschutz im Internet
 
 | | Niveau | Link | Dauer | Quelle | Datum | Begründung |
@@ -77,11 +55,6 @@ Legende: ✅ geprüft · ⚠️ bitte selbst anschauen · ❌ Problem
 | ✅ | Vertiefung | [Tschüss Privatsphäre! Was Apps über dich verraten](https://www.youtube.com/watch?v=OBdCiOY8-Xg) | 16:25 | SRF «Impact», Recherche zu Standortdaten | 2025-02-12 | Schweizer Recherche: Apps verkaufen Standortdaten |
 | ✅ | Fortgeschritten | [Deine Daten im Netz: Ende der Privatheit?](https://www.youtube.com/watch?v=tsrkB9I7m80) | 29:27 | NZZ Format, Dokumentarfilm | 2025-09-19 | Schweizer Doku mit Selbstversuch |
 | ⚠️ | Fortgeschritten | [Ratgeber Datenschutz im Internet](https://www.konsumentenschutz.ch/online-ratgeber/datenschutz-im-internet/) | 8 Min. | Stiftung für Konsumentenschutz, Tipps zu Browser, Apps und Auskunftsrecht |  | Praktische Tipps, laufend aktualisiert ⚠️ Sie-Form und viele Fachbegriffe |
-
-**Entfernt (bisher online):**
-
-- Video: Datenschutz im Internet: https://www.youtube.com/watch?v=oE4D8GHQhL8 · Reisserischer Titel, Kanal eines Beraters
-- Grundlagen des Datenschutzes online: https://www.datenschutz.org/datenschutz-im-internet/ · Bezieht sich auf deutsches Recht (DSGVO)
 
 ## Erfolgsliste erstellen
 

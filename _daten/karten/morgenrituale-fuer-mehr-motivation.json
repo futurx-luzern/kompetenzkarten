@@ -1,0 +1,75 @@
+{
+ "titel": "Morgenrituale für mehr Motivation",
+ "kategorie": "Motivation",
+ "aufgabe": "Suche Informationen darüber, wie Morgenrituale helfen können, den Tag motiviert zu beginnen. Erstelle eine kurze Zusammenfassung oder eine Liste mit effektiven Morgenritualen.",
+ "ziel": "Verstehe, wie ein strukturierter Morgen den gesamten Tag positiv beeinflussen kann.",
+ "text": [
+  "Wie der Morgen anfängt, beeinflusst oft den ganzen Tag. Wer gehetzt aus dem Haus rennt, startet gestresst. Wer ein paar feste Abläufe hat, kommt ruhiger und wacher in den Tag.",
+  "Ein Morgenritual muss nicht lang sein. Schon 10 Minuten können reichen: Licht reinlassen, ein Glas Wasser trinken, etwas frühstücken, kurz überlegen, was heute wichtig ist. Vieles lässt sich am Abend vorbereiten, zum Beispiel Kleider und Tasche.",
+  "Wichtig zu wissen: Jugendliche sind von Natur aus eher «Eulen». Ihre innere Uhr tickt später, und früh aufstehen fällt schwer. Ein gutes Morgenritual hängt darum eng mit genug Schlaf zusammen."
+ ],
+ "fragen": [
+  "Wie sieht dein Morgen heute aus? Was davon tut dir gut, was stresst dich?",
+  "Was könntest du schon am Abend vorbereiten?",
+  "Bist du eher Frühaufsteher oder Langschläferin? Woran merkst du das?"
+ ],
+ "suche": [
+  "Morgenroutine Tipps",
+  "Chronotyp Lerche Eule",
+  "innere Uhr Jugendliche"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://studyflix.de/jobs/karriere-tipps/morgenroutine-5480",
+   "titel": "Morgenroutine: der perfekte Start in den Tag",
+   "dauer": "6 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Praktische Tipps",
+   "warnung": "Seite hat Werbeboxen"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=J2hBEl8eIro",
+   "titel": "Wie das Erbgut deine innere Uhr beeinflusst",
+   "dauer": "5 Min.",
+   "quelle": "Quarks (WDR)",
+   "notiz": "Warum manche Menschen morgens fit sind und andere nicht"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=x1trrADDk7w",
+   "titel": "Eule oder Lerche? So wirkt dein Chronotyp",
+   "dauer": "8 Min.",
+   "quelle": "ARD Gesund",
+   "notiz": "Wie man den eigenen Rhythmus nutzen kann"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=kY5rFRU8A1c",
+   "titel": "6 oder 9 Uhr? Warum wir zur falschen Zeit aufstehen",
+   "dauer": "17 Min.",
+   "quelle": "Quarks (WDR)",
+   "notiz": "Ausführlich, mit Bezug zu Schule und Jugendlichen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.emotion.de/schoenes-neues/morgenrituale-selbstliebe",
+   "grund": "Frauenmagazin, Lifestyle für Erwachsene"
+  },
+  {
+   "url": "https://www.easy-tutor.eu/journal/morgenrituale/",
+   "grund": "Blog einer Nachhilfefirma"
+  },
+  {
+   "url": "https://www.greenyogashop.ch/blog/tipps-fuer-energetisierende-morgenrituale",
+   "grund": "Blog eines Yoga-Shops, verkauft Produkte"
+  }
+ ],
+ "bemerkung": "Auf YouTube gibt es zu Morgenroutinen fast nur Influencer-Videos («wissenschaftlich bewiesen», «5-Uhr-Routine»). Darum liegt der Schwerpunkt hier auf der inneren Uhr, die für Jugendliche besonders wichtig ist."
+}
