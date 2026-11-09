@@ -206,11 +206,15 @@ def tabelle(args):
         neu = {norm(l["url"]) for l in k["links"]}
         entfernt = {norm(e["url"]): e.get("grund", "") for e in k.get("entfernt", [])}
         alt = [(u, t) for u, t in alte_links(s) if norm(u) not in neu]
+        # nach dem Merge ist die alte Seite nicht mehr online: dann die Einträge aus den Daten zeigen
+        schon = {norm(u) for u, _ in alt}
+        alt += [(e["url"], "") for e in k.get("entfernt", []) if norm(e["url"]) not in schon]
         if alt:
             z += ["", "**Entfernt (bisher online):**", ""]
             for u, t in alt:
                 grund = entfernt.get(norm(u), "")
-                z.append(f"- {re.sub('<[^>]+>', '', t)}: {u}" + (f" · {grund}" if grund else ""))
+                name = re.sub('<[^>]+>', '', t)
+                z.append(f"- {name + ': ' if name else ''}{html.unescape(html.unescape(u))}" + (f" · {grund}" if grund else ""))
         if k.get("bemerkung"):
             z += ["", k["bemerkung"]]
         z.append("")

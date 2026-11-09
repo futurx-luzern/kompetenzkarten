@@ -16,7 +16,7 @@ Legende: ✅ geprüft · ⚠️ bitte selbst anschauen · ❌ Problem
 
 **Entfernt (bisher online):**
 
-- YouTube: ABC-Analyse erklärt: https://www.youtube.com/watch?app=desktop&amp;amp;v=o8N1Elqq6I8 · Sehr kleiner Kanal (rund 200 Aufrufe), ersetzt durch Herr Gerold
+- YouTube: ABC-Analyse erklärt: https://www.youtube.com/watch?app=desktop&v=o8N1Elqq6I8 · Sehr kleiner Kanal (rund 200 Aufrufe), ersetzt durch Herr Gerold
 
 ## Arbeiten in kurzen Einheiten
 
