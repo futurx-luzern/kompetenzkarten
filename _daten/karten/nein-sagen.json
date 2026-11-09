@@ -1,0 +1,71 @@
+{
+ "titel": "Nein sagen",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Recherchiere, wie du selbstbewusst und freundlich «Nein» sagen kannst, wenn es nötig ist. Lerne, wie du deine eigenen Grenzen verteidigst, ohne dabei unhöflich zu wirken. Erstelle eine Liste mit Tipps, die dir helfen, leichter Nein zu sagen.",
+ "ziel": "Lerne, wie du Grenzen setzt und klar «Nein» sagst, wenn es nötig ist.",
+ "text": [
+  "Kennst du das? Jemand bittet dich um etwas, du willst eigentlich nicht, sagst aber trotzdem Ja. Viele Menschen haben Angst, andere zu enttäuschen oder nicht mehr gemocht zu werden.",
+  "Nein sagen kann man lernen. Es heisst nicht, unfreundlich zu sein. Es heisst, auf die eigenen Grenzen zu achten. Wer immer Ja sagt, hat bald zu viel zu tun und fühlt sich gestresst.",
+  "Ein paar Tipps: Nimm dir kurz Zeit, bevor du antwortest («Ich sage dir morgen Bescheid»). Sag dein Nein klar und freundlich. Du darfst einen Grund nennen, musst dich aber nicht entschuldigen oder rechtfertigen. Und: Am Anfang fühlt es sich oft ungewohnt an. Mit der Zeit wird es leichter."
+ ],
+ "fragen": [
+  "Wann hast du zuletzt Ja gesagt, obwohl du Nein gemeint hast? Warum?",
+  "Bei welchen Personen fällt dir Nein sagen leicht, bei welchen schwer?",
+  "Wie reagierst du selbst, wenn jemand dir gegenüber Nein sagt?"
+ ],
+ "suche": [
+  "Nein sagen lernen",
+  "Grenzen setzen",
+  "People Pleasing"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Xphn3_z7KDc",
+   "titel": "Grenzen setzen: Wie du Nein sagen kannst",
+   "dauer": "4 Min.",
+   "quelle": "Studyflix"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.srf.ch/play/tv/we-myself--why/video/nein-sagen-so-klappt-es?urn=urn:srf:video:ee8d2591-400e-4c49-b39f-cf844fb3e0b5",
+   "titel": "Nein sagen: So klappt es",
+   "dauer": "4 Min.",
+   "quelle": "SRF «We, Myself & Why»"
+  },
+  {
+   "stufe": 1,
+   "typ": "test",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/tests/tests/nein_sagen.cfm",
+   "titel": "Mini-Test: Wie gut kannst du Nein sagen?",
+   "dauer": "3 Min.",
+   "quelle": "feel-ok.ch, 10 Fragen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=KLgop0GyKD8",
+   "titel": "People Pleasing: Warum wir so schwer Nein sagen können",
+   "dauer": "10 Min.",
+   "quelle": "ARD Gesund (rbb), Gespräch mit einer Psychologin"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/nein_sagen/tipps/ich_sage_nein.cfm",
+   "titel": "Ich sage Nein: Situationen, in denen es schwierig wird",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Gesundheitsstiftung RADIX)"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Q16NkzC3czM",
+   "titel": "Ich kann keine Grenzen setzen: woher das kommt",
+   "dauer": "7 Min.",
+   "quelle": "Psychologin Stefanie Stahl, viel Hintergrund in kurzer Zeit"
+  }
+ ]
+}

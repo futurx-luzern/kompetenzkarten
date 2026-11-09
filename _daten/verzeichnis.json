@@ -1,0 +1,1232 @@
+[
+ {
+  "titel": "Liegende Acht üben",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Konzentration",
+  "datei": "liegende-acht-ueben.html",
+  "qr_ziel": "liegende-acht-ueben.html",
+  "aufgabe": "Recherchiere, wie die Liegende Acht als Konzentrationsübung funktioniert und welche Vorteile sie bietet. Erstelle eine kurze Zusammenfassung der Methode und ihre mögliche Wirkung auf die Konzentrationsfähigkeit.",
+  "ziel": "Erkenne, wie einfache Übungen deine Konzentration steigern können.",
+  "druckseite": 1
+ },
+ {
+  "titel": "Arbeitsplatz optimieren",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Konzentration",
+  "datei": "arbeitsplatz-optimieren.html",
+  "qr_ziel": "arbeitsplatz-optimieren.html",
+  "aufgabe": "Finde heraus, wie du deinen Arbeitsplatz so einrichten kannst, dass er deine Konzentration fördert (z.B. Licht, Ordnung, Sitzposition). Erstelle eine kurze PowerPoint- Präsentation oder eine schriftliche Zusammenfassung.",
+  "ziel": "Verstehe, wie ein gut organisierter Arbeitsplatz deine Produktivität unterstützt.",
+  "druckseite": 1
+ },
+ {
+  "titel": "Konzentrationspausen richtig gestalten",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Konzentration",
+  "datei": "konzentrationspausen-richtig-gestalten.html",
+  "qr_ziel": "konzentrationspausen-richtig-gestalten.html",
+  "aufgabe": "Recherchiere, wie Pausen gestaltet werden sollten, um die mentale Leistungsfähigkeit zu erhalten. Erstelle eine kurze Zusammenfassung oder eine übersichtliche Liste der besten Pausentechniken.",
+  "ziel": "Lerne, wie gezielte Pausen deine Konzentration und Effizienz verbessern können.",
+  "druckseite": 1
+ },
+ {
+  "titel": "Achtsamkeitsübungen kennenlernen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Konzentration",
+  "datei": "achtsamkeitsuebungen-kennenlernen.html",
+  "qr_ziel": "achtsamkeit-im-alltag-integrieren.html",
+  "aufgabe": "Informiere dich über einfache Achtsamkeitsübungen, die deine Konzentration fördern können (z.B. achtsames Atmen). Erstelle eine kurze Zusammenfassung der Übungen oder gestalte ein Plakat mit den wichtigsten Punkten.",
+  "ziel": "Erfahre, wie Achtsamkeitstechniken deinen Fokus verbessern.",
+  "druckseite": 1
+ },
+ {
+  "titel": "Ernährung und Konzentration",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Konzentration",
+  "datei": "ernaehrung-und-konzentration.html",
+  "qr_ziel": "ernaehrung-und-konzentration.html",
+  "aufgabe": "Recherchiere, wie deine Ernährung die Konzentration beeinflusst. Erstelle eine kurze Zusammenfassung darüber, welche Lebensmittel die Konzentration fördern oder ein kleines Plakat mit Ernährungstipps.",
+  "ziel": "Verstehe, wie deine Ernährung deine geistige Leistungsfähigkeit beeinflusst.",
+  "druckseite": 3
+ },
+ {
+  "titel": "Konzentrationsbooster im Alltag",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Konzentration",
+  "datei": "konzentrationsbooster-im-alltag.html",
+  "qr_ziel": "konzentrationsbooster-im-alltag.html",
+  "aufgabe": "Finde heraus, welche kleinen Änderungen im Alltag (z.B. Bewegungspausen, ausreichendes Trinken) die Konzentration verbessern können. Erstelle eine kurze Zusammenfassung oder eine Infografik der effektivsten Konzentrationsbooster.",
+  "ziel": "Erfahre, wie du durch einfache Anpassungen deine Konzentrationsfähigkeit steigern kannst.",
+  "druckseite": 3
+ },
+ {
+  "titel": "Augenyoga kennenlernen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Konzentration",
+  "datei": "augenyoga-kennenlernen.html",
+  "qr_ziel": "augenyoga-kennenlernen.html",
+  "aufgabe": "Recherchiere, wie Augenyoga als Methode zur Entspannung und Verbesserung der Konzentration eingesetzt werden kann. Erstelle eine kurze Zusammenfassung oder eine Schritt-für-Schritt-Anleitung in Form eines Posters.",
+  "ziel": "Lerne, wie du durch Augenyoga deine Augen entspannen und deine Konzentration verbessern kannst.",
+  "druckseite": 3
+ },
+ {
+  "titel": "Rückwärts schreiben",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Konzentration",
+  "datei": "rueckwaerts-schreiben-als-konzentrationsuebung.html",
+  "qr_ziel": "rueckwaerts-schreiben-als-konzentrationsuebung.html",
+  "aufgabe": "Informiere dich darüber, wie das Rückwärtsschreiben (z.B. das Alphabet) die Konzentration fördern kann. Erstelle eine kurze Zusammenfassung dieser Technik und ihrer Vorteile.",
+  "ziel": "Verstehe, wie ungewöhnliche Übungen deine Konzentrationsfähigkeit herausfordern und stärken können.",
+  "druckseite": 3
+ },
+ {
+  "titel": "Balance-Übungen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Konzentration",
+  "datei": "balance-uebungen-zur-konzentrationssteigerung.html",
+  "qr_ziel": "balance-uebungen-zur-konzentrationssteigerung.html",
+  "aufgabe": "Recherchiere, wie Balance-Übungen (z.B. Balancieren von Gegenständen) die Konzentration fördern können. Erstelle eine kurze Zusammenfassung oder ein anschauliches Diagramm der Übungen und ihrer Vorteile.",
+  "ziel": "Erfahre, wie körperliche Balance- Übungen deine geistige Konzentration fördern können.",
+  "druckseite": 5
+ },
+ {
+  "titel": "Arbeitszeit strukturieren",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Konzentration",
+  "datei": "arbeitszeit-strukturieren.html",
+  "qr_ziel": "arbeitszeit-strukturieren.html",
+  "aufgabe": "Suche Informationen darüber, wie die Strukturierung der Arbeitszeit durch abwechslungsreiche Aufgaben die Konzentration fördern kann. Erstelle eine kurze Zusammenfassung oder eine einfache Zeitmanagement- Checkliste.",
+  "ziel": "Lerne, wie abwechslungsreiche Arbeitsweisen die Konzentrationsfähigkeit steigern.",
+  "druckseite": 5
+ },
+ {
+  "titel": "Stimmung und Wohlbefinden",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Konzentration",
+  "datei": "stimmung-und-wohlbefinden-als-konzentrationsfaktoren.html",
+  "qr_ziel": "stimmung-und-wohlbefinden-als-konzentrationsfaktoren.html",
+  "aufgabe": "Finde heraus, wie deine Stimmung und dein Wohlbefinden die Konzentration beeinflussen können. Erstelle eine kurze Zusammenfassung oder ein Stimmungsdiagramm mit Tipps zur Verbesserung.",
+  "ziel": "Erfahre, wie du durch positive Stimmung und Wohlbefinden deine Konzentrations- fähigkeit stärken kannst.",
+  "druckseite": 5
+ },
+ {
+  "titel": "5-Minuten-Regel",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "5-minuten-regel-kennenlernen.html",
+  "qr_ziel": "5-minuten-regel-kennenlernen.html",
+  "aufgabe": "Recherchiere, wie die 5-Minuten-Regel funktioniert und warum sie bei Aufschieberitis helfen kann. Erstelle eine kurze Zusammenfassung oder eine kleine Infografik, die die Methode erklärt.",
+  "ziel": "Lerne, wie du durch kleine Schritte Aufgaben sofort angehen kannst.",
+  "druckseite": 7
+ },
+ {
+  "titel": "Zeitfresser identifizieren und eliminieren",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "zeitdiebe-identifizieren-und-eliminieren.html",
+  "qr_ziel": "zeitdiebe-identifizieren-und-eliminieren.html",
+  "aufgabe": "Suche Informationen über typische Zeitfresser im Alltag und wie man sie reduziert. Erstelle eine kurze Zusammenfassung oder eine Liste mit Tipps, wie man effektiver arbeiten kann.",
+  "ziel": "Verstehe, wie du deine Zeit optimal nutzen kannst, indem du Ablenkungen minimierst.",
+  "druckseite": 7
+ },
+ {
+  "titel": "Sofort anfangen statt aufschieben",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "sofort-anfangen-statt-aufschieben.html",
+  "qr_ziel": "sofort-anfangen-statt-aufschieben.html",
+  "aufgabe": "Recherchiere Strategien, die dir helfen, sofort mit einer Aufgabe zu beginnen, anstatt sie aufzuschieben. Erstelle eine kurze Zusammenfassung oder eine visuelle Übersicht der Strategien.",
+  "ziel": "Lerne, wie du durch sofortiges Handeln Aufgaben effizienter bewältigst.",
+  "druckseite": 7
+ },
+ {
+  "titel": "Tagesplanung gegen Aufschieberitis",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "tagesplanung-gegen-aufschieberitis.html",
+  "qr_ziel": "tagesplanung-gegen-aufschieberitis.html",
+  "aufgabe": "Informiere dich, wie eine strukturierte Tagesplanung helfen kann, Aufschieben zu vermeiden. Erstelle eine kurze Zusammenfassung oder eine einfache Vorlage für eine Tagesplanung.",
+  "ziel": "Erfahre, wie eine gut durchdachte Planung das Aufschieben verhindern kann.",
+  "druckseite": 7
+ },
+ {
+  "titel": "Realistische Ziele setzen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "realistische-ziele-setzen.html",
+  "qr_ziel": "realistische-ziele-setzen.html",
+  "aufgabe": "Recherchiere, wie das Setzen realistischer und erreichbarer Ziele helfen kann, Aufgaben nicht aufzuschieben. Erstelle eine kurze Zusammenfassung oder eine Zielsetzungs- Checkliste.",
+  "ziel": "Verstehe, wie realistische Ziele dazu beitragen, dass du Aufgaben pünktlich erledigst.",
+  "druckseite": 9
+ },
+ {
+  "titel": "Umgang mit innerem Widerstand",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "umgang-mit-innerem-widerstand.html",
+  "qr_ziel": "umgang-mit-innerem-widerstand.html",
+  "aufgabe": "Finde heraus, wie man den inneren Widerstand überwinden kann, der oft zum Aufschieben führt. Erstelle eine kurze Zusammenfassung oder ein Diagramm der besten Techniken.",
+  "ziel": "Lerne, wie du deinen inneren Widerstand erkennst und überwindest, um Aufgaben effizienter zu erledigen.",
+  "druckseite": 9
+ },
+ {
+  "titel": "Klein anfangen mit der 10-Minuten-Regel",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "klein-anfangen-mit-der-10-minuten-regel.html",
+  "qr_ziel": "klein-anfangen-mit-der-10-minuten-regel.html",
+  "aufgabe": "Recherchiere, wie die 10-Minuten-Regel funktioniert und wie sie helfen kann, Aufgaben zu starten. Erstelle eine kurze Zusammenfassung oder eine einfache Anleitung zur Anwendung.",
+  "ziel": "Erfahre, wie du durch kleine Schritte grosse Aufgaben bewältigen kannst.",
+  "druckseite": 9
+ },
+ {
+  "titel": "Selbstdisziplin stärken",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "selbstdisziplin-staerken.html",
+  "qr_ziel": "selbstdisziplin-staerken.html",
+  "aufgabe": "Informiere dich über Methoden zur Stärkung der Selbstdisziplin (z.B. Routinen entwickeln). Erstelle eine kurze Zusammenfassung oder eine Liste mit Tipps zur Selbstdisziplin.",
+  "ziel": "Verstehe, wie starke Selbstdisziplin dir hilft, Aufgaben ohne Verzögerung anzugehen.",
+  "druckseite": 11
+ },
+ {
+  "titel": "Flexibilität bei der Aufgabenwahl",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "flexibilitaet-bei-der-aufgabenwahl.html",
+  "qr_ziel": "flexibilitaet-bei-der-aufgabenwahl.html",
+  "aufgabe": "Recherchiere, wie die flexible Wahl von Aufgaben dabei helfen kann, Aufschieben zu vermeiden. Erstelle eine kurze Zusammenfassung oder eine Übersicht der Methode.",
+  "ziel": "Lerne, wie Flexibilität bei der Aufgabenwahl dir hilft, produktiver zu arbeiten.",
+  "druckseite": 11
+ },
+ {
+  "titel": "WOOP-Methode anwenden",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "woop-methode-anwenden.html",
+  "qr_ziel": "woop-methode-anwenden.html",
+  "aufgabe": "Finde heraus, wie die WOOP-Methode (Wish, Outcome, Obstacle, Plan) funktioniert und wie sie helfen kann, Ziele zu erreichen und Aufschieben zu vermeiden. Erstelle eine kurze Zusammenfassung oder eine visuelle Darstellung der Methode.",
+  "ziel": "Erfahre, wie strukturierte Zielsetzung dir hilft, Aufgaben sofort anzugehen.",
+  "druckseite": 11
+ },
+ {
+  "titel": "Selbstreflexion zur Überwindung von Aufschieberitis",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "selbstreflexion-zur-ueberwindung-von-aufschieberitis.html",
+  "qr_ziel": "selbstreflexion-zur-ueberwindung-von-aufschieberitis.html",
+  "aufgabe": "Recherchiere, wie Selbstreflexion dir helfen kann, die Ursachen des Aufschiebens zu erkennen und zu überwinden. Erstelle eine kurze Zusammenfassung oder eine Liste mit Reflexionsfragen.",
+  "ziel": "Verstehe, wie Selbstreflexion dir hilft, produktiver zu werden.",
+  "druckseite": 11
+ },
+ {
+  "titel": "Müllzeit reduzieren",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Machen statt Aufschieben",
+  "datei": "muellzeit-reduzieren.html",
+  "qr_ziel": "krisen-gemeinsam-bewaeltigen.html",
+  "aufgabe": "Suche Informationen darüber, wie du «Müllzeit» (unnötige, ineffektive Aktivitäten) identifizieren und reduzieren kannst. Erstelle eine kurze Zusammenfassung oder ein Diagramm mit den besten Strategien.",
+  "ziel": "Lerne, wie du durch die Reduzierung ineffektiver Aktivitäten produktiver wirst.",
+  "druckseite": 13
+ },
+ {
+  "titel": "Erfolgsliste erstellen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Motivation",
+  "datei": "erfolgsliste-erstellen.html",
+  "qr_ziel": "erfolgsliste-erstellen.html",
+  "aufgabe": "Recherchiere, wie eine Erfolgsliste funktioniert und welche Vorteile sie für die Motivation bietet. Erstelle eine kurze Zusammenfassung oder gestalte eine Vorlage für deine eigene Erfolgsliste.",
+  "ziel": "Erkenne, wie das Bewusstsein über erledigte Aufgaben die Motivation steigert.",
+  "druckseite": 13
+ },
+ {
+  "titel": "Selbstbelohnung einsetzen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Motivation",
+  "datei": "selbstbelohnung-einsetzen.html",
+  "qr_ziel": "selbstbelohnung-einsetzen.html",
+  "aufgabe": "Informiere dich, wie das Konzept der Selbstbelohnung funktioniert und in welchen Situationen es besonders effektiv ist. Erstelle eine kurze Zusammenfassung oder eine Infografik, die die Methode erklärt.",
+  "ziel": "Verstehe, wie Selbstbelohnung die Motivation unterstützt und Aufgaben attraktiver macht.",
+  "druckseite": 13
+ },
+ {
+  "titel": "Zielsetzung mit SMART-Methode",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Motivation",
+  "datei": "zielsetzung-mit-smart-methode.html",
+  "qr_ziel": "zielsetzung-mit-smart-methode.html",
+  "aufgabe": "Recherchiere, wie die SMART-Methode funktioniert, um Ziele spezifisch, messbar, erreichbar, relevant und termingebunden zu formulieren. Erstelle eine kurze Zusammenfassung oder eine Vorlage zur Anwendung der Methode.",
+  "ziel": "Lerne, wie klar formulierte Ziele zu höherer Motivation und besserer Organisation führen.",
+  "druckseite": 13
+ },
+ {
+  "titel": "Visualisierung von Zielen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Motivation",
+  "datei": "visualisierung-von-zielen.html",
+  "qr_ziel": "visualisierung-von-zielen.html",
+  "aufgabe": "Finde heraus, wie Visualisierungstechniken verwendet werden können, um persönliche oder berufliche Ziele zu erreichen. Erstelle eine kurze Zusammenfassung oder ein Vision Board mit deinen Zielen.",
+  "ziel": "Erkenne, wie das Visualisieren von Zielen Motivation und Fokus steigern kann.",
+  "druckseite": 15
+ },
+ {
+  "titel": "Motivation durch Vorbilder",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Motivation",
+  "datei": "motivation-durch-vorbilder.html",
+  "qr_ziel": "motivation-durch-vorbilder.html",
+  "aufgabe": "Recherchiere, wie Vorbilder und ihre Geschichten zur eigenen Motivation beitragen können. Wähle ein Vorbild aus und erstelle eine kurze Zusammenfassung, wie dessen Geschichte dich inspirieren könnte.",
+  "ziel": "Entdecke, wie Vorbilder inspirieren und motivieren können, eigene Ziele zu verfolgen.",
+  "druckseite": 15
+ },
+ {
+  "titel": "Morgenrituale für mehr Motivation",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Motivation",
+  "datei": "morgenrituale-fuer-mehr-motivation.html",
+  "qr_ziel": "morgenrituale-fuer-mehr-motivation.html",
+  "aufgabe": "Suche Informationen darüber, wie Morgenrituale helfen können, den Tag motiviert zu beginnen. Erstelle eine kurze Zusammenfassung oder eine Liste mit effektiven Morgenritualen.",
+  "ziel": "Verstehe, wie ein strukturierter Morgen den gesamten Tag positiv beeinflussen kann.",
+  "druckseite": 15
+ },
+ {
+  "titel": "Eisenhower-Matrix anwenden",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Zeitmanagement",
+  "datei": "eisenhower-matrix-anwenden.html",
+  "qr_ziel": "eisenhower-matrix-anwenden.html",
+  "aufgabe": "Recherchiere, wie die Eisenhower-Matrix funktioniert und wie sie zur Priorisierung von Aufgaben eingesetzt wird. Erstelle eine kurze Zusammenfassung oder ein Diagramm der Methode.",
+  "ziel": "Lerne, wie du Aufgaben effektiv priorisieren kannst, um produktiver zu arbeiten.",
+  "druckseite": 15
+ },
+ {
+  "titel": "Arbeiten in kurzen Einheiten",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Zeitmanagement",
+  "datei": "arbeiten-in-kurzen-einheiten.html",
+  "qr_ziel": "arbeiten-in-kurzen-einheiten.html",
+  "aufgabe": "Finde heraus, wie die Pomodoro-Technik funktioniert, bei der Arbeit in kurze, konzentrierte Einheiten unterteilt wird. Erstelle eine kurze Zusammenfassung oder eine Anleitung zur Anwendung der Methode.",
+  "ziel": "Verstehe, wie kurze Arbeitseinheiten die Effizienz steigern können.",
+  "druckseite": 17
+ },
+ {
+  "titel": "Tages- und Wochenplanung",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Zeitmanagement",
+  "datei": "tages--und-wochenplanung.html",
+  "qr_ziel": "tages--und-wochenplanung.html",
+  "aufgabe": "Recherchiere, wie du eine effektive Tages- und Wochenplanung erstellen kannst, um deine Zeit optimal zu nutzen. Erstelle eine kurze Zusammenfassung oder ein einfaches Planungstool.",
+  "ziel": "Erfahre, wie eine strukturierte Planung zu besserem Zeitmanagement führt",
+  "druckseite": 17
+ },
+ {
+  "titel": "Prioritäten setzen mit der ABC-Analyse",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Zeitmanagement",
+  "datei": "prioritaeten-setzen-mit-der-abc-analyse.html",
+  "qr_ziel": "prioritaeten-setzen-mit-der-abc-analyse.html",
+  "aufgabe": "Suche Informationen darüber, wie die ABC-Analyse funktioniert und wie sie zur Priorisierung von Aufgaben genutzt werden kann. Erstelle eine kurze Zusammenfassung oder ein Diagramm der Methode.",
+  "ziel": "Lerne, wie du Aufgaben nach ihrer Wichtigkeit sortieren kannst.",
+  "druckseite": 17
+ },
+ {
+  "titel": "Zeitdiebe identifizieren und eliminieren",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Zeitmanagement",
+  "datei": "zeitdiebe-identifizieren-und-eliminieren.html",
+  "qr_ziel": "zeitdiebe-identifizieren-und-eliminieren.html",
+  "aufgabe": "Recherchiere, welche typischen Zeitdiebe es gibt (z.B. Social Media, zielloses Surfen) und wie man sie reduzieren kann. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Strategien.",
+  "ziel": "Verstehe, wie du deine Zeit optimal nutzen kannst, indem du Ablenkungen minimierst.",
+  "druckseite": 17
+ },
+ {
+  "titel": "Pausen sinnvoll einplanen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Zeitmanagement",
+  "datei": "pausen-sinnvoll-einplanen.html",
+  "qr_ziel": "pausen-sinnvoll-einplanen.html",
+  "aufgabe": "Finde heraus, warum regelmässige Pausen während der Arbeit wichtig sind und wie man sie sinnvoll einplant. Erstelle eine kurze Zusammenfassung oder eine Pausenplanungsvorlage.",
+  "ziel": "Lerne, wie gut geplante Pausen die Produktivität fördern können.",
+  "druckseite": 19
+ },
+ {
+  "titel": "Gehmeditation kennenlernen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Selbstreflexion und Achtsamkeit",
+  "datei": "gehmeditation-kennenlernen.html",
+  "qr_ziel": "gehmeditation-kennenlernen.html",
+  "aufgabe": "Recherchiere, wie eine Gehmeditation funktioniert und welche Vorteile sie für das Wohlbefinden bietet. Erstelle eine kurze Zusammenfassung oder eine einfache Schritt-für- Schritt-Anleitung.",
+  "ziel": "Erfahre, wie du durch Gehmeditation zur Ruhe kommst und deine Achtsamkeit förderst.",
+  "druckseite": 19
+ },
+ {
+  "titel": "Progressive Muskelentspannung",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Selbstreflexion und Achtsamkeit",
+  "datei": "progressive-muskelentspannung.html",
+  "qr_ziel": "progressive-muskelentspannung.html",
+  "aufgabe": "Finde heraus, wie die Progressive Muskelentspannung funktioniert und wie sie zur Stressbewältigung eingesetzt wird. Erstelle eine kurze Zusammenfassung oder eine einfache Anleitung zur Anwendung.",
+  "ziel": "Lerne, wie du durch gezielte Entspannungsübungen Stress abbauen kannst.",
+  "druckseite": 19
+ },
+ {
+  "titel": "Regelmässige Selbstreflexion praktizieren",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Selbstreflexion und Achtsamkeit",
+  "datei": "regelmaessige-selbstreflexion-praktizieren.html",
+  "qr_ziel": "regelmaessige-selbstreflexion-praktizieren.html",
+  "aufgabe": "Recherchiere, wie regelmässige Selbstreflexion dir helfen kann, deine Ziele und Fortschritte zu überprüfen. Erstelle eine kurze Zusammenfassung oder eine Liste von Reflexionsfragen.",
+  "ziel": "Verstehe, wie Selbstreflexion dir hilft, dich persönlich und beruflich weiterzuentwickeln.",
+  "druckseite": 19
+ },
+ {
+  "titel": "Tagebuchführung zur Selbstreflexion",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Selbstreflexion und Achtsamkeit",
+  "datei": "tagebuchfuehrung-zur-selbstreflexion.html",
+  "qr_ziel": "tagebuchfuehrung-zur-selbstreflexion.html",
+  "aufgabe": "Informiere dich darüber, wie das Führen eines Tagebuchs zur Selbstreflexion beitragen kann. Erstelle eine kurze Zusammenfassung oder eine Vorlage für ein Reflexionstagebuch.",
+  "ziel": "Erfahre, wie du durch das Schreiben deine Gedanken ordnen und reflektieren kannst.",
+  "druckseite": 21
+ },
+ {
+  "titel": "Stressoren identifizieren",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Selbstreflexion und Achtsamkeit",
+  "datei": "stressoren-identifizieren.html",
+  "qr_ziel": "stressoren-identifizieren.html",
+  "aufgabe": "Finde heraus, wie man Stressoren im Alltag identifiziert und welche Strategien es gibt, um sie zu reduzieren. Erstelle eine kurze Zusammenfassung oder ein Diagramm der besten Techniken.",
+  "ziel": "Lerne, wie du durch das Erkennen und Reduzieren von Stressoren dein Wohlbefinden steigerst.",
+  "druckseite": 21
+ },
+ {
+  "titel": "Achtsamkeit im Alltag integrieren",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Selbstreflexion und Achtsamkeit",
+  "datei": "achtsamkeit-im-alltag-integrieren.html",
+  "qr_ziel": "achtsamkeit-im-alltag-integrieren.html",
+  "aufgabe": "Recherchiere, wie du Achtsamkeitstechniken in deinen Alltag integrieren kannst, um bewusster zu leben. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Ansätze.",
+  "ziel": "Verstehe, wie du durch Achtsamkeit mehr Balance und Ruhe in dein Leben bringst.",
+  "druckseite": 21
+ },
+ {
+  "titel": "Pro- und Contra-Liste zur Entscheidungsfindung",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Entscheidungsfindung und Problemlösung",
+  "datei": "pro--und-contra-liste-zur-entscheidungsfindung.html",
+  "qr_ziel": "pro--und-contra-liste-zur-entscheidungsfindung.html",
+  "aufgabe": "Recherchiere, wie du eine Pro- und Contra-Liste zur Entscheidungsfindung effektiv nutzen kannst. Erstelle eine kurze Zusammenfassung oder ein Beispiel einer solchen Liste.",
+  "ziel": "Lerne, wie du durch strukturiertes Abwägen von Vor- und Nachteilen bessere Entscheidungen triffst.",
+  "druckseite": 21
+ },
+ {
+  "titel": "Entscheidungsbaum",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Entscheidungsfindung und Problemlösung",
+  "datei": "entscheidungsbaum-zur-loesung-komplexer-probleme.html",
+  "qr_ziel": "entscheidungsbaum-zur-loesung-komplexer-probleme.html",
+  "aufgabe": "Finde heraus, wie du einen Entscheidungsbaum zur Lösung komplexer Probleme erstellst. Erstelle eine kurze Zusammenfassung oder einen Entscheidungsbaum für ein eigenes Beispiel.",
+  "ziel": "Verstehe, wie du durch visuelle Entscheidungsbäume strukturierte und durchdachte Entscheidungen treffen kannst.",
+  "druckseite": 23
+ },
+ {
+  "titel": "Brainstorming-Techniken",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Entscheidungsfindung und Problemlösung",
+  "datei": "brainstorming-techniken-zur-kreativen-problemloesung.html",
+  "qr_ziel": "brainstorming-techniken-zur-kreativen-problemloesung.html",
+  "aufgabe": "Recherchiere, welche Brainstorming-Techniken es gibt und wie sie zur kreativen Problemlösung beitragen. Erstelle eine kurze Zusammenfassung oder eine Liste der effektivsten Techniken.",
+  "ziel": "Erfahre, wie du durch kreative Ideenfindung innovative Lösungen entwickeln kannst.",
+  "druckseite": 23
+ },
+ {
+  "titel": "SCAMPER-Methode zur Problemlösung",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Entscheidungsfindung und Problemlösung",
+  "datei": "scamper-methode-zur-problemloesung.html",
+  "qr_ziel": "scamper-methode-zur-problemloesung.html",
+  "aufgabe": "Suche Informationen darüber, wie die SCAMPER- Methode (Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse) funktioniert und wie sie zur Problemlösung eingesetzt wird. Erstelle eine kurze Zusammenfassung oder eine Übersicht der Methode.",
+  "ziel": "Lerne, wie du durch die SCAMPER- Methode kreative Ansätze zur Lösung von Problemen entwickelst.",
+  "druckseite": 23
+ },
+ {
+  "titel": "Risikomanagement bei Entscheidungen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Entscheidungsfindung und Problemlösung",
+  "datei": "risikomanagement-bei-entscheidungen.html",
+  "qr_ziel": "risikomanagement-bei-entscheidungen.html",
+  "aufgabe": "Recherchiere, wie man Risiken bei Entscheidungen identifiziert und bewertet. Erstelle eine kurze Zusammenfassung oder eine Checkliste für das Risikomanagement",
+  "ziel": "Verstehe, wie du durch bewusstes Risikomanagement fundierte Entscheidungen triffst.",
+  "druckseite": 23
+ },
+ {
+  "titel": "Plan B entwickeln für den Fall der Fälle",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Entscheidungsfindung und Problemlösung",
+  "datei": "plan-b-entwickeln-fuer-den-fall-der-faelle.html",
+  "qr_ziel": "plan-b-entwickeln-fuer-den-fall-der-faelle.html",
+  "aufgabe": "Finde heraus, wie du bei wichtigen Entscheidungen einen Plan B entwickeln kannst, um auf unvorhergesehene Ereignisse vorbereitet zu sein. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken.",
+  "ziel": "Lerne, wie du durch das Erstellen von Alternativplänen flexibel auf Veränderungen reagieren kannst.",
+  "druckseite": 25
+ },
+ {
+  "titel": "Gesunde Ernährung für Konzentration",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Gesundheit und Wohlbefinden",
+  "datei": "gesunde-ernaehrung-fuer-konzentration.html",
+  "qr_ziel": "gesunde-ernaehrung-fuer-konzentration.html",
+  "aufgabe": "Recherchiere, wie gesunde Ernährung die Konzentrations- und Leistungsfähigkeit beeinflusst. Erstelle eine kurze Zusammenfassung oder ein Plakat mit den besten Ernährungsstrategien für mentale Fitness.",
+  "ziel": "Verstehe, wie du durch gezielte Ernährung deine Konzentrationsfähigkeit steigern kannst.",
+  "druckseite": 25
+ },
+ {
+  "titel": "Schlafhygiene verbessern",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Gesundheit und Wohlbefinden",
+  "datei": "schlafhygiene-verbessern.html",
+  "qr_ziel": "schlafhygiene-verbessern.html",
+  "aufgabe": "Informiere dich darüber, wie du durch bessere Schlafhygiene die Qualität deines Schlafes und damit deine Leistungsfähigkeit verbessern kannst. Erstelle eine kurze Zusammenfassung oder eine Infografik mit den besten Techniken.",
+  "ziel": "Erfahre, wie du durch gute Schlafgewohnheiten erholsamer schläfst und dich fitter fühlst.",
+  "druckseite": 25
+ },
+ {
+  "titel": "Bewegung und Fitness für den Alltag",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Gesundheit und Wohlbefinden",
+  "datei": "bewegung-und-fitness-fuer-den-alltag.html",
+  "qr_ziel": "bewegung-und-fitness-fuer-den-alltag.html",
+  "aufgabe": "Finde heraus, wie regelmässige Bewegung und einfache Fitnessübungen als Ausgleich zum Lernen dienen können. Erstelle eine kurze Zusammenfassung oder ein Trainingsprogramm mit den effektivsten Übungen.",
+  "ziel": "Lerne, wie du durch Bewegung und Fitness deine körperliche und geistige Gesundheit erhältst.",
+  "druckseite": 25
+ },
+ {
+  "titel": "Auswirkung von Stress auf die Gesundheit",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Gesundheit und Wohlbefinden",
+  "datei": "auswirkung-von-stress-auf-die-gesundheit.html",
+  "qr_ziel": "auswirkung-von-stress-auf-die-gesundheit.html",
+  "aufgabe": "Recherchiere, wie Stress die körperliche und geistige Gesundheit beeinflusst. Erstelle eine kurze Zusammenfassung der wichtigsten Erkenntnisse oder ein Poster mit Strategien zur Stressbewältigung.",
+  "ziel": "Verstehe, wie du durch Stressmanagement deine Gesundheit und Leistungsfähigkeit erhältst.",
+  "druckseite": 27
+ },
+ {
+  "titel": "Entspannungstechniken für den Alltag",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Gesundheit und Wohlbefinden",
+  "datei": "entspannungstechniken-fuer-den-alltag.html",
+  "qr_ziel": "entspannungstechniken-fuer-den-alltag.html",
+  "aufgabe": "Suche Informationen über Entspannungstechniken, die dir im Alltag helfen können, zur Ruhe zu kommen. Erstelle eine kurze Zusammenfassung oder eine Schritt-für-Schritt- Anleitung zu den besten Methoden.",
+  "ziel": "Erfahre, wie du durch gezielte Entspannungstechniken Stress abbauen und Energie tanken kannst.",
+  "druckseite": 27
+ },
+ {
+  "titel": "Hydration und mentale Leistung",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Gesundheit und Wohlbefinden",
+  "datei": "hydration-und-mentale-leistung.html",
+  "qr_ziel": "hydration-und-mentale-leistung.html",
+  "aufgabe": "Finde heraus, wie Hydration (ausreichende Flüssigkeitszufuhr) die mentale Leistung beeinflusst. Erstelle eine kurze Zusammenfassung oder ein einfaches Poster mit den wichtigsten Tipps zur Hydration.",
+  "ziel": "Lerne, wie du durch ausreichendes Trinken deine Konzentration und geistige Leistungsfähigkeit steigerst.",
+  "druckseite": 27
+ },
+ {
+  "titel": "Gezielte Pausen einplanen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Work-Life-Balance",
+  "datei": "gezielte-pausen-einplanen.html",
+  "qr_ziel": "gezielte-pausen-einplanen.html",
+  "aufgabe": "Recherchiere, wie du gezielte Pausen in deinen Arbeitsalltag einplanen kannst, um deine Erholung zu fördern. Erstelle eine kurze Zusammenfassung oder eine Pausenplanungsvorlage.",
+  "ziel": "Lerne, wie du durch regelmässige Pausen deine Produktivität und Erholung optimierst.",
+  "druckseite": 27
+ },
+ {
+  "titel": "Kurzentspannungsübungen für den Alltag",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Work-Life-Balance",
+  "datei": "kurzentspannungsuebungen-fuer-den-alltag.html",
+  "qr_ziel": "kurzentspannungsuebungen-fuer-den-alltag.html",
+  "aufgabe": "Finde heraus, welche einfachen Entspannungsübungen du schnell im Alltag umsetzen kannst. Erstelle eine kurze Zusammenfassung oder eine Infografik der Übungen und ihrer Vorteile.",
+  "ziel": "Erfahre, wie du durch Kurzentspannungstechniken deinen Stress im Alltag reduzierst.",
+  "druckseite": 29
+ },
+ {
+  "titel": "Freizeitaktivitäten zur Erholung",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Work-Life-Balance",
+  "datei": "freizeitaktivitaeten-zur-erholung.html",
+  "qr_ziel": "freizeitaktivitaeten-zur-erholung.html",
+  "aufgabe": "Recherchiere, welche Freizeitaktivitäten besonders zur Erholung und Entspannung beitragen. Erstelle eine kurze Zusammenfassung oder eine Liste der effektivsten Erholungsaktivitäten.",
+  "ziel": "Lerne, wie du durch gezielte Freizeitgestaltung deine Work-Life-Balance verbesserst.",
+  "druckseite": 29
+ },
+ {
+  "titel": "Kreative Auszeiten planen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Work-Life-Balance",
+  "datei": "kreative-auszeiten-planen.html",
+  "qr_ziel": "kreative-auszeiten-planen.html",
+  "aufgabe": "Informiere dich darüber, wie kreative Auszeiten (z.B. Malen, Musik) zur mentalen Erholung beitragen können. Erstelle eine kurze Zusammenfassung oder ein Plakat mit den besten kreativen Aktivitäten.",
+  "ziel": "Verstehe, wie kreative Tätigkeiten dein Wohlbefinden und deine Erholung fördern.",
+  "druckseite": 29
+ },
+ {
+  "titel": "Arbeitszeiten festlegen und einhalten",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Work-Life-Balance",
+  "datei": "arbeitszeiten-festlegen-und-einhalten.html",
+  "qr_ziel": "arbeitszeiten-festlegen-und-einhalten.html",
+  "aufgabe": "Finde heraus, wie du feste Arbeitszeiten einrichtest und einhältst, um eine klare Trennung von Arbeit und Freizeit zu erreichen. Erstelle eine kurze Zusammenfassung oder eine Vorlage für deine eigenen Arbeitszeiten.",
+  "ziel": "Erfahre, wie klare Arbeitszeiten dir helfen, Beruf und Freizeit besser zu trennen.",
+  "druckseite": 29
+ },
+ {
+  "titel": "Selbstbewusst auftreten",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Sich durchsetzen",
+  "datei": "selbstbewusst-auftreten.html",
+  "qr_ziel": "selbstbewusst-auftreten.html",
+  "aufgabe": "Informiere dich darüber, wie du in Gesprächen oder Diskussionen deinen Standpunkt klar und respektvoll vertreten kannst. Notiere die besten Techniken, die dir helfen, selbstsicher aufzutreten, ohne dabei unfreundlich zu wirken. Gestalte eine einfache Mindmap, die diese Strategien visualisiert.",
+  "ziel": "Lerne, wie du dich in unterschiedlichen Situationen selbstbewusst und respektvoll durchsetzen kannst.",
+  "druckseite": 31
+ },
+ {
+  "titel": "Dranbleiben, auch wenn es schwierig wird",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Ziele allein weiterverfolgen",
+  "datei": "dranbleiben-auch-wenn-es-schwierig-wird.html",
+  "qr_ziel": "dranbleiben-auch-wenn-es-schwierig-wird.html",
+  "aufgabe": "Informiere dich darüber, wie du es schaffst, an deinen Zielen festzuhalten, auch wenn du auf dich allein gestellt bist. Finde heraus, wie du dich selbst motivieren kannst, auch in schwierigen Zeiten weiterzumachen. Erstelle eine Liste mit Strategien, die dir helfen, dein Durchhaltevermögen zu stärken.",
+  "ziel": "Lerne, wie du deine Ziele erfolgreich alleine weiterverfolgst und dich selbst motivierst.",
+  "druckseite": 31
+ },
+ {
+  "titel": "Deine Kräfte und Zeit clever nutzen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Umgang mit eigenen Ressourcen",
+  "datei": "deine-kraefte-und-zeit-clever-nutzen.html",
+  "qr_ziel": "deine-kraefte-und-zeit-clever-nutzen.html",
+  "aufgabe": "Erkunde, wie du deine Energie und Zeit besser einteilen kannst, um den ganzen Tag über produktiv zu bleiben. Lerne Techniken kennen, die dir helfen, deine Aufgaben sinnvoll zu planen und dabei auch Pausen einzuplanen. Erstelle einen Tagesplan oder eine Liste mit den besten Tipps, um deine Ressourcen effizient zu nutzen.",
+  "ziel": "Verstehe, wie du deine Energie und Zeit so einteilst, dass du Aufgaben schaffst, ohne dich zu überlasten.",
+  "druckseite": 31
+ },
+ {
+  "titel": "Gefühle in Worte fassen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Innere Erleben reflektieren",
+  "datei": "gefuehle-in-worte-fassen.html",
+  "qr_ziel": "gefuehle-in-worte-fassen.html",
+  "aufgabe": "Lerne, wie du deine Gedanken und Gefühle besser verstehst und ausdrückst. Erfahre, warum es wichtig ist, über deine inneren Erlebnisse zu sprechen und wie du diese klarer formulieren kannst. Erstelle eine kurze Liste mit Tipps, die dir helfen, deine Emotionen besser zu verbalisieren.",
+  "ziel": "Lerne, wie du deine Gefühle und Gedanken klarer ausdrückst und mit anderen teilst.",
+  "druckseite": 31
+ },
+ {
+  "titel": "Deine Emotionen zeigen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Gefühle zum Ausdruck bringen",
+  "datei": "deine-emotionen-zeigen.html",
+  "qr_ziel": "deine-emotionen-zeigen.html",
+  "aufgabe": "Finde heraus, wie du deine Gefühle offen und ehrlich zeigen kannst, ohne dich dabei unwohl zu fühlen. Erfahre, welche Wege es gibt, um Emotionen sicher und angemessen auszudrücken. Erstelle eine Liste mit den besten Tipps, die dir dabei helfen, deine Gefühle auf gesunde Weise zu zeigen.",
+  "ziel": "Lerne, wie du deine Emotionen sicher und offen ausdrücken kannst.",
+  "druckseite": 33
+ },
+ {
+  "titel": "Emotionen im Griff haben",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Gefühle kontrollieren können",
+  "datei": "emotionen-im-griff-haben.html",
+  "qr_ziel": "emotionen-im-griff-haben.html",
+  "aufgabe": "Informiere dich darüber, wie du deine Gefühle besonders in stressigen Situationen besser kontrollieren kannst. Erfahre, welche Techniken dir helfen können, ruhig zu bleiben und deine Emotionen zu steuern. Erstelle eine Liste mit diesen Techniken, die dir im Alltag helfen.",
+  "ziel": "Verstehe, wie du deine Emotionen besser kontrollierst, um in schwierigen Momenten gelassen zu bleiben.",
+  "druckseite": 33
+ },
+ {
+  "titel": "Wie andere dich sehen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Wirkung des eigenen Verhaltens",
+  "datei": "wie-andere-dich-sehen.html",
+  "qr_ziel": "wie-andere-dich-sehen.html",
+  "aufgabe": "Überlege, wie deine Stimme, Sprache, Körperhaltung und Mimik auf andere wirken können. Lerne, worauf du achten musst, um bewusst zu steuern, wie du auf andere wirkst. Erstelle eine kurze Übersicht, die dir zeigt, wie du dein Verhalten anpassen kannst, um deine Wirkung zu verbessern.",
+  "ziel": "Verstehe, wie dein Verhalten von anderen wahrgenommen wird und wie du diese Wahrnehmung beeinflussen kannst.",
+  "druckseite": 33
+ },
+ {
+  "titel": "Neue Ideen willkommen heissen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Neue oder ungewohnte Ideen",
+  "datei": "neue-ideen-willkommen-heissen.html",
+  "qr_ziel": "neue-ideen-willkommen-heissen.html",
+  "aufgabe": "Lerne, warum es wichtig ist, offen für neue oder ungewohnte Ideen zu sein und wie du deine Neugierde und Kreativität fördern kannst. Erfahre, welche Strategien dir helfen, neue Perspektiven zuzulassen und ungewohnte Ideen auszuprobieren. Erstelle eine Liste mit Tipps, die dir helfen, offen für Neues zu bleiben.",
+  "ziel": "Lerne, wie du dich für neue Perspektiven und Ideen öffnest und neugierig bleibst.",
+  "druckseite": 33
+ },
+ {
+  "titel": "Mutig Neues ausprobieren",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Mut für Ungewohntes haben",
+  "datei": "mutig-neues-ausprobieren.html",
+  "qr_ziel": "mutig-neues-ausprobieren.html",
+  "aufgabe": "Erfahre, wie du dir mehr Mut aneignen kannst, um Ungewohntes und Unbekanntes auszuprobieren. Lerne, welche Schritte dir helfen, über deine Komfortzone hinauszugehen und neue Herausforderungen anzunehmen. Erstelle eine Liste mit Tipps, die dir helfen, mutiger im Umgang mit neuen Situationen zu werden.",
+  "ziel": "Verstehe, wie du mutiger wirst und dich traust, Neues auszuprobieren.",
+  "druckseite": 35
+ },
+ {
+  "titel": "Deine Stärken kennen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Eigenen Kompetenzen und Ressourcen",
+  "datei": "deine-staerken-kennen.html",
+  "qr_ziel": "deine-staerken-kennen.html",
+  "aufgabe": "Informiere dich darüber, wie du deine eigenen Stärken und Fähigkeiten besser kennenlernen und nutzen kannst. Lerne, wie du bewusst mit deinen Ressourcen umgehst und sie gezielt einsetzt. Erstelle eine Liste oder ein Diagramm, das zeigt, wie du deine Kompetenzen optimal nutzt.",
+  "ziel": "Lerne, wie du deine Fähigkeiten und Ressourcen bewusst und effektiv einsetzt.",
+  "druckseite": 35
+ },
+ {
+  "titel": "Echt sein",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Authentizität",
+  "datei": "echt-sein.html",
+  "qr_ziel": "echt-sein.html",
+  "aufgabe": "Erfahre, warum es wichtig ist, authentisch zu sein – also so zu handeln und zu sprechen, wie du wirklich bist. Lerne, wie du ehrlich und echt bleibst, auch wenn es schwerfällt. Erstelle eine Liste mit Tipps, die dir helfen, authentischer im Alltag zu bleiben.",
+  "ziel": "Lerne, wie du echt bleibst und eine Übereinstimmung zwischen deinem verbalen und nonverbalen Ausdruck erreichst.",
+  "druckseite": 35
+ },
+ {
+  "titel": "Was ist wirklich wichtig?",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Prioritäten setzen/erkennen",
+  "datei": "was-ist-wirklich-wichtig.html",
+  "qr_ziel": "was-ist-wirklich-wichtig.html",
+  "aufgabe": "Recherchiere, wie du lernst, Prioritäten zu setzen, um deine Aufgaben besser zu organisieren. Lerne, wie du erkennst, was wirklich wichtig ist, und wie du deine Energie auf diese Dinge fokussierst. Erstelle eine kurze Liste oder ein Diagramm, das dir hilft, das Wichtige vom Unwichtigen zu unterscheiden.",
+  "ziel": "Lerne, wie du Prioritäten setzt und deine Energie auf das Wesentliche konzentrierst.",
+  "druckseite": 35
+ },
+ {
+  "titel": "Unterschiedliche Meinungen aushalten",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Meinungsverschiedenheit akzeptieren",
+  "datei": "unterschiedliche-meinungen-aushalten.html",
+  "qr_ziel": "unterschiedliche-meinungen-aushalten.html",
+  "aufgabe": "Überlege, wie du lernst, mit unterschiedlichen Meinungen umzugehen, ohne vorschnell zu urteilen. Lerne, welche Schritte dir helfen, offen für andere Sichtweisen zu bleiben und respektvoll mit Meinungsverschiedenheiten umzugehen. Erstelle eine Liste mit diesen Schritten.",
+  "ziel": "Lerne, wie du respektvoll mit unterschiedlichen Meinungen umgehst und andere Sichtweisen akzeptierst.",
+  "druckseite": 37
+ },
+ {
+  "titel": "Deine Meinung sagen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Anliegen und Bedürfnisse anmelden",
+  "datei": "deine-meinung-sagen.html",
+  "qr_ziel": "deine-meinung-sagen.html",
+  "aufgabe": "Überlege, wie du deine Bedürfnisse und Anliegen direkt und klar äussern kannst, ohne lange zu zögern. Lerne Techniken, die dir helfen, mutiger und direkter zu kommunizieren. Erstelle eine Liste mit Tipps, die dir helfen, deine Anliegen klar und respektvoll vorzutragen.",
+  "ziel": "Verstehe, wie du deine Anliegen klar und direkt vorbringst.",
+  "druckseite": 37
+ },
+ {
+  "titel": "Zu deiner Meinung stehen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Den eigenen Standpunkt finden",
+  "datei": "zu-deiner-meinung-stehen.html",
+  "qr_ziel": "zu-deiner-meinung-stehen.html",
+  "aufgabe": "Lerne, wie du deinen eigenen Standpunkt in Diskussionen klar und selbstbewusst vertrittst. Recherchiere, wie du deine Meinung findest und sie überzeugend kommunizierst. Erstelle eine Liste mit Techniken, die dir helfen, deinen Standpunkt zu formulieren und zu verteidigen.",
+  "ziel": "Lerne, wie du deinen eigenen Standpunkt findest und selbstbewusst vertrittst.",
+  "druckseite": 37
+ },
+ {
+  "titel": "Körpersprache verstehen",
+  "familie": "Selbstkompetenz",
+  "kategorie": "Körpersignale bewusst beachten",
+  "datei": "koerpersprache-verstehen.html",
+  "qr_ziel": "koerpersprache-verstehen.html",
+  "aufgabe": "Erfahre, wie du die Körpersprache bei dir selbst und anderen besser wahrnimmst und verstehst. Lerne, welche Körpersignale besonders wichtig sind und wie du sie richtig deutest. Erstelle eine Liste mit den wichtigsten Körpersignalen und deren Bedeutung.",
+  "ziel": "Verstehe, wie du Körpersprache bewusst wahrnimmst und nutzt.",
+  "druckseite": 37
+ },
+ {
+  "titel": "Lampenfieber reduzieren",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Kommunikation und Präsentation",
+  "datei": "lampenfieber-reduzieren.html",
+  "qr_ziel": "lampenfieber-reduzieren.html",
+  "aufgabe": "Recherchiere, welche Methoden es gibt, um Lampenfieber vor einem Auftritt zu reduzieren (z.B. Atemtechniken, Visualisierung). Erstelle eine kurze Zusammenfassung oder ein kleines Handout mit den effektivsten Methoden.",
+  "ziel": "Verstehe, wie du durch gezielte Techniken deine Nervosität vor Präsentationen minimierst.",
+  "druckseite": 39
+ },
+ {
+  "titel": "Sprech- und Atemtechniken",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Kommunikation und Präsentation",
+  "datei": "sprech--und-atemtechniken.html",
+  "qr_ziel": "sprech--und-atemtechniken.html",
+  "aufgabe": "Informiere dich, welche Sprech- und Atemtechniken dir helfen können, vor Publikum klar und überzeugend zu sprechen. Erstelle eine kurze Zusammenfassung oder ein Plakat mit den wichtigsten Techniken.",
+  "ziel": "Lerne, wie du durch richtige Atem- und Sprechtechniken deine Stimme optimal einsetzt.",
+  "druckseite": 39
+ },
+ {
+  "titel": "Aktives Zuhören praktizieren",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Kommunikation und Präsentation",
+  "datei": "aktives-zuhoeren-praktizieren.html",
+  "qr_ziel": "aktives-zuhoeren-praktizieren.html",
+  "aufgabe": "Recherchiere, was aktives Zuhören ausmacht und wie es in der Kommunikation angewendet wird. Erstelle eine kurze Zusammenfassung oder eine Übersicht der wichtigsten Techniken.",
+  "ziel": "Erfahre, wie aktives Zuhören die Kommunikation und das Verständnis in Gesprächen verbessert.",
+  "druckseite": 39
+ },
+ {
+  "titel": "Gewaltfreie Kommunikation anwenden",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Kommunikation und Präsentation",
+  "datei": "gewaltfreie-kommunikation-anwenden.html",
+  "qr_ziel": "gewaltfreie-kommunikation-anwenden.html",
+  "aufgabe": "Finde heraus, wie die Methode der gewaltfreien Kommunikation funktioniert und wie sie zu konstruktiven Gesprächen beiträgt. Erstelle eine kurze Zusammenfassung oder eine Infografik zur Methode.",
+  "ziel": "Lerne, wie du durch gewaltfreie Kommunikation Konflikte vermeiden und konstruktive Dialoge führen kannst.",
+  "druckseite": 39
+ },
+ {
+  "titel": "Inhalte verständlich strukturieren",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Kommunikation und Präsentation",
+  "datei": "inhalte-verstaendlich-strukturieren.html",
+  "qr_ziel": "inhalte-verstaendlich-strukturieren.html",
+  "aufgabe": "Recherchiere, wie man Inhalte für eine Präsentation oder ein Gespräch verständlich strukturiert. Erstelle eine kurze Zusammenfassung oder ein Diagramm der besten Strukturierungstechniken.",
+  "ziel": "Verstehe, wie eine klare Struktur dir hilft, Informationen effektiv zu vermitteln.",
+  "druckseite": 41
+ },
+ {
+  "titel": "Visuelle Hilfsmittel nutzen",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Kommunikation und Präsentation",
+  "datei": "visuelle-hilfsmittel-nutzen.html",
+  "qr_ziel": "visuelle-hilfsmittel-nutzen.html",
+  "aufgabe": "Informiere dich darüber, welche visuellen Hilfsmittel (z.B. PowerPoint, Flipcharts) du für Präsentationen einsetzen kannst und wie sie effektiv genutzt werden. Erstelle eine kurze Zusammenfassung oder eine Liste mit Tipps.",
+  "ziel": "Lerne, wie du durch den Einsatz visueller Hilfsmittel deine Präsentationen anschaulicher gestaltest.",
+  "druckseite": 41
+ },
+ {
+  "titel": "Rollenverteilung im Team",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "rollenverteilung-im-team.html",
+  "qr_ziel": "rollenverteilung-im-team.html",
+  "aufgabe": "Recherchiere, wie eine effektive Rollenverteilung im Team zur besseren Zusammenarbeit beiträgt. Erstelle eine kurze Zusammenfassung oder ein Diagramm der wichtigsten Prinzipien.",
+  "ziel": "Verstehe, wie klare Rollenverteilungen die Teamarbeit verbessern.",
+  "druckseite": 41
+ },
+ {
+  "titel": "Konfliktmanagement im Team",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "konfliktmanagement-im-team.html",
+  "qr_ziel": "konfliktmanagement-im-team.html",
+  "aufgabe": "Finde heraus, welche Methoden es gibt, um Konflikte im Team zu lösen. Erstelle eine kurze Zusammenfassung oder eine Übersicht der besten Techniken für Konfliktmanagement.",
+  "ziel": "Lerne, wie du durch Konfliktlösung die Harmonie und Produktivität im Team förderst.",
+  "druckseite": 41
+ },
+ {
+  "titel": "Perspektivübernahme üben",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "perspektivuebernahme-ueben.html",
+  "qr_ziel": "perspektivuebernahme-ueben.html",
+  "aufgabe": "Recherchiere, wie Perspektivübernahme die Empathie und das Verständnis in der Kommunikation stärkt. Erstelle eine kurze Zusammenfassung oder eine Liste der Vorteile dieser Technik.",
+  "ziel": "Erfahre, wie du durch Perspektivübernahme die Kommunikation und Zusammenarbeit verbessern kannst.",
+  "druckseite": 43
+ },
+ {
+  "titel": "Emotionale Intelligenz fördern",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "emotionale-intelligenz-foerdern.html",
+  "qr_ziel": "emotionale-intelligenz-foerdern.html",
+  "aufgabe": "Informiere dich darüber, was emotionale Intelligenz ist und wie sie in sozialen Situationen angewendet wird. Erstelle eine kurze Zusammenfassung oder eine Infografik der wichtigsten Aspekte.",
+  "ziel": "Lerne, wie du durch emotionale Intelligenz erfolgreicher in sozialen Interaktionen wirst.",
+  "druckseite": 43
+ },
+ {
+  "titel": "Konstruktives Feedback geben",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "konstruktives-feedback-geben.html",
+  "qr_ziel": "konstruktives-feedback-geben.html",
+  "aufgabe": "Recherchiere, wie man konstruktives Feedback gibt und wie es zur Verbesserung der Leistung und Zusammenarbeit beitragen kann. Erstelle eine kurze Zusammenfassung oder eine Checkliste für Feedback",
+  "ziel": "Verstehe, wie du durch konstruktives Feedback die Entwicklung anderer unterstützen kannst.",
+  "druckseite": 43
+ },
+ {
+  "titel": "Feedback empfangen und nutzen",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "feedback-empfangen-und-nutzen.html",
+  "qr_ziel": "feedback-empfangen-und-nutzen.html",
+  "aufgabe": "Finde heraus, wie man Feedback effektiv empfangen und in persönliche Verbesserungen umsetzen kann. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken.",
+  "ziel": "Erfahre, wie du durch das Annehmen von Feedback persönlich und beruflich wachsen kannst.",
+  "druckseite": 43
+ },
+ {
+  "titel": "Gefühle anderer wahrnehmen",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "gefuehle-anderer-wahrnehmen.html",
+  "qr_ziel": "gefuehle-anderer-wahrnehmen.html",
+  "aufgabe": "Informiere dich darüber, wie du besser erkennst, was andere Menschen fühlen, und wie du ihre Emotionen richtig einordnest. Lerne Techniken, die dir helfen, die Gefühle anderer besser wahrzunehmen und zu verstehen. Erstelle eine Liste mit Tipps, die dir dabei helfen, deine Empathie zu stärken.",
+  "ziel": "Verstehe, wie du deine Empathie entwickelst und die Gefühle anderer besser einordnest.",
+  "druckseite": 45
+ },
+ {
+  "titel": "Was bewegt andere?",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "was-bewegt-andere.html",
+  "qr_ziel": "was-bewegt-andere.html",
+  "aufgabe": "Recherchiere, warum es wichtig ist, sich für die Beweggründe und Motive anderer Menschen zu interessieren. Lerne, wie du dieses Interesse ehrlich und respektvoll zeigen kannst, um bessere Beziehungen aufzubauen. Erstelle eine Liste mit Tipps, wie du deine Aufmerksamkeit für die Motive anderer Menschen steigern kannst.",
+  "ziel": "Verstehe, wie du dein Interesse an den Motiven anderer Menschen stärkst.",
+  "druckseite": 45
+ },
+ {
+  "titel": "Nähe und Distanz regulieren",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "naehe-und-distanz-regulieren.html",
+  "qr_ziel": "naehe-und-distanz-regulieren.html",
+  "aufgabe": "Lerne, wie du die richtige Balance zwischen Nähe und Distanz in Beziehungen findest. Lerne Techniken, die dir helfen, diese Balance bewusst zu steuern und dabei sowohl deine eigenen als auch die Bedürfnisse anderer zu berücksichtigen. Erstelle eine Liste mit Tipps, die dir helfen, Nähe und Distanz gut zu regulieren.",
+  "ziel": "Verstehe, wie du in Beziehungen Nähe und Distanz gut regulierst.",
+  "druckseite": 45
+ },
+ {
+  "titel": "Miteinander fühlen",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "miteinander-fuehlen.html",
+  "qr_ziel": "miteinander-fuehlen.html",
+  "aufgabe": "Erfahre, wie du besser mit anderen Menschen in Kontakt trittst und ihnen emotionale Resonanz gibst. Lerne, wie du deine eigene Empathie und Einfühlungsvermögen steigerst, um tiefere Verbindungen aufzubauen. Erstelle eine Liste mit Tipps, die dir helfen, echte emotionale Resonanz zu geben.",
+  "ziel": "Lerne, wie du bessere Verbindungen zu anderen Menschen aufbaust, indem du emotional in Kontakt trittst und Resonanz zeigst.",
+  "druckseite": 45
+ },
+ {
+  "titel": "Beziehungen aktiv gestalten",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "beziehungen-aktiv-gestalten.html",
+  "qr_ziel": "beziehungen-aktiv-gestalten.html",
+  "aufgabe": "Erfahre, warum es wichtig ist, sich offen und bereitwillig auf Beziehungen einzulassen. Lerne, wie du aktiv daran arbeitest, eine Beziehung zu pflegen und zu gestalten. Erstelle eine Liste mit Tipps, die dir helfen, Beziehungen bewusst und aktiv zu gestalten.",
+  "ziel": "Verstehe, wie du offen auf andere zugehst und Beziehungen aktiv pflegst.",
+  "druckseite": 47
+ },
+ {
+  "titel": "Wertschätzung zeigen",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "wertschaetzung-zeigen.html",
+  "qr_ziel": "wertschaetzung-zeigen.html",
+  "aufgabe": "Recherchiere, wie du eine wertschätzende und nicht wertende Haltung gegenüber anderen Menschen einnimmst. Lerne, wie du respektvoll mit den Meinungen und Grenzen anderer umgehst. Erstelle eine Liste mit Tipps, die dir helfen, Respekt und Wertschätzung in deinen Beziehungen zu zeigen.",
+  "ziel": "Lerne, wie du respektvoll und wertschätzend mit anderen umgehst.",
+  "druckseite": 47
+ },
+ {
+  "titel": "Grenzen respektieren",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "grenzen-respektieren.html",
+  "qr_ziel": "grenzen-respektieren.html",
+  "aufgabe": "Lerne, wie du mit den eigenen und fremden Einschränkungen flexibel und akzeptierend umgehst. Lerne, wie du die Grenzen anderer respektierst und deinen eigenen Raum schützt. Erstelle eine Liste mit Tipps, die dir helfen, Flexibilität und Akzeptanz in Beziehungen zu fördern.",
+  "ziel": "Lerne, wie du Grenzen respektierst und flexibel auf Herausforderungen reagierst.",
+  "druckseite": 47
+ },
+ {
+  "titel": "Unterstützung annehmen und geben",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "unterstuetzung-annehmen-und-geben.html",
+  "qr_ziel": "unterstuetzung-annehmen-und-geben.html",
+  "aufgabe": "Informiere dich darüber, wie du bewusst mit Hilfestellungen umgehst, sowohl wenn du sie annimmst als auch wenn du sie anbietest. Lerne, wie du Unterstützung reflektiert einsetzt und dabei die Bedürfnisse aller Beteiligten berücksichtigst. Erstelle eine Liste mit Tipps, die dir helfen, reflektiert und respektvoll mit Hilfestellungen umzugehen.",
+  "ziel": "Verstehe, wie du Unterstützung bewusst annehmen und geben kannst.",
+  "druckseite": 47
+ },
+ {
+  "titel": "Konflikte ansprechen",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "konflikte-ansprechen.html",
+  "qr_ziel": "konflikte-ansprechen.html",
+  "aufgabe": "Informiere dich darüber, wie du Spannungen frühzeitig erkennst und sie gezielt ansprichst. Lerne, wie du Konflikte auf eine konstruktive Weise angehst, bevor sie eskalieren. Erstelle eine Liste mit Tipps, die dir helfen, Spannungen im Team oder in Beziehungen anzusprechen.",
+  "ziel": "Lerne, wie du Spannungen frühzeitig erkennst und konstruktiv löst",
+  "druckseite": 49
+ },
+ {
+  "titel": "Nein sagen",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "nein-sagen.html",
+  "qr_ziel": "nein-sagen.html",
+  "aufgabe": "Recherchiere, wie du selbstbewusst und freundlich «Nein» sagen kannst, wenn es nötig ist. Lerne, wie du deine eigenen Grenzen verteidigst, ohne dabei unhöflich zu wirken. Erstelle eine Liste mit Tipps, die dir helfen, leichter Nein zu sagen.",
+  "ziel": "Lerne, wie du Grenzen setzt und klar «Nein» sagst, wenn es nötig ist.",
+  "druckseite": 49
+ },
+ {
+  "titel": "Gemeinsam entscheiden",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "gemeinsam-entscheiden.html",
+  "qr_ziel": "gemeinsam-entscheiden.html",
+  "aufgabe": "Suche im Internet Informationen, wie du offen für Kompromisslösungen und Konsensfindung in Gruppenprozessen bleibst. Lerne, wie du Entscheidungen respektierst, auch wenn sie nicht deinem Wunsch entsprechen. Erstelle eine Liste mit Tipps, die dir helfen, Konsens und Kompromisse zu finden und akzeptieren.",
+  "ziel": "Lerne, wie du offen für Kompromisse bist und gemeinsame Entscheidungen akzeptierst.",
+  "druckseite": 49
+ },
+ {
+  "titel": "Zu deinem Wort stehen",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "zu-deinem-wort-stehen.html",
+  "qr_ziel": "zu-deinem-wort-stehen.html",
+  "aufgabe": "Lerne, wie wichtig es ist, sich an getroffene Vereinbarungen zu halten und Verbindlichkeit in der Zusammenarbeit zu zeigen. Lerne, wie du zuverlässig und vertrauenswürdig bleibst, indem du deine Zusagen einhältst. Erstelle eine Liste mit Tipps, die dir helfen, verbindlich zu handeln.",
+  "ziel": "Verstehe, wie du verbindlich handelst und dich an Vereinbarungen hältst.",
+  "druckseite": 51
+ },
+ {
+  "titel": "Schwächen zeigen",
+  "familie": "Sozialkompetenz",
+  "kategorie": "Soziale Kompetenz",
+  "datei": "schwaechen-zeigen.html",
+  "qr_ziel": "schwaechen-zeigen.html",
+  "aufgabe": "Erfahre, wie du Schwächen oder Fehler eingestehen kannst, ohne dass es dein Selbstbewusstsein mindert. Lerne, wie du aus Fehlern lernst und sie als Teil deines Wachstums akzeptierst. Erstelle eine Liste mit Tipps, die dir helfen, deine Fehler zuzugeben und daran zu arbeiten.",
+  "ziel": "Lerne, wie du offen mit deinen Schwächen und Fehlern umgehst und daraus lernst.",
+  "druckseite": 51
+ },
+ {
+  "titel": "Feynman-Methode",
+  "familie": "Fachkompetenz",
+  "kategorie": "Lerntechniken",
+  "datei": "feynman-methode-kennenlernen.html",
+  "qr_ziel": "feynman-methode-kennenlernen.html",
+  "aufgabe": "Recherchiere, wie die Feynman-Methode funktioniert und warum sie als effektive Lerntechnik gilt. Erstelle eine kurze Zusammenfassung oder ein einfaches Diagramm zur Methode.",
+  "ziel": "Verstehe, wie du durch das Erklären von Themen dein eigenes Verständnis vertiefen kannst.",
+  "druckseite": 53
+ },
+ {
+  "titel": "SQ3R-Methode für effektives Lesen",
+  "familie": "Fachkompetenz",
+  "kategorie": "Lerntechniken",
+  "datei": "sq3r-methode-fuer-effektives-lesen.html",
+  "qr_ziel": "sq3r-methode-fuer-effektives-lesen.html",
+  "aufgabe": "Finde heraus, wie die SQ3R-Methode (Survey, Question, Read, Recite, Review) funktioniert und wie sie das Lesen und Verstehen von Texten erleichtern kann. Erstelle eine kurze Zusammenfassung oder eine Schritt-für-Schritt- Anleitung.",
+  "ziel": "Lerne, wie du durch systematisches Lesen Informationen besser aufnehmen kannst.",
+  "druckseite": 53
+ },
+ {
+  "titel": "Loci-Methode als Gedächtnistechnik",
+  "familie": "Fachkompetenz",
+  "kategorie": "Lerntechniken",
+  "datei": "loci-methode-als-gedaechtnistechnik.html",
+  "qr_ziel": "loci-methode-als-gedaechtnistechnik.html",
+  "aufgabe": "Recherchiere, wie die Loci-Methode funktioniert und wie sie zur Verbesserung des Gedächtnisses verwendet wird. Erstelle eine kurze Zusammenfassung oder eine visuelle Darstellung der Methode.",
+  "ziel": "Verstehe, wie du durch visuelle Assoziationen Informationen besser behalten kannst.",
+  "druckseite": 53
+ },
+ {
+  "titel": "Chunking zur Informationsverarbeitung",
+  "familie": "Fachkompetenz",
+  "kategorie": "Lerntechniken",
+  "datei": "chunking-zur-informationsverarbeitung.html",
+  "qr_ziel": "chunking-zur-informationsverarbeitung.html",
+  "aufgabe": "Informiere dich darüber, wie das Chunking (Aufteilen von Informationen in kleinere Einheiten) funktioniert und wie es das Lernen erleichtern kann. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Tipps.",
+  "ziel": "Erfahre, wie du durch das Aufteilen von Informationen dein Gedächtnis entlasten kannst.",
+  "druckseite": 53
+ },
+ {
+  "titel": "Cornell-Methode für Notizen",
+  "familie": "Fachkompetenz",
+  "kategorie": "Lerntechniken",
+  "datei": "cornell-methode-fuer-notizen.html",
+  "qr_ziel": "cornell-methode-fuer-notizen.html",
+  "aufgabe": "Recherchiere, wie die Cornell-Methode für die Erstellung von Notizen funktioniert und welche Vorteile sie bietet. Erstelle eine kurze Zusammenfassung oder eine Vorlage für diese Methode.",
+  "ziel": "Lerne, wie du effektiv Notizen machst, um den Lernstoff besser zu strukturieren.",
+  "druckseite": 55
+ },
+ {
+  "titel": "Mind-Mapping zur Visualisierung",
+  "familie": "Fachkompetenz",
+  "kategorie": "Lerntechniken",
+  "datei": "mind-mapping-zur-visualisierung-von-ideen.html",
+  "qr_ziel": "mind-mapping-zur-visualisierung-von-ideen.html",
+  "aufgabe": "Finde heraus, wie Mind-Mapping als Technik zur Visualisierung von Ideen funktioniert. Erstelle eine kurze Zusammenfassung oder ein Mind-Map-Beispiel zur Veranschaulichung.",
+  "ziel": "Verstehe, wie du durch Mind-Mapping komplexe Informationen übersichtlich darstellen kannst.",
+  "druckseite": 55
+ },
+ {
+  "titel": "Lernstoff gliedern",
+  "familie": "Fachkompetenz",
+  "kategorie": "Prüfungen bestehen",
+  "datei": "lernstoff-gliedern.html",
+  "qr_ziel": "lernstoff-gliedern.html",
+  "aufgabe": "Recherchiere, wie man den Lernstoff für eine Prüfung effektiv gliedern kann, um besser vorbereitet zu sein. Erstelle eine kurze Zusammenfassung oder eine Gliederungsvorlage für deine Prüfungen.",
+  "ziel": "Lerne, wie du durch strukturierte Gliederung den Überblick über den Lernstoff behältst.",
+  "druckseite": 55
+ },
+ {
+  "titel": "Zeitplan für die Prüfungsvorbereitung",
+  "familie": "Fachkompetenz",
+  "kategorie": "Prüfungen bestehen",
+  "datei": "zeitplan-fuer-die-pruefungsvorbereitung-erstellen.html",
+  "qr_ziel": "zeitplan-fuer-die-pruefungsvorbereitung-erstellen.html",
+  "aufgabe": "Finde heraus, wie man einen effektiven Zeitplan für die Prüfungsvorbereitung erstellt. Erstelle eine kurze Zusammenfassung oder eine einfache Zeitplantabelle.",
+  "ziel": "Verstehe, wie ein gut durchdachter Zeitplan dir hilft, stressfrei zu lernen.",
+  "druckseite": 55
+ },
+ {
+  "titel": "Entspannungsübungen vor Prüfungen",
+  "familie": "Fachkompetenz",
+  "kategorie": "Prüfungen bestehen",
+  "datei": "entspannungsuebungen-vor-pruefungen.html",
+  "qr_ziel": "entspannungsuebungen-vor-pruefungen.html",
+  "aufgabe": "Recherchiere einfache Entspannungsübungen, die du vor einer Prüfung anwenden kannst, um Stress zu reduzieren. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Übungen.",
+  "ziel": "Erfahre, wie du durch Entspannungsübungen deine Prüfungsangst mindern kannst.",
+  "druckseite": 57
+ },
+ {
+  "titel": "Positive Affirmationen für die Prüfungsangstbewältigung",
+  "familie": "Fachkompetenz",
+  "kategorie": "Prüfungen bestehen",
+  "datei": "positive-affirmationen-fuer-die-pruefungsangstbewaeltigung.html",
+  "qr_ziel": "positive-affirmationen-fuer-die-pruefungsangstbewaeltigung.html",
+  "aufgabe": "Informiere dich darüber, wie positive Affirmationen helfen können, Prüfungsangst zu bewältigen. Erstelle eine kurze Zusammenfassung oder eine Liste mit positiven Affirmationen.",
+  "ziel": "Lerne, wie du durch positive Gedanken deine Prüfungsängste reduzierst.",
+  "druckseite": 57
+ },
+ {
+  "titel": "Prüfungsstrategien entwickeln",
+  "familie": "Fachkompetenz",
+  "kategorie": "Prüfungen bestehen",
+  "datei": "pruefungsstrategien-entwickeln.html",
+  "qr_ziel": "pruefungsstrategien-entwickeln.html",
+  "aufgabe": "Recherchiere, welche Strategien dir helfen können, eine Prüfung effizient zu bestehen (z.B. Priorisierung der Aufgaben, Zeitmanagement während der Prüfung). Erstelle eine kurze Zusammenfassung oder eine Übersicht der besten Strategien.",
+  "ziel": "Verstehe, wie du durch gezielte Strategien deine Prüfungsergebnisse verbessern kannst.",
+  "druckseite": 57
+ },
+ {
+  "titel": "Umgang mit Blackouts in Prüfungen",
+  "familie": "Fachkompetenz",
+  "kategorie": "Prüfungen bestehen",
+  "datei": "umgang-mit-blackouts-in-pruefungen.html",
+  "qr_ziel": "umgang-mit-blackouts-in-pruefungen.html",
+  "aufgabe": "Finde heraus, wie man mit Blackouts in Prüfungen umgehen kann. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken zur Überwindung von Prüfungsblockaden.",
+  "ziel": "Lerne, wie du in stressigen Prüfungssituationen ruhig und konzentriert bleibst.",
+  "druckseite": 57
+ },
+ {
+  "titel": "Nutzung von Rechtschreibtools",
+  "familie": "Fachkompetenz",
+  "kategorie": "Digitale Kompetenzen",
+  "datei": "nutzung-von-rechtschreibtools.html",
+  "qr_ziel": "nutzung-von-rechtschreibtools.html",
+  "aufgabe": "Recherchiere, wie Rechtschreibtools wie Duden Mentor funktionieren und wie sie zur Verbesserung deiner Texte beitragen können. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Tools.",
+  "ziel": "Verstehe, wie du durch den Einsatz von Rechtschreibtools deine schriftliche Kommunikation verbessern kannst.",
+  "druckseite": 59
+ },
+ {
+  "titel": "AI-gestützte Textüberarbeitung",
+  "familie": "Fachkompetenz",
+  "kategorie": "Digitale Kompetenzen",
+  "datei": "ai-gestuetzte-textueberarbeitung.html",
+  "qr_ziel": "ai-gestuetzte-textueberarbeitung.html",
+  "aufgabe": "Finde heraus, wie AI-Tools zur Textüberarbeitung (z.B. Grammarly) funktionieren und welche Vorteile sie bieten. Erstelle eine kurze Zusammenfassung oder eine Übersicht der besten Tools",
+  "ziel": "Erfahre, wie du durch AI-gestützte Tools deine Texte präziser und klarer gestalten kannst.",
+  "druckseite": 59
+ },
+ {
+  "titel": "Effiziente Internetrecherche",
+  "familie": "Fachkompetenz",
+  "kategorie": "Digitale Kompetenzen",
+  "datei": "effiziente-internetrecherche.html",
+  "qr_ziel": "effiziente-internetrecherche.html",
+  "aufgabe": "Recherchiere, wie du effizient im Internet recherchierst und vertrauenswürdige Quellen bewertest. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken zur Internetrecherche.",
+  "ziel": "Lerne, wie du durch gezielte Recherche hochwertige Informationen findest.",
+  "druckseite": 59
+ },
+ {
+  "titel": "Online-Datenbanken nutzen",
+  "familie": "Fachkompetenz",
+  "kategorie": "Digitale Kompetenzen",
+  "datei": "online-datenbanken-nutzen.html",
+  "qr_ziel": "online-datenbanken-nutzen.html",
+  "aufgabe": "Finde heraus, welche Online-Datenbanken es gibt und wie du sie für deine Recherchen nutzen kannst. Erstelle eine kurze Zusammenfassung oder eine Übersicht der wichtigsten Datenbanken.",
+  "ziel": "Verstehe, wie du durch die Nutzung von Online-Datenbanken umfassende und verlässliche Informationen erhältst.",
+  "druckseite": 59
+ },
+ {
+  "titel": "Sichere Passwörter erstellen",
+  "familie": "Fachkompetenz",
+  "kategorie": "Digitale Kompetenzen",
+  "datei": "sichere-passwoerter-erstellen.html",
+  "qr_ziel": "sichere-passwoerter-erstellen.html",
+  "aufgabe": "Recherchiere, wie man sichere Passwörter erstellt und verwaltet, um die eigenen Daten zu schützen. Erstelle eine kurze Zusammenfassung oder eine Checkliste zur Passwortsicherheit.",
+  "ziel": "Lerne, wie du durch sichere Passwörter deine digitalen Konten vor Missbrauch schützt.",
+  "druckseite": 61
+ },
+ {
+  "titel": "Datenschutz im Internet",
+  "familie": "Fachkompetenz",
+  "kategorie": "Digitale Kompetenzen",
+  "datei": "datenschutz-im-internet.html",
+  "qr_ziel": "datenschutz-im-internet.html",
+  "aufgabe": "Informiere dich darüber, welche Massnahmen du ergreifen kannst, um deine persönlichen Daten im Internet zu schützen. Erstelle eine kurze Zusammenfassung oder ein Plakat mit den wichtigsten Datenschutzrichtlinien.",
+  "ziel": "Verstehe, wie du deine Privatsphäre online schützt und sicher im Internet surfst.",
+  "druckseite": 61
+ },
+ {
+  "titel": "Schnelllesetechniken kennenlernen",
+  "familie": "Fachkompetenz",
+  "kategorie": "Lesekompetenz",
+  "datei": "schnelllesetechniken-kennenlernen.html",
+  "qr_ziel": "schnelllesetechniken-kennenlernen.html",
+  "aufgabe": "Recherchiere, wie Schnelllesetechniken funktionieren und wie sie dir helfen können, Texte effizienter zu lesen. Erstelle eine kurze Zusammenfassung oder eine Übersicht der besten Schnelllesetechniken.",
+  "ziel": "Lerne, wie du durch Schnelllesetechniken mehr Informationen in kürzerer Zeit aufnehmen kannst.",
+  "druckseite": 61
+ },
+ {
+  "titel": "PQRST-Methode für besseres Textverständnis",
+  "familie": "Fachkompetenz",
+  "kategorie": "Lesekompetenz",
+  "datei": "pqrst-methode-fuer-besseres-textverstaendnis.html",
+  "qr_ziel": "pqrst-methode-fuer-besseres-textverstaendnis.html",
+  "aufgabe": "Finde heraus, wie die PQRST-Methode (Preview, Question, Read, Summarize, Test) funktioniert und wie sie das Textverständnis verbessert. Erstelle eine kurze Zusammenfassung oder eine Schritt-für-Schritt-Anleitung.",
+  "ziel": "Verstehe, wie du durch gezielte Lesetechniken Informationen besser verarbeiten kannst.",
+  "druckseite": 61
+ },
+ {
+  "titel": "Wichtige Informationen extrahieren",
+  "familie": "Fachkompetenz",
+  "kategorie": "Lesekompetenz",
+  "datei": "wichtige-informationen-extrahieren.html",
+  "qr_ziel": "wichtige-informationen-extrahieren.html",
+  "aufgabe": "Recherchiere, wie man aus einem Text die wichtigsten Informationen extrahiert. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken zum Herausfiltern relevanter Inhalte.",
+  "ziel": "Lerne, wie du durch gezieltes Lesen die wichtigsten Punkte eines Textes erkennst.",
+  "druckseite": 63
+ },
+ {
+  "titel": "Zusammenfassungen schreiben",
+  "familie": "Fachkompetenz",
+  "kategorie": "Lesekompetenz",
+  "datei": "zusammenfassungen-schreiben.html",
+  "qr_ziel": "zusammenfassungen-schreiben.html",
+  "aufgabe": "Informiere dich darüber, wie man effektiv Zusammenfassungen von Texten schreibt. Erstelle eine kurze Zusammenfassung oder eine Checkliste mit Tipps für prägnante Textzusammenfassungen.",
+  "ziel": "Verstehe, wie du durch das Schreiben von Zusammenfassungen dein Verständnis vertiefen kannst.",
+  "druckseite": 63
+ },
+ {
+  "titel": "Ordnung halten",
+  "familie": "Fachkompetenz",
+  "kategorie": "Methodenkompetenzen",
+  "datei": "ordnung-halten.html",
+  "qr_ziel": "ordnung-halten.html",
+  "aufgabe": "Recherchiere, wie du deine Umgebung und deinen Arbeitsplatz so organisierst, dass du effizient und stressfrei arbeiten kannst. Lerne, wie du Ordnung schaffst und beibehältst, um produktiver zu sein. Erstelle eine Liste mit Tipps, die dir helfen, Ordnung zu halten.",
+  "ziel": "Lerne, wie du eine strukturierte und geordnete Arbeitsumgebung schaffst und erhältst.",
+  "druckseite": 63
+ },
+ {
+  "titel": "Ergebnisse verkaufen",
+  "familie": "Fachkompetenz",
+  "kategorie": "Methodenkompetenzen",
+  "datei": "ergebnisse-verkaufen.html",
+  "qr_ziel": "ergebnisse-verkaufen.html",
+  "aufgabe": "Informiere dich darüber, wie du deine Ergebnisse und Erfolge überzeugend präsentieren und «verkaufen» kannst. Lerne, welche Techniken dir helfen, deine Leistungen positiv darzustellen und dein Publikum zu überzeugen. Erstelle eine Liste mit Tipps, die dir helfen, deine Erfolge besser zu präsentieren.",
+  "ziel": "Lerne, wie du deine Erfolge und Ergebnisse erfolgreich «verkaufst».",
+  "druckseite": 63
+ }
+]
