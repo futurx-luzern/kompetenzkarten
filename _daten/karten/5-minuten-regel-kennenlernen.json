@@ -1,0 +1,67 @@
+{
+ "titel": "5-Minuten-Regel",
+ "kategorie": "Machen statt Aufschieben",
+ "aufgabe": "Recherchiere, wie die 5-Minuten-Regel funktioniert und warum sie bei Aufschieberitis helfen kann. Erstelle eine kurze Zusammenfassung oder eine kleine Infografik, die die Methode erklärt.",
+ "ziel": "Lerne, wie du durch kleine Schritte Aufgaben sofort angehen kannst.",
+ "text": [
+  "Kennst du das? Eine Aufgabe liegt vor dir, aber du fängst einfach nicht an. Je länger du wartest, desto grösser und unangenehmer wirkt sie. Und am Ende wird es stressig.",
+  "Die 5-Minuten-Regel ist ein einfacher Trick gegen dieses Aufschieben. Sie macht den Anfang so klein, dass du kaum Nein sagen kannst."
+ ],
+ "methode_titel": "So funktioniert die 5-Minuten-Regel",
+ "fragen": [
+  "Bei welcher Aufgabe fällt dir das Anfangen besonders schwer?",
+  "Was machst du meistens, statt anzufangen?",
+  "Wie fühlst du dich, wenn du eine aufgeschobene Aufgabe endlich erledigt hast?"
+ ],
+ "suche": [
+  "5-Minuten-Regel",
+  "Aufschieben überwinden",
+  "Prokrastination Tipps"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=PI91TnRPOyM",
+   "titel": "Die 5-Minuten-Regel: produktiver und effizienter werden",
+   "dauer": "5 Min.",
+   "quelle": "Schulgelaber",
+   "notiz": "Kurz, aus Sicht von Schülern. Bleibt von der alten Seite",
+   "warnung": "Kleiner Kanal"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.mit-kindern-lernen.ch/ich-selbst/motivation/193-anpacken-statt-aufschieben-ein-kleiner-trick-fuer-mehr-motivation",
+   "titel": "Anpacken statt aufschieben: ein kleiner Trick für mehr Motivation",
+   "dauer": "4 Min.",
+   "quelle": "mit-kindern-lernen.ch (Akademie für Lerncoaching)",
+   "notiz": "Schweizer Quelle, kurz und praktisch"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Rn_S4Nga2Yc",
+   "titel": "Produktivität statt Prokrastination: die Fünf-Minuten-Regel",
+   "dauer": "8,5 Min.",
+   "quelle": "fernstudi.tv, mit Lerncoach Dr. Tim Reichel",
+   "notiz": "Fachperson erklärt, warum die Regel wirkt",
+   "warnung": "Für Studierende, kleiner Kanal"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QNyKtYJ-e7Y",
+   "titel": "Prokrastination: Warum schieben wir so viel auf?",
+   "dauer": "10 Min.",
+   "quelle": "Quarks Dimension Ralph (WDR)",
+   "notiz": "Was im Kopf passiert, wenn wir aufschieben"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.buero-kaizen.de/5-minuten-regel/",
+   "grund": "Büro-Ratgeber, für Erwachsene im Job"
+  }
+ ]
+}

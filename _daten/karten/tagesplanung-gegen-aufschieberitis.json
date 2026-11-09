@@ -1,0 +1,70 @@
+{
+ "titel": "Tagesplanung gegen Aufschieberitis",
+ "kategorie": "Machen statt Aufschieben",
+ "aufgabe": "Informiere dich, wie eine strukturierte Tagesplanung helfen kann, Aufschieben zu vermeiden. Erstelle eine kurze Zusammenfassung oder eine einfache Vorlage für eine Tagesplanung.",
+ "ziel": "Erfahre, wie eine gut durchdachte Planung das Aufschieben verhindern kann.",
+ "text": [
+  "Wer viel aufschiebt, hat oft keinen klaren Plan für den Tag. Dann wirkt alles gleich wichtig und gleich gross, und man weiss nicht, wo anfangen. Am Ende macht man das, was gerade am angenehmsten ist.",
+  "Eine einfache Tagesplanung nimmt dir diese Entscheidung ab. Wenn feststeht, was du wann machst, musst du nicht jedes Mal neu mit dir verhandeln."
+ ],
+ "methode_titel": "So hilft dir eine Tagesplanung gegen das Aufschieben",
+ "fragen": [
+  "Planst du deinen Tag, oder lässt du ihn eher auf dich zukommen?",
+  "Wie lang ist deine To-do-Liste normalerweise? Schaffst du sie?",
+  "Welche drei Aufgaben wären morgen die wichtigsten?"
+ ],
+ "suche": [
+  "Tagesplanung Tipps",
+  "To-do-Liste richtig schreiben",
+  "Eat the Frog Methode"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=wLHPgcOekvw",
+   "titel": "So verbesserst du dein Zeitmanagement: 10 Tipps",
+   "dauer": "4,5 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Kurze, praktische Tipps zur Planung"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=lHqy_Mg6oP4",
+   "titel": "Prokrastination überwinden mit klaren Zielen",
+   "dauer": "5 Min.",
+   "quelle": "Die Techniker, mit Arzt Dr. Johannes Wimmer",
+   "notiz": "Wie ein konkreter Plan gegen Aufschieben hilft"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=HDSSvqKPMnc",
+   "titel": "Drei Wege, um Müllzeit und Aufschieben zu reduzieren",
+   "dauer": "10,5 Min.",
+   "quelle": "Akademie für Lerncoaching (Zürich)",
+   "notiz": "Planung von Arbeits- und Freizeit",
+   "warnung": "Videobeschreibung verweist auf ein Buch"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://futurx-luzern.github.io/kompetenzkarten/tages--und-wochenplanung.html",
+   "titel": "Kompetenzkarte «Tages- und Wochenplanung»",
+   "dauer": "Karte",
+   "quelle": "Kompetenzkarten FuturX",
+   "notiz": "Ausführlicher zur Planung mit der ALPEN-Methode"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=zcBwV_JKCv0",
+   "grund": "13-minütiges Video einer Coachin, für Erwachsene"
+  },
+  {
+   "url": "https://hub.hslu.ch/soziale-arbeit/lernen-ohne-aufschieben-sieben-tipps-gegen-prokrastination/",
+   "grund": "Zur Karte «Sofort anfangen» verschoben"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "titel": "Flexibilität bei der Aufgabenwahl",
+ "kategorie": "Machen statt Aufschieben",
+ "aufgabe": "Recherchiere, wie die flexible Wahl von Aufgaben dabei helfen kann, Aufschieben zu vermeiden. Erstelle eine kurze Zusammenfassung oder eine Übersicht der Methode.",
+ "ziel": "Lerne, wie Flexibilität bei der Aufgabenwahl dir hilft, produktiver zu arbeiten.",
+ "text": [
+  "Manchmal sitzt man vor einer Aufgabe und kommt einfach nicht weiter. Statt stundenlang festzustecken, kann es helfen, flexibel zu sein und zu einer anderen Aufgabe zu wechseln.",
+  "Flexibilität bei der Aufgabenwahl heisst: Du wählst bewusst die Aufgabe, die zu deiner Energie und Stimmung passt. Schwierige Aufgaben, wenn du fit bist. Einfache, wenn du müde bist. So kommst du immer irgendwo voran, statt gar nichts zu tun."
+ ],
+ "methode_titel": "So wählst du Aufgaben flexibel",
+ "fragen": [
+  "Zu welcher Tageszeit hast du am meisten Energie? Wann am wenigsten?",
+  "Was machst du, wenn du bei einer Aufgabe nicht weiterkommst?",
+  "Welche einfachen Aufgaben könntest du für müde Momente sammeln?"
+ ],
+ "suche": [
+  "Leistungskurve Tag",
+  "Interleaving Lernen",
+  "Energiemanagement"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=iva66cLfBUU",
+   "titel": "Interleaving: mehrere Themen gemischt lernen",
+   "dauer": "4 Min.",
+   "quelle": "Didaktik-Medien-Zentrum",
+   "notiz": "Kurz, mit Beispielen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=mtDrWYf6Te8",
+   "titel": "Interleaving: gemischtes Üben",
+   "dauer": "7 Min.",
+   "quelle": "MOOCit (Lernvideos für die Schule), 2026",
+   "notiz": "Für Schülerinnen und Schüler gemacht",
+   "warnung": "Kleiner Kanal"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://idw-online.de/de/news668579",
+   "titel": "Häufiger Aufgabenwechsel führt zu grösserer Flexibilität",
+   "dauer": "4 Min.",
+   "quelle": "Informationsdienst Wissenschaft",
+   "notiz": "Bericht über eine Studie. Bleibt von der alten Seite",
+   "warnung": "Fachsprache"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.derstandard.at/consent/tcf/story/2000053266319/erzwungener-aufgabenwechsel-erhoeht-flexibilitaet",
+   "grund": "Link führt auf eine Cookie-Seite, gleiche Studie wie idw"
+  }
+ ],
+ "bemerkung": "Zu diesem Thema gibt es wenig gutes Material. Die Karte setzt auf die Mini-Einführung und auf Interleaving (Themen beim Lernen mischen)."
+}

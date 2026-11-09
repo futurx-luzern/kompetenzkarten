@@ -1,0 +1,69 @@
+{
+ "titel": "Realistische Ziele setzen",
+ "kategorie": "Machen statt Aufschieben",
+ "aufgabe": "Recherchiere, wie das Setzen realistischer und erreichbarer Ziele helfen kann, Aufgaben nicht aufzuschieben. Erstelle eine kurze Zusammenfassung oder eine Zielsetzungs- Checkliste.",
+ "ziel": "Verstehe, wie realistische Ziele dazu beitragen, dass du Aufgaben pünktlich erledigst.",
+ "text": [
+  "«Ab morgen lerne ich jeden Tag drei Stunden!» Solche Vorsätze sind gut gemeint, halten aber selten lange. Wenn ein Ziel zu gross ist, schafft man es nicht, ist enttäuscht und gibt auf. Oder man fängt gar nicht erst an.",
+  "Realistische Ziele sind herausfordernd, aber machbar. Sie passen zu deiner Zeit, deiner Energie und deinem Alltag. Und sie sind so konkret, dass du weisst, was du heute tun kannst.",
+  "Eine bewährte Hilfe ist die <strong>SMART-Methode</strong>: Ziele sollen spezifisch, messbar, attraktiv, realistisch und terminiert sein. Ein weiterer Tipp: Teile grosse Ziele in Zwischenziele. Jeder erreichte Schritt motiviert für den nächsten."
+ ],
+ "fragen": [
+  "Welches Ziel hast du dir schon einmal vorgenommen und nicht erreicht? Woran lag es?",
+  "Woran merkst du, ob ein Ziel für dich realistisch ist?",
+  "Welches grosse Ziel könntest du in drei kleinere Zwischenziele teilen?"
+ ],
+ "suche": [
+  "realistische Ziele setzen",
+  "SMART-Ziele Beispiele",
+  "Zwischenziele"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=l5ld0SlNYEk",
+   "titel": "Die SMART-Methode",
+   "dauer": "3 Min.",
+   "quelle": "STARK Verlag (Lernvideo)",
+   "notiz": "Kurz und klar"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://futurx-luzern.github.io/kompetenzkarten/zielsetzung-mit-smart-methode.html",
+   "titel": "Kompetenzkarte «Zielsetzung mit SMART-Methode»",
+   "dauer": "Karte",
+   "quelle": "Kompetenzkarten FuturX",
+   "notiz": "Mit Übung: Ist dieses Ziel SMART?"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=OSk0AUT4_8o",
+   "titel": "So krempelst du dein Leben um!",
+   "dauer": "11 Min.",
+   "quelle": "Dinge Erklärt – Kurzgesagt",
+   "notiz": "Warum kleine, realistische Schritte mehr bringen als grosse Vorsätze. Mit Quellenangaben"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=lHqy_Mg6oP4",
+   "titel": "Prokrastination überwinden mit der SMART-Methode",
+   "dauer": "5 Min.",
+   "quelle": "Die Techniker, mit Arzt Dr. Johannes Wimmer",
+   "notiz": "Zusammenhang zwischen unklaren Zielen und Aufschieben"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=yYFWPa_b460",
+   "grund": "13 Jahre alt, ersetzt durch STARK Verlag"
+  },
+  {
+   "url": "https://karrierebibel.de/ziele-setzen/",
+   "grund": "Für Erwachsene im Beruf, ersetzt durch die SMART-Karte"
+  }
+ ]
+}

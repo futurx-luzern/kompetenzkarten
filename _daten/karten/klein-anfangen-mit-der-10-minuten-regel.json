@@ -1,0 +1,61 @@
+{
+ "titel": "Klein anfangen mit der 10-Minuten-Regel",
+ "kategorie": "Machen statt Aufschieben",
+ "aufgabe": "Recherchiere, wie die 10-Minuten-Regel funktioniert und wie sie helfen kann, Aufgaben zu starten. Erstelle eine kurze Zusammenfassung oder eine einfache Anleitung zur Anwendung.",
+ "ziel": "Erfahre, wie du durch kleine Schritte grosse Aufgaben bewältigen kannst.",
+ "text": [
+  "Grosse Aufgaben schieben wir besonders gern auf. Ein ganzer Vortrag, eine Prüfung über viele Kapitel, ein Bericht: Allein der Gedanke daran ist anstrengend.",
+  "Die 10-Minuten-Regel macht aus dem grossen Berg viele kleine Schritte. Statt alles auf einmal zu wollen, arbeitest du jeden Tag nur 10 Minuten daran. Das klingt nach wenig, aber es läppert sich: 10 Minuten an 10 Tagen sind schon über eineinhalb Stunden."
+ ],
+ "methode_titel": "So funktioniert die 10-Minuten-Regel",
+ "fragen": [
+  "Welche grosse Aufgabe steht bei dir bald an?",
+  "In welche kleinen Schritte könntest du sie teilen?",
+  "Zu welcher Tageszeit könntest du dir jeden Tag 10 Minuten dafür nehmen?"
+ ],
+ "suche": [
+  "10-Minuten-Regel",
+  "kleine Schritte Gewohnheiten",
+  "grosse Aufgaben aufteilen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=1L6kr09dTgE",
+   "titel": "Der Minuten-Deal gegen den inneren Schweinehund",
+   "dauer": "3 Min.",
+   "quelle": "MENT2WIN (Mentaltraining)",
+   "notiz": "Das Prinzip: nur ein paar Minuten anfangen",
+   "warnung": "Kanal eines Mentaltrainers, älteres Video"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.mit-kindern-lernen.ch/ich-selbst/motivation/193-anpacken-statt-aufschieben-ein-kleiner-trick-fuer-mehr-motivation",
+   "titel": "Anpacken statt aufschieben: ein kleiner Trick für mehr Motivation",
+   "dauer": "4 Min.",
+   "quelle": "mit-kindern-lernen.ch (Akademie für Lerncoaching)",
+   "notiz": "Schweizer Quelle, kurz und praktisch"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=OSk0AUT4_8o",
+   "titel": "So krempelst du dein Leben um!",
+   "dauer": "11 Min.",
+   "quelle": "Dinge Erklärt – Kurzgesagt",
+   "notiz": "Warum kleine Schritte grosse Veränderungen möglich machen"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://prozessfux.com/de/newsblog/posts/2022-06-03_Wie-Du-mit-der-10-Minuten-Regel-die-Prokrastination-bekaempfst.php",
+   "titel": "Mit der 10-Minuten-Regel die Prokrastination bekämpfen",
+   "dauer": "4 Min.",
+   "quelle": "Prozessfux (Blog)",
+   "notiz": "Erklärt genau diese Regel. Bleibt von der alten Seite",
+   "warnung": "Blog einer Beratungsfirma"
+  }
+ ]
+}

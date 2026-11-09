@@ -1,0 +1,70 @@
+{
+ "titel": "Selbstdisziplin stärken",
+ "kategorie": "Machen statt Aufschieben",
+ "aufgabe": "Informiere dich über Methoden zur Stärkung der Selbstdisziplin (z.B. Routinen entwickeln). Erstelle eine kurze Zusammenfassung oder eine Liste mit Tipps zur Selbstdisziplin.",
+ "ziel": "Verstehe, wie starke Selbstdisziplin dir hilft, Aufgaben ohne Verzögerung anzugehen.",
+ "text": [
+  "Selbstdisziplin heisst: etwas tun, auch wenn man gerade keine Lust hat, weil es einem wichtig ist. Zum Beispiel lernen statt zocken oder trainieren, obwohl es regnet.",
+  "Lange glaubte man, Disziplin sei wie ein Muskel, der bei Anstrengung müde wird. Neuere Forschung zeigt: So einfach ist es nicht. Menschen mit viel Selbstdisziplin kämpfen gar nicht ständig gegen Versuchungen. Sie haben gute <strong>Gewohnheiten</strong> und ein Umfeld, in dem Versuchungen gar nicht erst auftauchen.",
+  "Darum hilft: feste Routinen (gleiche Zeit, gleicher Ort), Ablenkungen aus dem Weg räumen, mit kleinen Schritten anfangen und sich klarmachen, <strong>wofür</strong> man es tut."
+ ],
+ "fragen": [
+  "In welchen Bereichen bist du schon diszipliniert, zum Beispiel im Sport oder bei einem Hobby? Was hilft dir dort?",
+  "Welche Versuchung macht dir am meisten zu schaffen?",
+  "Welche Routine könntest du einführen, damit du weniger Disziplin brauchst?"
+ ],
+ "suche": [
+  "Selbstdisziplin lernen",
+  "Gewohnheiten aufbauen",
+  "Marshmallow-Test"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=EIOuHYvrvtk",
+   "titel": "Verfressen und faul: Kann man Willenskraft lernen?",
+   "dauer": "9 Min.",
+   "quelle": "Quarks Dimension Ralph (WDR), Oktober 2026",
+   "notiz": "Aktuelle Forschung: Willenskraft ist kein Muskel, der ermüdet"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Pf0ZSMchPds",
+   "titel": "Der Marshmallow-Test",
+   "dauer": "5,5 Min.",
+   "quelle": "Erzieherkanal",
+   "notiz": "Das berühmte Experiment zur Selbstkontrolle"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=eZiGbTDZVTA",
+   "titel": "Wie werde ich disziplinierter?",
+   "dauer": "9 Min.",
+   "quelle": "laurinspire",
+   "notiz": "Praktische Tipps aus Sicht einer jungen Frau. Bleibt von der alten Seite",
+   "warnung": "Lern-Influencerin"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=B-DXt1oCKuU",
+   "titel": "Shaolin-Meister Shi Heng Yi: Wie lerne ich Selbstbeherrschung?",
+   "dauer": "29 Min.",
+   "quelle": "SRF «Sternstunde»",
+   "notiz": "Gespräch über Disziplin, Freiheit und Atmen. Sehr beliebt bei Jugendlichen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=Cr8BeCEMMCk",
+   "grund": "Zweites Video derselben Influencerin, ersetzt durch Quarks"
+  },
+  {
+   "url": "https://www.meetyourmaster.de/de/blog/disziplin-lernen",
+   "grund": "Plattform verkauft Online-Kurse"
+  }
+ ]
+}

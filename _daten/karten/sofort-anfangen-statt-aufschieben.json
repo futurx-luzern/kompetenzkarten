@@ -1,0 +1,76 @@
+{
+ "titel": "Sofort anfangen statt aufschieben",
+ "kategorie": "Machen statt Aufschieben",
+ "aufgabe": "Recherchiere Strategien, die dir helfen, sofort mit einer Aufgabe zu beginnen, anstatt sie aufzuschieben. Erstelle eine kurze Zusammenfassung oder eine visuelle Übersicht der Strategien.",
+ "ziel": "Lerne, wie du durch sofortiges Handeln Aufgaben effizienter bewältigst.",
+ "text": [
+  "Aufschieben, Fachleute sagen Prokrastination, kennt fast jede und jeder. Man weiss genau, was zu tun ist, und macht trotzdem etwas anderes. Das hat nichts mit Faulheit zu tun: Oft weicht man einem unangenehmen Gefühl aus, zum Beispiel Langeweile, Unsicherheit oder Angst, es nicht gut genug zu machen.",
+  "Es gibt einige bewährte Strategien, um trotzdem anzufangen:",
+  "<strong>Ersten Schritt winzig machen:</strong> nicht «Bericht schreiben», sondern «Datei öffnen und Titel schreiben».<br><strong>Ablenkung wegräumen:</strong> Handy in einen anderen Raum, nur das Nötige auf dem Tisch.<br><strong>Fester Zeitpunkt:</strong> «Um 16 Uhr fange ich an» statt «später».<br><strong>Timer stellen:</strong> 5 oder 10 Minuten reichen für den Anfang.<br><strong>Mit jemandem abmachen:</strong> zusammen lernen oder jemandem sagen, bis wann du fertig bist.",
+  "Und wichtig: Sei nicht zu streng mit dir. Wer sich für das Aufschieben fertigmacht, schiebt danach oft noch mehr auf."
+ ],
+ "fragen": [
+  "Welche Aufgaben schiebst du am häufigsten auf?",
+  "Welche der Strategien oben hast du schon ausprobiert? Was hat geholfen?",
+  "Mit wem könntest du abmachen, eine Aufgabe zusammen anzugehen?"
+ ],
+ "suche": [
+  "Prokrastination überwinden",
+  "Aufschieberitis Tipps",
+  "Prokrastination Ursachen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=5LvXc7MqfXg",
+   "titel": "Strategien gegen Aufschieben: der Anfang ist das Schwerste",
+   "dauer": "4,5 Min.",
+   "quelle": "Akademie für Lerncoaching (Zürich)",
+   "notiz": "Schweizer Lerncoaching, praktischer Trick für den Einstieg",
+   "warnung": "Videobeschreibung verweist auf ein Buch"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://hub.hslu.ch/soziale-arbeit/lernen-ohne-aufschieben-sieben-tipps-gegen-prokrastination/",
+   "titel": "Lernen ohne Aufschieben: sieben Tipps gegen Prokrastination",
+   "dauer": "5 Min.",
+   "quelle": "Hochschule Luzern",
+   "notiz": "Schweizer Quelle, konkrete Tipps fürs Lernen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=SPvZnaEkjtg",
+   "titel": "Prokrastination überwinden: So kannst du die Aufschieberitis besiegen",
+   "dauer": "10,5 Min.",
+   "quelle": "ARD Gesund",
+   "notiz": "Gründe für das Aufschieben und was hilft"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=wH5ik6qcw60",
+   "titel": "Prokrastination: Wie schlimm ist Aufschieberitis?",
+   "dauer": "15 Min.",
+   "quelle": "Terra Xplore (ZDF)",
+   "notiz": "Junges Format mit Betroffenem und Fachleuten"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=xSm5XFbIUCc",
+   "titel": "Mach ich später! Die Lust am Aufschieben",
+   "dauer": "30 Min.",
+   "quelle": "ARTE «Twist»",
+   "notiz": "Reportage mit verschiedenen Sichtweisen, auch positive Seiten des Aufschiebens"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.mit-kindern-lernen.ch/ich-selbst/motivation/193-anpacken-statt-aufschieben-ein-kleiner-trick-fuer-mehr-motivation",
+   "grund": "Zur Karte «5-Minuten-Regel» verschoben, dort passt der Trick genau"
+  }
+ ]
+}
