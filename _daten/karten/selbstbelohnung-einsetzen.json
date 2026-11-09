@@ -1,0 +1,84 @@
+{
+ "titel": "Selbstbelohnung einsetzen",
+ "kategorie": "Motivation",
+ "aufgabe": "Informiere dich, wie das Konzept der Selbstbelohnung funktioniert und in welchen Situationen es besonders effektiv ist. Erstelle eine kurze Zusammenfassung oder eine Infografik, die die Methode erklärt.",
+ "ziel": "Verstehe, wie Selbstbelohnung die Motivation unterstützt und Aufgaben attraktiver macht.",
+ "text": [
+  "Manche Aufgaben machen einfach keinen Spass: Hausaufgaben, Berichtsheft, Aufräumen. Gerade dann fällt es schwer anzufangen und dranzubleiben.",
+  "Selbstbelohnung heisst: Du versprichst dir selbst etwas Schönes, wenn du eine Aufgabe erledigt hast. Das gibt dir einen Grund, jetzt loszulegen, und macht unangenehme Aufgaben leichter."
+ ],
+ "methode_titel": "So belohnst du dich richtig",
+ "fragen": [
+  "Wie motivierst du dich heute für Aufgaben, die keinen Spass machen?",
+  "Welche kleinen Belohnungen würden für dich wirklich funktionieren?",
+  "Bei welcher Aufgabe in dieser Woche könntest du einen Deal mit dir selbst machen?"
+ ],
+ "suche": [
+  "sich selbst belohnen",
+  "Selbstmotivation Tipps",
+  "intrinsische und extrinsische Motivation"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=aLl0-_KDJ5g",
+   "titel": "Innere und äussere Motivation einfach erklärt",
+   "dauer": "5 Min.",
+   "quelle": "Erzieherkanal",
+   "notiz": "Erklärt, warum Belohnungen wirken und wo ihre Grenzen sind"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://selbstreguliertes-lernen.uzh.ch/dam/jcr:e6a04bde-11e5-4182-9f7e-67389a904a60/Sich%20motivieren.pdf",
+   "titel": "Sich motivieren: vier Tipps",
+   "dauer": "1 Min.",
+   "quelle": "Universität Zürich (Kärtchen, PDF)",
+   "notiz": "Schweizer Quelle, sehr kurz und für Lernende geschrieben"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://studyflix.de/jobs/karriere-tipps/selbstmotivation-7018",
+   "titel": "Selbstmotivation: Strategien, Tipps und Beispiele",
+   "dauer": "7 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Belohnung als eine von mehreren Strategien",
+   "warnung": "Seite hat Werbeboxen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=sIwBvw3PQxU",
+   "titel": "Richtig belohnen: wie Belohnungen wirklich motivieren",
+   "dauer": "7 Min.",
+   "quelle": "Betzold, eigentlich für Lehrpersonen",
+   "notiz": "Gute Regeln, die auch für Selbstbelohnung gelten",
+   "warnung": "Firma für Schulmaterial, richtet sich an Lehrpersonen"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=0IVfJCu4MWs",
+   "titel": "Dopamin: So kriegst du es in den Griff",
+   "dauer": "13 Min.",
+   "quelle": "Quarks (WDR)",
+   "notiz": "Was im Gehirn bei Belohnungen passiert, räumt mit Mythen auf"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.joachimsimon.info/2019/03/26/selbstbelohnung-der-self-leadership-skill-der-es-gut-mit-dir-meint/",
+   "grund": "Blog eines Coaches, für Erwachsene"
+  },
+  {
+   "url": "https://www.cornelsen.de/magazin/beitraege/10-gruende-sich-selbst-zu-belohnen",
+   "grund": "Ersetzt durch Universität Zürich und Studyflix"
+  },
+  {
+   "url": "https://solittletime.de/23-dinge-mit-denen-du-dich-selbst-belohnen-kannst/",
+   "grund": "Lifestyle-Blog, Fokus auf Konsum"
+  }
+ ]
+}

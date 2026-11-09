@@ -3,33 +3,33 @@
 Stand 2026-11-09. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 0 online, 7 bereit, 115 offen (von 122)
+**Total:** 7 online, 8 bereit, 107 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Eisenhower-Matrix anwenden | `eisenhower-matrix-anwenden.html` | bereit |
-| Cornell-Methode für Notizen | `cornell-methode-fuer-notizen.html` | bereit |
-| Schlafhygiene verbessern | `schlafhygiene-verbessern.html` | bereit |
-| Nein sagen | `nein-sagen.html` | bereit |
-| Datenschutz im Internet | `datenschutz-im-internet.html` | bereit |
-| Erfolgsliste erstellen | `erfolgsliste-erstellen.html` | bereit |
-| Zielsetzung mit SMART-Methode | `zielsetzung-mit-smart-methode.html` | bereit |
+| Eisenhower-Matrix anwenden | `eisenhower-matrix-anwenden.html` | online |
+| Cornell-Methode für Notizen | `cornell-methode-fuer-notizen.html` | online |
+| Schlafhygiene verbessern | `schlafhygiene-verbessern.html` | online |
+| Nein sagen | `nein-sagen.html` | online |
+| Datenschutz im Internet | `datenschutz-im-internet.html` | online |
+| Erfolgsliste erstellen | `erfolgsliste-erstellen.html` | online |
+| Zielsetzung mit SMART-Methode | `zielsetzung-mit-smart-methode.html` | online |
 
 ## Paket 1: Zeitmanagement und Motivation (8 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Prioritäten setzen mit der ABC-Analyse | `prioritaeten-setzen-mit-der-abc-analyse.html` | offen |
-| Arbeiten in kurzen Einheiten | `arbeiten-in-kurzen-einheiten.html` | offen |
-| Tages- und Wochenplanung | `tages--und-wochenplanung.html` | offen |
-| Pausen sinnvoll einplanen | `pausen-sinnvoll-einplanen.html` | offen |
-| Selbstbelohnung einsetzen | `selbstbelohnung-einsetzen.html` | offen |
-| Visualisierung von Zielen | `visualisierung-von-zielen.html` | offen |
-| Motivation durch Vorbilder | `motivation-durch-vorbilder.html` | offen |
-| Morgenrituale für mehr Motivation | `morgenrituale-fuer-mehr-motivation.html` | offen |
+| Prioritäten setzen mit der ABC-Analyse | `prioritaeten-setzen-mit-der-abc-analyse.html` | bereit |
+| Arbeiten in kurzen Einheiten | `arbeiten-in-kurzen-einheiten.html` | bereit |
+| Tages- und Wochenplanung | `tages--und-wochenplanung.html` | bereit |
+| Pausen sinnvoll einplanen | `pausen-sinnvoll-einplanen.html` | bereit |
+| Selbstbelohnung einsetzen | `selbstbelohnung-einsetzen.html` | bereit |
+| Visualisierung von Zielen | `visualisierung-von-zielen.html` | bereit |
+| Motivation durch Vorbilder | `motivation-durch-vorbilder.html` | bereit |
+| Morgenrituale für mehr Motivation | `morgenrituale-fuer-mehr-motivation.html` | bereit |
 
 ## Paket 2: Machen statt Aufschieben (12 Karten)
 

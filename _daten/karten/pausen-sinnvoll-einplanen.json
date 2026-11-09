@@ -1,0 +1,74 @@
+{
+ "titel": "Pausen sinnvoll einplanen",
+ "kategorie": "Zeitmanagement",
+ "aufgabe": "Finde heraus, warum regelmässige Pausen während der Arbeit wichtig sind und wie man sie sinnvoll einplant. Erstelle eine kurze Zusammenfassung oder eine Pausenplanungsvorlage.",
+ "ziel": "Lerne, wie gut geplante Pausen die Produktivität fördern können.",
+ "text": [
+  "Viele denken: Wer Pausen macht, ist faul. Das Gegenteil stimmt. Das Gehirn kann sich nur eine gewisse Zeit voll konzentrieren. Danach machst du mehr Fehler und brauchst länger.",
+  "Gute Pausen sind kurz und regelmässig: zum Beispiel 5 Minuten nach 25 bis 50 Minuten Arbeit. Am besten erholst du dich, wenn du dabei aufstehst, dich bewegst, etwas trinkst oder aus dem Fenster schaust.",
+  "Das Handy ist übrigens keine richtige Pause: Nachrichten und Videos beschäftigen das Gehirn weiter. In der Pause verarbeitet das Gehirn ausserdem, was du vorher gelernt hast. Pausen helfen also auch beim Behalten."
+ ],
+ "fragen": [
+  "Wie sehen deine Pausen beim Lernen oder Arbeiten aus?",
+  "Woran merkst du, dass du eine Pause brauchst?",
+  "Was könntest du in einer 5-Minuten-Pause machen, das dir wirklich gut tut?"
+ ],
+ "suche": [
+  "Pausen beim Lernen",
+  "Mikropausen",
+  "warum Pausen wichtig sind"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=GznqYrd_xcU",
+   "titel": "Richtig Pausen machen beim Lernen",
+   "dauer": "2 Min.",
+   "quelle": "Prozubi (Lernvideos für die Ausbildung)",
+   "notiz": "Sehr kurz, für Lernende in der Ausbildung"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.quarks.de/gesellschaft/psychologie/warum-pausen-zwischendurch-so-wichtig-sind/",
+   "titel": "Warum Pausen zwischendurch so wichtig sind",
+   "dauer": "6 Min.",
+   "quelle": "Quarks (WDR)",
+   "notiz": "Seriös, mit Forschung erklärt. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=VqEHyQChTok",
+   "titel": "Auszeit fürs Gehirn: warum wir Pausen brauchen, um besser zu lernen",
+   "dauer": "7 Min.",
+   "quelle": "Technische Universität München",
+   "notiz": "Was im Gehirn in der Pause passiert"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.tk.de/techniker/magazin/life-balance/balance-im-job/arbeit-pausen-foerdern-leistung-2007200",
+   "titel": "Pausen fördern die Leistung",
+   "dauer": "5 Min.",
+   "quelle": "Techniker Krankenkasse",
+   "notiz": "Tipps für Pausen im Arbeitsalltag. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ZVrBAIln4KY",
+   "titel": "Zeitmanagement: mit Pausen effektiv lernen",
+   "dauer": "14 Min.",
+   "quelle": "Universitätsbibliothek Giessen (Vortrag)",
+   "notiz": "Ausführlicher Vortrag mit Hintergrund"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=ms1y-MuhLA8",
+   "grund": "Video existiert nicht mehr"
+  }
+ ]
+}

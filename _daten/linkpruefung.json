@@ -20,11 +20,53 @@
   "titel": "",
   "weiterleitung": ""
  },
+ "https://famigros.migros.ch/de/kinder-und-jugendliche/erziehung-und-entwicklung/mediale-vorbilder-von-jugendlichen": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Migros",
+  "weiterleitung": "https://www.migros.ch/de/content/famigros-ratgeber-und-inspiration"
+ },
  "https://karrierebibel.de/erfolgstagebuch/": {
   "geprueft": "2026-11-09",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Erfolgstagebuch: Vorlage, Vorteile + Tipps zum Inhalt",
+  "weiterleitung": ""
+ },
+ "https://selbstreguliertes-lernen.uzh.ch/dam/jcr:e6a04bde-11e5-4182-9f7e-67389a904a60/Sich%20motivieren.pdf": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
+ },
+ "https://studyflix.de/jobs/karriere-tipps/morgenroutine-5480": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Morgenroutine • Der perfekte Start in den Tag · Studyflix",
+  "weiterleitung": ""
+ },
+ "https://studyflix.de/jobs/karriere-tipps/pomodoro-technik-6190": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Pomodoro Technik • Was ist Pomodoro? So lernst du es! · Studyflix",
+  "weiterleitung": ""
+ },
+ "https://studyflix.de/jobs/karriere-tipps/selbstmotivation-7018": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Selbstmotivation • Strategien, Tipps und Beispiele · Studyflix",
+  "weiterleitung": ""
+ },
+ "https://studyflix.de/jobs/karriere-tipps/zeitmanagement-4730": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Zeitmanagement • Zeitmanagement Methoden und Tipps · Studyflix",
   "weiterleitung": ""
  },
  "https://studyflix.de/wirtschaft/eisenhower-prinzip-3229": {
@@ -34,11 +76,39 @@
   "titel": "Eisenhower Prinzip • Funktionsweise, Tipps · Studyflix",
   "weiterleitung": "https://studyflix.de/biologie/eisenhower-prinzip-3229"
  },
+ "https://studyflix.de/wirtschaft/pareto-prinzip-3898": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Pareto Prinzip • Die 80/20-Regel einfach erklärt · Studyflix",
+  "weiterleitung": ""
+ },
  "https://studyflix.de/wirtschaft/smart-methode-6658": {
   "geprueft": "2026-11-09",
   "ok": true,
   "status": "HTTP 200",
   "titel": "SMART Methode • Definition & Beispiele · Studyflix",
+  "weiterleitung": ""
+ },
+ "https://woopmylife.org/de/home": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Start — WOOP my life",
+  "weiterleitung": ""
+ },
+ "https://woopmylife.org/de/science": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Forschung — WOOP my life",
+  "weiterleitung": ""
+ },
+ "https://www.aerzteblatt.de/archiv/selbstmotivation-verbindung-von-wunsch-und-hindernis-7e553ca6-13bb-4665-8a98-3617c03321a2": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Selbstmotivation: Verbindung von Wunsch und Hindernis – Deutsches Ärzteblatt",
   "weiterleitung": ""
  },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/selbstvertrauen_aufpeppen/gnomio_entwaffnen/uebungen_fuer_mehr_selbstwert.cfm": {
@@ -76,11 +146,37 @@
   "titel": "Darum solltest du im Internet nicht alles preisgeben! – Handysektor",
   "weiterleitung": ""
  },
+ "https://www.jobteaser.com/de/advices/abc-analyse-besseres-zeitmanagement-durch-priorisierung": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "ABC-Analyse: Besseres Zeitmanagement durch Priorisierung | JobTeaser",
+  "weiterleitung": ""
+ },
  "https://www.konsumentenschutz.ch/online-ratgeber/datenschutz-im-internet/": {
   "geprueft": "2026-11-09",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Wie schütze ich meine Daten im Internet?",
+  "weiterleitung": ""
+ },
+ "https://www.psy.uni-hamburg.de/arbeitsbereiche/paedagogische-psychologie-und-motivation/personen/oettingen-gabriele/dokumente/krott-marheinecke-oettingen-2019-mentale-kontrastierung-und-woop-foerdern-einsicht-und-veraenderung.pdf": {
+  "geprueft": "2026-11-09",
+  "ok": false,
+  "status": "HTTP 500"
+ },
+ "https://www.psychologie.uzh.ch/dam/jcr:7d10171c-4c81-4e08-adba-6f1a32c4e8ca/2016Nr1_Psychologie%20und%20Erziehung_Die%20Rolle%20von%20Vorbildern%20in%20der%20sozial-kognitiven%20Entwicklung.pdf": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
+ },
+ "https://www.quarks.de/gesellschaft/psychologie/warum-pausen-zwischendurch-so-wichtig-sind/": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Warum Pausen zwischendurch so wichtig sind - Quarks",
   "weiterleitung": ""
  },
  "https://www.srf.ch/play/tv/we-myself--why/video/nein-sagen-so-klappt-es?urn=urn:srf:video:ee8d2591-400e-4c49-b39f-cf844fb3e0b5": {
@@ -92,6 +188,13 @@
   "status": "OK",
   "titel": "Nein sagen: So klappt es"
  },
+ "https://www.tk.de/techniker/magazin/life-balance/balance-im-job/arbeit-pausen-foerdern-leistung-2007200": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Pausen fördern die Leistung - Die Techniker",
+  "weiterleitung": "https://www.tk.de/techniker/gesundheit-foerdern/stress-entspannung/balance-im-job/arbeit-pausen-foerdern-leistung-2007200"
+ },
  "https://www.youtube.com/watch?v=-vwiEs8QE2g": {
   "datum": "2021-03-25",
   "geprueft": "2026-11-09",
@@ -100,6 +203,15 @@
   "sekunden": 132,
   "status": "OK",
   "titel": "Einführung Selbstwirksamkeit"
+ },
+ "https://www.youtube.com/watch?v=0IVfJCu4MWs": {
+  "datum": "2025-08-29",
+  "geprueft": "2026-11-09",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 763,
+  "status": "OK",
+  "titel": "Dopamin: So kriegst du es in den Griff | Studio Q"
  },
  "https://www.youtube.com/watch?v=8ODlGme5Qmo": {
   "datum": "2022-01-19",
@@ -128,6 +240,15 @@
   "status": "OK",
   "titel": "Müde in der Schule: Warum Teenies ausschlafen sollten | Quarks"
  },
+ "https://www.youtube.com/watch?v=GznqYrd_xcU": {
+  "datum": "2022-04-22",
+  "geprueft": "2026-11-09",
+  "kanal": "Prozubi",
+  "ok": true,
+  "sekunden": 104,
+  "status": "OK",
+  "titel": "Richtig Pausen machen beim Lernen! | Wissen für die Ausbildung | Prozubi.de"
+ },
  "https://www.youtube.com/watch?v=HxR1s05CLu4": {
   "datum": "2022-07-11",
   "geprueft": "2026-11-09",
@@ -136,6 +257,15 @@
   "sekunden": 1889,
   "status": "OK",
   "titel": "Gesunder Schlaf – wie du dein Schlafproblem in den Griff bekommst | Puls | SRF"
+ },
+ "https://www.youtube.com/watch?v=J2hBEl8eIro": {
+  "datum": "2019-03-31",
+  "geprueft": "2026-11-09",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 322,
+  "status": "OK",
+  "titel": "Wie das Erbgut deine Innere Uhr beeinflusst | Quarks"
  },
  "https://www.youtube.com/watch?v=JTlDIu_PXlE": {
   "datum": "2020-12-09",
@@ -163,6 +293,15 @@
   "sekunden": 606,
   "status": "OK",
   "titel": "People Pleasing: Warum wir so schwer Nein sagen können | Reden hilft | ARD GESUND"
+ },
+ "https://www.youtube.com/watch?v=O8Y3WvWM42g": {
+  "datum": "2023-03-30",
+  "geprueft": "2026-11-09",
+  "kanal": "IU Internationale Hochschule",
+  "ok": true,
+  "sekunden": 312,
+  "status": "OK",
+  "titel": "Die Pomodoro-Technik: Wie du dein Zeitmanagement verbessern kannst"
  },
  "https://www.youtube.com/watch?v=OBdCiOY8-Xg": {
   "datum": "2025-02-12",
@@ -200,6 +339,15 @@
   "status": "OK",
   "titel": "Was ist Selbstwirksamkeit?"
  },
+ "https://www.youtube.com/watch?v=RwB5IDemKoI": {
+  "datum": "2018-01-17",
+  "geprueft": "2026-11-09",
+  "kanal": "sofatutor",
+  "ok": true,
+  "sekunden": 188,
+  "status": "OK",
+  "titel": "Prokrastination: Mit der Pomodoro-Technik das Aufschieben vermeiden – Lerntipps von sofatutor"
+ },
  "https://www.youtube.com/watch?v=SyNoySmKlok": {
   "datum": "2021-10-09",
   "geprueft": "2026-11-09",
@@ -209,6 +357,24 @@
   "status": "OK",
   "titel": "Das Eisenhower-Prinzip | Richtig priorisieren lernen | #gesundesmiteinander | DAK-Gesundheit"
  },
+ "https://www.youtube.com/watch?v=VqEHyQChTok": {
+  "datum": "2022-12-20",
+  "geprueft": "2026-11-09",
+  "kanal": "TUMuenchen",
+  "ok": true,
+  "sekunden": 436,
+  "status": "OK",
+  "titel": "Auszeit fürs Gehirn: Warum wir Pausen brauchen, um besser lernen zu können | TUMinside"
+ },
+ "https://www.youtube.com/watch?v=XKdLEwCIYZo": {
+  "datum": "2024-03-25",
+  "geprueft": "2026-11-09",
+  "kanal": "PINKTUM",
+  "ok": true,
+  "sekunden": 218,
+  "status": "OK",
+  "titel": "Die Pomodoro Technik - in 4 Minuten erklärt"
+ },
  "https://www.youtube.com/watch?v=Xphn3_z7KDc": {
   "datum": "2025-12-03",
   "geprueft": "2026-11-09",
@@ -217,6 +383,33 @@
   "sekunden": 255,
   "status": "OK",
   "titel": "Grenzen setzen: Wie du \"Nein\" sagen kannst"
+ },
+ "https://www.youtube.com/watch?v=YkqK8KFktXs": {
+  "datum": "2020-01-17",
+  "geprueft": "2026-11-09",
+  "kanal": "Mission Bachelor",
+  "ok": true,
+  "sekunden": 133,
+  "status": "OK",
+  "titel": "ABC Methode | Einfach erklärt | [Zeitmanagement]"
+ },
+ "https://www.youtube.com/watch?v=ZVrBAIln4KY": {
+  "datum": "2023-11-23",
+  "geprueft": "2026-11-09",
+  "kanal": "Universitätsbibliothek der Justus-Liebig-Universität Gießen",
+  "ok": true,
+  "sekunden": 866,
+  "status": "OK",
+  "titel": "Zeitmanagement - mit Pausen effektiv lernen"
+ },
+ "https://www.youtube.com/watch?v=aLl0-_KDJ5g": {
+  "datum": "2024-04-21",
+  "geprueft": "2026-11-09",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 309,
+  "status": "OK",
+  "titel": "INTRINSISCHE Motivation und EXTRINSISCHE Motivation mit Beispielen (einfach erklärt) | ERZIEHERKANAL"
  },
  "https://www.youtube.com/watch?v=cxmmLgTMX2U": {
   "datum": "2024-04-14",
@@ -236,6 +429,15 @@
   "status": "OK",
   "titel": "Zeitmanagement -- ABC-Analyse, Eisenhower-Prinzip, ALPEN-Methode, Pareto-Prinzip"
  },
+ "https://www.youtube.com/watch?v=epm8BKYh5h0": {
+  "datum": "2022-06-30",
+  "geprueft": "2026-11-09",
+  "kanal": "ARD Kinder und Familie",
+  "ok": true,
+  "sekunden": 1018,
+  "status": "OK",
+  "titel": "Wer bin ich? – Warum wir Vorbilder brauchen! | we be like"
+ },
  "https://www.youtube.com/watch?v=eykaYzKDVLk": {
   "datum": "2020-09-09",
   "geprueft": "2026-11-09",
@@ -244,6 +446,24 @@
   "sekunden": 564,
   "status": "OK",
   "titel": "Ziele SMART formulieren – Die SMART-Formel einfach erklärt"
+ },
+ "https://www.youtube.com/watch?v=fMCJWe21284": {
+  "datum": "2019-03-02",
+  "geprueft": "2026-11-09",
+  "kanal": "Psychologie-lernen .de",
+  "ok": true,
+  "sekunden": 184,
+  "status": "OK",
+  "titel": "Psychologie der Motivation: Länger durchhalten dank intelligenter Ziele!"
+ },
+ "https://www.youtube.com/watch?v=fYidB0rKnuI": {
+  "datum": "2022-10-23",
+  "geprueft": "2026-11-09",
+  "kanal": "Henry Hildebrandt",
+  "ok": true,
+  "sekunden": 864,
+  "status": "OK",
+  "titel": "Die Gefahr der Pomodoro-Technik (wieso Leute sie falsch benutzen)"
  },
  "https://www.youtube.com/watch?v=iiXRRIoW9aQ": {
   "datum": "2020-12-15",
@@ -272,6 +492,15 @@
   "status": "OK",
   "titel": "Cornell - Methode - besser Lernen, Notieren, Mitschreiben und Zusammenfassen"
  },
+ "https://www.youtube.com/watch?v=kY5rFRU8A1c": {
+  "datum": "2023-03-26",
+  "geprueft": "2026-11-09",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 1014,
+  "status": "OK",
+  "titel": "6 oder 9 Uhr? Warum wir zur falschen Zeit aufstehen!  | Quarks"
+ },
  "https://www.youtube.com/watch?v=l5ld0SlNYEk": {
   "datum": "2018-11-09",
   "geprueft": "2026-11-09",
@@ -281,6 +510,15 @@
   "status": "OK",
   "titel": "Die SMART-Methode | STARK erklärt"
  },
+ "https://www.youtube.com/watch?v=lRPLIElAq9A": {
+  "datum": "2022-07-05",
+  "geprueft": "2026-11-09",
+  "kanal": "Sprouts Deutschland",
+  "ok": true,
+  "sekunden": 332,
+  "status": "OK",
+  "titel": "Sozialkognitive Lerntheorie: Banduras Experimente mit der Schlagpuppe"
+ },
  "https://www.youtube.com/watch?v=oKjYVjl_G60": {
   "datum": "2025-09-28",
   "geprueft": "2026-11-09",
@@ -289,6 +527,42 @@
   "sekunden": 578,
   "status": "OK",
   "titel": "Hör auf die Eisenhower-Matrix zu nutzen - Hier ist warum"
+ },
+ "https://www.youtube.com/watch?v=pr-JdgDLRQM": {
+  "datum": "2020-08-26",
+  "geprueft": "2026-11-09",
+  "kanal": "laurinspire",
+  "ok": true,
+  "sekunden": 618,
+  "status": "OK",
+  "titel": "LERNPLAN erstellen für die Uni, Oberstufe oder das Abitur // #backtoschool 2020"
+ },
+ "https://www.youtube.com/watch?v=pzb26UiQwEc": {
+  "datum": "2022-04-06",
+  "geprueft": "2026-11-09",
+  "kanal": "Projekte leicht gemacht",
+  "ok": true,
+  "sekunden": 814,
+  "status": "OK",
+  "titel": "ABC Analyse: Schrittweise am einfachen Beispiel erklärt"
+ },
+ "https://www.youtube.com/watch?v=ryFRGisHN7M": {
+  "datum": "2025-12-21",
+  "geprueft": "2026-11-09",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 315,
+  "status": "OK",
+  "titel": "LERNEN AM MODELL nach Bandura mit BEISPIELEN einfach erklärt (kompakt) | ERZIEHERKANAL"
+ },
+ "https://www.youtube.com/watch?v=sIwBvw3PQxU": {
+  "datum": "2019-10-31",
+  "geprueft": "2026-11-09",
+  "kanal": "Betzold",
+  "ok": true,
+  "sekunden": 413,
+  "status": "OK",
+  "titel": "Richtig belohnen! - Wie Belohnungen wirklich motivieren. | Betzold"
  },
  "https://www.youtube.com/watch?v=tsrkB9I7m80": {
   "datum": "2025-09-19",
@@ -307,6 +581,33 @@
   "sekunden": 1648,
   "status": "OK",
   "titel": "Lebenszeit gewinnen durch weniger Schlaf? | Terra Xplore mit Jasmina Neudecker"
+ },
+ "https://www.youtube.com/watch?v=wLHPgcOekvw": {
+  "datum": "2025-10-29",
+  "geprueft": "2026-11-09",
+  "kanal": "Studyflix",
+  "ok": true,
+  "sekunden": 267,
+  "status": "OK",
+  "titel": "So verbesserst du dein Zeitmanagement!  - 10 Tipps"
+ },
+ "https://www.youtube.com/watch?v=x1trrADDk7w": {
+  "datum": "2025-11-04",
+  "geprueft": "2026-11-09",
+  "kanal": "ARD GESUND",
+  "ok": true,
+  "sekunden": 464,
+  "status": "OK",
+  "titel": "Eule oder Lerche? So wirkt dein Chronotyp auf Sport, Stoffwechsel und Schlaf | ARD GESUND"
+ },
+ "https://www.youtube.com/watch?v=yDUbNZPO0RI": {
+  "datum": "2023-05-04",
+  "geprueft": "2026-11-09",
+  "kanal": "IU Internationale Hochschule",
+  "ok": true,
+  "sekunden": 392,
+  "status": "OK",
+  "titel": "Vision Board erstellen: So visualisierst Du Deine Ziele"
  },
  "https://www.youtube.com/watch?v=yjutSUDuhbc": {
   "datum": "2021-06-17",

@@ -17,9 +17,9 @@ Legende: ✅ geprüft · ⚠️ bitte selbst anschauen · ❌ Problem
 
 **Entfernt (bisher online):**
 
-- YouTube: Eisenhower-Matrix erklärt: https://www.youtube.com/watch?v=x8viG5KaVfo · Zielgruppe Studierende, verweist auf Verkauf einer Vorlage
-- YouTube: Effektives Zeitmanagement mit der Eisenhower-Matrix: https://www.youtube.com/watch?v=X0Vk4cTyYtE · Projektmanagement-Kontext
-- Asana: Die Eisenhower-Matrix anwenden: https://asana.com/de/resources/eisenhower-matrix · Softwarefirma, Werbung für eigenes Produkt
+- https://www.youtube.com/watch?v=x8viG5KaVfo · Zielgruppe Studierende, verweist auf Verkauf einer Vorlage
+- https://www.youtube.com/watch?v=X0Vk4cTyYtE · Projektmanagement-Kontext
+- https://asana.com/de/resources/eisenhower-matrix · Softwarefirma, Werbung für eigenes Produkt
 
 ## Cornell-Methode für Notizen
 
@@ -32,8 +32,8 @@ Legende: ✅ geprüft · ⚠️ bitte selbst anschauen · ❌ Problem
 
 **Entfernt (bisher online):**
 
-- Video: Die Cornell-Methode erklärt: https://www.youtube.com/watch?v=T6CG6403_W8 · Video existiert nicht mehr
-- Anwendung der Cornell-Methode: https://www.buero-kaizen.de/cornell-methode/ · Bürokontext, ersetzt durch HSLU
+- https://www.youtube.com/watch?v=T6CG6403_W8 · Video existiert nicht mehr
+- https://www.buero-kaizen.de/cornell-methode/ · Bürokontext, ersetzt durch HSLU
 
 ## Schlafhygiene verbessern
 
@@ -47,9 +47,9 @@ Legende: ✅ geprüft · ⚠️ bitte selbst anschauen · ❌ Problem
 
 **Entfernt (bisher online):**
 
-- Barmer: Schlafhygiene – Tipps für besseren Schlaf: https://www.barmer.de/gesundheit-verstehen/leben/schlaf/schlafhygiene-1056080 · Für Erwachsene, ersetzt durch feel-ok
-- Oberbergkliniken: 15 Tipps für besseren Schlaf: https://www.oberbergkliniken.de/artikel/schlafhygiene-15-tipps-fuer-besseren-schlaf-von-dr-med-muzaffer-arkac · Privatklinik, für Erwachsene
-- YouTube: Schlafhygiene – Besser schlafen leicht gemacht: https://www.youtube.com/watch?v=YqkL-VeTysE · 13 Minuten, Kanal verkauft Nahrungsergänzung
+- https://www.youtube.com/watch?v=YqkL-VeTysE · 13 Minuten, Kanal verkauft Nahrungsergänzung
+- https://www.oberbergkliniken.de/artikel/schlafhygiene-15-tipps-fuer-besseren-schlaf-von-dr-med-muzaffer-arkac · Privatklinik, für Erwachsene
+- https://www.barmer.de/gesundheit-verstehen/leben/schlaf/schlafhygiene-1056080 · Für Erwachsene, ersetzt durch feel-ok
 
 ## Nein sagen
 
@@ -64,8 +64,8 @@ Legende: ✅ geprüft · ⚠️ bitte selbst anschauen · ❌ Problem
 
 **Entfernt (bisher online):**
 
-- Video: Nein sagen lernen: https://www.youtube.com/watch?v=R1-2gqgP3PI · Karriere-Coaching für Erwachsene
-- Tipps zum Nein sagen: https://www.swr3.de/aktuell/service/nein-sagen-lernen-tipps-102.html · Seite nicht mehr erreichbar
+- https://www.youtube.com/watch?v=R1-2gqgP3PI · Karriere-Coaching für Erwachsene
+- https://www.swr3.de/aktuell/service/nein-sagen-lernen-tipps-102.html · Seite nicht mehr erreichbar
 
 ## Datenschutz im Internet
 
@@ -80,8 +80,8 @@ Legende: ✅ geprüft · ⚠️ bitte selbst anschauen · ❌ Problem
 
 **Entfernt (bisher online):**
 
-- Video: Datenschutz im Internet: https://www.youtube.com/watch?v=oE4D8GHQhL8 · Reisserischer Titel, Kanal eines Beraters
-- Grundlagen des Datenschutzes online: https://www.datenschutz.org/datenschutz-im-internet/ · Bezieht sich auf deutsches Recht (DSGVO)
+- https://www.youtube.com/watch?v=oE4D8GHQhL8 · Reisserischer Titel, Kanal eines Beraters
+- https://www.datenschutz.org/datenschutz-im-internet/ · Bezieht sich auf deutsches Recht (DSGVO)
 
 ## Erfolgsliste erstellen
 

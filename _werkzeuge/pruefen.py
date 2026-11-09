@@ -21,6 +21,7 @@ import sys
 import urllib.error
 import urllib.request
 
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")  # Windows-Konsole: Emojis in Titeln nicht abstürzen lassen
 REPO = pathlib.Path(__file__).resolve().parent.parent
 DATEN = REPO / "_daten"
 CACHE = DATEN / "linkpruefung.json"
@@ -92,6 +93,8 @@ def pruefe_seite(url):
     try:
         code, final, b = holen(url, 400_000)
     except urllib.error.HTTPError as e:
+        if e.code in (403, 429):  # Server blockt automatische Abfragen, die Seite selbst ist meist in Ordnung
+            return dict(ok=True, status=f"HTTP {e.code}: automatisch nicht prüfbar, bitte von Hand öffnen")
         return dict(ok=False, status=f"HTTP {e.code}")
     titel = html.unescape(m.group(1).strip()) if (m := re.search(r"<title[^>]*>(.*?)</title>", b, re.S | re.I)) else ""
     verdacht = re.search(r"(seite nicht gefunden|page not found|404)", titel, re.I)
@@ -152,6 +155,17 @@ def links(args):
 
 # ---------- Prüftabelle ----------
 
+def norm(url):
+    """Vergleichbare Form einer URL: YouTube nur die Video-ID, sonst ohne Anker und Tracking-Zusätze."""
+    url = html.unescape(html.unescape(url)).strip()
+    if m := re.search(r"(?:v=|youtu\.be/)([\w-]{11})", url):
+        return "yt:" + m.group(1)
+    url = url.split("#")[0]
+    if "srf.ch/play" not in url:
+        url = url.split("?")[0]
+    return url.rstrip("/").lower()
+
+
 def alte_links(slug):
     """Links der Seite, wie sie aktuell online (origin/main) ist."""
     try:
@@ -189,14 +203,18 @@ def tabelle(args):
                 begr += f" ❌ {r.get('status')}"
             sprache = " (Englisch)" if l.get("sprache") == "en" else ""
             z.append(f"| {zeichen} | {STUFEN[l['stufe']]} | [{l['titel']}]({l['url']}){sprache} | {dauer} | {l['quelle']} | {r.get('datum', '')} | {begr} |")
-        neu = {l["url"] for l in k["links"]}
-        entfernt = {e["url"]: e.get("grund", "") for e in k.get("entfernt", [])}
-        alt = [(u, t) for u, t in alte_links(s) if u not in neu]
+        neu = {norm(l["url"]) for l in k["links"]}
+        entfernt = {norm(e["url"]): e.get("grund", "") for e in k.get("entfernt", [])}
+        alt = [(u, t) for u, t in alte_links(s) if norm(u) not in neu]
+        # nach dem Merge ist die alte Seite nicht mehr online: dann die Einträge aus den Daten zeigen
+        schon = {norm(u) for u, _ in alt}
+        alt += [(e["url"], "") for e in k.get("entfernt", []) if norm(e["url"]) not in schon]
         if alt:
             z += ["", "**Entfernt (bisher online):**", ""]
             for u, t in alt:
-                grund = entfernt.get(u, "")
-                z.append(f"- {re.sub('<[^>]+>', '', t)}: {u}" + (f" · {grund}" if grund else ""))
+                grund = entfernt.get(norm(u), "")
+                name = re.sub('<[^>]+>', '', t)
+                z.append(f"- {name + ': ' if name else ''}{html.unescape(html.unescape(u))}" + (f" · {grund}" if grund else ""))
         if k.get("bemerkung"):
             z += ["", k["bemerkung"]]
         z.append("")

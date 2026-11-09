@@ -1,0 +1,119 @@
+{
+ "titel": "Prioritäten setzen mit der ABC-Analyse",
+ "kategorie": "Zeitmanagement",
+ "aufgabe": "Suche Informationen darüber, wie die ABC-Analyse funktioniert und wie sie zur Priorisierung von Aufgaben genutzt werden kann. Erstelle eine kurze Zusammenfassung oder ein Diagramm der Methode.",
+ "ziel": "Lerne, wie du Aufgaben nach ihrer Wichtigkeit sortieren kannst.",
+ "text": [
+  "Wenn die Liste mit Aufgaben lang ist, fängt man oft mit dem an, was schnell geht oder Spass macht. Am Ende des Tages ist viel erledigt, aber das Wichtigste fehlt noch.",
+  "Die ABC-Analyse hilft dir, deine Aufgaben nach ihrer Wichtigkeit zu ordnen. So weisst du, womit du anfangen solltest und wofür sich wenig Zeit lohnt."
+ ],
+ "methode_titel": "So funktioniert die ABC-Analyse",
+ "uebung": {
+  "frage": "Ist das eine A-, B- oder C-Aufgabe? Stell dir vor, du bist im letzten Lehrjahr.",
+  "optionen": [
+   "A",
+   "B",
+   "C"
+  ],
+  "hinweis": "Frag dich: Wie viel bringt mir diese Aufgabe für meine Ziele?",
+  "aufgaben": [
+   {
+    "text": "Für die Abschlussprüfung in zwei Wochen den Stoff wiederholen",
+    "richtig": "A",
+    "warum": "Das hat die grösste Wirkung auf dein Ziel, den Abschluss."
+   },
+   {
+    "text": "Die Bewerbung für die Stelle nach der Lehre fertig schreiben",
+    "richtig": "A",
+    "warum": "Wichtig für deine Zukunft, und das kann niemand für dich erledigen."
+   },
+   {
+    "text": "Den Vortrag für nächsten Monat vorbereiten",
+    "richtig": "B",
+    "warum": "Wichtig, aber weniger gross als die Prüfung. Gut einplanen."
+   },
+   {
+    "text": "Einmal pro Woche Französisch-Wörter repetieren",
+    "richtig": "B",
+    "warum": "Bringt dich weiter, aber Schritt für Schritt. Fest einplanen."
+   },
+   {
+    "text": "Die Ordner mit Arbeitsblättern neu sortieren",
+    "richtig": "C",
+    "warum": "Kann man machen, bringt aber wenig. Am Schluss, kurz."
+   },
+   {
+    "text": "Nachrichten im Gruppenchat beantworten",
+    "richtig": "C",
+    "warum": "Fühlt sich dringend an, bringt dich deinem Ziel aber nicht näher."
+   }
+  ]
+ },
+ "fragen": [
+  "Womit fängst du an, wenn du viele Aufgaben hast: mit dem Wichtigsten oder mit dem Einfachsten?",
+  "Welche deiner Aufgaben in dieser Woche wäre eine A-Aufgabe?",
+  "Was machst du oft, obwohl es eigentlich eine C-Aufgabe ist?"
+ ],
+ "suche": [
+  "ABC-Analyse Zeitmanagement",
+  "Prioritäten setzen",
+  "Pareto-Prinzip 80/20"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=YkqK8KFktXs",
+   "titel": "ABC-Methode einfach erklärt",
+   "dauer": "2 Min.",
+   "quelle": "Mission Bachelor",
+   "notiz": "Kurz, mit Beispiel",
+   "warnung": "Videobeschreibung wirbt für einen Lernzettel"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.jobteaser.com/de/advices/abc-analyse-besseres-zeitmanagement-durch-priorisierung",
+   "titel": "ABC-Analyse: besseres Zeitmanagement durch Priorisierung",
+   "dauer": "3 Min.",
+   "quelle": "JobTeaser",
+   "notiz": "Kurz, mit Faustregeln für den Tag. Bleibt von der alten Seite",
+   "warnung": "Stellenwerbung auf der Seite, Beispiel aus der Wirtschaft"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=dWQoldjrB1s",
+   "titel": "Zeitmanagement: ABC-Analyse und drei weitere Methoden im Vergleich",
+   "dauer": "11 Min.",
+   "quelle": "Herr Gerold",
+   "notiz": "Vergleich mit Eisenhower, ALPEN und Pareto",
+   "warnung": "Amazon-Partnerlinks in der Videobeschreibung"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://studyflix.de/wirtschaft/pareto-prinzip-3898",
+   "titel": "Pareto-Prinzip: die 80/20-Regel",
+   "dauer": "6 Min.",
+   "quelle": "Studyflix, das Prinzip hinter der ABC-Analyse",
+   "notiz": "Erklärt die Idee, auf der die ABC-Analyse aufbaut",
+   "warnung": "Seite hat Werbeboxen"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=pzb26UiQwEc",
+   "titel": "ABC-Analyse in der Wirtschaft: Schritt für Schritt am Beispiel",
+   "dauer": "14 Min.",
+   "quelle": "Projekte leicht gemacht, Herkunft der Methode",
+   "notiz": "Zeigt die ursprüngliche ABC-Analyse mit Zahlen (Produkte, Umsatz)"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?app=desktop&amp;amp;v=o8N1Elqq6I8",
+   "grund": "Sehr kleiner Kanal (rund 200 Aufrufe), ersetzt durch Herr Gerold"
+  }
+ ]
+}

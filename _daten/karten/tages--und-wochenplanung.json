@@ -1,0 +1,85 @@
+{
+ "titel": "Tages- und Wochenplanung",
+ "kategorie": "Zeitmanagement",
+ "aufgabe": "Recherchiere, wie du eine effektive Tages- und Wochenplanung erstellen kannst, um deine Zeit optimal zu nutzen. Erstelle eine kurze Zusammenfassung oder ein einfaches Planungstool.",
+ "ziel": "Erfahre, wie eine strukturierte Planung zu besserem Zeitmanagement führt",
+ "text": [
+  "Schule, Lehrbetrieb, Hausaufgaben, Training, Freunde: Da kann man leicht den Überblick verlieren. Und plötzlich ist morgen die Prüfung, für die man noch nichts gemacht hat.",
+  "Mit einer Wochen- und Tagesplanung siehst du auf einen Blick, was ansteht und wann du was erledigst. Das nimmt Stress raus, weil du nicht mehr alles im Kopf behalten musst."
+ ],
+ "methode_titel": "So planst du deine Woche und deinen Tag",
+ "fragen": [
+  "Wie behältst du heute den Überblick über Termine und Aufgaben?",
+  "Wann hast du zuletzt etwas vergessen oder zu spät angefangen? Was wäre mit einem Plan anders gewesen?",
+  "Wann in der Woche hättest du Zeit, 10 Minuten zu planen?"
+ ],
+ "suche": [
+  "Wochenplan erstellen",
+  "ALPEN-Methode",
+  "Lernplan erstellen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=wLHPgcOekvw",
+   "titel": "So verbesserst du dein Zeitmanagement: 10 Tipps",
+   "dauer": "4,5 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Aktuell, kurz, viele praktische Tipps"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://studyflix.de/jobs/karriere-tipps/zeitmanagement-4730",
+   "titel": "Zeitmanagement: Methoden und Tipps",
+   "dauer": "7 Min.",
+   "quelle": "Studyflix, mit ALPEN-Methode",
+   "notiz": "Erklärt ALPEN und weitere Methoden",
+   "warnung": "Seite hat Werbeboxen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=dWQoldjrB1s",
+   "titel": "Zeitmanagement: ALPEN-Methode und drei weitere Methoden",
+   "dauer": "11 Min.",
+   "quelle": "Herr Gerold",
+   "notiz": "Erklärt ALPEN im Vergleich",
+   "warnung": "Amazon-Partnerlinks in der Videobeschreibung"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=pr-JdgDLRQM",
+   "titel": "Einen Lernplan erstellen",
+   "dauer": "10 Min.",
+   "quelle": "laurinspire",
+   "notiz": "Praktisch: Wochenplan für das Lernen auf Prüfungen",
+   "warnung": "Lern-Influencerin, eher Gymnasium und Studium"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ZVrBAIln4KY",
+   "titel": "Zeitmanagement: mit Pausen effektiv lernen",
+   "dauer": "14 Min.",
+   "quelle": "Universitätsbibliothek Giessen (Vortrag)",
+   "notiz": "Planung und Pausen aus Sicht der Lernforschung"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=tqisv5WYX6g",
+   "grund": "Teil eines Kurses einer Coachin, 16 Minuten"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=0vb0jesNPTw",
+   "grund": "Wochenplanung mit Outlook im Büro, für Erwachsene"
+  },
+  {
+   "url": "https://www.ordnungswunder.ch/angebote-aufr%C3%A4umcoaching/tages-und-wochenplaner-vorlagen/",
+   "grund": "Seite eines Aufräum-Coachings, verkauft Angebote"
+  }
+ ]
+}
