@@ -1,0 +1,84 @@
+{
+ "titel": "Schlafhygiene verbessern",
+ "kategorie": "Gesundheit und Wohlbefinden",
+ "aufgabe": "Informiere dich darüber, wie du durch bessere Schlafhygiene die Qualität deines Schlafes und damit deine Leistungsfähigkeit verbessern kannst. Erstelle eine kurze Zusammenfassung oder eine Infografik mit den besten Techniken.",
+ "ziel": "Erfahre, wie du durch gute Schlafgewohnheiten erholsamer schläfst und dich fitter fühlst.",
+ "text": [
+  "Mit «Schlafhygiene» sind deine Gewohnheiten rund um den Schlaf gemeint. Gute Gewohnheiten helfen dir, schneller einzuschlafen und erholt aufzuwachen.",
+  "Jugendliche brauchen meist 8 bis 10 Stunden Schlaf. In der Pubertät verschiebt sich die innere Uhr: Man wird abends später müde. Wer dann früh aufstehen muss, schläft oft zu wenig. Das merkt man an Konzentration, Laune und Leistung.",
+  "Was helfen kann: möglichst jeden Tag zur gleichen Zeit schlafen gehen und aufstehen, auch am Wochenende. Ein ruhiges Abendritual. Ein dunkles, kühles Zimmer. Am Abend keine Energydrinks oder Cola. Und das Handy eine Weile vor dem Schlafen weglegen, denn Chats, Videos und Spiele halten dein Gehirn wach."
+ ],
+ "fragen": [
+  "Wie viele Stunden schläfst du in einer normalen Woche? Und am Wochenende?",
+  "Was machst du in der letzten Stunde, bevor du schlafen gehst?",
+  "Woran merkst du am nächsten Tag, dass du zu wenig geschlafen hast?"
+ ],
+ "suche": [
+  "Schlaf Jugendliche Tipps",
+  "innere Uhr Pubertät",
+  "Handy vor dem Schlafen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=JTlDIu_PXlE",
+   "titel": "Wie kann ich Schlafprobleme vermeiden?",
+   "dauer": "2,5 Min.",
+   "quelle": "Stiftung Gesundheitswissen",
+   "notiz": "Kurz, seriöse Stiftung, konkrete Tipps"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=EZKbP2xV8yU",
+   "titel": "Müde in der Schule: Warum Jugendliche länger schlafen sollten",
+   "dauer": "5 Min.",
+   "quelle": "Quarks (WDR)",
+   "notiz": "Genau auf Jugendliche zugeschnitten (innere Uhr in der Pubertät)"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/schlafprobleme/infos_und_tipps/schlafqualitaet_verbessern.cfm",
+   "titel": "Schlafqualität verbessern: Tipps für Jugendliche",
+   "dauer": "6 Min.",
+   "quelle": "feel-ok.ch (Gesundheitsstiftung RADIX)",
+   "notiz": "Schweizer Jugendportal",
+   "warnung": "Einzelne Tipps (Tee, Pflanzenmittel) schwach belegt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=tyCKfnW6I8Y",
+   "titel": "Lebenszeit gewinnen durch weniger Schlaf? Ein Selbstversuch",
+   "dauer": "27 Min.",
+   "quelle": "Terra Xplore (ZDF)",
+   "notiz": "Selbstversuch mit jungen Leuten, zeigt Folgen von Schlafmangel"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=HxR1s05CLu4",
+   "titel": "Gesunder Schlaf: wie du dein Schlafproblem in den Griff bekommst",
+   "dauer": "31 Min.",
+   "quelle": "SRF «Puls», mit Schlafforscherin Christine Blume",
+   "notiz": "Schweizer Schlafforscherin Christine Blume, eher für Erwachsene",
+   "warnung": "Knapp über 30 Minuten"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=YqkL-VeTysE",
+   "grund": "13 Minuten, Kanal verkauft Nahrungsergänzung"
+  },
+  {
+   "url": "https://www.oberbergkliniken.de/artikel/schlafhygiene-15-tipps-fuer-besseren-schlaf-von-dr-med-muzaffer-arkac",
+   "grund": "Privatklinik, für Erwachsene"
+  },
+  {
+   "url": "https://www.barmer.de/gesundheit-verstehen/leben/schlaf/schlafhygiene-1056080",
+   "grund": "Für Erwachsene, ersetzt durch feel-ok"
+  }
+ ]
+}

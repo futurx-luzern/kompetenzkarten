@@ -1,0 +1,88 @@
+{
+ "titel": "Datenschutz im Internet",
+ "kategorie": "Digitale Kompetenzen",
+ "aufgabe": "Informiere dich darüber, welche Massnahmen du ergreifen kannst, um deine persönlichen Daten im Internet zu schützen. Erstelle eine kurze Zusammenfassung oder ein Plakat mit den wichtigsten Datenschutzrichtlinien.",
+ "ziel": "Verstehe, wie du deine Privatsphäre online schützt und sicher im Internet surfst.",
+ "text": [
+  "Jedes Mal, wenn du eine App nutzt, etwas postest oder im Internet surfst, hinterlässt du Daten. Persönliche Daten sind zum Beispiel dein Name, deine Adresse, deine Handynummer, deine Schule, dein Standort und deine Fotos.",
+  "Was einmal im Internet ist, lässt sich nur schwer wieder löschen. Fremde können solche Daten missbrauchen, etwa für Betrug oder Belästigung. Firmen nutzen sie für Werbung.",
+  "Du kannst selbst viel tun: Überlege dir vor dem Posten, wer das sehen soll. Stelle dein Profil auf privat. Prüfe ab und zu die Einstellungen deiner Apps, zum Beispiel, wer deinen Standort sieht. Und teile keine Daten oder Fotos von anderen ohne ihr Einverständnis. In der Schweiz regelt das Datenschutzgesetz, was Firmen und Behörden mit deinen Daten machen dürfen."
+ ],
+ "fragen": [
+  "Welche Informationen über dich findet man im Internet, wenn man deinen Namen sucht?",
+  "Wer kann deine Posts und dein Profil sehen? Weisst du es genau?",
+  "Was würdest du nie online teilen und warum?"
+ ],
+ "suche": [
+  "persönliche Daten schützen",
+  "Privatsphäre-Einstellungen Instagram",
+  "Datenhändler Standortdaten"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=jXLZIYwRJLE",
+   "titel": "So schützt du deine Daten auf Social Media",
+   "dauer": "1 Min.",
+   "quelle": "147, Pro Juventute",
+   "notiz": "Schweizer Jugendberatung, sehr kurz"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=CgfdDAaGUeg",
+   "titel": "Datenschutz: So schützt du deine persönlichen Daten",
+   "dauer": "2 Min.",
+   "quelle": "planet schule (ARD)",
+   "notiz": "Laut Kanal fachlich weiterhin gültig"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.handysektor.de/artikel/darum-solltest-du-im-internet-nicht-alles-preisgeben/",
+   "titel": "Darum solltest du im Internet nicht alles preisgeben",
+   "dauer": "4 Min.",
+   "quelle": "Handysektor",
+   "notiz": "Direkt für Jugendliche geschrieben"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=OBdCiOY8-Xg",
+   "titel": "Tschüss Privatsphäre! Was Apps über dich verraten",
+   "dauer": "16 Min.",
+   "quelle": "SRF «Impact», Recherche zu Standortdaten",
+   "notiz": "Schweizer Recherche: Apps verkaufen Standortdaten"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=tsrkB9I7m80",
+   "titel": "Deine Daten im Netz: Ende der Privatheit?",
+   "dauer": "29 Min.",
+   "quelle": "NZZ Format, Dokumentarfilm",
+   "notiz": "Schweizer Doku mit Selbstversuch"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://www.konsumentenschutz.ch/online-ratgeber/datenschutz-im-internet/",
+   "titel": "Ratgeber Datenschutz im Internet",
+   "dauer": "8 Min.",
+   "quelle": "Stiftung für Konsumentenschutz, Tipps zu Browser, Apps und Auskunftsrecht",
+   "notiz": "Praktische Tipps, laufend aktualisiert",
+   "warnung": "Sie-Form und viele Fachbegriffe"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=oE4D8GHQhL8",
+   "grund": "Reisserischer Titel, Kanal eines Beraters"
+  },
+  {
+   "url": "https://www.datenschutz.org/datenschutz-im-internet/",
+   "grund": "Bezieht sich auf deutsches Recht (DSGVO)"
+  }
+ ]
+}

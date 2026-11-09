@@ -1,0 +1,135 @@
+{
+ "titel": "Eisenhower-Matrix anwenden",
+ "kategorie": "Zeitmanagement",
+ "aufgabe": "Recherchiere, wie die Eisenhower-Matrix funktioniert und wie sie zur Priorisierung von Aufgaben eingesetzt wird. Erstelle eine kurze Zusammenfassung oder ein Diagramm der Methode.",
+ "ziel": "Lerne, wie du Aufgaben effektiv priorisieren kannst, um produktiver zu arbeiten.",
+ "text": [
+  "Manchmal hast du so viel zu tun, dass du nicht weisst, wo du anfangen sollst. Alles scheint gleichzeitig wichtig. Oft erledigt man dann einfach das, was sich gerade meldet, zum Beispiel eine Nachricht. Und die wirklich wichtigen Dinge bleiben liegen.",
+  "Die Eisenhower-Matrix ist eine einfache Methode, um Ordnung in deine Aufgaben zu bringen. Sie hilft dir zu entscheiden, was du zuerst machst, was du einplanst und was du weglassen kannst."
+ ],
+ "methode_titel": "So funktioniert die Eisenhower-Matrix",
+ "uebung": {
+  "frage": "In welches Feld gehören diese Aufgaben?",
+  "optionen": [
+   "Sofort tun",
+   "Einplanen",
+   "Kurz erledigen",
+   "Weglassen"
+  ],
+  "aufgaben": [
+   {
+    "text": "Morgen ist die Mathe-Prüfung und du hast noch nicht gelernt.",
+    "richtig": "Sofort tun",
+    "warum": "Wichtig für deine Note und dringend, weil die Prüfung morgen ist."
+   },
+   {
+    "text": "Du willst bis zur Abschlussprüfung in einem Jahr besser in Französisch werden.",
+    "richtig": "Einplanen",
+    "warum": "Wichtig für dein Ziel, aber nicht dringend. Plane feste Übungszeiten ein, sonst bleibt es liegen."
+   },
+   {
+    "text": "Eine Kollegin bittet dich, ihr schnell ein Foto vom Stundenplan zu schicken.",
+    "richtig": "Kurz erledigen",
+    "warum": "Es eilt für sie, ist für dich aber nicht wichtig. Kurz erledigen, dann weiter."
+   },
+   {
+    "text": "Du schaust noch ein Video nach dem anderen, obwohl du eigentlich müde bist.",
+    "richtig": "Weglassen",
+    "warum": "Weder wichtig noch dringend. Das kannst du streichen."
+   },
+   {
+    "text": "Der Bewerbungsschluss für deine Wunsch-Lehrstelle ist übermorgen.",
+    "richtig": "Sofort tun",
+    "warum": "Sehr wichtig für deine Zukunft und dringend wegen der Frist."
+   },
+   {
+    "text": "Regelmässig Sport treiben, damit du fit bleibst.",
+    "richtig": "Einplanen",
+    "warum": "Wichtig für deine Gesundheit, aber ohne Frist. Gib dem Training feste Termine."
+   }
+  ]
+ },
+ "fragen": [
+  "Wie entscheidest du heute, welche Aufgabe du zuerst machst?",
+  "Welche deiner Aufgaben gehören in Feld 2 und bleiben oft liegen?",
+  "Was machst du oft, obwohl es weder wichtig noch dringend ist?"
+ ],
+ "suche": [
+  "Eisenhower-Matrix Beispiele",
+  "Eisenhower-Matrix Vorlage",
+  "Prioritäten setzen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=SyNoySmKlok",
+   "titel": "Das Eisenhower-Prinzip: richtig priorisieren lernen",
+   "dauer": "4 Min.",
+   "quelle": "DAK-Gesundheit, mit Psychologe René Träder",
+   "notiz": "Seriöse Quelle, kurz, Alltagsbezug"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://studyflix.de/wirtschaft/eisenhower-prinzip-3229",
+   "titel": "Eisenhower-Prinzip mit Beispielen",
+   "dauer": "8 Min.",
+   "quelle": "Studyflix, Text mit kurzem Erklärvideo",
+   "notiz": "Klare Beispiele, auch aus Schule und Lernen",
+   "warnung": "Seite hat Werbeboxen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=iiXRRIoW9aQ",
+   "titel": "Eisenhower-Matrix: Was ist wichtig und was dringend?",
+   "dauer": "6 Min.",
+   "quelle": "Heinrich-Heine-Universität Düsseldorf, mit Beispielen",
+   "notiz": "Hochschulquelle, Beispiele aus Bewerbung und Planung"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=dWQoldjrB1s",
+   "titel": "Zeitmanagement: Eisenhower und drei weitere Methoden im Vergleich",
+   "dauer": "11 Min.",
+   "quelle": "Herr Gerold",
+   "notiz": "Eisenhower im Vergleich mit drei anderen Methoden",
+   "warnung": "Amazon-Partnerlinks in der Videobeschreibung"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=oKjYVjl_G60",
+   "titel": "Hör auf, die Eisenhower-Matrix zu nutzen? Drei typische Missverständnisse",
+   "dauer": "10 Min.",
+   "quelle": "Sascha Feth, eine kritische Sicht auf die Methode",
+   "notiz": "Kritische Sicht auf die Methode, gut für das Gespräch",
+   "warnung": "Kleiner Kanal, wirbt für ein Buch"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://blogs.uni-bremen.de/wissenswert/files/Studierpersoenlichkeit_EisenhowerMatrix.pdf",
+   "titel": "Eisenhower-Matrix: Herkunft und Anleitung für Gruppen",
+   "dauer": "3 Seiten",
+   "quelle": "Universität Bremen (PDF)",
+   "notiz": "Herkunft der Methode und Anleitung für Gruppen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=x8viG5KaVfo",
+   "grund": "Zielgruppe Studierende, verweist auf Verkauf einer Vorlage"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=X0Vk4cTyYtE",
+   "grund": "Projektmanagement-Kontext"
+  },
+  {
+   "url": "https://asana.com/de/resources/eisenhower-matrix",
+   "grund": "Softwarefirma, Werbung für eigenes Produkt"
+  }
+ ]
+}

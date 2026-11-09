@@ -1,0 +1,110 @@
+{
+ "titel": "Zielsetzung mit SMART-Methode",
+ "kategorie": "Motivation",
+ "aufgabe": "Recherchiere, wie die SMART-Methode funktioniert, um Ziele spezifisch, messbar, erreichbar, relevant und termingebunden zu formulieren. Erstelle eine kurze Zusammenfassung oder eine Vorlage zur Anwendung der Methode.",
+ "ziel": "Lerne, wie klar formulierte Ziele zu höherer Motivation und besserer Organisation führen.",
+ "text": [
+  "«Ich will fitter werden.» «Ich will besser in Mathe werden.» Solche Ziele kennt jede und jeder. Das Problem: Sie sind so ungenau, dass man nie weiss, wo man anfangen soll und wann man es geschafft hat. Darum bleiben sie oft Wünsche.",
+  "Die SMART-Methode hilft dir, ein Ziel so genau zu formulieren, dass du einen Plan daraus machen kannst. Sie stammt ursprünglich aus der Arbeitswelt, funktioniert aber genauso für Schule, Lehre, Sport oder Freizeit."
+ ],
+ "methode_titel": "So funktioniert die SMART-Methode",
+ "uebung": {
+  "frage": "Ist dieses Ziel SMART formuliert?",
+  "optionen": [
+   "SMART",
+   "Nicht SMART"
+  ],
+  "hinweis": "Prüfe alle fünf Buchstaben: genau? messbar? will ich das? schaffbar? bis wann?",
+  "aufgaben": [
+   {
+    "text": "«Ich will fitter werden.»",
+    "richtig": "Nicht SMART",
+    "warum": "Richtig. Was heisst fitter? Woran misst du es? Und bis wann? Es fehlt fast alles."
+   },
+   {
+    "text": "«Bis zu den Sommerferien gehe ich jeden Montag und Donnerstag 30 Minuten joggen.»",
+    "richtig": "SMART",
+    "warum": "Richtig. Konkret, messbar (2× pro Woche, 30 Minuten), machbar und mit Termin."
+   },
+   {
+    "text": "«Nächste Woche werde ich Weltmeisterin im Schach.»",
+    "richtig": "Nicht SMART",
+    "warum": "Richtig. Konkret und mit Termin, aber nicht realistisch."
+   },
+   {
+    "text": "«Irgendwann suche ich mir eine Lehrstelle.»",
+    "richtig": "Nicht SMART",
+    "warum": "Richtig. «Irgendwann» ist kein Termin, und es ist nicht klar, was genau du tust."
+   },
+   {
+    "text": "«Bis Ende Monat schicke ich drei Bewerbungen für eine Lehrstelle als Elektroinstallateur ab.»",
+    "richtig": "SMART",
+    "warum": "Richtig. Klar, zählbar (drei Bewerbungen), machbar und mit Frist."
+   },
+   {
+    "text": "«In diesem Monat lese ich ein Buch fertig, jeden Abend 15 Minuten vor dem Schlafen.»",
+    "richtig": "SMART",
+    "warum": "Richtig. Genau, messbar, realistisch und terminiert."
+   }
+  ]
+ },
+ "fragen": [
+  "Welches Ziel hast du dir schon lange vorgenommen, aber nie erreicht? Woran lag es?",
+  "Welcher der fünf Buchstaben fällt dir am schwersten?",
+  "Wo könnte dir ein SMART-Ziel in den nächsten Wochen helfen: in der Schule, in der Lehre, in der Freizeit?"
+ ],
+ "suche": [
+  "SMART-Ziele Beispiele",
+  "Ziele formulieren Vorlage",
+  "SMART-Methode Kritik"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=l5ld0SlNYEk",
+   "titel": "Die SMART-Methode",
+   "dauer": "3 Min.",
+   "quelle": "STARK Verlag (Lernvideo)",
+   "notiz": "Lernvideo eines Schulbuchverlags"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cxmmLgTMX2U",
+   "titel": "SMART-Ziele formulieren, mit Beispielen",
+   "dauer": "5 Min.",
+   "quelle": "Erzieherkanal",
+   "notiz": "Mit Beispielen"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://studyflix.de/wirtschaft/smart-methode-6658",
+   "titel": "SMART-Methode: Definition und Beispiele",
+   "dauer": "6 Min.",
+   "quelle": "Studyflix, mit Erklärvideo",
+   "notiz": "Erklärt auch die verschiedenen Bedeutungen von A",
+   "warnung": "Seite hat Werbeboxen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=eykaYzKDVLk",
+   "titel": "Ziele SMART formulieren: die SMART-Formel einfach erklärt",
+   "dauer": "9 Min.",
+   "quelle": "Projekte leicht gemacht, ausführlich mit Beispielen",
+   "notiz": "Ausführlich, eher Projekt-Kontext"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://bildungsportal.sachsen.de/opal/oer/3PQWTLdGbkf4",
+   "titel": "Die SMART-Methode: Herkunft, Anwendung und Kritik",
+   "dauer": "2 Seiten",
+   "quelle": "Hochschule für Technik und Wirtschaft Dresden (PDF-Poster)",
+   "notiz": "Herkunft, Anwendung und Kritik (offene Lernressource)",
+   "warnung": "Studentisches Poster"
+  }
+ ]
+}

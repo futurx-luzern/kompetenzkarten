@@ -1,0 +1,179 @@
+/* Kompetenzkarten – gemeinsames Stylesheet (Design C2, mobile first) */
+@font-face {
+  font-family: "Bricolage Grotesque";
+  src: url(fonts/bricolage-grotesque-latin.woff2) format("woff2");
+  font-weight: 500 800;
+  font-display: swap;
+}
+
+:root {
+  --schwarz: #1b1b1b;
+  --leise: #5b5b5b;
+  --creme: #fbfaf6;
+  --weiss: #fff;
+  --linie: 2px solid var(--schwarz);
+  --schatten: 4px 4px 0 var(--schwarz);
+  --radius: 18px;
+  /* Feldfarben (Matrix, Übungen) */
+  --rot: #ff9a6b;
+  --blau: #a9d8ff;
+  --gelb: #ffe58a;
+  --grau: #ececec;
+  /* Standard: Selbstkompetenz (grüne Karten) */
+  --b1: #a6ec7e;
+  --b2: #9ae8cf;
+  --b-hell: #eefbe4;
+}
+/* Farbe je Kartentyp, wie auf den gedruckten Karten */
+.bereich-sozial  { --b1: #fbb53a; --b2: #fde05a; --b-hell: #fff4dc; }
+.bereich-methode { --b1: #8cc3e6; --b2: #b3e1fb; --b-hell: #e8f4fc; }
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--schwarz);
+  background: var(--creme);
+}
+h1, h2, h3, .gross { font-family: "Bricolage Grotesque", system-ui, sans-serif; font-weight: 800; letter-spacing: -.02em; }
+h2 { font-size: clamp(1.6rem, 6vw, 2.2rem); line-height: 1.08; margin: 0 0 1rem; }
+h3 { font-size: 1.25rem; margin: 0 0 .5rem; }
+p { margin: 0 0 .8rem; }
+a { color: inherit; }
+
+.band { padding: 2.2rem 1rem; }
+.band.weiss { background: var(--weiss); }
+.band.hell { background: var(--b-hell); }
+.band.farbe { background: linear-gradient(120deg, var(--b1), var(--b2)); }
+.innen { max-width: 46rem; margin: 0 auto; }
+
+/* Kopf */
+.held { padding-top: 1rem; padding-bottom: 2.6rem; }
+.zurueck { font-weight: 600; text-decoration: none; font-size: .92rem; }
+.zurueck:hover, .zurueck:focus-visible { text-decoration: underline; }
+.etikett {
+  display: inline-block; margin-top: 1.6rem;
+  background: var(--schwarz); color: #fff;
+  font-weight: 600; font-size: .85rem;
+  padding: .25rem .7rem; border-radius: 6px;
+}
+h1 { font-size: clamp(2.3rem, 10vw, 4.2rem); line-height: .98; margin: .6rem 0 1.2rem; }
+.kasten {
+  background: var(--weiss); border: var(--linie); border-radius: var(--radius);
+  padding: 1rem 1.1rem; box-shadow: var(--schatten);
+}
+.kasten p:last-child, .kasten ul:last-child { margin-bottom: 0; }
+.held .kasten { background: var(--creme); }
+
+/* Hinweis für falsch verlinkte gedruckte Karten */
+.qr-hinweis { background: #fff4dc; padding: 1rem; }
+.qr-hinweis a { font-weight: 700; }
+
+/* Ablauf */
+.schritte { display: grid; gap: .8rem; list-style: none; margin: 0; padding: 0; }
+@media (min-width: 640px) { .schritte { grid-template-columns: repeat(3, 1fr); } }
+.schritte li { background: var(--weiss); border: var(--linie); border-radius: var(--radius); padding: 1rem; }
+.schritte .gross {
+  display: inline-block; font-size: 2rem; line-height: 1.1;
+  background: var(--b-hell); border-radius: 10px; padding: .1rem .5rem; margin-bottom: .4rem;
+}
+.schritte b { display: block; }
+
+/* Methode: Matrix und Felder */
+.matrix { display: grid; grid-template-columns: 1fr 1fr; gap: .7rem; margin: 1.2rem 0; }
+.feld { border: var(--linie); border-radius: var(--radius); padding: .9rem; min-height: 8rem; }
+.feld .gross { font-size: 1.35rem; line-height: 1.05; display: block; margin-bottom: .3rem; }
+.feld small { display: block; font-weight: 700; font-size: .8rem; opacity: .8; margin-bottom: .2rem; }
+.f-rot { background: var(--rot); } .f-blau { background: var(--blau); }
+.f-gelb { background: var(--gelb); } .f-grau { background: var(--grau); }
+.matrix.smart .feld { min-height: 0; }
+.matrix.smart .feld:last-child { grid-column: 1 / -1; }
+@media (max-width: 480px) { .matrix.smart { grid-template-columns: 1fr; } }
+.achsen { display: flex; justify-content: space-between; font-size: .8rem; font-weight: 700; color: var(--leise); margin-top: -.6rem; }
+
+/* Cornell-Blatt */
+.blatt-skizze {
+  display: grid; grid-template-columns: 1fr 2.4fr; grid-template-rows: auto 1fr auto;
+  border: var(--linie); border-radius: var(--radius); overflow: hidden; background: var(--weiss);
+  margin: 1.2rem 0; min-height: 16rem;
+}
+.blatt-skizze > div { padding: .8rem; }
+.blatt-skizze .k { grid-column: 1 / 3; background: var(--grau); border-bottom: var(--linie); }
+.blatt-skizze .l { background: var(--gelb); border-right: var(--linie); }
+.blatt-skizze .r { background: var(--blau); }
+.blatt-skizze .u { grid-column: 1 / 3; background: var(--rot); border-top: var(--linie); }
+.blatt-skizze .gross { display: block; font-size: 1.1rem; }
+.blatt-skizze small { display: block; font-size: .88rem; line-height: 1.4; }
+
+/* Übung */
+.uebung { list-style: none; margin: 1rem 0 0; padding: 0; display: grid; gap: .8rem; }
+.uebung li { background: var(--weiss); border: var(--linie); border-radius: var(--radius); padding: .9rem 1rem; }
+.uebung .aufgabe { font-weight: 700; display: block; margin-bottom: .5rem; }
+.wahl { display: flex; flex-wrap: wrap; gap: .4rem; }
+.wahl button {
+  font: inherit; font-size: .9rem; font-weight: 600; cursor: pointer;
+  border: var(--linie); border-radius: 999px; padding: .25rem .8rem; background: var(--creme); color: var(--schwarz);
+}
+.wahl button:hover, .wahl button:focus-visible { background: var(--b-hell); }
+.wahl button.richtig { background: #9be564; }
+.wahl button.falsch { background: #ffb3b3; text-decoration: line-through; }
+.rueckmeldung { margin: .5rem 0 0; font-size: .93rem; min-height: 1.2em; }
+.uebung-stand { margin-top: 1rem; font-weight: 700; }
+
+/* Fragen */
+.fragen { list-style: none; margin: 0; padding: 0; display: grid; gap: .6rem; }
+.fragen li { background: var(--weiss); border: var(--linie); border-radius: var(--radius); padding: .7rem 1.1rem; }
+
+/* Links */
+.hinweis { color: var(--leise); }
+.stufe { display: flex; align-items: center; gap: .7rem; margin: 1.8rem 0 .7rem; }
+.stufe h3 { margin: 0; }
+.leiter { display: flex; align-items: flex-end; gap: 3px; }
+.leiter i { width: 9px; background: var(--schwarz); border-radius: 2px; opacity: .2; }
+.leiter i:nth-child(1) { height: 10px; } .leiter i:nth-child(2) { height: 16px; } .leiter i:nth-child(3) { height: 22px; }
+.leiter i.an { opacity: 1; }
+.links { list-style: none; margin: 0; padding: 0; display: grid; gap: .7rem; }
+.links a {
+  display: block; background: var(--weiss); border: var(--linie); border-radius: var(--radius);
+  padding: .9rem 1rem; text-decoration: none; transition: transform .12s, box-shadow .12s;
+}
+.links a:hover, .links a:focus-visible { transform: translate(-3px, -3px); box-shadow: var(--schatten); outline: none; }
+.chips { display: flex; gap: .4rem; margin-bottom: .35rem; flex-wrap: wrap; }
+.chip { font-size: .78rem; font-weight: 700; padding: .05rem .55rem; border-radius: 999px; border: 2px solid var(--schwarz); background: var(--weiss); }
+.chip.zeit { background: var(--b-hell); }
+.t { font-family: "Bricolage Grotesque", system-ui, sans-serif; font-weight: 800; font-size: 1.15rem; line-height: 1.2; display: block; }
+.q { font-size: .9rem; color: var(--leise); }
+
+.such { display: flex; flex-wrap: wrap; gap: .5rem; list-style: none; padding: 0; margin: 1.4rem 0 0; }
+.such li { background: var(--weiss); border: var(--linie); border-radius: 999px; padding: .25rem .9rem; font-size: .92rem; }
+
+.notizen ul { margin: .3rem 0 0; padding-left: 1.2rem; }
+.notizen li { margin-bottom: .5rem; }
+
+footer { text-align: center; font-size: .85rem; padding: 1.5rem 1rem; background: var(--schwarz); color: #ddd; }
+footer a { color: #fff; }
+
+/* Übersicht (index) */
+.uebersicht h1 { margin-bottom: 1rem; }
+.uebersicht .farbe h2 { margin-bottom: .3rem; }
+.uebersicht .farbe p { margin: 0; font-weight: 600; }
+.uebersicht .band:not(.farbe) { padding-top: 1.2rem; }
+.gruppe { margin-bottom: 1.6rem; }
+.gruppe h3 { margin-bottom: .2rem; }
+.suche-label { display: block; font-weight: 700; margin: 1.6rem 0 .4rem; }
+.suche { width: 100%; font: inherit; padding: .7rem 1rem; border: var(--linie); border-radius: 999px; background: var(--weiss); }
+.liste { list-style: none; margin: 1.2rem 0 0; padding: 0; display: grid; gap: .5rem; }
+@media (min-width: 640px) { .liste { grid-template-columns: 1fr 1fr; } }
+.liste a { display: block; padding: .6rem .9rem; border: var(--linie); border-radius: 12px; background: var(--weiss); text-decoration: none; font-weight: 600; }
+.liste a:hover, .liste a:focus-visible { background: var(--b-hell); }
+
+@media print {
+  body { background: #fff; }
+  .band { padding: 1rem 0; background: none !important; }
+  .zurueck, .uebung, footer { display: none; }
+  .kasten, .links a, .fragen li, .schritte li { box-shadow: none; }
+  .links a::after { content: " " attr(href); display: block; font-size: .75rem; color: #555; word-break: break-all; }
+}

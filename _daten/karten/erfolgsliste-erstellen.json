@@ -1,0 +1,79 @@
+{
+ "titel": "Erfolgsliste erstellen",
+ "kategorie": "Motivation",
+ "aufgabe": "Recherchiere, wie eine Erfolgsliste funktioniert und welche Vorteile sie für die Motivation bietet. Erstelle eine kurze Zusammenfassung oder gestalte eine Vorlage für deine eigene Erfolgsliste.",
+ "ziel": "Erkenne, wie das Bewusstsein über erledigte Aufgaben die Motivation steigert.",
+ "text": [
+  "Am Ende eines Tages denken viele vor allem an das, was nicht geklappt hat oder noch fehlt. Was gut gelaufen ist, vergisst man schnell. Das kann ganz schön an der Motivation nagen.",
+  "Eine Erfolgsliste dreht den Blick um: Du schreibst regelmässig auf, was du geschafft hast. So siehst du schwarz auf weiss, dass du vorwärtskommst. Das gibt Selbstvertrauen und Energie für die nächsten Aufgaben."
+ ],
+ "methode_titel": "So funktioniert eine Erfolgsliste",
+ "fragen": [
+  "Was hast du diese Woche geschafft, auch wenn es nur etwas Kleines war?",
+  "Woran denkst du am Abend eher: an das, was gut lief, oder an das, was schiefging?",
+  "Wann könnte dir ein Blick auf deine Erfolgsliste helfen?"
+ ],
+ "suche": [
+  "Erfolgstagebuch",
+  "Have-Done-Liste",
+  "Selbstwirksamkeit stärken"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=JdE9T9PxdLM",
+   "titel": "Die Have-Done-Liste: befriedigender als eine To-do-Liste",
+   "dauer": "3 Min.",
+   "quelle": "Sarah Kuttner (UH!Tube)",
+   "notiz": "Genau die Methode, kurz und persönlich",
+   "warnung": "Im Kontext ADHS erzählt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=-vwiEs8QE2g",
+   "titel": "Was ist Selbstwirksamkeit?",
+   "dauer": "2 Min.",
+   "quelle": "Gesundheitsförderung Schweiz",
+   "notiz": "Schweizer Quelle, erklärt, warum sichtbare Erfolge helfen"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/selbstvertrauen_aufpeppen/gnomio_entwaffnen/uebungen_fuer_mehr_selbstwert.cfm",
+   "titel": "Übungen für mehr Selbstwert, z.B. das «Pluspunkte-Büchlein»",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Gesundheitsstiftung RADIX)",
+   "notiz": "Übung 6 «Pluspunkte-Büchlein» entspricht der Erfolgsliste"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QRiNRz2LKzQ",
+   "titel": "Was ist Selbstwirksamkeit und wie bekommt man sie?",
+   "dauer": "2,5 Min.",
+   "quelle": "Stiftung Gesundheitswissen",
+   "notiz": "Kurz, seriöse Stiftung"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://karrierebibel.de/erfolgstagebuch/",
+   "titel": "Erfolgstagebuch: Vorteile, Inhalt und Vorlage",
+   "dauer": "8 Min.",
+   "quelle": "Karrierebibel, eher für Erwachsene im Beruf",
+   "notiz": "Ausführlich mit Vorlage",
+   "warnung": "Für Erwachsene im Beruf, hat Werbung"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=P7lWoPTyCl4",
+   "titel": "Selbstwirksamkeitstheorie nach Bandura",
+   "dauer": "3 Min.",
+   "quelle": "Dr. Florian Buchwald (Psychologieunterricht), die Theorie hinter der Methode",
+   "notiz": "Theorie hinter der Methode"
+  }
+ ]
+}

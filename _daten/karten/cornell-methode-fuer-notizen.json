@@ -1,0 +1,107 @@
+{
+ "titel": "Cornell-Methode für Notizen",
+ "kategorie": "Lerntechniken",
+ "aufgabe": "Recherchiere, wie die Cornell-Methode für die Erstellung von Notizen funktioniert und welche Vorteile sie bietet. Erstelle eine kurze Zusammenfassung oder eine Vorlage für diese Methode.",
+ "ziel": "Lerne, wie du effektiv Notizen machst, um den Lernstoff besser zu strukturieren.",
+ "text": [
+  "Viele Notizen sehen nach ein paar Wochen aus wie ein Durcheinander. Man findet nichts mehr und versteht die eigenen Stichworte nicht mehr.",
+  "Die Cornell-Methode ist eine Art, ein Notizblatt einzuteilen. So schreibst du im Unterricht mit und kannst später direkt damit lernen."
+ ],
+ "methode_titel": "So funktioniert die Cornell-Methode",
+ "uebung": {
+  "frage": "Wohin auf dem Cornell-Blatt gehört das?",
+  "optionen": [
+   "Kopfzeile",
+   "Fragen",
+   "Notizen",
+   "Zusammenfassung"
+  ],
+  "hinweis": "Schau dir die Skizze oben nochmals an.",
+  "aufgaben": [
+   {
+    "text": "Datum, Fach und Thema der Lektion",
+    "richtig": "Kopfzeile",
+    "warum": "Die Kopfzeile hilft dir, das Blatt später schnell zu finden."
+   },
+   {
+    "text": "Stichworte, während die Lehrperson erklärt",
+    "richtig": "Notizen",
+    "warum": "Im grossen Feld rechts schreibst du während des Unterrichts mit."
+   },
+   {
+    "text": "«Was ist Fotosynthese?»",
+    "richtig": "Fragen",
+    "warum": "Fragen schreibst du nach dem Unterricht in die linke Spalte. Damit lernst du später."
+   },
+   {
+    "text": "Das Wichtigste der Lektion in drei Sätzen",
+    "richtig": "Zusammenfassung",
+    "warum": "Die Zusammenfassung steht unten und entsteht am Schluss."
+   },
+   {
+    "text": "Wichtige Fachbegriffe, nach dem Unterricht ergänzt",
+    "richtig": "Fragen",
+    "warum": "Begriffe gehören wie die Fragen in die linke Spalte."
+   }
+  ]
+ },
+ "fragen": [
+  "Wie sehen deine Notizen heute aus? Verstehst du sie nach ein paar Wochen noch?",
+  "In welchem Fach oder Kurs könntest du die Cornell-Methode ausprobieren?",
+  "Was ist für dich schwieriger: mitschreiben oder später mit den Notizen lernen?"
+ ],
+ "suche": [
+  "Cornell-Methode Vorlage",
+  "Cornell Notizen Beispiel",
+  "richtig mitschreiben"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=8ODlGme5Qmo",
+   "titel": "Bessere Mitschriften mit der Cornell-Methode",
+   "dauer": "3,5 Min.",
+   "quelle": "Lernförderung, mit Beispielen aus der Schule",
+   "notiz": "Schulbezug: Mitschrift im Unterricht",
+   "warnung": "Videobeschreibung wirbt für ein Buch"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://blog.hslu.ch/studythings/2021/02/12/notizen-machen/2/",
+   "titel": "Notizen mit der Cornell-Methode, mit Vorlage zum Ausdrucken",
+   "dauer": "5 Min.",
+   "quelle": "Hochschule Luzern",
+   "notiz": "Schweizer Quelle, Vorlage zum Ausdrucken"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=yjutSUDuhbc",
+   "titel": "Richtig mitschreiben: die Cornell-Methode",
+   "dauer": "6 Min.",
+   "quelle": "Heinrich-Heine-Universität Düsseldorf",
+   "notiz": "Hochschulquelle, sachlich"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=kGJdU17qVmw",
+   "titel": "Cornell-Methode: besser notieren, mitschreiben und zusammenfassen",
+   "dauer": "12 Min.",
+   "quelle": "Markus Oppitz, ausführlich mit Beispielen",
+   "notiz": "Ausführlich mit Beispielen. Älter, die Methode hat sich nicht verändert"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=T6CG6403_W8",
+   "grund": "Video existiert nicht mehr"
+  },
+  {
+   "url": "https://www.buero-kaizen.de/cornell-methode/",
+   "grund": "Bürokontext, ersetzt durch HSLU"
+  }
+ ]
+}

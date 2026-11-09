@@ -1,0 +1,320 @@
+{
+ "https://bildungsportal.sachsen.de/opal/oer/3PQWTLdGbkf4": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
+ },
+ "https://blog.hslu.ch/studythings/2021/02/12/notizen-machen/2/": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Notizen machen – Seite 2 – Study Things",
+  "weiterleitung": ""
+ },
+ "https://blogs.uni-bremen.de/wissenswert/files/Studierpersoenlichkeit_EisenhowerMatrix.pdf": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
+ },
+ "https://karrierebibel.de/erfolgstagebuch/": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Erfolgstagebuch: Vorlage, Vorteile + Tipps zum Inhalt",
+  "weiterleitung": ""
+ },
+ "https://studyflix.de/wirtschaft/eisenhower-prinzip-3229": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Eisenhower Prinzip • Funktionsweise, Tipps · Studyflix",
+  "weiterleitung": "https://studyflix.de/biologie/eisenhower-prinzip-3229"
+ },
+ "https://studyflix.de/wirtschaft/smart-methode-6658": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "SMART Methode • Definition & Beispiele · Studyflix",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/selbstvertrauen_aufpeppen/gnomio_entwaffnen/uebungen_fuer_mehr_selbstwert.cfm": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Übungen für mehr Selbstwert",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/nein_sagen/tipps/ich_sage_nein.cfm": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Ich sage Nein: Strategien gegen die Manipulation",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/schlafprobleme/infos_und_tipps/schlafqualitaet_verbessern.cfm": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Schlafqualität verbessern",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/tests/tests/nein_sagen.cfm": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Nein sagen",
+  "weiterleitung": ""
+ },
+ "https://www.handysektor.de/artikel/darum-solltest-du-im-internet-nicht-alles-preisgeben/": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Darum solltest du im Internet nicht alles preisgeben! – Handysektor",
+  "weiterleitung": ""
+ },
+ "https://www.konsumentenschutz.ch/online-ratgeber/datenschutz-im-internet/": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Wie schütze ich meine Daten im Internet?",
+  "weiterleitung": ""
+ },
+ "https://www.srf.ch/play/tv/we-myself--why/video/nein-sagen-so-klappt-es?urn=urn:srf:video:ee8d2591-400e-4c49-b39f-cf844fb3e0b5": {
+  "datum": "2022-06-22",
+  "geprueft": "2026-11-09",
+  "kanal": "SRF We, Myself & Why",
+  "ok": true,
+  "sekunden": 255,
+  "status": "OK",
+  "titel": "Nein sagen: So klappt es"
+ },
+ "https://www.youtube.com/watch?v=-vwiEs8QE2g": {
+  "datum": "2021-03-25",
+  "geprueft": "2026-11-09",
+  "kanal": "PromotionSanteCH",
+  "ok": true,
+  "sekunden": 132,
+  "status": "OK",
+  "titel": "Einführung Selbstwirksamkeit"
+ },
+ "https://www.youtube.com/watch?v=8ODlGme5Qmo": {
+  "datum": "2022-01-19",
+  "geprueft": "2026-11-09",
+  "kanal": "lernfoerderung",
+  "ok": true,
+  "sekunden": 212,
+  "status": "OK",
+  "titel": "Perfekte Mitschriften mit der ✅  Cornell-Methode"
+ },
+ "https://www.youtube.com/watch?v=CgfdDAaGUeg": {
+  "datum": "2021-12-14",
+  "geprueft": "2026-11-09",
+  "kanal": "planet schule",
+  "ok": true,
+  "sekunden": 104,
+  "status": "OK",
+  "titel": "Datenschutz - So schützt du deine personenbezogenen Daten! | so geht MEDIEN | planet schule | ARD"
+ },
+ "https://www.youtube.com/watch?v=EZKbP2xV8yU": {
+  "datum": "2018-06-26",
+  "geprueft": "2026-11-09",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 307,
+  "status": "OK",
+  "titel": "Müde in der Schule: Warum Teenies ausschlafen sollten | Quarks"
+ },
+ "https://www.youtube.com/watch?v=HxR1s05CLu4": {
+  "datum": "2022-07-11",
+  "geprueft": "2026-11-09",
+  "kanal": "SRF Wissen",
+  "ok": true,
+  "sekunden": 1889,
+  "status": "OK",
+  "titel": "Gesunder Schlaf – wie du dein Schlafproblem in den Griff bekommst | Puls | SRF"
+ },
+ "https://www.youtube.com/watch?v=JTlDIu_PXlE": {
+  "datum": "2020-12-09",
+  "geprueft": "2026-11-09",
+  "kanal": "Stiftung Gesundheitswissen",
+  "ok": true,
+  "sekunden": 157,
+  "status": "OK",
+  "titel": "Wie kann ich Schlafstörungen vermeiden?"
+ },
+ "https://www.youtube.com/watch?v=JdE9T9PxdLM": {
+  "datum": "2023-04-11",
+  "geprueft": "2026-11-09",
+  "kanal": "UH!Tube | Sarah Kuttner",
+  "ok": true,
+  "sekunden": 161,
+  "status": "OK",
+  "titel": "Die ADHS-Have-Done-Liste! So viel befriedigender als eine To-Do-Liste!"
+ },
+ "https://www.youtube.com/watch?v=KLgop0GyKD8": {
+  "datum": "2026-04-13",
+  "geprueft": "2026-11-09",
+  "kanal": "ARD GESUND",
+  "ok": true,
+  "sekunden": 606,
+  "status": "OK",
+  "titel": "People Pleasing: Warum wir so schwer Nein sagen können | Reden hilft | ARD GESUND"
+ },
+ "https://www.youtube.com/watch?v=OBdCiOY8-Xg": {
+  "datum": "2025-02-12",
+  "geprueft": "2026-11-09",
+  "kanal": "SRF Impact",
+  "ok": true,
+  "sekunden": 985,
+  "status": "OK",
+  "titel": "Tschüss Privatsphäre! – So verraten Tinder, Spotify & Co. intime Details von dir | Impact | SRF"
+ },
+ "https://www.youtube.com/watch?v=P7lWoPTyCl4": {
+  "datum": "2025-05-02",
+  "geprueft": "2026-11-09",
+  "kanal": "Dr. Florian Buchwald",
+  "ok": true,
+  "sekunden": 166,
+  "status": "OK",
+  "titel": "Selbstwirksamkeitstheorie (Bandura) | Psychologieunterricht"
+ },
+ "https://www.youtube.com/watch?v=Q16NkzC3czM": {
+  "datum": "2026-02-24",
+  "geprueft": "2026-11-09",
+  "kanal": "Stefanie Stahl",
+  "ok": true,
+  "sekunden": 442,
+  "status": "OK",
+  "titel": "Ich kann keine Grenzen setzen – Psychologie Kompakt mit Stefanie Stahl"
+ },
+ "https://www.youtube.com/watch?v=QRiNRz2LKzQ": {
+  "datum": "2024-05-17",
+  "geprueft": "2026-11-09",
+  "kanal": "Stiftung Gesundheitswissen",
+  "ok": true,
+  "sekunden": 147,
+  "status": "OK",
+  "titel": "Was ist Selbstwirksamkeit?"
+ },
+ "https://www.youtube.com/watch?v=SyNoySmKlok": {
+  "datum": "2021-10-09",
+  "geprueft": "2026-11-09",
+  "kanal": "DAK niceones",
+  "ok": true,
+  "sekunden": 239,
+  "status": "OK",
+  "titel": "Das Eisenhower-Prinzip | Richtig priorisieren lernen | #gesundesmiteinander | DAK-Gesundheit"
+ },
+ "https://www.youtube.com/watch?v=Xphn3_z7KDc": {
+  "datum": "2025-12-03",
+  "geprueft": "2026-11-09",
+  "kanal": "Studyflix",
+  "ok": true,
+  "sekunden": 255,
+  "status": "OK",
+  "titel": "Grenzen setzen: Wie du \"Nein\" sagen kannst"
+ },
+ "https://www.youtube.com/watch?v=cxmmLgTMX2U": {
+  "datum": "2024-04-14",
+  "geprueft": "2026-11-09",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 304,
+  "status": "OK",
+  "titel": "SMART Ziele - Wie du Ziele mit der SMART Methode formulierst (+Beispiele) | ERZIEHERKANAL"
+ },
+ "https://www.youtube.com/watch?v=dWQoldjrB1s": {
+  "datum": "2021-02-05",
+  "geprueft": "2026-11-09",
+  "kanal": "Herr Gerold",
+  "ok": true,
+  "sekunden": 679,
+  "status": "OK",
+  "titel": "Zeitmanagement -- ABC-Analyse, Eisenhower-Prinzip, ALPEN-Methode, Pareto-Prinzip"
+ },
+ "https://www.youtube.com/watch?v=eykaYzKDVLk": {
+  "datum": "2020-09-09",
+  "geprueft": "2026-11-09",
+  "kanal": "Projekte leicht gemacht",
+  "ok": true,
+  "sekunden": 564,
+  "status": "OK",
+  "titel": "Ziele SMART formulieren – Die SMART-Formel einfach erklärt"
+ },
+ "https://www.youtube.com/watch?v=iiXRRIoW9aQ": {
+  "datum": "2020-12-15",
+  "geprueft": "2026-11-09",
+  "kanal": "HHU Düsseldorf - Lehrstuhl für Management",
+  "ok": true,
+  "sekunden": 348,
+  "status": "OK",
+  "titel": "+beyond | Eisenhower Matrix – Was ist wichtig und dringend? Priorisieren wie Präsidenten!"
+ },
+ "https://www.youtube.com/watch?v=jXLZIYwRJLE": {
+  "datum": "2021-06-15",
+  "geprueft": "2026-11-09",
+  "kanal": "147 Schweiz / Suisse / Svizzera",
+  "ok": true,
+  "sekunden": 66,
+  "status": "OK",
+  "titel": "So schützt du deine Daten auf Social Media"
+ },
+ "https://www.youtube.com/watch?v=kGJdU17qVmw": {
+  "datum": "2016-11-17",
+  "geprueft": "2026-11-09",
+  "kanal": "Markus Oppitz",
+  "ok": true,
+  "sekunden": 707,
+  "status": "OK",
+  "titel": "Cornell - Methode - besser Lernen, Notieren, Mitschreiben und Zusammenfassen"
+ },
+ "https://www.youtube.com/watch?v=l5ld0SlNYEk": {
+  "datum": "2018-11-09",
+  "geprueft": "2026-11-09",
+  "kanal": "STARK Verlag",
+  "ok": true,
+  "sekunden": 189,
+  "status": "OK",
+  "titel": "Die SMART-Methode | STARK erklärt"
+ },
+ "https://www.youtube.com/watch?v=oKjYVjl_G60": {
+  "datum": "2025-09-28",
+  "geprueft": "2026-11-09",
+  "kanal": "Sascha Feth",
+  "ok": true,
+  "sekunden": 578,
+  "status": "OK",
+  "titel": "Hör auf die Eisenhower-Matrix zu nutzen - Hier ist warum"
+ },
+ "https://www.youtube.com/watch?v=tsrkB9I7m80": {
+  "datum": "2025-09-19",
+  "geprueft": "2026-11-09",
+  "kanal": "NZZ Format",
+  "ok": true,
+  "sekunden": 1767,
+  "status": "OK",
+  "titel": "Deine Daten im Netz: Ende der Privatheit? | Doku NZZ Format"
+ },
+ "https://www.youtube.com/watch?v=tyCKfnW6I8Y": {
+  "datum": "2024-06-06",
+  "geprueft": "2026-11-09",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 1648,
+  "status": "OK",
+  "titel": "Lebenszeit gewinnen durch weniger Schlaf? | Terra Xplore mit Jasmina Neudecker"
+ },
+ "https://www.youtube.com/watch?v=yjutSUDuhbc": {
+  "datum": "2021-06-17",
+  "geprueft": "2026-11-09",
+  "kanal": "HHU Düsseldorf - Lehrstuhl für Management",
+  "ok": true,
+  "sekunden": 359,
+  "status": "OK",
+  "titel": "+beyond | Richtig Mitschreiben – Das Erfolgsrezept Cornell Methode"
+ }
+}
