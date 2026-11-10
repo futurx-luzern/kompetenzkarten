@@ -1,0 +1,91 @@
+{
+ "titel": "Stimmung und Wohlbefinden",
+ "kategorie": "Konzentration",
+ "aufgabe": "Finde heraus, wie deine Stimmung und dein Wohlbefinden die Konzentration beeinflussen können. Erstelle eine kurze Zusammenfassung oder ein Stimmungsdiagramm mit Tipps zur Verbesserung.",
+ "ziel": "Erfahre, wie du durch positive Stimmung und Wohlbefinden deine Konzentrations- fähigkeit stärken kannst.",
+ "text": [
+  "Kennst du das? Nach einem Streit oder bei grossen Sorgen kannst du dich kaum auf die Schule oder die Arbeit konzentrieren. Und an guten Tagen geht alles fast von selbst.",
+  "Deine Stimmung und dein Wohlbefinden haben einen grossen Einfluss auf deine Konzentration. Auf dieser Karte erfährst du, warum das so ist und was du für dich tun kannst."
+ ],
+ "methode_titel": "Warum Gefühle die Konzentration beeinflussen",
+ "fragen": [
+  "In welcher Stimmung kannst du dich gut konzentrieren, in welcher schlecht?",
+  "Was tut dir gut, wenn es dir nicht so gut geht?",
+  "Was möchtest du für dein Wohlbefinden ausprobieren?"
+ ],
+ "suche": [
+  "Stress Gehirn erklärt",
+  "Gefühle umgehen Tipps",
+  "Wohlbefinden Jugendliche"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=6GKQrn1OcAI",
+   "titel": "Stress: Was passiert im Körper?",
+   "dauer": "2 Min.",
+   "quelle": "Stiftung Gesundheitswissen, 2024",
+   "notiz": "Kurz und klar erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=O0N5CrXBqgE",
+   "titel": "So gehst du mit deinen Gefühlen um",
+   "dauer": "4,5 Min.",
+   "quelle": "Studyflix, 2025"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.147.ch/de/",
+   "titel": "147: Beratung für Kinder und Jugendliche",
+   "dauer": "Webseite",
+   "quelle": "Pro Juventute",
+   "notiz": "Infos zu vielen Themen und Hilfe per Telefon, Chat oder SMS"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=hzLmih1gJpk",
+   "titel": "Was Stress mit unserem Gehirn macht",
+   "dauer": "4,5 Min.",
+   "quelle": "TED-Ed (deutsche Fassung), 2024",
+   "notiz": "Gezeichnet erklärt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QT8I4BoiL74",
+   "titel": "5-Finger-Atmung: 2 Minuten gegen Stress",
+   "dauer": "2,5 Min.",
+   "quelle": "Techniker Krankenkasse",
+   "notiz": "Eine Übung zum Mitmachen"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.bst.bkd.be.ch/de/start/themen/psyche-wohlbefinden/psychische-probleme/konzentrationsstoerungen.html",
+   "titel": "Konzentrationsstörungen",
+   "dauer": "5 Min.",
+   "quelle": "Kanton Bern, Bildungs- und Kulturdirektion",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=5O68sm6BBBs",
+   "titel": "Denken, Lernen, Träumen: Was unser Gehirn leistet",
+   "dauer": "36,5 Min.",
+   "quelle": "SRF Einstein, 2026",
+   "notiz": "Ausführliche Sendung, auch zu Gefühlen und Lernen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.oberbergkliniken.de/symptome/konzentrationsschwaeche",
+   "grund": "Seite einer Privatklinik für Erwachsene"
+  }
+ ]
+}

@@ -68,6 +68,7 @@ TRENNUNGEN = {
     "Freizeitaktivitäten": "Freizeit­aktivitäten",
     "Konfliktmanagement": "Konflikt­management",
     "Wertschätzung": "Wert­schätzung",
+    "Achtsamkeitsübungen": "Achtsamkeits­übungen",
 }
 
 

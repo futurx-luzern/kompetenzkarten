@@ -1,0 +1,60 @@
+{
+ "titel": "Rückwärts schreiben",
+ "kategorie": "Konzentration",
+ "aufgabe": "Informiere dich darüber, wie das Rückwärtsschreiben (z.B. das Alphabet) die Konzentration fördern kann. Erstelle eine kurze Zusammenfassung dieser Technik und ihrer Vorteile.",
+ "ziel": "Verstehe, wie ungewöhnliche Übungen deine Konzentrationsfähigkeit herausfordern und stärken können.",
+ "text": [
+  "Das Alphabet rückwärts aufsagen, den eigenen Namen rückwärts schreiben oder in Spiegelschrift: Das klingt einfach, ist aber überraschend anstrengend.",
+  "Genau das macht es zu einer guten Konzentrationsübung. Weil nichts mehr automatisch läuft, musst du ganz bei der Sache sein. Auf dieser Karte probierst du verschiedene Varianten aus."
+ ],
+ "methode_titel": "So funktioniert die Übung",
+ "fragen": [
+  "Welche Variante war für dich am schwierigsten? Warum?",
+  "Wie oft sind deine Gedanken während der Übung abgeschweift?",
+  "Wann könnte dir so eine kurze Übung im Alltag helfen?"
+ ],
+ "suche": [
+  "Konzentrationsübungen ohne Hilfsmittel",
+  "Gehirnjogging Übungen",
+  "Spiegelschrift üben"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.diefamilie.ch/N161345/10-praktische-ubungen-zur-forderung-der-konzentration.html",
+   "titel": "10 praktische Übungen zur Förderung der Konzentration",
+   "dauer": "5 Min.",
+   "quelle": "diefamilie.ch (früher zuerichfamilie.ch)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=OPI8wR87fqg",
+   "titel": "So könnt ihr eure Konzentration verbessern",
+   "dauer": "3,5 Min.",
+   "quelle": "Quarks (Ralph Caspers), 2023",
+   "notiz": "Was Konzentration überhaupt ist"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=GDFfpMEvsqY",
+   "titel": "Zwei Konzentrationsübungen ohne Hilfsmittel",
+   "dauer": "6 Min.",
+   "quelle": "Günter Freund (Mentaltrainer)",
+   "notiz": "Zwei weitere Übungen dieser Art zum Ausprobieren"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.erstenachhilfe.de/blog/kleine-konzentrationsuebungen-fuer-ein-besseres-lernen",
+   "titel": "Kleine Konzentrationsübungen für besseres Lernen",
+   "dauer": "5 Min.",
+   "quelle": "Erste Nachhilfe",
+   "notiz": "Bleibt von der alten Seite"
+  }
+ ],
+ "bemerkung": "Zum Rückwärtsschreiben selbst gibt es kaum gute Videos. Die Karte setzt darum auf die Mini-Einführung zum Ausprobieren."
+}

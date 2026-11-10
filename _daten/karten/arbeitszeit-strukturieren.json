@@ -1,0 +1,82 @@
+{
+ "titel": "Arbeitszeit strukturieren",
+ "kategorie": "Konzentration",
+ "aufgabe": "Suche Informationen darüber, wie die Strukturierung der Arbeitszeit durch abwechslungsreiche Aufgaben die Konzentration fördern kann. Erstelle eine kurze Zusammenfassung oder eine einfache Zeitmanagement- Checkliste.",
+ "ziel": "Lerne, wie abwechslungsreiche Arbeitsweisen die Konzentrationsfähigkeit steigern.",
+ "text": [
+  "Stell dir vor, du lernst drei Stunden am Stück nur Mathe. Nach einer Stunde geht nichts mehr rein. Wenn du deine Zeit aber gut einteilst, mit Abwechslung und Pausen, bleibt dein Kopf länger frisch.",
+  "Auf dieser Karte lernst du, wie du einen Lern- oder Arbeitstag so planst, dass du konzentriert bleibst und mehr schaffst."
+ ],
+ "methode_titel": "So strukturierst du deine Arbeitszeit",
+ "fragen": [
+  "Wie planst du heute deine Lern- oder Arbeitszeit? Planst du überhaupt?",
+  "Wann am Tag bist du am konzentriertesten?",
+  "Wie könnte dein nächster Lernnachmittag aussehen?"
+ ],
+ "suche": [
+  "Zeitmanagement Tipps",
+  "Timeboxing",
+  "Lernplan erstellen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=wLHPgcOekvw",
+   "titel": "So verbesserst du dein Zeitmanagement: 10 Tipps",
+   "dauer": "4,5 Min.",
+   "quelle": "Studyflix, 2025",
+   "notiz": "Kurz und aktuell"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=qXgKaJsmwz4",
+   "titel": "Timeboxing: Was ist das?",
+   "dauer": "3 Min.",
+   "quelle": "Marketinginstitut (Prof. Michael Bernecker)",
+   "notiz": "Die Methode mit festen Zeitfenstern erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/tipps_beim_arbeiten/tipps_gegen_schulstress.cfm",
+   "titel": "Tipps gegen Schulstress",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Auch zum Planen und Einteilen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=9tx5FcodvK0",
+   "titel": "Zeitmanagement-Methoden kennen und anwenden",
+   "dauer": "8 Min.",
+   "quelle": "David Guttmann (Dozent)",
+   "notiz": "Die vier bekanntesten Methoden im Überblick"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=neV6c3V3KDg",
+   "titel": "Verliert unser Gehirn den Fokus?",
+   "dauer": "28 Min.",
+   "quelle": "ARTE, 42, 2025",
+   "notiz": "Warum Ablenkung und ständiges Wechseln so viel Kraft kosten"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.orizon.de/de/karriereratgeber/zeitmanagement",
+   "grund": "Ratgeber einer Personalvermittlung, für Erwachsene"
+  },
+  {
+   "url": "https://www.impulse.de/selbstmanagement/arbeitszeit-organisieren/4338177.html",
+   "grund": "Für Unternehmer geschrieben"
+  },
+  {
+   "url": "https://www.persona.de/magazin/artikel/optimale-arbeitszeitgestaltung-weniger-stress",
+   "grund": "Firmenmagazin, für Personalabteilungen"
+  }
+ ]
+}

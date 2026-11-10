@@ -1,0 +1,79 @@
+{
+ "titel": "Liegende Acht üben",
+ "kategorie": "Konzentration",
+ "aufgabe": "Recherchiere, wie die Liegende Acht als Konzentrationsübung funktioniert und welche Vorteile sie bietet. Erstelle eine kurze Zusammenfassung der Methode und ihre mögliche Wirkung auf die Konzentrationsfähigkeit.",
+ "ziel": "Erkenne, wie einfache Übungen deine Konzentration steigern können.",
+ "text": [
+  "Die Liegende Acht ist eine kurze Übung: Du zeichnest mit dem Daumen eine grosse, liegende Acht in die Luft und folgst ihr mit den Augen. Sie dauert nur eine Minute und geht überall, auch im Schulzimmer oder am Arbeitsplatz.",
+  "Viele nutzen sie als kleine Pause, um wieder ruhig und aufmerksam zu werden. Auf dieser Karte lernst du, wie sie geht, und was man über ihre Wirkung weiss."
+ ],
+ "methode_titel": "So funktioniert die Liegende Acht",
+ "fragen": [
+  "Wie hast du dich nach der Übung gefühlt? Ruhiger, wacher, oder gleich wie vorher?",
+  "In welchen Situationen könnte dir eine so kurze Pause helfen?",
+  "Was hältst du davon, dass die Wirkung wissenschaftlich nicht belegt ist?"
+ ],
+ "suche": [
+  "Liegende Acht Übung",
+  "Brain Gym Übungen",
+  "Bewegungspause Konzentration"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=1gmTG0g7Mgw",
+   "titel": "Liegende Acht",
+   "dauer": "1 Min.",
+   "quelle": "BildungsTV",
+   "notiz": "Die Übung kurz gezeigt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=aVfY19arX5k",
+   "titel": "Liegende Acht und Überkreuzbewegungen",
+   "dauer": "4 Min.",
+   "quelle": "Institut für Kinesiologie",
+   "notiz": "Anleitung zu zwei Übungen",
+   "warnung": "Erklärt die Wirkung aus Sicht der Kinesiologie, nicht wissenschaftlich belegt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=_MGYKES66-E",
+   "titel": "4 Brain-Gym-Übungen für zwischendurch",
+   "dauer": "4,5 Min.",
+   "quelle": "Institut für Kinesiologie",
+   "notiz": "Weitere Übungen neben der Liegenden Acht"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://reginahelfenstein.ch/images/Tipps_PDF/kinesiologie-tipps/Liegende_Achten.pdf",
+   "titel": "Liegende Achten: Anleitung als PDF",
+   "dauer": "1 Seite",
+   "quelle": "Praxis für Kinesiologie (Schweiz)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=qSz97b7COk8",
+   "titel": "Neuroathletik: Was das Training fürs Gehirn bringt",
+   "dauer": "10,5 Min.",
+   "quelle": "ARD Gesund, 2025",
+   "notiz": "Eine Ärztin prüft, was Augen- und Gleichgewichtsübungen wirklich bewirken"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=HrDbt_mTYKc",
+   "grund": "Für Kinder im Primarschulalter gemacht"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=JW_KkFzyWZ8",
+   "grund": "Ersetzt durch klarere Anleitungen"
+  }
+ ]
+}

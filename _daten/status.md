@@ -3,7 +3,7 @@
 Stand 2026-11-10. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 42 online, 7 bereit, 73 offen (von 122)
+**Total:** 49 online, 11 bereit, 62 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -77,29 +77,29 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Nutzung von Rechtschreibtools | `nutzung-von-rechtschreibtools.html` | bereit |
-| AI-gestützte Textüberarbeitung | `ai-gestuetzte-textueberarbeitung.html` | bereit |
-| Effiziente Internetrecherche | `effiziente-internetrecherche.html` | bereit |
-| Online-Datenbanken nutzen | `online-datenbanken-nutzen.html` | bereit |
-| Sichere Passwörter erstellen | `sichere-passwoerter-erstellen.html` | bereit |
-| Ordnung halten | `ordnung-halten.html` | bereit |
-| Ergebnisse verkaufen | `ergebnisse-verkaufen.html` | bereit |
+| Nutzung von Rechtschreibtools | `nutzung-von-rechtschreibtools.html` | online |
+| AI-gestützte Textüberarbeitung | `ai-gestuetzte-textueberarbeitung.html` | online |
+| Effiziente Internetrecherche | `effiziente-internetrecherche.html` | online |
+| Online-Datenbanken nutzen | `online-datenbanken-nutzen.html` | online |
+| Sichere Passwörter erstellen | `sichere-passwoerter-erstellen.html` | online |
+| Ordnung halten | `ordnung-halten.html` | online |
+| Ergebnisse verkaufen | `ergebnisse-verkaufen.html` | online |
 
 ## Paket 6: Konzentration (11 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Liegende Acht üben | `liegende-acht-ueben.html` | offen |
-| Arbeitsplatz optimieren | `arbeitsplatz-optimieren.html` | offen |
-| Konzentrationspausen richtig gestalten | `konzentrationspausen-richtig-gestalten.html` | offen |
-| Achtsamkeitsübungen kennenlernen | `achtsamkeitsuebungen-kennenlernen.html` | offen |
-| Ernährung und Konzentration | `ernaehrung-und-konzentration.html` | offen |
-| Konzentrationsbooster im Alltag | `konzentrationsbooster-im-alltag.html` | offen |
-| Augenyoga kennenlernen | `augenyoga-kennenlernen.html` | offen |
-| Rückwärts schreiben | `rueckwaerts-schreiben-als-konzentrationsuebung.html` | offen |
-| Balance-Übungen | `balance-uebungen-zur-konzentrationssteigerung.html` | offen |
-| Arbeitszeit strukturieren | `arbeitszeit-strukturieren.html` | offen |
-| Stimmung und Wohlbefinden | `stimmung-und-wohlbefinden-als-konzentrationsfaktoren.html` | offen |
+| Liegende Acht üben | `liegende-acht-ueben.html` | bereit |
+| Arbeitsplatz optimieren | `arbeitsplatz-optimieren.html` | bereit |
+| Konzentrationspausen richtig gestalten | `konzentrationspausen-richtig-gestalten.html` | bereit |
+| Achtsamkeitsübungen kennenlernen | `achtsamkeitsuebungen-kennenlernen.html` | bereit |
+| Ernährung und Konzentration | `ernaehrung-und-konzentration.html` | bereit |
+| Konzentrationsbooster im Alltag | `konzentrationsbooster-im-alltag.html` | bereit |
+| Augenyoga kennenlernen | `augenyoga-kennenlernen.html` | bereit |
+| Rückwärts schreiben | `rueckwaerts-schreiben-als-konzentrationsuebung.html` | bereit |
+| Balance-Übungen | `balance-uebungen-zur-konzentrationssteigerung.html` | bereit |
+| Arbeitszeit strukturieren | `arbeitszeit-strukturieren.html` | bereit |
+| Stimmung und Wohlbefinden | `stimmung-und-wohlbefinden-als-konzentrationsfaktoren.html` | bereit |
 
 ## Paket 7: Gesundheit und Work-Life-Balance (10 Karten)
 

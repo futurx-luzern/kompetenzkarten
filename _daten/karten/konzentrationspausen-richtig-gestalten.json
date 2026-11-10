@@ -1,0 +1,78 @@
+{
+ "titel": "Konzentrationspausen richtig gestalten",
+ "kategorie": "Konzentration",
+ "aufgabe": "Recherchiere, wie Pausen gestaltet werden sollten, um die mentale Leistungsfähigkeit zu erhalten. Erstelle eine kurze Zusammenfassung oder eine übersichtliche Liste der besten Pausentechniken.",
+ "ziel": "Lerne, wie gezielte Pausen deine Konzentration und Effizienz verbessern können.",
+ "text": [
+  "Pausen sind keine verlorene Zeit. Sie gehören zum Lernen dazu. In der Pause erholt sich dein Gehirn und verarbeitet, was du gerade gelernt hast.",
+  "Wichtig ist aber, wann und wie du Pause machst. Zehn Minuten Social Media sind für das Gehirn keine echte Pause. Auf dieser Karte erfährst du, welche Pausen wirklich helfen."
+ ],
+ "methode_titel": "So machst du gute Pausen",
+ "fragen": [
+  "Wie sehen deine Pausen beim Lernen heute aus?",
+  "Welche Art von Pause tut dir am besten?",
+  "Was willst du bei deiner nächsten Lernzeit ausprobieren?"
+ ],
+ "suche": [
+  "Lernpausen richtig machen",
+  "Mikropausen",
+  "Pausen Gehirn Erholung"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Pz207H-J2tE",
+   "titel": "Mikropausen: So erholt sich dein Gehirn",
+   "dauer": "5 Min.",
+   "quelle": "Hessischer Rundfunk, 2025",
+   "notiz": "Was in kurzen Pausen im Kopf passiert"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/tipps_beim_arbeiten/besser-werden.cfm",
+   "titel": "Wie kann ich in der Schule besser werden?",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Tipps von Jugendlichen, auch zu Pausen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=v47lu01i1hs",
+   "titel": "Richtig Pause machen beim Lernen",
+   "dauer": "9,5 Min.",
+   "quelle": "Studienscheiss (Dr. Tim Reichel)",
+   "notiz": "Welche Pausen wann sinnvoll sind"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=VqEHyQChTok",
+   "titel": "Auszeit fürs Gehirn: Warum wir Pausen brauchen",
+   "dauer": "7 Min.",
+   "quelle": "Technische Universität München",
+   "notiz": "Eine Fachperson erklärt, was in der Pause passiert"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=neV6c3V3KDg",
+   "titel": "Verliert unser Gehirn den Fokus?",
+   "dauer": "28 Min.",
+   "quelle": "ARTE, 42, 2025",
+   "notiz": "Was die Forschung über Aufmerksamkeit und Ablenkung weiss"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.lyreco.com/group/switzerland/de/stories/pausen-wieso-sie-fuer-unser-wohlbefinden-so-wichtig-sind",
+   "grund": "Seite eines Büromaterial-Händlers, nicht mehr erreichbar"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=_QkS7GO90Vc",
+   "grund": "Kleiner Coaching-Kanal, ersetzt durch Fachquellen"
+  }
+ ]
+}

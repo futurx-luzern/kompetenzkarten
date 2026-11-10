@@ -1,0 +1,70 @@
+{
+ "titel": "Augenyoga kennenlernen",
+ "kategorie": "Konzentration",
+ "aufgabe": "Recherchiere, wie Augenyoga als Methode zur Entspannung und Verbesserung der Konzentration eingesetzt werden kann. Erstelle eine kurze Zusammenfassung oder eine Schritt-für-Schritt-Anleitung in Form eines Posters.",
+ "ziel": "Lerne, wie du durch Augenyoga deine Augen entspannen und deine Konzentration verbessern kannst.",
+ "text": [
+  "Handy, Laptop, Tablet: Unsere Augen schauen jeden Tag stundenlang auf Bildschirme. Das macht sie müde, und mit den Augen wird oft auch der Kopf müde.",
+  "Augenyoga sind einfache Übungen, die deine Augen entspannen. Sie dauern nur ein bis zwei Minuten und lassen sich gut in Lern- oder Arbeitspausen einbauen."
+ ],
+ "methode_titel": "So entspannst du deine Augen",
+ "fragen": [
+  "Wie viele Stunden schauen deine Augen pro Tag auf einen Bildschirm?",
+  "Welche Übung hat dir gut getan?",
+  "Wie könntest du dich daran erinnern, die Übungen zu machen?"
+ ],
+ "suche": [
+  "Augenyoga Übungen",
+  "20-20-20-Regel",
+  "Augen entspannen Bildschirm"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=pG7b6lN7Weg",
+   "titel": "Müde Augen vom Bildschirm? Schnelle Übungen",
+   "dauer": "1,5 Min.",
+   "quelle": "ntv, 2025",
+   "notiz": "Kurz erklärt, mit Übungen"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=jytnXMSqgi0",
+   "titel": "5 Minuten Augen-Yoga",
+   "dauer": "6,5 Min.",
+   "quelle": "Astrid Nöhring (Yogalehrerin)",
+   "notiz": "Zum Mitmachen, Übung beginnt bei 1:08. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=haKp72rxkFY",
+   "titel": "Macht Bildschirmarbeit die Augen kaputt?",
+   "dauer": "6,5 Min.",
+   "quelle": "Universitätsklinikum Freiburg, 2026",
+   "notiz": "Ein Augenarzt erklärt, was stimmt und was nicht"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=0YtdQvQbUGg",
+   "titel": "4 Übungen gegen müde Augen am Bildschirm",
+   "dauer": "13 Min.",
+   "quelle": "Ergotopia",
+   "notiz": "Ausführliche Anleitung",
+   "warnung": "Am Schluss Werbung für eine App"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://de.beatyesterday.org/health/body-and-soul/augen-yoga-5-uebungen-fuer-jeden-tag/",
+   "grund": "Werbemagazin einer Autofirma"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=2NiPZcuGccw",
+   "grund": "Verspricht, die Sehkraft zu stärken, das ist nicht belegt"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "titel": "Konzentrationsbooster im Alltag",
+ "kategorie": "Konzentration",
+ "aufgabe": "Finde heraus, welche kleinen Änderungen im Alltag (z.B. Bewegungspausen, ausreichendes Trinken) die Konzentration verbessern können. Erstelle eine kurze Zusammenfassung oder eine Infografik der effektivsten Konzentrationsbooster.",
+ "ziel": "Erfahre, wie du durch einfache Anpassungen deine Konzentrationsfähigkeit steigern kannst.",
+ "text": [
+  "Manchmal will es einfach nicht klappen mit der Konzentration. Du liest einen Abschnitt dreimal und weisst danach immer noch nicht, was drinstand.",
+  "Oft liegt das nicht an dir, sondern an den Umständen: zu wenig Schlaf, Durst, das Handy auf dem Tisch. Mit kleinen Änderungen im Alltag kannst du viel bewirken."
+ ],
+ "methode_titel": "Kleine Dinge, grosse Wirkung",
+ "uebung": {
+  "frage": "Booster oder Bremse für die Konzentration?",
+  "optionen": [
+   "Booster",
+   "Bremse"
+  ],
+  "hinweis": "Überleg dir, ob das Gehirn dabei Energie bekommt oder abgelenkt wird.",
+  "aufgaben": [
+   {
+    "text": "Das Handy liegt mit dem Bildschirm nach unten auf dem Tisch.",
+    "richtig": "Bremse",
+    "warum": "Schon ein sichtbares Handy zieht Aufmerksamkeit ab. Besser in einen anderen Raum."
+   },
+   {
+    "text": "Vor dem Lernen 10 Minuten spazieren.",
+    "richtig": "Booster",
+    "warum": "Bewegung und frische Luft machen wach."
+   },
+   {
+    "text": "Gleichzeitig lernen und mit Freunden chatten.",
+    "richtig": "Bremse",
+    "warum": "Jedes Hin- und Herspringen kostet Zeit und Kraft."
+   },
+   {
+    "text": "Vor dem Start aufschreiben, was du in den nächsten 25 Minuten machst.",
+    "richtig": "Booster",
+    "warum": "Ein klares Ziel hilft dem Gehirn, dranzubleiben."
+   },
+   {
+    "text": "Bis 1 Uhr nachts Serien schauen und um 6 Uhr aufstehen.",
+    "richtig": "Bremse",
+    "warum": "Zu wenig Schlaf schwächt die Konzentration am stärksten."
+   }
+  ]
+ },
+ "fragen": [
+  "Was bremst deine Konzentration am meisten?",
+  "Welcher Booster hat bei dir schon einmal funktioniert?",
+  "Welche eine Sache willst du diese Woche ändern?"
+ ],
+ "suche": [
+  "Konzentration verbessern Tipps",
+  "Fokus Handy Ablenkung",
+  "Multitasking Gehirn"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=OPI8wR87fqg",
+   "titel": "So könnt ihr eure Konzentration verbessern",
+   "dauer": "3,5 Min.",
+   "quelle": "Quarks (Ralph Caspers), 2023",
+   "notiz": "Wissenschaftlich geprüfte Tipps"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=zx51nwn1iew",
+   "titel": "Besser konzentrieren: 3 Wege",
+   "dauer": "3,5 Min.",
+   "quelle": "simpleclub",
+   "notiz": "Kurz und für Lernende gemacht"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/tipps_beim_arbeiten/besser-werden.cfm",
+   "titel": "Wie kann ich in der Schule besser werden?",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Tipps von Jugendlichen für Jugendliche"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=_CgmMnBjnz0",
+   "titel": "Lernen lernen: 13 Tipps aus der Gehirnforschung",
+   "dauer": "5 Min.",
+   "quelle": "Sprouts",
+   "notiz": "Gezeichnet erklärt, mit Quellen"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.aok.de/pk/magazin/koerper-psyche/gehirn-nerven/die-konzentration-steigern-durch-konzentrationsuebungen/",
+   "titel": "Konzentration steigern: Übungen und Tipps",
+   "dauer": "6 Min.",
+   "quelle": "AOK (Krankenkasse)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=neV6c3V3KDg",
+   "titel": "Verliert unser Gehirn den Fokus?",
+   "dauer": "28 Min.",
+   "quelle": "ARTE, 42, 2025",
+   "notiz": "Handy, TikTok und Aufmerksamkeit: Was die Forschung sagt"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://de.beatyesterday.org/health/food/booster-vs-brainfood-konzentration-fuer-das-naechste-level/",
+   "grund": "Werbemagazin einer Autofirma"
+  },
+  {
+   "url": "https://www.derperfekteratgeber.de/konzentration-steigern/",
+   "grund": "Ratgeberseite mit viel Werbung, keine Quellen"
+  }
+ ]
+}

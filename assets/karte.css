@@ -86,7 +86,7 @@ h1 { font-size: clamp(2.3rem, 10vw, 4.2rem); line-height: .98; margin: .6rem 0 1
 .schritte b { display: block; }
 
 /* Methode: Matrix und Felder */
-.matrix { display: grid; grid-template-columns: 1fr 1fr; gap: .7rem; margin: 1.2rem 0; }
+.matrix { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .7rem; margin: 1.2rem 0; }
 .feld { border: var(--linie); border-radius: var(--radius); padding: .9rem; min-height: 8rem; }
 .feld .gross { font-size: 1.35rem; line-height: 1.05; display: block; margin-bottom: .3rem; }
 .feld small { display: block; font-weight: 700; font-size: .8rem; opacity: .8; margin-bottom: .2rem; }
