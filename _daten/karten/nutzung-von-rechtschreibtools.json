@@ -1,0 +1,61 @@
+{
+ "titel": "Nutzung von Rechtschreibtools",
+ "kategorie": "Digitale Kompetenzen",
+ "aufgabe": "Recherchiere, wie Rechtschreibtools wie Duden Mentor funktionieren und wie sie zur Verbesserung deiner Texte beitragen können. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Tools.",
+ "ziel": "Verstehe, wie du durch den Einsatz von Rechtschreibtools deine schriftliche Kommunikation verbessern kannst.",
+ "text": [
+  "Rechtschreibfehler wirken schnell unsorgfältig, besonders in einer Bewerbung, einem Bericht oder einer E-Mail an den Lehrbetrieb. Gleichzeitig schreibt fast niemand ganz fehlerfrei.",
+  "Rechtschreibtools sind digitale Helfer, die Fehler finden und Korrekturen vorschlagen. Richtig eingesetzt, helfen sie dir nicht nur beim Korrigieren, sondern auch dabei, deine typischen Fehler zu erkennen."
+ ],
+ "methode_titel": "So nutzt du Rechtschreibtools",
+ "fragen": [
+  "Welche Rechtschreibhilfen nutzt du heute schon, vielleicht ohne es zu merken?",
+  "Welche Fehler machst du immer wieder?",
+  "Wann ist es besonders wichtig, dass ein Text fehlerfrei ist?"
+ ],
+ "suche": [
+  "LanguageTool",
+  "Duden Mentor",
+  "Rechtschreibprüfung Deutsch Schweiz"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.srf.ch/radio-srf-3/rechtschreibung-diese-digitalen-helfer-machen-ihre-texte-fehlerfrei",
+   "titel": "Rechtschreibung: Diese digitalen Helfer machen Texte fehlerfrei",
+   "dauer": "4 Min.",
+   "quelle": "Radio SRF 3",
+   "notiz": "Schweizer Überblick über Tools. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=mYOk76DHv8c",
+   "titel": "LanguageTool: kostenlos Texte auf Fehler prüfen",
+   "dauer": "8 Min.",
+   "quelle": "Simon (Tutorial)",
+   "notiz": "Zeigt Schritt für Schritt, wie das Tool funktioniert",
+   "warnung": "Beschreibung enthält Partnerlink"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://blog.xeit.ch/die-3-besten-rechtschreib-tools-so-klappts-mit-dem-texten/",
+   "titel": "Die 3 besten Rechtschreib-Tools",
+   "dauer": "5 Min.",
+   "quelle": "xeit (Schweizer Agentur, Blog)",
+   "notiz": "Vergleich mit Schweizer Blick. Bleibt von der alten Seite",
+   "warnung": "Blog einer Firma"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=AOLALcMlsis",
+   "titel": "Duden Mentor im Test",
+   "dauer": "18 Min.",
+   "quelle": "Lektor Vogt",
+   "notiz": "Ein Lektor testet, was das Tool findet und was nicht"
+  }
+ ]
+}

@@ -3,7 +3,7 @@
 Stand 2026-11-10. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 36 online, 6 bereit, 80 offen (von 122)
+**Total:** 42 online, 7 bereit, 73 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -66,24 +66,24 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Lernstoff gliedern | `lernstoff-gliedern.html` | bereit |
-| Zeitplan für die Prüfungsvorbereitung | `zeitplan-fuer-die-pruefungsvorbereitung-erstellen.html` | bereit |
-| Entspannungsübungen vor Prüfungen | `entspannungsuebungen-vor-pruefungen.html` | bereit |
-| Positive Affirmationen für die Prüfungsangstbewältigung | `positive-affirmationen-fuer-die-pruefungsangstbewaeltigung.html` | bereit |
-| Prüfungsstrategien entwickeln | `pruefungsstrategien-entwickeln.html` | bereit |
-| Umgang mit Blackouts in Prüfungen | `umgang-mit-blackouts-in-pruefungen.html` | bereit |
+| Lernstoff gliedern | `lernstoff-gliedern.html` | online |
+| Zeitplan für die Prüfungsvorbereitung | `zeitplan-fuer-die-pruefungsvorbereitung-erstellen.html` | online |
+| Entspannungsübungen vor Prüfungen | `entspannungsuebungen-vor-pruefungen.html` | online |
+| Positive Affirmationen für die Prüfungsangstbewältigung | `positive-affirmationen-fuer-die-pruefungsangstbewaeltigung.html` | online |
+| Prüfungsstrategien entwickeln | `pruefungsstrategien-entwickeln.html` | online |
+| Umgang mit Blackouts in Prüfungen | `umgang-mit-blackouts-in-pruefungen.html` | online |
 
 ## Paket 5: Digitale Kompetenzen und Methodenkompetenzen (7 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Nutzung von Rechtschreibtools | `nutzung-von-rechtschreibtools.html` | offen |
-| AI-gestützte Textüberarbeitung | `ai-gestuetzte-textueberarbeitung.html` | offen |
-| Effiziente Internetrecherche | `effiziente-internetrecherche.html` | offen |
-| Online-Datenbanken nutzen | `online-datenbanken-nutzen.html` | offen |
-| Sichere Passwörter erstellen | `sichere-passwoerter-erstellen.html` | offen |
-| Ordnung halten | `ordnung-halten.html` | offen |
-| Ergebnisse verkaufen | `ergebnisse-verkaufen.html` | offen |
+| Nutzung von Rechtschreibtools | `nutzung-von-rechtschreibtools.html` | bereit |
+| AI-gestützte Textüberarbeitung | `ai-gestuetzte-textueberarbeitung.html` | bereit |
+| Effiziente Internetrecherche | `effiziente-internetrecherche.html` | bereit |
+| Online-Datenbanken nutzen | `online-datenbanken-nutzen.html` | bereit |
+| Sichere Passwörter erstellen | `sichere-passwoerter-erstellen.html` | bereit |
+| Ordnung halten | `ordnung-halten.html` | bereit |
+| Ergebnisse verkaufen | `ergebnisse-verkaufen.html` | bereit |
 
 ## Paket 6: Konzentration (11 Karten)
 

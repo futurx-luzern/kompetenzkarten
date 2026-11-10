@@ -1,0 +1,114 @@
+{
+ "titel": "AI-gestützte Textüberarbeitung",
+ "kategorie": "Digitale Kompetenzen",
+ "aufgabe": "Finde heraus, wie AI-Tools zur Textüberarbeitung (z.B. Grammarly) funktionieren und welche Vorteile sie bieten. Erstelle eine kurze Zusammenfassung oder eine Übersicht der besten Tools",
+ "ziel": "Erfahre, wie du durch AI-gestützte Tools deine Texte präziser und klarer gestalten kannst.",
+ "text": [
+  "Künstliche Intelligenz (KI) ist im Alltag angekommen. Viele nutzen Tools wie ChatGPT, um Texte zu schreiben, zu korrigieren oder umzuformulieren. Das kann eine grosse Hilfe sein, aber nur, wenn man weiss, wie die Tools funktionieren und wo ihre Grenzen sind.",
+  "Auf dieser Karte geht es darum, KI als Werkzeug zum <strong>Überarbeiten</strong> deiner eigenen Texte zu nutzen: verständlicher, fehlerfreier, klarer. Und darum, verantwortungsvoll damit umzugehen."
+ ],
+ "methode_titel": "So nutzt du KI zum Überarbeiten",
+ "uebung": {
+  "frage": "Ist das ein sinnvoller Einsatz von KI, oder eher heikel?",
+  "optionen": [
+   "Sinnvoll",
+   "Heikel"
+  ],
+  "hinweis": "Frag dich: Bleibt der Text deiner? Prüfe ich das Ergebnis? Darf ich das?",
+  "aufgaben": [
+   {
+    "text": "Du lässt die KI die Rechtschreibfehler in deinem Bericht markieren und erklären.",
+    "richtig": "Sinnvoll",
+    "warum": "Du bleibst Autorin oder Autor und lernst dabei."
+   },
+   {
+    "text": "Du lässt die KI in der Prüfung die Antworten schreiben.",
+    "richtig": "Heikel",
+    "warum": "In Prüfungen ist das meist verboten und zählt als Schummeln."
+   },
+   {
+    "text": "Du fragst die KI, wie du einen zu langen Absatz kürzer machen könntest, und prüfst den Vorschlag.",
+    "richtig": "Sinnvoll",
+    "warum": "Gute Hilfe, solange du entscheidest, was übernommen wird."
+   },
+   {
+    "text": "Du kopierst Kundendaten aus dem Lehrbetrieb in die KI, damit sie eine E-Mail schreibt.",
+    "richtig": "Heikel",
+    "warum": "Vertrauliche und persönliche Daten gehören nicht in KI-Tools."
+   },
+   {
+    "text": "Du übernimmst eine Zahl, die die KI in deinen Text eingefügt hat, ohne sie zu prüfen.",
+    "richtig": "Heikel",
+    "warum": "KI kann Fakten erfinden. Zahlen immer in einer verlässlichen Quelle prüfen."
+   }
+  ]
+ },
+ "fragen": [
+  "Welche KI-Tools nutzt du schon? Wofür?",
+  "Wann ist es für dich in Ordnung, KI zu nutzen, und wann nicht?",
+  "Woran merkst du, ob ein KI-Text noch nach dir klingt?"
+ ],
+ "suche": [
+  "KI Texte überarbeiten Tipps",
+  "KI Halluzinationen",
+  "KI in der Schule Regeln"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=y8OZCecRDsM",
+   "titel": "Wie künstliche Intelligenz in der Schule genutzt wird",
+   "dauer": "3 Min.",
+   "quelle": "tagesschau (ARD), 2025",
+   "notiz": "KI kann helfen, ersetzt aber nicht das eigene Denken"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=-ttJuqi8Rho",
+   "titel": "Lügt ChatGPT? 4 Wege, um KI-Fehler zu erkennen",
+   "dauer": "5,5 Min.",
+   "quelle": "Digitalzentrum Berlin, 2025",
+   "notiz": "Erklärt Halluzinationen und wie man sie bemerkt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=qlZ6CzKNafI",
+   "titel": "Besser lernen oder weniger denken? Wie KI Schule verändert",
+   "dauer": "12,5 Min.",
+   "quelle": "DW Deutsch, Januar 2026",
+   "notiz": "Chancen und Risiken, verschiedene Sichtweisen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=G0OVU6adw5w",
+   "titel": "KI in der Schule: Ersetzen ChatGPT und Co. bald Lehrer?",
+   "dauer": "24 Min.",
+   "quelle": "PUR+ (ZDF), Mai 2026",
+   "notiz": "Junges Format, Selbstversuch in einer Klasse"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://www.zhaw.ch/storage/psychologie/forschung/JAMES/JAMESfocus_KI_DE.pdf",
+   "titel": "JAMESfocus: Wie Jugendliche in der Schweiz KI nutzen",
+   "dauer": "20 Min.",
+   "quelle": "ZHAW (Studie, PDF)",
+   "notiz": "Schweizer Studie mit über 1000 Jugendlichen",
+   "warnung": "Studienbericht, viele Zahlen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://jens.marketing/tools-ki-texte/",
+   "grund": "Marketing-Blog, Tool-Werbung"
+  },
+  {
+   "url": "https://chatgpt.com/",
+   "grund": "Link auf ein Produkt, keine Information"
+  }
+ ]
+}

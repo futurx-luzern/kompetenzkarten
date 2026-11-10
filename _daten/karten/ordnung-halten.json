@@ -1,0 +1,63 @@
+{
+ "titel": "Ordnung halten",
+ "kategorie": "Methodenkompetenzen",
+ "aufgabe": "Recherchiere, wie du deine Umgebung und deinen Arbeitsplatz so organisierst, dass du effizient und stressfrei arbeiten kannst. Lerne, wie du Ordnung schaffst und beibehältst, um produktiver zu sein. Erstelle eine Liste mit Tipps, die dir helfen, Ordnung zu halten.",
+ "ziel": "Lerne, wie du eine strukturierte und geordnete Arbeitsumgebung schaffst und erhältst.",
+ "text": [
+  "Wo ist das Arbeitsblatt von letzter Woche? Wo ist die Datei mit dem Vortrag? Suchen kostet Zeit und Nerven, und manchmal ist etwas Wichtiges einfach weg.",
+  "Ordnung halten heisst nicht, dass alles perfekt aussehen muss. Es heisst, dass du schnell findest, was du brauchst. Das gilt für den Schreibtisch, den Rucksack und den Computer."
+ ],
+ "methode_titel": "So hältst du Ordnung",
+ "fragen": [
+  "Wie lange suchst du pro Woche ungefähr nach Dingen oder Dateien?",
+  "Wo ist es bei dir am unordentlichsten: Schreibtisch, Rucksack oder Computer?",
+  "Welche Regel könntest du ab dieser Woche einführen?"
+ ],
+ "suche": [
+  "Ordnerstruktur PC",
+  "Arbeitsplatz organisieren",
+  "Dateien benennen Tipps"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=yufb5CLmt0k",
+   "titel": "Ordnung auf dem PC: sinnvolle Ordnerstruktur",
+   "dauer": "8,5 Min.",
+   "quelle": "Lernwas",
+   "notiz": "Schritt für Schritt mit Beispielen",
+   "warnung": "Beschreibung wirbt für ein Buch"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://futurx-luzern.github.io/kompetenzkarten/arbeitsplatz-optimieren.html",
+   "titel": "Kompetenzkarte «Arbeitsplatz optimieren»",
+   "dauer": "Karte",
+   "quelle": "Kompetenzkarten FuturX",
+   "notiz": "Ergänzend zur Ordnung am Arbeitsplatz"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.srf.ch/play/tv/puls/video/ordnung-halten---puls-raeumt-auf?urn=urn:srf:video:e50b7a80-04ba-46d4-bd27-c9783efcd051",
+   "titel": "Ordnung halten: «Puls» räumt auf",
+   "dauer": "33 Min.",
+   "quelle": "SRF «Puls»",
+   "notiz": "Was Ordnung mit unserem Wohlbefinden macht. Bleibt von der alten Seite",
+   "warnung": "Knapp über 30 Minuten"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=6D1OlRbrkLU",
+   "grund": "Kanal einer Ordnungs-Coachin, Büro für Erwachsene"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=7lEIyEQHrf4",
+   "grund": "Gleiche Sendung wie SRF Play, doppelt"
+  }
+ ],
+ "bemerkung": "Zu Ordnung gibt es auf YouTube vor allem Einrichtungs- und «Back to School»-Videos von Influencern. Die Karte setzt darum stärker auf die Mini-Einführung."
+}
