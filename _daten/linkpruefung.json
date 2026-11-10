@@ -27,6 +27,20 @@
   "titel": "Migros",
   "weiterleitung": "https://www.migros.ch/de/content/famigros-ratgeber-und-inspiration"
  },
+ "https://futurx-luzern.github.io/kompetenzkarten/entspannungsuebungen-vor-pruefungen.html": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Entspannungsübungen vor Prüfungen",
+  "weiterleitung": ""
+ },
+ "https://futurx-luzern.github.io/kompetenzkarten/mind-mapping-zur-visualisierung-von-ideen.html": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Mind-Mapping zur Visualisierung · Kompetenzkarten",
+  "weiterleitung": ""
+ },
  "https://futurx-luzern.github.io/kompetenzkarten/pqrst-methode-fuer-besseres-textverstaendnis.html": {
   "geprueft": "2026-11-10",
   "ok": true,
@@ -42,7 +56,7 @@
   "weiterleitung": ""
  },
  "https://futurx-luzern.github.io/kompetenzkarten/tages--und-wochenplanung.html": {
-  "geprueft": "2026-11-09",
+  "geprueft": "2026-11-10",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Tages- und Wochenplanung · Kompetenzkarten",
@@ -76,11 +90,25 @@
   "titel": "Erfolgstagebuch: Vorlage, Vorteile + Tipps zum Inhalt",
   "weiterleitung": ""
  },
+ "https://lerntool.ch/buc/lernbereiche/pruefungsstrategien/": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Prüfungsstrategien - Lerntool",
+  "weiterleitung": ""
+ },
  "https://magazin.sofatutor.com/schueler/lernmythen-funktionieren-schnelllesetechniken/": {
   "geprueft": "2026-11-10",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Lernmythen: Funktionieren Schnelllesetechniken?",
+  "weiterleitung": ""
+ },
+ "https://magazin.sofatutor.com/schueler/prufungsangst-mit-diesen-tipps-bleibst-du-entspannter/": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Prüfungsangst: Mit diesen 11 Tipps bleibst du bei Tests entspannter",
   "weiterleitung": ""
  },
  "https://prozessfux.com/de/newsblog/posts/2022-06-03_Wie-Du-mit-der-10-Minuten-Regel-die-Prokrastination-bekaempfst.php": {
@@ -123,6 +151,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Zeitmanagement • Zeitmanagement Methoden und Tipps · Studyflix",
+  "weiterleitung": ""
+ },
+ "https://studyflix.de/studientipps/pruefungsvorbereitung-4817/video": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Prüfungsvorbereitung • Die besten Lernstrategien - Video · Studyflix",
   "weiterleitung": ""
  },
  "https://studyflix.de/wirtschaft/eisenhower-prinzip-3229": {
@@ -195,6 +230,27 @@
   "titel": "Übungen für mehr Selbstwert",
   "weiterleitung": ""
  },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/pruefungen/prufungsvorbereitung.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Fit für die Prüfung: Tipps zur Prüfungsvorbereitung",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/tipps_beim_arbeiten/tipps_gegen_schulstress.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Tipps gegen Schulstress",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/entspannung/uebungen/pruefungsstress.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Entspannung trotz Prüfungsstress",
+  "weiterleitung": ""
+ },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/nein_sagen/tipps/ich_sage_nein.cfm": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -214,6 +270,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Nein sagen",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/tests/tests/pruefungsangst.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Prüfungsangst",
   "weiterleitung": ""
  },
  "https://www.handysektor.de/artikel/darum-solltest-du-im-internet-nicht-alles-preisgeben/": {
@@ -352,6 +415,15 @@
   "status": "OK",
   "titel": "Lernexperten Lerntipp 32: Die SQ3R-Methode"
  },
+ "https://www.youtube.com/watch?v=2zeLJ5t-nok": {
+  "datum": "2019-06-29",
+  "geprueft": "2026-11-10",
+  "kanal": "shribe! - master your studies",
+  "ok": true,
+  "sekunden": 482,
+  "status": "OK",
+  "titel": "Schnell auswendig lernen mit dem \"Spacing Effect\" 💾"
+ },
  "https://www.youtube.com/watch?v=3WQod9iu7uY": {
   "datum": "2023-05-21",
   "geprueft": "2026-11-09",
@@ -360,6 +432,24 @@
   "sekunden": 1314,
   "status": "OK",
   "titel": "Ab 8 Sekunden ist Schluss: Können wir uns nicht mehr konzentrieren? | Quarks"
+ },
+ "https://www.youtube.com/watch?v=4Q-fwlxyk14": {
+  "datum": "2022-03-06",
+  "geprueft": "2026-11-10",
+  "kanal": "Knop \\u0026 Niehaus",
+  "ok": true,
+  "sekunden": 248,
+  "status": "OK",
+  "titel": "3 einfache Atemübungen gegen Angst"
+ },
+ "https://www.youtube.com/watch?v=5HRgKqLwgCM": {
+  "datum": "2019-01-27",
+  "geprueft": "2026-11-10",
+  "kanal": "ErfolgsAzubi® Academy",
+  "ok": true,
+  "sekunden": 235,
+  "status": "OK",
+  "titel": "Abschlussprüfung – IHK-Prüfer offenbart 12 wertvolle Tipps und Tricks (Theorieprüfung) (2026)"
  },
  "https://www.youtube.com/watch?v=5L--r7e5uSM": {
   "datum": "2021-09-22",
@@ -378,6 +468,24 @@
   "sekunden": 280,
   "status": "OK",
   "titel": "Aufschieberitis: So erleichterst du dir den Start!"
+ },
+ "https://www.youtube.com/watch?v=5RHRXE6v54U": {
+  "datum": "2014-02-26",
+  "geprueft": "2026-11-10",
+  "kanal": "MrWissen2go",
+  "ok": true,
+  "sekunden": 294,
+  "status": "OK",
+  "titel": "6 Tipps für schriftliche Prüfungen (Abi & Co.)"
+ },
+ "https://www.youtube.com/watch?v=6GKQrn1OcAI": {
+  "datum": "2024-12-05",
+  "geprueft": "2026-11-10",
+  "kanal": "Stiftung Gesundheitswissen",
+  "ok": true,
+  "sekunden": 130,
+  "status": "OK",
+  "titel": "Stress - Was passiert im Körper?"
  },
  "https://www.youtube.com/watch?v=8ODlGme5Qmo": {
   "datum": "2022-01-19",
@@ -415,6 +523,15 @@
   "status": "OK",
   "titel": "Shaolin Meister Shi Heng Yi: Wie lerne ich Selbstbeherrschung? | Sternstunde Religion | SRF Kultur"
  },
+ "https://www.youtube.com/watch?v=BI3plwLH_X8": {
+  "datum": "2023-06-05",
+  "geprueft": "2026-11-10",
+  "kanal": "Hessischer Rundfunk",
+  "ok": true,
+  "sekunden": 535,
+  "status": "OK",
+  "titel": "Prüfungsangst: Was hilft wirklich dagegen? | Die Ratgeber"
+ },
  "https://www.youtube.com/watch?v=BpsoZi1FYPM": {
   "datum": "2023-01-04",
   "geprueft": "2026-11-10",
@@ -423,6 +540,15 @@
   "sekunden": 162,
   "status": "OK",
   "titel": "SQ3R Methode - 👨🏼‍🎓 EINFACH ERKLÄRT 👩🏼‍🎓"
+ },
+ "https://www.youtube.com/watch?v=C6z2ujIjz7g": {
+  "datum": "2020-11-10",
+  "geprueft": "2026-11-10",
+  "kanal": "Ausbildung.de",
+  "ok": true,
+  "sekunden": 469,
+  "status": "OK",
+  "titel": "Prüfungsvorbereitung – Mit dem richtigen Zeitmanagement easy Lernen"
  },
  "https://www.youtube.com/watch?v=CgfdDAaGUeg": {
   "datum": "2021-12-14",
@@ -522,6 +648,15 @@
   "sekunden": 322,
   "status": "OK",
   "titel": "Wie das Erbgut deine Innere Uhr beeinflusst | Quarks"
+ },
+ "https://www.youtube.com/watch?v=J5h3CsTM8ss": {
+  "datum": "2026-01-12",
+  "geprueft": "2026-11-10",
+  "kanal": "lernfoerderung",
+  "ok": true,
+  "sekunden": 268,
+  "status": "OK",
+  "titel": "Prüfungsangst? ✅ Diese Atemübung hilft sofort - atme mit"
  },
  "https://www.youtube.com/watch?v=JTlDIu_PXlE": {
   "datum": "2020-12-09",
@@ -676,6 +811,15 @@
   "status": "OK",
   "titel": "Was ist Selbstwirksamkeit?"
  },
+ "https://www.youtube.com/watch?v=QT8I4BoiL74": {
+  "datum": "2022-06-25",
+  "geprueft": "2026-11-10",
+  "kanal": "Die Techniker",
+  "ok": true,
+  "sekunden": 155,
+  "status": "OK",
+  "titel": "5-Finger-Atmung: 2 Minuten Atemübung zur Entspannung und gegen Stress"
+ },
  "https://www.youtube.com/watch?v=QchurWSVokE": {
   "datum": "2017-04-10",
   "geprueft": "2026-11-10",
@@ -810,6 +954,15 @@
   "sekunden": 866,
   "status": "OK",
   "titel": "Zeitmanagement - mit Pausen effektiv lernen"
+ },
+ "https://www.youtube.com/watch?v=_CgmMnBjnz0": {
+  "datum": "2018-11-14",
+  "geprueft": "2026-11-10",
+  "kanal": "Sprouts Deutschland",
+  "ok": true,
+  "sekunden": 307,
+  "status": "OK",
+  "titel": "Lernen lernen: 13 Tipps aus der Gehirnforschung"
  },
  "https://www.youtube.com/watch?v=_V_VBrW3ZuY": {
   "datum": "2024-12-17",
@@ -1036,6 +1189,15 @@
   "status": "OK",
   "titel": "Prokrastination überwinden mit der SMART-Methode | Dr. Johannes Wimmer"
  },
+ "https://www.youtube.com/watch?v=lO1j5myr5eE": {
+  "datum": "2019-04-07",
+  "geprueft": "2026-11-10",
+  "kanal": "Lehrerschmidt",
+  "ok": true,
+  "sekunden": 502,
+  "status": "OK",
+  "titel": "Mündliche Prüfung - Tipps vom Prüfer für den Erfolg! | Lehrerschmidt"
+ },
  "https://www.youtube.com/watch?v=lRPLIElAq9A": {
   "datum": "2022-07-05",
   "geprueft": "2026-11-09",
@@ -1092,7 +1254,7 @@
  },
  "https://www.youtube.com/watch?v=pr-JdgDLRQM": {
   "datum": "2020-08-26",
-  "geprueft": "2026-11-09",
+  "geprueft": "2026-11-10",
   "kanal": "laurinspire",
   "ok": true,
   "sekunden": 618,
@@ -1144,6 +1306,15 @@
   "status": "OK",
   "titel": "Richtig belohnen! - Wie Belohnungen wirklich motivieren. | Betzold"
  },
+ "https://www.youtube.com/watch?v=t2SKPL0C1uE": {
+  "datum": "2020-12-08",
+  "geprueft": "2026-11-10",
+  "kanal": "laurinspire",
+  "ok": true,
+  "sekunden": 812,
+  "status": "OK",
+  "titel": "LERNZETTEL & ZUSAMMENFASSUNGEN erstellen für UNI, ABITUR & SCHULE"
+ },
  "https://www.youtube.com/watch?v=t3nfcMDFRPo": {
   "datum": "2018-06-03",
   "geprueft": "2026-11-10",
@@ -1152,6 +1323,15 @@
   "sekunden": 417,
   "status": "OK",
   "titel": "Markieren und lesen ist SINNLOS! So lernst du wirklich mit Erfolg schwierige Texte im Studium!"
+ },
+ "https://www.youtube.com/watch?v=tq8CvN5h4Qo": {
+  "datum": "2025-01-28",
+  "geprueft": "2026-11-10",
+  "kanal": "Quarks Dimension Ralph",
+  "ok": true,
+  "sekunden": 647,
+  "status": "OK",
+  "titel": "Blackout im Kopf: Warum Prüfungsangst lähmt und wie du sie überwindest | Quarks Dimension Ralph"
  },
  "https://www.youtube.com/watch?v=tsrkB9I7m80": {
   "datum": "2025-09-19",
@@ -1179,6 +1359,15 @@
   "sekunden": 869,
   "status": "OK",
   "titel": "Speed Reading: Doppelt so schnell lesen in nur einer Woche? || PULS Reportage"
+ },
+ "https://www.youtube.com/watch?v=vqZ4GqKQ-Og": {
+  "datum": "2023-06-09",
+  "geprueft": "2026-11-10",
+  "kanal": "Die Techniker",
+  "ok": true,
+  "sekunden": 599,
+  "status": "OK",
+  "titel": "Performance-Druck und Prüfungsangst | Dr. Johannes Wimmer"
  },
  "https://www.youtube.com/watch?v=wH5ik6qcw60": {
   "datum": "2023-05-02",
@@ -1260,5 +1449,23 @@
   "sekunden": 359,
   "status": "OK",
   "titel": "+beyond | Richtig Mitschreiben – Das Erfolgsrezept Cornell Methode"
+ },
+ "https://www.youtube.com/watch?v=ytQdyIOg2DM": {
+  "datum": "2016-03-03",
+  "geprueft": "2026-11-10",
+  "kanal": "BACHELOR AND MORE",
+  "ok": true,
+  "sekunden": 179,
+  "status": "OK",
+  "titel": "Lerntipps für's Abi - Strukturiere deinen Lernstoff 🖊️"
+ },
+ "https://www.youtube.com/watch?v=zolCxH4Wf9E": {
+  "datum": "2020-09-07",
+  "geprueft": "2026-11-10",
+  "kanal": "schoolseasy",
+  "ok": true,
+  "sekunden": 335,
+  "status": "OK",
+  "titel": "Erste Hilfe bei Prüfungsangst und Blackout"
  }
 }

@@ -3,7 +3,7 @@
 Stand 2026-11-10. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 27 online, 9 bereit, 86 offen (von 122)
+**Total:** 36 online, 6 bereit, 80 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -52,26 +52,26 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Feynman-Methode | `feynman-methode-kennenlernen.html` | bereit |
-| SQ3R-Methode für effektives Lesen | `sq3r-methode-fuer-effektives-lesen.html` | bereit |
-| Loci-Methode als Gedächtnistechnik | `loci-methode-als-gedaechtnistechnik.html` | bereit |
-| Chunking zur Informationsverarbeitung | `chunking-zur-informationsverarbeitung.html` | bereit |
-| Mind-Mapping zur Visualisierung | `mind-mapping-zur-visualisierung-von-ideen.html` | bereit |
-| Schnelllesetechniken kennenlernen | `schnelllesetechniken-kennenlernen.html` | bereit |
-| PQRST-Methode für besseres Textverständnis | `pqrst-methode-fuer-besseres-textverstaendnis.html` | bereit |
-| Wichtige Informationen extrahieren | `wichtige-informationen-extrahieren.html` | bereit |
-| Zusammenfassungen schreiben | `zusammenfassungen-schreiben.html` | bereit |
+| Feynman-Methode | `feynman-methode-kennenlernen.html` | online |
+| SQ3R-Methode für effektives Lesen | `sq3r-methode-fuer-effektives-lesen.html` | online |
+| Loci-Methode als Gedächtnistechnik | `loci-methode-als-gedaechtnistechnik.html` | online |
+| Chunking zur Informationsverarbeitung | `chunking-zur-informationsverarbeitung.html` | online |
+| Mind-Mapping zur Visualisierung | `mind-mapping-zur-visualisierung-von-ideen.html` | online |
+| Schnelllesetechniken kennenlernen | `schnelllesetechniken-kennenlernen.html` | online |
+| PQRST-Methode für besseres Textverständnis | `pqrst-methode-fuer-besseres-textverstaendnis.html` | online |
+| Wichtige Informationen extrahieren | `wichtige-informationen-extrahieren.html` | online |
+| Zusammenfassungen schreiben | `zusammenfassungen-schreiben.html` | online |
 
 ## Paket 4: Prüfungen bestehen (6 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Lernstoff gliedern | `lernstoff-gliedern.html` | offen |
-| Zeitplan für die Prüfungsvorbereitung | `zeitplan-fuer-die-pruefungsvorbereitung-erstellen.html` | offen |
-| Entspannungsübungen vor Prüfungen | `entspannungsuebungen-vor-pruefungen.html` | offen |
-| Positive Affirmationen für die Prüfungsangstbewältigung | `positive-affirmationen-fuer-die-pruefungsangstbewaeltigung.html` | offen |
-| Prüfungsstrategien entwickeln | `pruefungsstrategien-entwickeln.html` | offen |
-| Umgang mit Blackouts in Prüfungen | `umgang-mit-blackouts-in-pruefungen.html` | offen |
+| Lernstoff gliedern | `lernstoff-gliedern.html` | bereit |
+| Zeitplan für die Prüfungsvorbereitung | `zeitplan-fuer-die-pruefungsvorbereitung-erstellen.html` | bereit |
+| Entspannungsübungen vor Prüfungen | `entspannungsuebungen-vor-pruefungen.html` | bereit |
+| Positive Affirmationen für die Prüfungsangstbewältigung | `positive-affirmationen-fuer-die-pruefungsangstbewaeltigung.html` | bereit |
+| Prüfungsstrategien entwickeln | `pruefungsstrategien-entwickeln.html` | bereit |
+| Umgang mit Blackouts in Prüfungen | `umgang-mit-blackouts-in-pruefungen.html` | bereit |
 
 ## Paket 5: Digitale Kompetenzen und Methodenkompetenzen (7 Karten)
 

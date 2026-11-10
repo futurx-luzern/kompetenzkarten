@@ -1,0 +1,71 @@
+{
+ "titel": "Prüfungsstrategien entwickeln",
+ "kategorie": "Prüfungen bestehen",
+ "aufgabe": "Recherchiere, welche Strategien dir helfen können, eine Prüfung effizient zu bestehen (z.B. Priorisierung der Aufgaben, Zeitmanagement während der Prüfung). Erstelle eine kurze Zusammenfassung oder eine Übersicht der besten Strategien.",
+ "ziel": "Verstehe, wie du durch gezielte Strategien deine Prüfungsergebnisse verbessern kannst.",
+ "text": [
+  "Du hast gelernt, kennst den Stoff, und trotzdem läuft die Prüfung nicht gut: Die Zeit reicht nicht, du hast eine Aufgabe übersehen oder dich an einer schwierigen Frage festgebissen.",
+  "Eine gute Prüfungsstrategie hilft dir, dein Wissen auch wirklich aufs Papier zu bringen. Es geht darum, wie du die Zeit einteilst, in welcher Reihenfolge du vorgehst und wie du mit schwierigen Aufgaben umgehst."
+ ],
+ "methode_titel": "So gehst du in der Prüfung vor",
+ "fragen": [
+  "Wie gehst du vor, wenn du ein Prüfungsblatt bekommst?",
+  "Was passiert, wenn du bei einer Aufgabe nicht weiterkommst?",
+  "Welche Fehler machst du in Prüfungen öfter, obwohl du den Stoff kannst?"
+ ],
+ "suche": [
+  "Prüfungstipps schriftlich",
+  "mündliche Prüfung Tipps",
+  "Abschlussprüfung Tipps Lehre"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=5RHRXE6v54U",
+   "titel": "6 Tipps für schriftliche Prüfungen",
+   "dauer": "5 Min.",
+   "quelle": "MrWissen2go (funk)",
+   "notiz": "Kurz und klar",
+   "warnung": "Älteres Video"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=5HRgKqLwgCM",
+   "titel": "Abschlussprüfung: 12 Tipps eines Prüfers",
+   "dauer": "4 Min.",
+   "quelle": "ErfolgsAzubi Academy",
+   "notiz": "Für die Abschlussprüfung in der Lehre",
+   "warnung": "Deutsche Lehre (IHK), Anbieter verkauft Kurse"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=lO1j5myr5eE",
+   "titel": "Mündliche Prüfung: Tipps vom Prüfer",
+   "dauer": "8,5 Min.",
+   "quelle": "Lehrerschmidt",
+   "notiz": "Für mündliche Prüfungen"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://lerntool.ch/buc/lernbereiche/pruefungsstrategien/",
+   "titel": "Prüfungsstrategien",
+   "dauer": "5 Min.",
+   "quelle": "lerntool.ch",
+   "notiz": "Schweizer Lernportal für die Berufsschule. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://studyflix.de/studientipps/pruefungsvorbereitung-4817/video",
+   "titel": "Prüfungsvorbereitung: die besten Lernstrategien",
+   "dauer": "5 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Bleibt von der alten Seite",
+   "warnung": "Seite hat Werbeboxen"
+  }
+ ]
+}

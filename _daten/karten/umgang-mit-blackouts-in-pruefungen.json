@@ -1,0 +1,83 @@
+{
+ "titel": "Umgang mit Blackouts in Prüfungen",
+ "kategorie": "Prüfungen bestehen",
+ "aufgabe": "Finde heraus, wie man mit Blackouts in Prüfungen umgehen kann. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken zur Überwindung von Prüfungsblockaden.",
+ "ziel": "Lerne, wie du in stressigen Prüfungssituationen ruhig und konzentriert bleibst.",
+ "text": [
+  "Du sitzt in der Prüfung, liest die Frage, und plötzlich ist alles weg. Kopf leer. Dabei hast du doch gelernt! So ein Blackout ist sehr unangenehm, aber er ist häufig. Fast jede und jeder hat das schon einmal erlebt.",
+  "Die gute Nachricht: Ein Blackout geht vorbei, und das Wissen ist nicht verloren. Mit einem einfachen Notfallplan kannst du dich selbst wieder aus der Blockade holen."
+ ],
+ "methode_titel": "Was im Kopf passiert und was du tun kannst",
+ "fragen": [
+  "Hattest du schon einmal einen Blackout? Wie hast du reagiert?",
+  "Was hilft dir, wenn du in einer Prüfung nervös wirst?",
+  "Wie könntest du einen Blackout vorbeugen?"
+ ],
+ "suche": [
+  "Blackout Prüfung was tun",
+  "Prüfungsangst",
+  "Stress Gehirn"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=tq8CvN5h4Qo",
+   "titel": "Blackout im Kopf: Warum Prüfungsangst lähmt und wie du sie überwindest",
+   "dauer": "11 Min.",
+   "quelle": "Quarks Dimension Ralph (WDR), 2025",
+   "notiz": "Was im Gehirn passiert und was hilft"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=zolCxH4Wf9E",
+   "titel": "Erste Hilfe bei Prüfungsangst und Blackout",
+   "dauer": "5,5 Min.",
+   "quelle": "schoolseasy",
+   "notiz": "Konkrete Schritte für den Moment",
+   "warnung": "Videobeschreibung wirbt für ein Buch"
+  },
+  {
+   "stufe": 2,
+   "typ": "test",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/tests/tests/pruefungsangst.cfm",
+   "titel": "Test: Wie stark ist deine Prüfungsangst?",
+   "dauer": "3 Min.",
+   "quelle": "feel-ok.ch (Gesundheitsstiftung RADIX)",
+   "notiz": "Schweizer Jugendportal, kurzer Selbsttest"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=6GKQrn1OcAI",
+   "titel": "Stress: Was passiert im Körper?",
+   "dauer": "2 Min.",
+   "quelle": "Stiftung Gesundheitswissen",
+   "notiz": "Kurz erklärt, warum Stress blockiert"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://futurx-luzern.github.io/kompetenzkarten/entspannungsuebungen-vor-pruefungen.html",
+   "titel": "Kompetenzkarte «Entspannungsübungen vor Prüfungen»",
+   "dauer": "Karte",
+   "quelle": "Kompetenzkarten FuturX",
+   "notiz": "Übungen, um vorzubeugen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=d1BZKMnbfxk",
+   "grund": "Für Zahnmedizinische Fachangestellte, 11 Minuten"
+  },
+  {
+   "url": "https://blog.univie.ac.at/studium/blackout-bei-pruefungen/",
+   "grund": "Seite nicht mehr erreichbar"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=g7cAwiUmEOM",
+   "grund": "Kanal eines Coaches, älter"
+  }
+ ]
+}

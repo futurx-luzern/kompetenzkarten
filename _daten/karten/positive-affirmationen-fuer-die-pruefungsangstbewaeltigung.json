@@ -1,0 +1,109 @@
+{
+ "titel": "Positive Affirmationen für die Prüfungsangstbewältigung",
+ "kategorie": "Prüfungen bestehen",
+ "aufgabe": "Informiere dich darüber, wie positive Affirmationen helfen können, Prüfungsangst zu bewältigen. Erstelle eine kurze Zusammenfassung oder eine Liste mit positiven Affirmationen.",
+ "ziel": "Lerne, wie du durch positive Gedanken deine Prüfungsängste reduzierst.",
+ "text": [
+  "Vor Prüfungen gehen vielen Gedanken durch den Kopf wie «Das schaffe ich nie» oder «Ich bin einfach zu dumm dafür». Solche Gedanken machen Angst, und Angst macht es schwerer, das Gelernte abzurufen.",
+  "Positive Affirmationen sind kurze, ermutigende Sätze, mit denen du diesen Gedanken etwas entgegensetzt. Wichtig ist, dass sie ehrlich und realistisch sind. Dann können sie dir helfen, ruhiger und zuversichtlicher in die Prüfung zu gehen."
+ ],
+ "methode_titel": "So formulierst du hilfreiche Sätze",
+ "uebung": {
+  "frage": "Hilft dieser Satz vor einer Prüfung eher, oder eher nicht?",
+  "optionen": [
+   "Hilft eher",
+   "Hilft eher nicht"
+  ],
+  "hinweis": "Hilfreich sind Sätze, die ehrlich, realistisch und ermutigend sind.",
+  "aufgaben": [
+   {
+    "text": "«Ich habe mich vorbereitet und gebe mein Bestes.»",
+    "richtig": "Hilft eher",
+    "warum": "Ehrlich und ermutigend. Diesen Satz kann man glauben."
+   },
+   {
+    "text": "«Ich bin der Beste der Welt und weiss alles!»",
+    "richtig": "Hilft eher nicht",
+    "warum": "Übertrieben. Wenn man innerlich nicht daran glaubt, kann so ein Satz sogar verunsichern."
+   },
+   {
+    "text": "«Ich darf nervös sein. Das gehört dazu.»",
+    "richtig": "Hilft eher",
+    "warum": "Nervosität annehmen nimmt ihr oft die Kraft."
+   },
+   {
+    "text": "«Wenn ich das nicht schaffe, ist alles vorbei.»",
+    "richtig": "Hilft eher nicht",
+    "warum": "Katastrophendenken macht noch mehr Angst. Und es stimmt auch nicht."
+   },
+   {
+    "text": "«Mein Herz klopft, weil mein Körper bereit ist.»",
+    "richtig": "Hilft eher",
+    "warum": "Aufregung als Energie sehen: Das hilft laut Forschung oft mehr als «Ich muss ruhig sein»."
+   }
+  ]
+ },
+ "fragen": [
+  "Welche Gedanken hast du vor einer Prüfung?",
+  "Welcher Satz würde dir Mut machen, und glaubst du ihn auch?",
+  "Was würdest du einer Freundin sagen, die vor einer Prüfung grosse Angst hat?"
+ ],
+ "suche": [
+  "Prüfungsangst Tipps",
+  "Selbstgespräche positiv",
+  "Prüfungsangst überwinden"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=tq8CvN5h4Qo",
+   "titel": "Blackout im Kopf: Warum Prüfungsangst lähmt und wie du sie überwindest",
+   "dauer": "11 Min.",
+   "quelle": "Quarks Dimension Ralph (WDR), 2025",
+   "notiz": "Was im Gehirn passiert und was hilft"
+  },
+  {
+   "stufe": 1,
+   "typ": "test",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/tests/tests/pruefungsangst.cfm",
+   "titel": "Test: Wie stark ist deine Prüfungsangst?",
+   "dauer": "3 Min.",
+   "quelle": "feel-ok.ch (Gesundheitsstiftung RADIX)",
+   "notiz": "Schweizer Jugendportal, kurzer Selbsttest"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=vqZ4GqKQ-Og",
+   "titel": "Performance-Druck und Prüfungsangst",
+   "dauer": "10 Min.",
+   "quelle": "Die Techniker, mit Arzt Dr. Johannes Wimmer",
+   "notiz": "Woher die Angst kommt und was man tun kann"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=BI3plwLH_X8",
+   "titel": "Prüfungsangst: Was hilft wirklich dagegen?",
+   "dauer": "9 Min.",
+   "quelle": "Hessischer Rundfunk «Die Ratgeber»",
+   "notiz": "Betroffene und Fachleute"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://home.berry2b.com/pruefungsangst/",
+   "grund": "Seite einer App-Firma, Werbung"
+  },
+  {
+   "url": "https://lisaschroeter.de/blog/life-mindset-veraendern/positive-affirmationen/",
+   "grund": "Blog einer Mindset-Coachin"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=Aicue-5eHwo",
+   "grund": "30-minütige Affirmations-Meditation, unkritisch"
+  }
+ ],
+ "bemerkung": "Fast alle Videos zu «Affirmationen» auf YouTube sind esoterisch (Frequenzen, «Universum»). Die Karte setzt darum auf seriöse Quellen zur Prüfungsangst und erklärt in der Einführung, welche Sätze wirklich helfen."
+}

@@ -1,0 +1,76 @@
+{
+ "titel": "Lernstoff gliedern",
+ "kategorie": "Prüfungen bestehen",
+ "aufgabe": "Recherchiere, wie man den Lernstoff für eine Prüfung effektiv gliedern kann, um besser vorbereitet zu sein. Erstelle eine kurze Zusammenfassung oder eine Gliederungsvorlage für deine Prüfungen.",
+ "ziel": "Lerne, wie du durch strukturierte Gliederung den Überblick über den Lernstoff behältst.",
+ "text": [
+  "Kurz vor der Prüfung merkst du: Es ist viel mehr Stoff, als du dachtest. Wo anfangen? Viele lesen dann einfach alles von vorne durch und kommen nie ans Ende.",
+  "Wer den Lernstoff gliedert, verschafft sich zuerst einen Überblick, teilt ihn in Blöcke und lernt gezielt das, was noch nicht sitzt. So lernst du nicht mehr, sondern klüger."
+ ],
+ "methode_titel": "So gliederst du deinen Lernstoff",
+ "fragen": [
+  "Wie verschaffst du dir heute einen Überblick, bevor du lernst?",
+  "Welche Themen lernst du lieber, welche schiebst du auf?",
+  "Wie sehen deine Lernzettel aus, wenn du welche machst?"
+ ],
+ "suche": [
+  "Lernstoff strukturieren",
+  "Lernzettel erstellen",
+  "Prüfungsvorbereitung Tipps"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ytQdyIOg2DM",
+   "titel": "Strukturiere deinen Lernstoff",
+   "dauer": "3 Min.",
+   "quelle": "BACHELOR AND MORE",
+   "notiz": "Kurz und praktisch. Bleibt von der alten Seite",
+   "warnung": "Älteres Video, Abitur-Beispiele"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/pruefungen/prufungsvorbereitung.cfm",
+   "titel": "Prüfungsvorbereitung",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Gesundheitsstiftung RADIX)",
+   "notiz": "Schweizer Jugendportal, Schritt für Schritt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=_CgmMnBjnz0",
+   "titel": "Lernen lernen: 13 Tipps aus der Gehirnforschung",
+   "dauer": "5 Min.",
+   "quelle": "Sprouts",
+   "notiz": "Mit Quellen zur Forschung"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://futurx-luzern.github.io/kompetenzkarten/mind-mapping-zur-visualisierung-von-ideen.html",
+   "titel": "Kompetenzkarte «Mind-Mapping»",
+   "dauer": "Karte",
+   "quelle": "Kompetenzkarten FuturX",
+   "notiz": "Lernzettel als Mind-Map"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=t2SKPL0C1uE",
+   "titel": "Lernzettel und Zusammenfassungen erstellen",
+   "dauer": "13,5 Min.",
+   "quelle": "laurinspire",
+   "notiz": "Ausführlich mit Beispielen",
+   "warnung": "Lern-Influencerin, eher Gymnasium und Studium"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.bachelorprint.ch/pruefungsvorbereitung/",
+   "grund": "Druckerei für Abschlussarbeiten, Werbung"
+  }
+ ]
+}
