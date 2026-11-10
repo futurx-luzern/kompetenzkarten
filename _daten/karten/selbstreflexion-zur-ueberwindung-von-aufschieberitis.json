@@ -1,0 +1,69 @@
+{
+ "titel": "Selbstreflexion zur Überwindung von Aufschieberitis",
+ "kategorie": "Machen statt Aufschieben",
+ "aufgabe": "Recherchiere, wie Selbstreflexion dir helfen kann, die Ursachen des Aufschiebens zu erkennen und zu überwinden. Erstelle eine kurze Zusammenfassung oder eine Liste mit Reflexionsfragen.",
+ "ziel": "Verstehe, wie Selbstreflexion dir hilft, produktiver zu werden.",
+ "text": [
+  "Tipps gegen das Aufschieben gibt es viele. Aber nicht jeder Tipp hilft jedem. Was dir hilft, hängt davon ab, <strong>warum</strong> du aufschiebst.",
+  "Selbstreflexion heisst: Du schaust ehrlich auf dich selbst. Was passiert in mir, wenn ich eine Aufgabe aufschiebe? Was denke und fühle ich? Was mache ich stattdessen? Wer das versteht, kann gezielt etwas ändern."
+ ],
+ "methode_titel": "So findest du heraus, warum du aufschiebst",
+ "fragen": [
+  "Was denkst du: Warum schiebst du Aufgaben auf?",
+  "Gibt es Aufgaben, die du nie aufschiebst? Was ist bei denen anders?",
+  "Was würdest du einer Freundin raten, die alles aufschiebt?"
+ ],
+ "suche": [
+  "Prokrastination Ursachen",
+  "Aufschieben Gefühle",
+  "Perfektionismus Aufschieben"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QNyKtYJ-e7Y",
+   "titel": "Prokrastination: Warum schieben wir so viel auf?",
+   "dauer": "10 Min.",
+   "quelle": "Quarks Dimension Ralph (WDR)",
+   "notiz": "Was im Kopf passiert, wenn wir aufschieben"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.ardalpha.de/wissen/psychologie/prokrastination-ueberwinden-definition-ursache-behandlung-aufschieberitis-prokrastinieren-100.html",
+   "titel": "Prokrastination: So könnt ihr eure Aufschieberitis überwinden",
+   "dauer": "8 Min.",
+   "quelle": "ARD alpha",
+   "notiz": "Ursachen und Tipps, seriös erklärt. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=bPPt8aU7Xao",
+   "titel": "Krankhaftes Aufschieben",
+   "dauer": "9 Min.",
+   "quelle": "Hessischer Rundfunk «Die Ratgeber»",
+   "notiz": "Wann Aufschieben zum Problem wird und wo es Hilfe gibt"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ktAQa4OcVeQ",
+   "titel": "Was ist Prokrastination?",
+   "dauer": "8 Min.",
+   "quelle": "Sozialpsychologie mit Prof. Erb",
+   "notiz": "Psychologische Erklärung der Ursachen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://vertellis.de/blogs/all/effektive-strategien-gegen-prokrastination-so-uberwindest-du-aufschieberitis",
+   "grund": "Blog eines Shops für Reflexionskarten"
+  },
+  {
+   "url": "https://asana.com/de/resources/tips-stop-procrastinating",
+   "grund": "Softwarefirma, Werbung für eigenes Produkt"
+  }
+ ]
+}

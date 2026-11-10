@@ -27,11 +27,46 @@
   "titel": "Migros",
   "weiterleitung": "https://www.migros.ch/de/content/famigros-ratgeber-und-inspiration"
  },
+ "https://futurx-luzern.github.io/kompetenzkarten/tages--und-wochenplanung.html": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Tages- und Wochenplanung · Kompetenzkarten",
+  "weiterleitung": ""
+ },
+ "https://futurx-luzern.github.io/kompetenzkarten/zielsetzung-mit-smart-methode.html": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Zielsetzung mit SMART-Methode · Kompetenzkarten",
+  "weiterleitung": ""
+ },
+ "https://hub.hslu.ch/soziale-arbeit/lernen-ohne-aufschieben-sieben-tipps-gegen-prokrastination/": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Lernen ohne Aufschieben: Sieben Tipps gegen Prokrastination – Soziale Arbeit an der Hochschule Luzern",
+  "weiterleitung": ""
+ },
+ "https://idw-online.de/de/news668579": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Häufiger Aufgabenwechsel führt zu größerer Flexibilität",
+  "weiterleitung": ""
+ },
  "https://karrierebibel.de/erfolgstagebuch/": {
   "geprueft": "2026-11-09",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Erfolgstagebuch: Vorlage, Vorteile + Tipps zum Inhalt",
+  "weiterleitung": ""
+ },
+ "https://prozessfux.com/de/newsblog/posts/2022-06-03_Wie-Du-mit-der-10-Minuten-Regel-die-Prokrastination-bekaempfst.php": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Prozessfux AG - Clever gemacht. - Wie Du mit der 10-Minuten-Regel die Prokrastination bekämpfst",
   "weiterleitung": ""
  },
  "https://selbstreguliertes-lernen.uzh.ch/dam/jcr:e6a04bde-11e5-4182-9f7e-67389a904a60/Sich%20motivieren.pdf": {
@@ -97,6 +132,13 @@
   "titel": "Start — WOOP my life",
   "weiterleitung": ""
  },
+ "https://woopmylife.org/de/practice": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Wie geht WOOP? — WOOP my life",
+  "weiterleitung": ""
+ },
  "https://woopmylife.org/de/science": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -109,6 +151,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Selbstmotivation: Verbindung von Wunsch und Hindernis – Deutsches Ärzteblatt",
+  "weiterleitung": ""
+ },
+ "https://www.ardalpha.de/wissen/psychologie/prokrastination-ueberwinden-definition-ursache-behandlung-aufschieberitis-prokrastinieren-100.html": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Prokrastination: So könnt ihr eure Aufschieberitis überwinden | Psychologie | Verstehen | ARD alpha",
   "weiterleitung": ""
  },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/selbstvertrauen_aufpeppen/gnomio_entwaffnen/uebungen_fuer_mehr_selbstwert.cfm": {
@@ -160,6 +209,20 @@
   "titel": "Wie schütze ich meine Daten im Internet?",
   "weiterleitung": ""
  },
+ "https://www.mit-kindern-lernen.ch/ich-selbst/lernplanung/179-muellzeit-reduzieren": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "\"Müllzeit\" reduzieren",
+  "weiterleitung": ""
+ },
+ "https://www.mit-kindern-lernen.ch/ich-selbst/motivation/193-anpacken-statt-aufschieben-ein-kleiner-trick-fuer-mehr-motivation": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Anpacken statt Aufschieben: Ein kleiner Trick für mehr Motivation",
+  "weiterleitung": ""
+ },
  "https://www.psy.uni-hamburg.de/arbeitsbereiche/paedagogische-psychologie-und-motivation/personen/oettingen-gabriele/dokumente/krott-marheinecke-oettingen-2019-mentale-kontrastierung-und-woop-foerdern-einsicht-und-veraenderung.pdf": {
   "geprueft": "2026-11-09",
   "ok": false,
@@ -195,6 +258,13 @@
   "titel": "Pausen fördern die Leistung - Die Techniker",
   "weiterleitung": "https://www.tk.de/techniker/gesundheit-foerdern/stress-entspannung/balance-im-job/arbeit-pausen-foerdern-leistung-2007200"
  },
+ "https://www.todo-liste.de/tipps/zeitdiebe": {
+  "geprueft": "2026-11-09",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Zeitdiebe - Erkennen und Beseitigen",
+  "weiterleitung": ""
+ },
  "https://www.youtube.com/watch?v=-vwiEs8QE2g": {
   "datum": "2021-03-25",
   "geprueft": "2026-11-09",
@@ -213,6 +283,51 @@
   "status": "OK",
   "titel": "Dopamin: So kriegst du es in den Griff | Studio Q"
  },
+ "https://www.youtube.com/watch?v=0emqvMQVauA": {
+  "datum": "2021-01-02",
+  "geprueft": "2026-11-09",
+  "kanal": "WeiterDenken - Svenja Hofert",
+  "ok": true,
+  "sekunden": 414,
+  "status": "OK",
+  "titel": "Mentales Kontrastieren in der Praxis - Die Wenn-Dann-Pläne"
+ },
+ "https://www.youtube.com/watch?v=1L6kr09dTgE": {
+  "datum": "2017-06-30",
+  "geprueft": "2026-11-09",
+  "kanal": "MENT2WIN",
+  "ok": true,
+  "sekunden": 180,
+  "status": "OK",
+  "titel": "Mentaltraining: Inneren Schweinehund überwinden | Der 5-Minuten-Deal"
+ },
+ "https://www.youtube.com/watch?v=3WQod9iu7uY": {
+  "datum": "2023-05-21",
+  "geprueft": "2026-11-09",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 1314,
+  "status": "OK",
+  "titel": "Ab 8 Sekunden ist Schluss: Können wir uns nicht mehr konzentrieren? | Quarks"
+ },
+ "https://www.youtube.com/watch?v=5L--r7e5uSM": {
+  "datum": "2021-09-22",
+  "geprueft": "2026-11-09",
+  "kanal": "HHU Düsseldorf - Lehrstuhl für Management",
+  "ok": true,
+  "sekunden": 372,
+  "status": "OK",
+  "titel": "+beyond | WOOP your life – Wie du deine Ziele erreichst"
+ },
+ "https://www.youtube.com/watch?v=5LvXc7MqfXg": {
+  "datum": "2019-05-22",
+  "geprueft": "2026-11-09",
+  "kanal": "Akademie für Lerncoaching",
+  "ok": true,
+  "sekunden": 280,
+  "status": "OK",
+  "titel": "Aufschieberitis: So erleichterst du dir den Start!"
+ },
  "https://www.youtube.com/watch?v=8ODlGme5Qmo": {
   "datum": "2022-01-19",
   "geprueft": "2026-11-09",
@@ -222,6 +337,15 @@
   "status": "OK",
   "titel": "Perfekte Mitschriften mit der ✅  Cornell-Methode"
  },
+ "https://www.youtube.com/watch?v=B-DXt1oCKuU": {
+  "datum": "2023-04-04",
+  "geprueft": "2026-11-09",
+  "kanal": "SRF Kultur Sternstunden",
+  "ok": true,
+  "sekunden": 1757,
+  "status": "OK",
+  "titel": "Shaolin Meister Shi Heng Yi: Wie lerne ich Selbstbeherrschung? | Sternstunde Religion | SRF Kultur"
+ },
  "https://www.youtube.com/watch?v=CgfdDAaGUeg": {
   "datum": "2021-12-14",
   "geprueft": "2026-11-09",
@@ -230,6 +354,15 @@
   "sekunden": 104,
   "status": "OK",
   "titel": "Datenschutz - So schützt du deine personenbezogenen Daten! | so geht MEDIEN | planet schule | ARD"
+ },
+ "https://www.youtube.com/watch?v=EIOuHYvrvtk": {
+  "datum": "2026-10-13",
+  "geprueft": "2026-11-09",
+  "kanal": "Quarks Dimension Ralph",
+  "ok": true,
+  "sekunden": 529,
+  "status": "OK",
+  "titel": "Verfressen und faul – kann man Willenskraft lernen? | Quarks Dimension Ralph"
  },
  "https://www.youtube.com/watch?v=EZKbP2xV8yU": {
   "datum": "2018-06-26",
@@ -248,6 +381,15 @@
   "sekunden": 104,
   "status": "OK",
   "titel": "Richtig Pausen machen beim Lernen! | Wissen für die Ausbildung | Prozubi.de"
+ },
+ "https://www.youtube.com/watch?v=HDSSvqKPMnc": {
+  "datum": "2021-09-07",
+  "geprueft": "2026-11-09",
+  "kanal": "Akademie für Lerncoaching",
+  "ok": true,
+  "sekunden": 629,
+  "status": "OK",
+  "titel": "Aufschieben: Schluss mit Müllzeit!"
  },
  "https://www.youtube.com/watch?v=HxR1s05CLu4": {
   "datum": "2022-07-11",
@@ -312,6 +454,24 @@
   "status": "OK",
   "titel": "Tschüss Privatsphäre! – So verraten Tinder, Spotify & Co. intime Details von dir | Impact | SRF"
  },
+ "https://www.youtube.com/watch?v=OPI8wR87fqg": {
+  "datum": "2023-10-16",
+  "geprueft": "2026-11-09",
+  "kanal": "Quarks Dimension Ralph",
+  "ok": true,
+  "sekunden": 202,
+  "status": "OK",
+  "titel": "So könnt ihr eure Konzentration verbessern! | Quarks Dimension Ralph"
+ },
+ "https://www.youtube.com/watch?v=OSk0AUT4_8o": {
+  "datum": "2022-06-05",
+  "geprueft": "2026-11-09",
+  "kanal": "Dinge Erklärt – Kurzgesagt",
+  "ok": true,
+  "sekunden": 657,
+  "status": "OK",
+  "titel": "So krempelst du dein Leben um!"
+ },
  "https://www.youtube.com/watch?v=P7lWoPTyCl4": {
   "datum": "2025-05-02",
   "geprueft": "2026-11-09",
@@ -320,6 +480,24 @@
   "sekunden": 166,
   "status": "OK",
   "titel": "Selbstwirksamkeitstheorie (Bandura) | Psychologieunterricht"
+ },
+ "https://www.youtube.com/watch?v=PI91TnRPOyM": {
+  "datum": "2022-07-10",
+  "geprueft": "2026-11-09",
+  "kanal": "Schulgelaber",
+  "ok": true,
+  "sekunden": 287,
+  "status": "OK",
+  "titel": "Die 5 Minuten Regel: Wie du produktiver und effizienter wirst"
+ },
+ "https://www.youtube.com/watch?v=Pf0ZSMchPds": {
+  "datum": "2022-11-16",
+  "geprueft": "2026-11-09",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 332,
+  "status": "OK",
+  "titel": "Der Marshmallow Test"
  },
  "https://www.youtube.com/watch?v=Q16NkzC3czM": {
   "datum": "2026-02-24",
@@ -330,6 +508,15 @@
   "status": "OK",
   "titel": "Ich kann keine Grenzen setzen – Psychologie Kompakt mit Stefanie Stahl"
  },
+ "https://www.youtube.com/watch?v=QNyKtYJ-e7Y": {
+  "datum": "2023-03-07",
+  "geprueft": "2026-11-09",
+  "kanal": "Quarks Dimension Ralph",
+  "ok": true,
+  "sekunden": 586,
+  "status": "OK",
+  "titel": "Prokrastination – Warum schieben wir so viel auf? | Quarks Dimension Ralph"
+ },
  "https://www.youtube.com/watch?v=QRiNRz2LKzQ": {
   "datum": "2024-05-17",
   "geprueft": "2026-11-09",
@@ -339,6 +526,15 @@
   "status": "OK",
   "titel": "Was ist Selbstwirksamkeit?"
  },
+ "https://www.youtube.com/watch?v=Rn_S4Nga2Yc": {
+  "datum": "2023-08-29",
+  "geprueft": "2026-11-09",
+  "kanal": "fernstudi.tv",
+  "ok": true,
+  "sekunden": 517,
+  "status": "OK",
+  "titel": "Produktivität statt Prokrastination: Dr. Tim Reichel über die Fünf-Minuten-Regel"
+ },
  "https://www.youtube.com/watch?v=RwB5IDemKoI": {
   "datum": "2018-01-17",
   "geprueft": "2026-11-09",
@@ -347,6 +543,24 @@
   "sekunden": 188,
   "status": "OK",
   "titel": "Prokrastination: Mit der Pomodoro-Technik das Aufschieben vermeiden – Lerntipps von sofatutor"
+ },
+ "https://www.youtube.com/watch?v=S70IGHfI9-Q": {
+  "datum": "2026-04-22",
+  "geprueft": "2026-11-09",
+  "kanal": "ARD GESUND",
+  "ok": true,
+  "sekunden": 465,
+  "status": "OK",
+  "titel": "Prokrastination: Warum wir Aufgaben aufschieben | Reden hilft | ARD GESUND"
+ },
+ "https://www.youtube.com/watch?v=SPvZnaEkjtg": {
+  "datum": "2023-10-26",
+  "geprueft": "2026-11-09",
+  "kanal": "ARD GESUND",
+  "ok": true,
+  "sekunden": 635,
+  "status": "OK",
+  "titel": "Prokrastination überwinden: So kannst du die Aufschieberitis besiegen | ARD Gesund"
  },
  "https://www.youtube.com/watch?v=SyNoySmKlok": {
   "datum": "2021-10-09",
@@ -365,6 +579,15 @@
   "sekunden": 436,
   "status": "OK",
   "titel": "Auszeit fürs Gehirn: Warum wir Pausen brauchen, um besser lernen zu können | TUMinside"
+ },
+ "https://www.youtube.com/watch?v=Wj0kROaA4s4": {
+  "datum": "2019-05-27",
+  "geprueft": "2026-11-09",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 277,
+  "status": "OK",
+  "titel": "Wie uns Social Media abhängig macht | Quarks"
  },
  "https://www.youtube.com/watch?v=XKdLEwCIYZo": {
   "datum": "2024-03-25",
@@ -402,6 +625,15 @@
   "status": "OK",
   "titel": "Zeitmanagement - mit Pausen effektiv lernen"
  },
+ "https://www.youtube.com/watch?v=_V_VBrW3ZuY": {
+  "datum": "2024-12-17",
+  "geprueft": "2026-11-09",
+  "kanal": "Quarks Dimension Ralph",
+  "ok": true,
+  "sekunden": 637,
+  "status": "OK",
+  "titel": "Social Media: Warum kann ich nicht aufhören mit Binge-Scrolling?  | Quarks Dimension Ralph"
+ },
  "https://www.youtube.com/watch?v=aLl0-_KDJ5g": {
   "datum": "2024-04-21",
   "geprueft": "2026-11-09",
@@ -410,6 +642,15 @@
   "sekunden": 309,
   "status": "OK",
   "titel": "INTRINSISCHE Motivation und EXTRINSISCHE Motivation mit Beispielen (einfach erklärt) | ERZIEHERKANAL"
+ },
+ "https://www.youtube.com/watch?v=bPPt8aU7Xao": {
+  "datum": "2022-07-10",
+  "geprueft": "2026-11-09",
+  "kanal": "Hessischer Rundfunk",
+  "ok": true,
+  "sekunden": 527,
+  "status": "OK",
+  "titel": "Krankhaftes Aufschieben | Die Ratgeber"
  },
  "https://www.youtube.com/watch?v=cxmmLgTMX2U": {
   "datum": "2024-04-14",
@@ -428,6 +669,15 @@
   "sekunden": 679,
   "status": "OK",
   "titel": "Zeitmanagement -- ABC-Analyse, Eisenhower-Prinzip, ALPEN-Methode, Pareto-Prinzip"
+ },
+ "https://www.youtube.com/watch?v=eZiGbTDZVTA": {
+  "datum": "2023-03-02",
+  "geprueft": "2026-11-09",
+  "kanal": "laurinspire",
+  "ok": true,
+  "sekunden": 547,
+  "status": "OK",
+  "titel": "Endlich DISZIPLIN aufbauen - so gehts!✅"
  },
  "https://www.youtube.com/watch?v=epm8BKYh5h0": {
   "datum": "2022-06-30",
@@ -474,6 +724,15 @@
   "status": "OK",
   "titel": "+beyond | Eisenhower Matrix – Was ist wichtig und dringend? Priorisieren wie Präsidenten!"
  },
+ "https://www.youtube.com/watch?v=iva66cLfBUU": {
+  "datum": "2023-07-11",
+  "geprueft": "2026-11-09",
+  "kanal": "Didaktik-Medien-Zentrum",
+  "ok": true,
+  "sekunden": 227,
+  "status": "OK",
+  "titel": "Lernen mit System: Interleaving für effektive Wissensvernetzung 🌟🔗"
+ },
  "https://www.youtube.com/watch?v=jXLZIYwRJLE": {
   "datum": "2021-06-15",
   "geprueft": "2026-11-09",
@@ -501,6 +760,15 @@
   "status": "OK",
   "titel": "6 oder 9 Uhr? Warum wir zur falschen Zeit aufstehen!  | Quarks"
  },
+ "https://www.youtube.com/watch?v=ktAQa4OcVeQ": {
+  "datum": "2018-11-15",
+  "geprueft": "2026-11-09",
+  "kanal": "Sozialpsychologie mit Prof. Erb",
+  "ok": true,
+  "sekunden": 482,
+  "status": "OK",
+  "titel": "Was ist Prokrastination? | Psychologie mit Prof. Erb"
+ },
  "https://www.youtube.com/watch?v=l5ld0SlNYEk": {
   "datum": "2018-11-09",
   "geprueft": "2026-11-09",
@@ -510,6 +778,15 @@
   "status": "OK",
   "titel": "Die SMART-Methode | STARK erklärt"
  },
+ "https://www.youtube.com/watch?v=lHqy_Mg6oP4": {
+  "datum": "2020-10-16",
+  "geprueft": "2026-11-09",
+  "kanal": "Die Techniker",
+  "ok": true,
+  "sekunden": 311,
+  "status": "OK",
+  "titel": "Prokrastination überwinden mit der SMART-Methode | Dr. Johannes Wimmer"
+ },
  "https://www.youtube.com/watch?v=lRPLIElAq9A": {
   "datum": "2022-07-05",
   "geprueft": "2026-11-09",
@@ -518,6 +795,15 @@
   "sekunden": 332,
   "status": "OK",
   "titel": "Sozialkognitive Lerntheorie: Banduras Experimente mit der Schlagpuppe"
+ },
+ "https://www.youtube.com/watch?v=mtDrWYf6Te8": {
+  "datum": "2026-02-16",
+  "geprueft": "2026-11-09",
+  "kanal": "MOOCit Education Matters Lernvideos für die Schule",
+  "ok": true,
+  "sekunden": 441,
+  "status": "OK",
+  "titel": "Interleaving - Gemischtes Üben - Smarter lernen 🎓 Lernen lernen – Die Erfolgsserie für bessere Noten"
  },
  "https://www.youtube.com/watch?v=oKjYVjl_G60": {
   "datum": "2025-09-28",
@@ -582,6 +868,15 @@
   "status": "OK",
   "titel": "Lebenszeit gewinnen durch weniger Schlaf? | Terra Xplore mit Jasmina Neudecker"
  },
+ "https://www.youtube.com/watch?v=wH5ik6qcw60": {
+  "datum": "2023-05-02",
+  "geprueft": "2026-11-09",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 896,
+  "status": "OK",
+  "titel": "Prokrastination: Wie schlimm ist Aufschieberitis? | Terra Xplore mit Geologin Thora Schubert"
+ },
  "https://www.youtube.com/watch?v=wLHPgcOekvw": {
   "datum": "2025-10-29",
   "geprueft": "2026-11-09",
@@ -600,6 +895,24 @@
   "status": "OK",
   "titel": "Eule oder Lerche? So wirkt dein Chronotyp auf Sport, Stoffwechsel und Schlaf | ARD GESUND"
  },
+ "https://www.youtube.com/watch?v=xSm5XFbIUCc": {
+  "datum": "2026-05-26",
+  "geprueft": "2026-11-09",
+  "kanal": "Irgendwas mit ARTE und Kultur",
+  "ok": true,
+  "sekunden": 1817,
+  "status": "OK",
+  "titel": "Mach ich später! Die Lust am Aufschieben | Twist | ARTE"
+ },
+ "https://www.youtube.com/watch?v=xhBTnzAs-h0": {
+  "datum": "2019-02-06",
+  "geprueft": "2026-11-09",
+  "kanal": "Akademie für Lerncoaching",
+  "ok": true,
+  "sekunden": 264,
+  "status": "OK",
+  "titel": "So wirst du produktiver: Schluss mit Müllzeit"
+ },
  "https://www.youtube.com/watch?v=yDUbNZPO0RI": {
   "datum": "2023-05-04",
   "geprueft": "2026-11-09",
@@ -608,6 +921,15 @@
   "sekunden": 392,
   "status": "OK",
   "titel": "Vision Board erstellen: So visualisierst Du Deine Ziele"
+ },
+ "https://www.youtube.com/watch?v=yF0MNdVsfmQ": {
+  "datum": "2023-07-08",
+  "geprueft": "2026-11-09",
+  "kanal": "INKOVEMA | Mediation, Ausbildung \\u0026 Beratung",
+  "ok": true,
+  "sekunden": 2096,
+  "status": "OK",
+  "titel": "#133 - Mentales Kontrastieren mit WOOP! Im Gespräch mit Prof. Dr. Gabriele Oettingen"
  },
  "https://www.youtube.com/watch?v=yjutSUDuhbc": {
   "datum": "2021-06-17",

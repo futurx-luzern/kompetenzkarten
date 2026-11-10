@@ -1,0 +1,117 @@
+{
+ "titel": "WOOP-Methode anwenden",
+ "kategorie": "Machen statt Aufschieben",
+ "aufgabe": "Finde heraus, wie die WOOP-Methode (Wish, Outcome, Obstacle, Plan) funktioniert und wie sie helfen kann, Ziele zu erreichen und Aufschieben zu vermeiden. Erstelle eine kurze Zusammenfassung oder eine visuelle Darstellung der Methode.",
+ "ziel": "Erfahre, wie strukturierte Zielsetzung dir hilft, Aufgaben sofort anzugehen.",
+ "text": [
+  "Viele Vorsätze scheitern nicht am fehlenden Willen, sondern daran, dass man im entscheidenden Moment nicht weiss, was zu tun ist. Zum Beispiel: Man will am Abend lernen, ist dann aber müde, und schon ist das Handy in der Hand.",
+  "Die WOOP-Methode hilft genau da. Sie verbindet dein Ziel mit dem, was dich aufhalten könnte, und mit einem klaren Plan. WOOP ist eine der am besten erforschten Methoden, um Ziele wirklich umzusetzen."
+ ],
+ "methode_titel": "So funktioniert WOOP",
+ "uebung": {
+  "frage": "Zu welchem WOOP-Schritt gehört dieser Satz?",
+  "optionen": [
+   "Wunsch",
+   "Ergebnis",
+   "Hindernis",
+   "Plan"
+  ],
+  "hinweis": "W = was ich will, O = was dann Schönes passiert, O = was mich in mir aufhält, P = Wenn-dann-Satz.",
+  "aufgaben": [
+   {
+    "text": "«Ich will die Theorieprüfung für den Führerschein bestehen.»",
+    "richtig": "Wunsch",
+    "warum": "Das ist das Ziel, das du erreichen willst."
+   },
+   {
+    "text": "«Dann kann ich bald selbst zum Lehrbetrieb fahren und bin unabhängig.»",
+    "richtig": "Ergebnis",
+    "warum": "Das ist das Schönste, das passiert, wenn es klappt."
+   },
+   {
+    "text": "«Am Abend bin ich müde und schaue lieber Videos.»",
+    "richtig": "Hindernis",
+    "warum": "Das ist etwas in dir, das dich aufhalten könnte."
+   },
+   {
+    "text": "«Wenn ich im Zug sitze, dann übe ich zuerst 15 Theoriefragen in der App.»",
+    "richtig": "Plan",
+    "warum": "Ein Wenn-dann-Satz, der genau sagt, wann du was tust."
+   },
+   {
+    "text": "«Ich habe Angst, dass ich es sowieso nicht schaffe.»",
+    "richtig": "Hindernis",
+    "warum": "Auch ein Gefühl kann ein inneres Hindernis sein."
+   },
+   {
+    "text": "«Wenn ich denke, dass ich es nicht schaffe, dann schaue ich, wie viele Fragen ich schon richtig habe.»",
+    "richtig": "Plan",
+    "warum": "Der Plan reagiert genau auf das Hindernis."
+   }
+  ]
+ },
+ "fragen": [
+  "Welchen Wunsch hast du für die nächsten Wochen?",
+  "Was in dir könnte dich davon abhalten?",
+  "Wie würde dein Wenn-dann-Plan lauten?"
+ ],
+ "suche": [
+  "WOOP-Methode",
+  "mentales Kontrastieren",
+  "Wenn-dann-Pläne"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=5L--r7e5uSM",
+   "titel": "WOOP your life: wie du deine Ziele erreichst",
+   "dauer": "6 Min.",
+   "quelle": "Heinrich-Heine-Universität Düsseldorf",
+   "notiz": "Klare Erklärung mit Beispiel"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://woopmylife.org/de/practice",
+   "titel": "Wie geht WOOP?",
+   "dauer": "5 Min.",
+   "quelle": "woopmylife.org, offizielle Seite der Forscherin",
+   "notiz": "Anleitung von Gabriele Oettingen selbst, mit kostenloser App"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=0emqvMQVauA",
+   "titel": "Mentales Kontrastieren in der Praxis: die Wenn-dann-Pläne",
+   "dauer": "7 Min.",
+   "quelle": "WeiterDenken (Svenja Hofert)",
+   "notiz": "Vertieft den P-Schritt",
+   "warnung": "Kanal einer Beraterin, Beispiele aus dem Beruf"
+  },
+  {
+   "stufe": 3,
+   "typ": "audio",
+   "url": "https://www.youtube.com/watch?v=yF0MNdVsfmQ",
+   "titel": "Mentales Kontrastieren mit WOOP: Gespräch mit Prof. Gabriele Oettingen",
+   "dauer": "35 Min.",
+   "quelle": "INKOVEMA-Podcast",
+   "notiz": "Die Erfinderin erklärt die Forschung selbst",
+   "warnung": "Podcast, eher für Erwachsene"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.foodspring.de/magazine/woop-methode",
+   "grund": "Seite nicht mehr erreichbar"
+  },
+  {
+   "url": "https://digitaleneuordnung.de/blog/woop-methode",
+   "grund": "Privater Blog"
+  },
+  {
+   "url": "https://www.ionos.de/startupguide/produktivitaet/woop-methode/",
+   "grund": "Ratgeber eines Webhosting-Anbieters für Firmengründer"
+  }
+ ]
+}

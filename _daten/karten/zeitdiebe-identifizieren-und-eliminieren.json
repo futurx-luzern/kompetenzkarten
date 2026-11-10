@@ -1,0 +1,70 @@
+{
+ "titel": "Zeitdiebe identifizieren und eliminieren",
+ "kategorie": "Zeitmanagement",
+ "aufgabe": "Recherchiere, welche typischen Zeitdiebe es gibt (z.B. Social Media, zielloses Surfen) und wie man sie reduzieren kann. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Strategien.",
+ "ziel": "Verstehe, wie du deine Zeit optimal nutzen kannst, indem du Ablenkungen minimierst.",
+ "text": [
+  "Zeitdiebe, manchmal auch Zeitfresser genannt, sind Dinge, die dir Zeit stehlen, ohne dass du es richtig merkst. Der grösste Zeitdieb ist bei den meisten das Handy: Eine Nachricht hier, ein Video da, und plötzlich ist eine Stunde weg.",
+  "Andere typische Zeitdiebe sind: ständige Unterbrechungen, langes Suchen nach Material, Aufgaben ohne klares Ziel oder zu viel gleichzeitig machen.",
+  "Der erste Schritt ist, deine Zeitdiebe zu erkennen. Schreib zum Beispiel einen Tag lang auf, was du wann machst. Oder schau in die Bildschirmzeit deines Handys. Danach kannst du gezielt etwas ändern: Benachrichtigungen ausschalten, das Handy beim Lernen in einen anderen Raum legen, Material am Abend bereitlegen."
+ ],
+ "fragen": [
+  "Was sind deine drei grössten Zeitdiebe?",
+  "Wie viele Stunden pro Tag zeigt dir deine Bildschirmzeit an? Hättest du das geschätzt?",
+  "Welchen Zeitdieb könntest du diese Woche ausschalten?"
+ ],
+ "suche": [
+  "Zeitdiebe erkennen",
+  "Bildschirmzeit reduzieren",
+  "Ablenkung beim Lernen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=OPI8wR87fqg",
+   "titel": "So könnt ihr eure Konzentration verbessern",
+   "dauer": "3,5 Min.",
+   "quelle": "Quarks Dimension Ralph (WDR)",
+   "notiz": "Wissenschaftlich geprüfte Tipps gegen Ablenkung"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.todo-liste.de/tipps/zeitdiebe",
+   "titel": "Zeitdiebe erkennen und beseitigen",
+   "dauer": "5 Min.",
+   "quelle": "todo-liste.de",
+   "notiz": "Übersicht typischer Zeitdiebe mit Tipps. Bleibt von der alten Seite",
+   "warnung": "Eher für den Arbeitsalltag geschrieben"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=_V_VBrW3ZuY",
+   "titel": "Social Media: Warum kann ich nicht aufhören zu scrollen?",
+   "dauer": "10,5 Min.",
+   "quelle": "Quarks Dimension Ralph (WDR)",
+   "notiz": "Wie Apps unser Belohnungssystem nutzen"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=3WQod9iu7uY",
+   "titel": "Ab 8 Sekunden ist Schluss: Können wir uns nicht mehr konzentrieren?",
+   "dauer": "22 Min.",
+   "quelle": "Quarks (WDR)",
+   "notiz": "Was die Forschung zur Aufmerksamkeit wirklich sagt"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=8lqipXFU6Ss",
+   "grund": "Kanal einer Firma (Wohnmobile), Arbeitskontext"
+  },
+  {
+   "url": "https://work-smarter.ch/blog/aktuell/3-schritte-um-zeitdiebe-zu-entlarven-und-eliminieren",
+   "grund": "Seite nicht mehr erreichbar"
+  }
+ ]
+}

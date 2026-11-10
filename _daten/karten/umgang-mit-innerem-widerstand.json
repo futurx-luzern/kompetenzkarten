@@ -1,0 +1,70 @@
+{
+ "titel": "Umgang mit innerem Widerstand",
+ "kategorie": "Machen statt Aufschieben",
+ "aufgabe": "Finde heraus, wie man den inneren Widerstand überwinden kann, der oft zum Aufschieben führt. Erstelle eine kurze Zusammenfassung oder ein Diagramm der besten Techniken.",
+ "ziel": "Lerne, wie du deinen inneren Widerstand erkennst und überwindest, um Aufgaben effizienter zu erledigen.",
+ "text": [
+  "Manchmal spürst du richtig, wie sich etwas in dir gegen eine Aufgabe wehrt. Man nennt das inneren Widerstand, oder auch den «inneren Schweinehund». Er zeigt sich als Unlust, Müdigkeit, schlechte Laune oder plötzlich ganz viele andere Dinge, die man «noch schnell» erledigen muss.",
+  "Innerer Widerstand ist nicht dein Feind. Er ist ein Signal: Vielleicht ist die Aufgabe unklar, zu gross, langweilig, oder du hast Angst, es nicht gut zu machen. Wenn du herausfindest, woher der Widerstand kommt, kannst du gezielt etwas tun.",
+  "Was oft hilft: den Widerstand ernst nehmen («Ich habe gerade keine Lust, und das ist okay»), die Aufgabe kleiner machen, einen festen Startzeitpunkt wählen und dich nach dem ersten Schritt kurz belohnen. Neue Forschung zeigt ausserdem: Willenskraft ist kein Muskel, der leer wird. Wer an sie glaubt, hält oft länger durch."
+ ],
+ "fragen": [
+  "Woran merkst du, dass sich in dir ein Widerstand gegen eine Aufgabe regt?",
+  "Was steckt bei dir meistens dahinter: Langeweile, Unsicherheit oder etwas anderes?",
+  "Was hilft dir, trotzdem anzufangen?"
+ ],
+ "suche": [
+  "innerer Schweinehund überwinden",
+  "keine Lust zu lernen",
+  "Willenskraft Forschung"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=1L6kr09dTgE",
+   "titel": "Inneren Schweinehund überwinden: der 5-Minuten-Deal",
+   "dauer": "3 Min.",
+   "quelle": "MENT2WIN (Mentaltraining)",
+   "notiz": "Einfacher Trick, kurz erklärt",
+   "warnung": "Kanal eines Mentaltrainers, älteres Video"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=S70IGHfI9-Q",
+   "titel": "Prokrastination: Warum wir Aufgaben aufschieben",
+   "dauer": "8 Min.",
+   "quelle": "ARD Gesund (rbb), April 2026",
+   "notiz": "Betroffene und eine Psychologin über die Gefühle hinter dem Aufschieben"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=EIOuHYvrvtk",
+   "titel": "Verfressen und faul: Kann man Willenskraft lernen?",
+   "dauer": "9 Min.",
+   "quelle": "Quarks Dimension Ralph (WDR), Oktober 2026",
+   "notiz": "Aktuelle Forschung: Willenskraft ist kein Muskel, der ermüdet"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ktAQa4OcVeQ",
+   "titel": "Was ist Prokrastination?",
+   "dauer": "8 Min.",
+   "quelle": "Sozialpsychologie mit Prof. Erb",
+   "notiz": "Psychologische Erklärung mit Fachbegriffen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://zeitzuleben.de/wie-wir-innere-widerstaende-bewusst-nutzen-koennen/",
+   "grund": "Ratgeber-Blog mit Kursverkauf, für Erwachsene"
+  },
+  {
+   "url": "https://www.lauraleising.de/innerewiderstaende/",
+   "grund": "Website einer Coachin, verkauft Coachings"
+  }
+ ]
+}

@@ -3,7 +3,7 @@
 Stand 2026-11-09. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 7 online, 8 bereit, 107 offen (von 122)
+**Total:** 15 online, 12 bereit, 95 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -22,31 +22,31 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Prioritäten setzen mit der ABC-Analyse | `prioritaeten-setzen-mit-der-abc-analyse.html` | bereit |
-| Arbeiten in kurzen Einheiten | `arbeiten-in-kurzen-einheiten.html` | bereit |
-| Tages- und Wochenplanung | `tages--und-wochenplanung.html` | bereit |
-| Pausen sinnvoll einplanen | `pausen-sinnvoll-einplanen.html` | bereit |
-| Selbstbelohnung einsetzen | `selbstbelohnung-einsetzen.html` | bereit |
-| Visualisierung von Zielen | `visualisierung-von-zielen.html` | bereit |
-| Motivation durch Vorbilder | `motivation-durch-vorbilder.html` | bereit |
-| Morgenrituale für mehr Motivation | `morgenrituale-fuer-mehr-motivation.html` | bereit |
+| Prioritäten setzen mit der ABC-Analyse | `prioritaeten-setzen-mit-der-abc-analyse.html` | online |
+| Arbeiten in kurzen Einheiten | `arbeiten-in-kurzen-einheiten.html` | online |
+| Tages- und Wochenplanung | `tages--und-wochenplanung.html` | online |
+| Pausen sinnvoll einplanen | `pausen-sinnvoll-einplanen.html` | online |
+| Selbstbelohnung einsetzen | `selbstbelohnung-einsetzen.html` | online |
+| Visualisierung von Zielen | `visualisierung-von-zielen.html` | online |
+| Motivation durch Vorbilder | `motivation-durch-vorbilder.html` | online |
+| Morgenrituale für mehr Motivation | `morgenrituale-fuer-mehr-motivation.html` | online |
 
 ## Paket 2: Machen statt Aufschieben (12 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| 5-Minuten-Regel | `5-minuten-regel-kennenlernen.html` | offen |
-| Zeitfresser identifizieren und eliminieren | `zeitdiebe-identifizieren-und-eliminieren.html` | offen |
-| Sofort anfangen statt aufschieben | `sofort-anfangen-statt-aufschieben.html` | offen |
-| Tagesplanung gegen Aufschieberitis | `tagesplanung-gegen-aufschieberitis.html` | offen |
-| Realistische Ziele setzen | `realistische-ziele-setzen.html` | offen |
-| Umgang mit innerem Widerstand | `umgang-mit-innerem-widerstand.html` | offen |
-| Klein anfangen mit der 10-Minuten-Regel | `klein-anfangen-mit-der-10-minuten-regel.html` | offen |
-| Selbstdisziplin stärken | `selbstdisziplin-staerken.html` | offen |
-| Flexibilität bei der Aufgabenwahl | `flexibilitaet-bei-der-aufgabenwahl.html` | offen |
-| WOOP-Methode anwenden | `woop-methode-anwenden.html` | offen |
-| Selbstreflexion zur Überwindung von Aufschieberitis | `selbstreflexion-zur-ueberwindung-von-aufschieberitis.html` | offen |
-| Müllzeit reduzieren | `muellzeit-reduzieren.html` | offen |
+| 5-Minuten-Regel | `5-minuten-regel-kennenlernen.html` | bereit |
+| Zeitfresser identifizieren und eliminieren | `zeitdiebe-identifizieren-und-eliminieren.html` | bereit |
+| Sofort anfangen statt aufschieben | `sofort-anfangen-statt-aufschieben.html` | bereit |
+| Tagesplanung gegen Aufschieberitis | `tagesplanung-gegen-aufschieberitis.html` | bereit |
+| Realistische Ziele setzen | `realistische-ziele-setzen.html` | bereit |
+| Umgang mit innerem Widerstand | `umgang-mit-innerem-widerstand.html` | bereit |
+| Klein anfangen mit der 10-Minuten-Regel | `klein-anfangen-mit-der-10-minuten-regel.html` | bereit |
+| Selbstdisziplin stärken | `selbstdisziplin-staerken.html` | bereit |
+| Flexibilität bei der Aufgabenwahl | `flexibilitaet-bei-der-aufgabenwahl.html` | bereit |
+| WOOP-Methode anwenden | `woop-methode-anwenden.html` | bereit |
+| Selbstreflexion zur Überwindung von Aufschieberitis | `selbstreflexion-zur-ueberwindung-von-aufschieberitis.html` | bereit |
+| Müllzeit reduzieren | `muellzeit-reduzieren.html` | bereit |
 
 ## Paket 3: Lerntechniken und Lesekompetenz (9 Karten)
 
