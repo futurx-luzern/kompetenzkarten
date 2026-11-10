@@ -1,0 +1,102 @@
+{
+ "titel": "Wichtige Informationen extrahieren",
+ "kategorie": "Lesekompetenz",
+ "aufgabe": "Recherchiere, wie man aus einem Text die wichtigsten Informationen extrahiert. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken zum Herausfiltern relevanter Inhalte.",
+ "ziel": "Lerne, wie du durch gezieltes Lesen die wichtigsten Punkte eines Textes erkennst.",
+ "text": [
+  "In der Schule, im Betrieb und im Internet bekommst du viel mehr Text, als du dir merken kannst. Die Kunst ist, schnell zu erkennen, was wirklich wichtig ist.",
+  "Wer die Kernaussagen eines Textes findet, spart Zeit beim Lernen und versteht mehr. Das ist auch die Grundlage für gute Zusammenfassungen und Vorträge."
+ ],
+ "methode_titel": "So findest du das Wichtige in einem Text",
+ "uebung": {
+  "frage": "Stell dir einen Text über Plastik im Meer vor. Ist dieser Satz eine Kernaussage oder ein Detail?",
+  "optionen": [
+   "Kernaussage",
+   "Detail"
+  ],
+  "hinweis": "Frag dich: Würde dem Text ohne diesen Satz etwas Wichtiges fehlen?",
+  "aufgaben": [
+   {
+    "text": "«Jedes Jahr gelangen Millionen Tonnen Plastik in die Meere.»",
+    "richtig": "Kernaussage",
+    "warum": "Das ist das Hauptproblem, um das es im Text geht."
+   },
+   {
+    "text": "«Ein Forscher fand einmal eine Zahnbürste im Magen eines Seevogels.»",
+    "richtig": "Detail",
+    "warum": "Ein anschauliches Beispiel, aber nicht die Hauptaussage."
+   },
+   {
+    "text": "«Mikroplastik gelangt über Fische auch in unsere Nahrung.»",
+    "richtig": "Kernaussage",
+    "warum": "Eine wichtige Folge, die man sich merken sollte."
+   },
+   {
+    "text": "«Der Artikel erschien zuerst in einer Wochenzeitung.»",
+    "richtig": "Detail",
+    "warum": "Für den Inhalt nicht wichtig."
+   },
+   {
+    "text": "«Weniger Einwegplastik ist der wirksamste Schutz.»",
+    "richtig": "Kernaussage",
+    "warum": "Die Lösung, die der Text vorschlägt."
+   }
+  ]
+ },
+ "fragen": [
+  "Wie viel markierst du normalerweise in einem Text?",
+  "Woran erkennst du, dass etwas wichtig ist?",
+  "In welchen Situationen musst du schnell das Wichtigste aus einem Text herausholen?"
+ ],
+ "suche": [
+  "Schlüsselwörter finden",
+  "Text richtig markieren",
+  "Sachtexte verstehen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=OnpTOyclUw4",
+   "titel": "Schlüsselwörter in Texten: Erklärung und Beispiel",
+   "dauer": "2,5 Min.",
+   "quelle": "lernfoerderung",
+   "notiz": "Kurz, mit Beispiel",
+   "warnung": "Kanal wirbt für ein Buch"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=IHy9v4pjTvw",
+   "titel": "Wichtige Textstellen finden und markieren",
+   "dauer": "4 Min.",
+   "quelle": "sofatutor",
+   "notiz": "Für die Schule gemacht"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=da84WrvcJ7o",
+   "titel": "Informationen aus Sachtexten entnehmen: richtig markieren",
+   "dauer": "4,5 Min.",
+   "quelle": "Frau Pipps (Lehrerin)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=t3nfcMDFRPo",
+   "titel": "Markieren und lesen ist sinnlos? So lernst du schwierige Texte",
+   "dauer": "7 Min.",
+   "quelle": "Studenten-Tipps",
+   "notiz": "Kritische Sicht: Warum nur markieren wenig bringt",
+   "warnung": "Für Studierende, wirbt für einen Kurs"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=mjP_bXXXNvI",
+   "grund": "Falsches Thema: zeigt, wie man mit ChatGPT Daten aus Texten zieht"
+  }
+ ]
+}

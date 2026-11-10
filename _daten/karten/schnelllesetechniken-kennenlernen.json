@@ -1,0 +1,74 @@
+{
+ "titel": "Schnelllesetechniken kennenlernen",
+ "kategorie": "Lesekompetenz",
+ "aufgabe": "Recherchiere, wie Schnelllesetechniken funktionieren und wie sie dir helfen können, Texte effizienter zu lesen. Erstelle eine kurze Zusammenfassung oder eine Übersicht der besten Schnelllesetechniken.",
+ "ziel": "Lerne, wie du durch Schnelllesetechniken mehr Informationen in kürzerer Zeit aufnehmen kannst.",
+ "text": [
+  "Für Schule und Lehre musst du oft viel lesen. Da klingt es verlockend: schneller lesen und trotzdem alles verstehen. Viele Kurse und Apps versprechen genau das.",
+  "Was ist dran? Die Forschung sagt: Wirklich «superschnell» lesen und dabei alles verstehen geht nicht. Aber es gibt Techniken, mit denen du viel Zeit sparst, weil du nicht jeden Text gleich gründlich lesen musst."
+ ],
+ "methode_titel": "Welche Lesetechnik wofür?",
+ "fragen": [
+  "Wie lange brauchst du für eine Seite Text? Hast du das schon einmal gemessen?",
+  "Bei welchen Texten reicht es, sie zu überfliegen? Bei welchen nicht?",
+  "Was hältst du von Kursen, die «dreimal schneller lesen» versprechen?"
+ ],
+ "suche": [
+  "Schnelllesen Mythos",
+  "Skimming und Scanning",
+  "Lesetechniken"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=jZEYfSCk6JM",
+   "titel": "Lesetechniken: schneller lesen lernen",
+   "dauer": "4,5 Min.",
+   "quelle": "musstewissen Deutsch (funk)",
+   "notiz": "Praktische Tipps für die Schule. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=RCDOSan-Oxs",
+   "titel": "Schnell-Lesen: Wie funktioniert das?",
+   "dauer": "3 Min.",
+   "quelle": "BR24",
+   "notiz": "Kurzer Bericht"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=wJTdgimaRLE",
+   "titel": "Kann man Schnelllesen trainieren?",
+   "dauer": "12 Min.",
+   "quelle": "Quarks Dimension Ralph (WDR)",
+   "notiz": "Was die Forschung zu Speed Reading sagt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=uRO4c0fCF9o",
+   "titel": "Speed Reading: doppelt so schnell lesen in einer Woche?",
+   "dauer": "14,5 Min.",
+   "quelle": "PULS Reportage (BR)",
+   "notiz": "Selbstversuch einer jungen Reporterin"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://magazin.sofatutor.com/schueler/lernmythen-funktionieren-schnelllesetechniken/",
+   "titel": "Lernmythen: Funktionieren Schnelllesetechniken?",
+   "dauer": "6 Min.",
+   "quelle": "sofatutor Magazin",
+   "notiz": "Prüft die Versprechen kritisch. Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.improved-reading.de/2020/11/11/schneller-lesen-lernen-anleitung-zum-effizienten-lesen/",
+   "grund": "Anbieter verkauft Schnelllese-Kurse"
+  }
+ ]
+}

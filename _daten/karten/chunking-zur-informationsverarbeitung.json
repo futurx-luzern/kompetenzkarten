@@ -1,0 +1,57 @@
+{
+ "titel": "Chunking zur Informationsverarbeitung",
+ "kategorie": "Lerntechniken",
+ "aufgabe": "Informiere dich darüber, wie das Chunking (Aufteilen von Informationen in kleinere Einheiten) funktioniert und wie es das Lernen erleichtern kann. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Tipps.",
+ "ziel": "Erfahre, wie du durch das Aufteilen von Informationen dein Gedächtnis entlasten kannst.",
+ "text": [
+  "Hast du dir schon einmal eine lange Zahl merken müssen, zum Beispiel eine Telefonnummer oder einen Code? Wenn man sie in Gruppen aufteilt, geht es viel leichter. Genau das ist Chunking.",
+  "Chunking heisst: Du bündelst einzelne Informationen zu grösseren, sinnvollen Einheiten. So entlastest du dein Gedächtnis und kannst mehr behalten. Die Technik hilft beim Auswendiglernen, aber auch beim Verstehen von grossen Themen."
+ ],
+ "methode_titel": "So funktioniert Chunking",
+ "fragen": [
+  "Wie merkst du dir Telefonnummern, Codes oder Passwörter?",
+  "Welchen Lernstoff könntest du in sinnvolle Gruppen teilen?",
+  "Warum ist es leichter, sich «079 456 12 38» zu merken als zehn einzelne Ziffern?"
+ ],
+ "suche": [
+  "Chunking Lerntechnik",
+  "Arbeitsgedächtnis",
+  "Gedächtnis Kapazität"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Elt4JAsBGeE",
+   "titel": "Wie du dir (fast) alles merken kannst: Chunking",
+   "dauer": "6,5 Min.",
+   "quelle": "verstanding",
+   "notiz": "Erklärt die Technik mit Beispielen",
+   "warnung": "Kleiner Kanal"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QJ2_7TDE4Wk",
+   "titel": "Chunking",
+   "dauer": "7,5 Min.",
+   "quelle": "Sozialpsychologie mit Prof. Erb",
+   "notiz": "Psychologische Erklärung, wie wir Informationen bündeln. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cJrKwI7McK4",
+   "titel": "Erinnerungen: Wie funktioniert unser Gedächtnis?",
+   "dauer": "11,5 Min.",
+   "quelle": "Quarks Dimension Ralph (WDR)",
+   "notiz": "Hintergrund: wie das Gedächtnis arbeitet"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.exovia.de/journal/chunking-webdesign/",
+   "grund": "Seite nicht mehr erreichbar, ging um Webdesign"
+  }
+ ]
+}

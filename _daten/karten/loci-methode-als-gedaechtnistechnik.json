@@ -1,0 +1,56 @@
+{
+ "titel": "Loci-Methode als Gedächtnistechnik",
+ "kategorie": "Lerntechniken",
+ "aufgabe": "Recherchiere, wie die Loci-Methode funktioniert und wie sie zur Verbesserung des Gedächtnisses verwendet wird. Erstelle eine kurze Zusammenfassung oder eine visuelle Darstellung der Methode.",
+ "ziel": "Verstehe, wie du durch visuelle Assoziationen Informationen besser behalten kannst.",
+ "text": [
+  "Einkaufslisten, Vokabeln, Fachbegriffe, Reihenfolgen: Vieles muss man einfach auswendig wissen. Immer wieder lesen hilft da oft wenig.",
+  "Die Loci-Methode ist eine der ältesten und wirksamsten Gedächtnistechniken. Sie nutzt einen Trick: Unser Gehirn kann sich Orte und lebhafte Bilder viel besser merken als Wörter auf einer Liste."
+ ],
+ "methode_titel": "So funktioniert die Loci-Methode",
+ "fragen": [
+  "Wie lernst du heute Dinge auswendig?",
+  "Welchen Weg kennst du so gut, dass du ihn mit geschlossenen Augen gehen könntest?",
+  "Wofür könntest du die Loci-Methode in Schule oder Lehre brauchen?"
+ ],
+ "suche": [
+  "Loci-Methode",
+  "Gedächtnispalast",
+  "Gedächtnistechniken"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=FY5LQWjVrhI",
+   "titel": "Ein Trick, um sich (fast) alles besser zu merken",
+   "dauer": "3,5 Min.",
+   "quelle": "Simplicissimus",
+   "notiz": "Kurz, gut gemacht, erklärt den Gedächtnispalast"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=K5l2BobcfKc",
+   "titel": "Die Loci-Methode: der Weg zum Gedächtnispalast",
+   "dauer": "14,5 Min.",
+   "quelle": "Campus-TV Universität Mainz",
+   "notiz": "Mit einem Gedächtnissportler zum Mitmachen. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=rpOnDFYUQiw",
+   "titel": "Challenge mit einem Gedächtnis-Weltmeister",
+   "dauer": "27 Min.",
+   "quelle": "Terra Xplore (ZDF)",
+   "notiz": "Junges Format: Wie gut kann man sein Gedächtnis trainieren?"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=3vqlK73Z4xo",
+   "grund": "Ersetzt durch Simplicissimus und Terra Xplore"
+  }
+ ]
+}

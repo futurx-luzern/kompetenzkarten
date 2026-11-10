@@ -1,0 +1,106 @@
+{
+ "titel": "Zusammenfassungen schreiben",
+ "kategorie": "Lesekompetenz",
+ "aufgabe": "Informiere dich darüber, wie man effektiv Zusammenfassungen von Texten schreibt. Erstelle eine kurze Zusammenfassung oder eine Checkliste mit Tipps für prägnante Textzusammenfassungen.",
+ "ziel": "Verstehe, wie du durch das Schreiben von Zusammenfassungen dein Verständnis vertiefen kannst.",
+ "text": [
+  "Zusammenfassungen brauchst du überall: beim Lernen für Prüfungen, im Deutschunterricht, im Berichtsheft oder wenn du im Betrieb erzählen sollst, worum es in einer Sitzung ging.",
+  "Wer einen Text zusammenfassen kann, hat ihn verstanden. Darum ist das Schreiben einer Zusammenfassung auch eine der besten Lernmethoden: Du musst das Wichtige finden und in eigene Worte bringen."
+ ],
+ "methode_titel": "So schreibst du eine Zusammenfassung",
+ "uebung": {
+  "frage": "Gehört das in eine Zusammenfassung?",
+  "optionen": [
+   "Gehört rein",
+   "Gehört nicht rein"
+  ],
+  "hinweis": "Denk an die Regeln: kurz, sachlich, eigene Worte, Präsens.",
+  "aufgaben": [
+   {
+    "text": "Die wichtigsten Aussagen des Textes in eigenen Worten",
+    "richtig": "Gehört rein",
+    "warum": "Das ist der Kern jeder Zusammenfassung."
+   },
+   {
+    "text": "Deine Meinung zum Thema: «Ich finde das ziemlich übertrieben.»",
+    "richtig": "Gehört nicht rein",
+    "warum": "Eine Zusammenfassung ist sachlich, ohne eigene Meinung."
+   },
+   {
+    "text": "Ein Einleitungssatz mit Titel, Autorin und Thema",
+    "richtig": "Gehört rein",
+    "warum": "So weiss man sofort, worum es geht."
+   },
+   {
+    "text": "Ein langes wörtliches Zitat aus dem Text",
+    "richtig": "Gehört nicht rein",
+    "warum": "Du schreibst in eigenen Worten."
+   },
+   {
+    "text": "Alle Beispiele, die im Text vorkommen",
+    "richtig": "Gehört nicht rein",
+    "warum": "Beispiele und Details lässt du weg, damit es kurz bleibt."
+   }
+  ]
+ },
+ "fragen": [
+  "Wann hast du zuletzt etwas zusammengefasst? Wie bist du vorgegangen?",
+  "Was fällt dir beim Zusammenfassen schwer?",
+  "Wie könntest du Zusammenfassungen zum Lernen nutzen?"
+ ],
+ "suche": [
+  "Zusammenfassung schreiben",
+  "Sachtext zusammenfassen",
+  "Zusammenfassung Beispiel"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=X1RNHpUKsRk",
+   "titel": "Zusammenfassung schreiben: einfach erklärt",
+   "dauer": "5 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Mit Aufbau, Beispielen und Formulierungshilfen"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=8ekATBUiqRQ",
+   "titel": "Sachtexte zusammenfassen",
+   "dauer": "5 Min.",
+   "quelle": "musstewissen Deutsch (funk)",
+   "notiz": "Schritt für Schritt, für die Schule"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.scribbr.ch/studium-ch/zusammenfassung-schreiben/",
+   "titel": "Zusammenfassung schreiben, erklärt an einem Beispiel",
+   "dauer": "8 Min.",
+   "quelle": "Scribbr Schweiz",
+   "notiz": "Schweizer Seite mit Beispiel. Bleibt von der alten Seite",
+   "warnung": "Firma verkauft Korrekturdienste"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=kSDt4qxlOP8",
+   "titel": "Texte clever zusammenfassen in 7 Schritten",
+   "dauer": "4,5 Min.",
+   "quelle": "lernfoerderung",
+   "notiz": "Konkrete Schrittfolge",
+   "warnung": "Kanal wirbt für ein Buch"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.studienkreis.de/deutsch/zusammenfassung-schreiben/",
+   "grund": "Nachhilfefirma, ersetzt durch Studyflix und musstewissen"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=OZbH-yzz_JE",
+   "grund": "Kanal für Deutschlernende (Fremdsprache), ersetzt"
+  }
+ ]
+}

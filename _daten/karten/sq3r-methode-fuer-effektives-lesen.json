@@ -1,0 +1,109 @@
+{
+ "titel": "SQ3R-Methode für effektives Lesen",
+ "kategorie": "Lerntechniken",
+ "aufgabe": "Finde heraus, wie die SQ3R-Methode (Survey, Question, Read, Recite, Review) funktioniert und wie sie das Lesen und Verstehen von Texten erleichtern kann. Erstelle eine kurze Zusammenfassung oder eine Schritt-für-Schritt- Anleitung.",
+ "ziel": "Lerne, wie du durch systematisches Lesen Informationen besser aufnehmen kannst.",
+ "text": [
+  "Viele lesen einen Text einfach von vorne bis hinten durch. Am Ende weiss man aber oft nicht mehr, was drinstand. Das Problem: Man hat zwar gelesen, aber nicht aktiv mitgedacht.",
+  "Die SQ3R-Methode macht aus dem Lesen eine aktive Arbeit. Du verschaffst dir zuerst einen Überblick, stellst Fragen an den Text und überprüfst am Schluss, was du behalten hast."
+ ],
+ "methode_titel": "So funktioniert die SQ3R-Methode",
+ "uebung": {
+  "frage": "Welcher SQ3R-Schritt ist das?",
+  "optionen": [
+   "Überblick",
+   "Fragen",
+   "Lesen",
+   "Wiedergeben",
+   "Wiederholen"
+  ],
+  "hinweis": "Schau dir die fünf Felder oben nochmals an.",
+  "aufgaben": [
+   {
+    "text": "Du schaust dir Titel, Bilder und Zwischentitel an.",
+    "richtig": "Überblick",
+    "warum": "Zuerst verschaffst du dir einen Überblick."
+   },
+   {
+    "text": "Aus dem Zwischentitel «Ursachen des Klimawandels» machst du: «Was sind die Ursachen?»",
+    "richtig": "Fragen",
+    "warum": "Du stellst Fragen, die der Text beantworten soll."
+   },
+   {
+    "text": "Du liest den ersten Abschnitt gründlich und suchst die Antwort.",
+    "richtig": "Lesen",
+    "warum": "Jetzt liest du genau, Abschnitt für Abschnitt."
+   },
+   {
+    "text": "Du deckst den Abschnitt zu und sagst in eigenen Worten, was drinstand.",
+    "richtig": "Wiedergeben",
+    "warum": "Wiedergeben direkt nach dem Lesen festigt das Gelernte."
+   },
+   {
+    "text": "Drei Tage später beantwortest du deine Fragen nochmals ohne Text.",
+    "richtig": "Wiederholen",
+    "warum": "Wiederholen mit Abstand hilft dem Langzeitgedächtnis."
+   }
+  ]
+ },
+ "fragen": [
+  "Wie liest du einen Text, den du lernen musst?",
+  "Was weisst du eine Woche nach dem Lesen meistens noch?",
+  "Bei welchem Text könntest du SQ3R als Nächstes ausprobieren?"
+ ],
+ "suche": [
+  "SQ3R-Methode",
+  "Lesetechniken Sachtexte",
+  "aktives Lesen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Y6m5EODSQ_o",
+   "titel": "Die SQ3R-Methode",
+   "dauer": "3,5 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Bleibt von der alten Seite",
+   "warnung": "Beispiel aus dem Studium"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=BpsoZi1FYPM",
+   "titel": "SQ3R-Methode einfach erklärt",
+   "dauer": "3 Min.",
+   "quelle": "caesar.academy",
+   "notiz": "Kurz und klar",
+   "warnung": "Lernplattform, wirbt für eigene Angebote"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=2HWB3MrV8fc",
+   "titel": "Die SQ3R-Methode: wie sie funktioniert und wann sie Sinn macht",
+   "dauer": "8 Min.",
+   "quelle": "Lernexperten Soest (Lernberatung)",
+   "notiz": "Erklärt auch, wann sich der Aufwand lohnt"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=IM_Vo8-jY3Y",
+   "titel": "SQ3R für Fachliteratur (ausführliche Version)",
+   "dauer": "16 Min.",
+   "quelle": "Zur Abschlussarbeit",
+   "notiz": "Ausführlich am Beispiel. Bleibt von der alten Seite",
+   "warnung": "Für Studierende, älteres Video"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://futurx-luzern.github.io/kompetenzkarten/pqrst-methode-fuer-besseres-textverstaendnis.html",
+   "titel": "Kompetenzkarte «PQRST-Methode»",
+   "dauer": "Karte",
+   "quelle": "Kompetenzkarten FuturX",
+   "notiz": "Verwandte Methode zum Vergleichen"
+  }
+ ]
+}

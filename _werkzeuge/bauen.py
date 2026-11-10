@@ -42,6 +42,41 @@ if (DATEN / "verzeichnis.json").exists():
 FAMILIE_KLASSE = {"Selbstkompetenz": "bereich-selbst", "Sozialkompetenz": "bereich-sozial", "Fachkompetenz": "bereich-methode"}
 
 
+# Weiche Trennstellen (­) für lange Wörter in grossen Titeln, damit sie auf dem Handy sauber umbrechen.
+# Browser trennen Deutsch nicht überall selbst. Neue lange Wörter hier ergänzen.
+TRENNUNGEN = {
+    "Informationsverarbeitung": "Informations­verarbeitung",
+    "Schnelllesetechniken": "Schnelllese­techniken",
+    "Zusammenfassungen": "Zusammen­fassungen",
+    "Prüfungsangstbewältigung": "Prüfungsangst­bewältigung",
+    "Prüfungsvorbereitung": "Prüfungs­vorbereitung",
+    "Konzentrationssteigerung": "Konzentrations­steigerung",
+    "Konzentrationspausen": "Konzentrations­pausen",
+    "Konzentrationsbooster": "Konzentrations­booster",
+    "Entscheidungsfindung": "Entscheidungs­findung",
+    "Perspektivübernahme": "Perspektiv­übernahme",
+    "Textverständnis": "Text­verständnis",
+    "Gedächtnistechnik": "Gedächtnis­technik",
+    "Aufschieberitis": "Aufschiebe­ritis",
+    "Selbstreflexion": "Selbst­reflexion",
+    "Textüberarbeitung": "Text­überarbeitung",
+    "Rechtschreibtools": "Rechtschreib­tools",
+    "Internetrecherche": "Internet­recherche",
+    "Kurzentspannungsübungen": "Kurzentspannungs­übungen",
+    "Entspannungstechniken": "Entspannungs­techniken",
+    "Entspannungsübungen": "Entspannungs­übungen",
+    "Freizeitaktivitäten": "Freizeit­aktivitäten",
+    "Konfliktmanagement": "Konflikt­management",
+    "Wertschätzung": "Wert­schätzung",
+}
+
+
+def trennen(text):
+    for wort, getrennt in TRENNUNGEN.items():
+        text = text.replace(wort, getrennt)
+    return text
+
+
 def bereich(kategorie, slug=None):
     """Farbe wie auf der gedruckten Karte (Rückseite: Selbst-, Sozial-, Fachkompetenz)."""
     v = VERZEICHNIS.get(slug or "")
@@ -155,7 +190,7 @@ def seite(slug, k):
 <header class="band farbe held"><div class="innen">
   <a class="zurueck" href="index.html">← Alle Kompetenzkarten</a><br>
   <span class="etikett">{E(k["kategorie"])}</span>
-  <h1>{E(k["titel"])}</h1>
+  <h1>{trennen(E(k["titel"]))}</h1>
   <div class="kasten">
     <p><b>Aufgabe:</b> {E(k["aufgabe"])}</p>
     <p><b>Ziel:</b> {E(k["ziel"])}</p>
