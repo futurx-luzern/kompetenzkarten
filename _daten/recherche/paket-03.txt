@@ -1,0 +1,100 @@
+
+######## Feynman-Methode  (feynman-methode-kennenlernen.html, Lerntechniken)
+Aufgabe: Recherchiere, wie die Feynman-Methode funktioniert und warum sie als effektive Lerntechnik gilt. Erstelle eine kurze Zusammenfassung oder ein einfaches Diagramm zur Methode.
+Ziel: Verstehe, wie du durch das Erklären von Themen dein eigenes Verständnis vertiefen kannst.
+Alt-Intro: Die Feynman-Methode ist eine effektive Lerntechnik, die darauf basiert, komplexe Themen so einfach wie möglich zu erklären. Diese Methode wurde von dem Physiker Richard Feynman entwickelt und hilft dabei, das eigene Verständnis eines Themas zu vertiefen. Indem du ein Thema in einfachen Worten erklär
+Alte Links:
+  OK    3:31 2021-09-01 explain it simple - Erklä | Video: Die Feynman-Methode erklärt | https://www.youtube.com/watch?v=AV6ANVSDD4c
+  OK                                              | Lerntechniken: Feynman-Methode anwenden | https://www.ostjob.ch/ratgeber/artikel/364/feynman-methode
+
+######## SQ3R-Methode für effektives Lesen  (sq3r-methode-fuer-effektives-lesen.html, Lerntechniken)
+Aufgabe: Finde heraus, wie die SQ3R-Methode (Survey, Question, Read, Recite, Review) funktioniert und wie sie das Lesen und Verstehen von Texten erleichtern kann. Erstelle eine kurze Zusammenfassung oder eine Schritt-für-Schritt- Anleitung.
+Ziel: Lerne, wie du durch systematisches Lesen Informationen besser aufnehmen kannst.
+Alt-Intro: Die SQ3R-Methode ist eine bewährte Technik, um Texte effizienter zu lesen und zu verstehen. Sie besteht aus fünf Schritten: Survey (Überblick verschaffen), Question (Fragen stellen), Read (Lesen), Recite (Wiedergeben) und Review (Rückblick). Diese Methode hilft dir, dich aktiv mit dem Text auseinand
+Alte Links:
+  OK    3:31 2018-09-19 Studyflix                 | Video: Die SQ3R-Methode erklärt | https://www.youtube.com/watch?v=Y6m5EODSQ_o
+  OK   15:46 2016-02-27 Zur Abschlussarbeit       | Schritt-für-Schritt-Anleitung zur SQ3R-Methode | https://www.youtube.com/watch?v=IM_Vo8-jY3Y
+
+######## Loci-Methode als Gedächtnistechnik  (loci-methode-als-gedaechtnistechnik.html, Lerntechniken)
+Aufgabe: Recherchiere, wie die Loci-Methode funktioniert und wie sie zur Verbesserung des Gedächtnisses verwendet wird. Erstelle eine kurze Zusammenfassung oder eine visuelle Darstellung der Methode.
+Ziel: Verstehe, wie du durch visuelle Assoziationen Informationen besser behalten kannst.
+Alt-Intro: Die Loci-Methode ist eine der ältesten und effektivsten Techniken zur Verbesserung des Gedächtnisses. Sie basiert auf der Visualisierung von Informationen an bestimmten Orten oder „Loci“. Indem du dir einen vertrauten Ort, wie dein Zuhause oder eine bekannte Strasse, vorstellst und die zu merkenden 
+Alte Links:
+  OK   14:38 2021-11-12 CampusTVMainz             | Video: Die Loci-Methode erklärt | https://www.youtube.com/watch?v=K5l2BobcfKc
+  OK    7:14 2017-04-23 HappyHippocampus          | Anwendung der Loci-Methode | https://www.youtube.com/watch?v=3vqlK73Z4xo
+
+######## Chunking zur Informationsverarbeitung  (chunking-zur-informationsverarbeitung.html, Lerntechniken)
+Aufgabe: Informiere dich darüber, wie das Chunking (Aufteilen von Informationen in kleinere Einheiten) funktioniert und wie es das Lernen erleichtern kann. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Tipps.
+Ziel: Erfahre, wie du durch das Aufteilen von Informationen dein Gedächtnis entlasten kannst.
+Alt-Intro: Chunking ist eine Technik zur Verbesserung des Gedächtnisses und der Informationsverarbeitung, bei der Informationen in kleinere, besser verdauliche Einheiten (Chunks) aufgeteilt werden. Anstatt lange Listen oder komplexe Informationen im Ganzen zu speichern, zerlegst du sie in kleinere Gruppen, die
+Alte Links:
+  OK    7:26 2022-02-06 Sozialpsychologie mit Pro | Video: Wie Chunking funktioniert | https://www.youtube.com/watch?v=QJ2_7TDE4Wk
+  TOT                                             | Chunking zur Informationsverarbeitung erklärt | https://www.exovia.de/journal/chunking-webdesign/
+
+######## Mind-Mapping zur Visualisierung  (mind-mapping-zur-visualisierung-von-ideen.html, Lerntechniken)
+Aufgabe: Finde heraus, wie Mind-Mapping als Technik zur Visualisierung von Ideen funktioniert. Erstelle eine kurze Zusammenfassung oder ein Mind-Map-Beispiel zur Veranschaulichung.
+Ziel: Verstehe, wie du durch Mind-Mapping komplexe Informationen übersichtlich darstellen kannst.
+Alt-Intro: Mind-Mapping ist eine kreative und visuelle Methode, um Ideen, Informationen und Konzepte strukturiert darzustellen. Durch die Verwendung von Schlüsselwörtern, Farben und Bildern werden komplexe Informationen in einer übersichtlichen Struktur abgebildet, die das Gehirn leicht verarbeiten kann. Mind-
+Alte Links:
+  OK                                              | Mind-Mapping: Ein Leitfaden | https://www.lehmanns.ch/page/mindmapping
+  OK                                              | Mind-Map online erstellen | https://miro.com/de/mind-map/
+  OK   13:20 2011-07-13 wunderbringer             | Video: Wie Mind-Mapping funktioniert | https://www.youtube.com/watch?v=I93P0xhu7_I
+
+######## Schnelllesetechniken kennenlernen  (schnelllesetechniken-kennenlernen.html, Lesekompetenz)
+Aufgabe: Recherchiere, wie Schnelllesetechniken funktionieren und wie sie dir helfen können, Texte effizienter zu lesen. Erstelle eine kurze Zusammenfassung oder eine Übersicht der besten Schnelllesetechniken.
+Ziel: Lerne, wie du durch Schnelllesetechniken mehr Informationen in kürzerer Zeit aufnehmen kannst.
+Alt-Intro: Schnelllesetechniken helfen dir, Texte schneller zu lesen, ohne das Verständnis zu verlieren. Diese Techniken beinhalten verschiedene Methoden, wie das Erkennen von Schlüsselwörtern, die Verbesserung des visuellen Leseflusses und das Minimieren von Subvokalisation (inneres Mitsprechen). Durch das Er
+Alte Links:
+  OK                                              | Schneller Lesen lernen: Eine Anleitung | https://www.improved-reading.de/2020/11/11/schneller-lesen-lernen-anleitung-zum-effizienten-lesen/
+  OK                                              | Schnelllesetechniken im Überblick | https://magazin.sofatutor.com/schueler/lernmythen-funktionieren-schnelllesetechniken/
+  OK    4:22 2018-09-18 musstewissen Deutsch      | Video: Schnelllesetechniken erklärt | https://www.youtube.com/watch?v=jZEYfSCk6JM
+
+######## PQRST-Methode für besseres Textverständnis  (pqrst-methode-fuer-besseres-textverstaendnis.html, Lesekompetenz)
+Aufgabe: Finde heraus, wie die PQRST-Methode (Preview, Question, Read, Summarize, Test) funktioniert und wie sie das Textverständnis verbessert. Erstelle eine kurze Zusammenfassung oder eine Schritt-für-Schritt-Anleitung.
+Ziel: Verstehe, wie du durch gezielte Lesetechniken Informationen besser verarbeiten kannst.
+Alt-Intro: Die PQRST-Methode (Preview, Question, Read, Summarize, Test) ist eine strukturierte Lesetechnik, die dir hilft, Texte besser zu verstehen und zu verinnerlichen. Diese Methode führt dich Schritt für Schritt durch den Prozess des Lesens, beginnend mit einer Vorschau auf den Text (Preview), über das St
+Alte Links:
+  OK                                              | PQRST-Methode erklärt | https://www.allesgelingt.de/blog/p-q-r-s-t_lernmethode.html
+  OK    2:21 2020-07-29 lernfoerderung            | Video: Anwendung der PQRST-Methode | https://www.youtube.com/watch?v=OJw0wQNXWXc
+  Suche «PQRST Lernmethode»:
+    dCp7zukx6x8 |    8:43 | vor 5 Jahren    | laurinspire                  | 1.812.968 Aufrufe | Diese LERNMETHODE wird dein Leben VERÄNDERN.  // Lerntipps
+    fZbIjlUchOg |    2:59 | vor 10 Jahren   | MooMooMath and Science       | 30.523 Aufrufe   | PQRST-Strategie
+  Suche «PQ4R Methode»:
+    FRfVzF8Tk0c |    9:12 | vor 7 Monaten   | erin meryl mcgurk            | 48.111 Aufrufe   | Wie man die PQ4R-Methode wie ein Cambridge-Student anwendet
+    Cll7Uig4X24 |    2:15 | vor 1 Jahr      | Wealth & Wisdom              | 1.935 Aufrufe    | How to Study Smarter with the PQ4R Technique
+    NaR1B0jX_WE |    2:02 | vor 10 Jahren   | Brandi Parsons               | 16.213 Aufrufe   | PQ4R
+    Y6m5EODSQ_o |    3:32 | vor 8 Jahren    | Studyflix                    | 51.589 Aufrufe   | SQ3R Methode - die beste Lesetechnik für deine wissenschaftliche Arbeit
+    wNpQl6qVOZU |    9:11 | vor 7 Jahren    | shribe! - master your studie | 76.636 Aufrufe   | Schwierige Texte lesen und verstehen mit der mächtigen PQ5R-Methode 📚
+    tktMUl60orw | 1:02:21 | vor 1 Jahr      | RefPod - Justiz NRW          | 403 Aufrufe      | # 73 Wie geht gutes Lernen? (1: Wissensaneignung)
+    J6_FIvM3lBk |    5:49 | vor 4 Jahren    | Aubree Eid                   | 1.944 Aufrufe    | PQ4R Reading Method
+    CcU58-Tk0pc | 3:45:07 | vor 1 Jahr      | Timer Palette                | 319.864 Aufrufe  | 30/5 Pomodoro Timer with Pink Noise 🎧 4-Hour Study with Me for Deep Focus & ADHD ✨
+    2HWB3MrV8fc |    7:47 | vor 2 Jahren    | Lernexperten Soest           | 260 Aufrufe      | Lernexperten Lerntipp 32: Die SQ3R-Methode
+    65GT6D7Pou0 |    2:01 | vor 6 Jahren    | Anna Nurjannah               | 60 Aufrufe       | Reading Comprehension Strategies (PQ4R)
+  Suche «5-Schritt-Lesemethode»:
+    Bp35O_2lA4k |    2:11 | vor 10 Jahren   | kapiert.de                   | 93.355 Aufrufe   | Deutsch: 5-Schritt-Lesemethode
+    lED4LkIrVY0 |    2:57 | vor 5 Jahren    | hyperkulturell               | 22.490 Aufrufe   | Die 5-Schritt-Lesemethode – Leseverständnis mit System
+    oHZwHa7WDxs |    2:43 | vor 8 Jahren    | Die Merkhilfe                | 50.849 Aufrufe   | Tipps für schnelles & effektives Lesen & Verstehen - 5-Gang-Lesemethode / Lesestrategie
+    LhpBQamPUYY |    5:48 | vor 8 Monaten   | MOOCit The Monkey Dance      | 766 Aufrufe      | 5-Schritt-Lese-Methode, Lesestrategien für Sachtexte - Kompetenzraster Deutsch 5
+    ukxgoJ8V5QQ |    7:52 | vor 6 Jahren    | Primarina                    | 7.423 Aufrufe    | Texte lesen und verstehen in 6 Schritten
+    mkv_t6nqIPI |    4:57 | vor 5 Monaten   | planet schule                | 838 Aufrufe      | Deutsch Basics: Die 5-Schritt-Lesetechnik lernen und verstehen! | kolleg24 | planet schule
+    Q5QownItDro |    7:24 | vor 5 Jahren    | Marc                         | 2.917 Aufrufe    | Lesen mit der Fünf-Schritt-Methode
+    jz8MqA9IgU0 |    4:48 | vor 5 Jahren    | lernen und behalten          | 1.021 Aufrufe    | Die Fünf Schritt Lesemethode
+    IdcZqMz8dnw |   21:00 | vor 5 Jahren    | Corinna Wolf                 | 973 Aufrufe      | Die Fünf Schritt Lesemethode
+    qIqgQgT7wEc |    5:23 | vor 5 Jahren    | Lernen mit Frau Schrodt      | 753 Aufrufe      | Deutsch Thema: 5 Schritt Lesemethode
+
+######## Wichtige Informationen extrahieren  (wichtige-informationen-extrahieren.html, Lesekompetenz)
+Aufgabe: Recherchiere, wie man aus einem Text die wichtigsten Informationen extrahiert. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken zum Herausfiltern relevanter Inhalte.
+Ziel: Lerne, wie du durch gezieltes Lesen die wichtigsten Punkte eines Textes erkennst.
+Alt-Intro: Die Fähigkeit, aus einem Text die wichtigsten Informationen zu extrahieren, ist entscheidend für effizientes Lernen und Arbeiten. Es geht darum, die Kernaussagen eines Textes schnell zu erkennen und irrelevante Details zu überfliegen. Diese Technik spart Zeit und hilft dir, den Fokus auf das Wesentl
+Alte Links:
+  OK    4:01 2024-01-13 Mathias erklärt           | Video: Wichtige Informationen aus Texten extrahieren | https://www.youtube.com/watch?v=mjP_bXXXNvI
+  OK    4:35 2021-01-11 Frau Pipps                | Techniken zum Herausfiltern relevanter Inhalte | https://www.youtube.com/watch?v=da84WrvcJ7o
+
+######## Zusammenfassungen schreiben  (zusammenfassungen-schreiben.html, Lesekompetenz)
+Aufgabe: Informiere dich darüber, wie man effektiv Zusammenfassungen von Texten schreibt. Erstelle eine kurze Zusammenfassung oder eine Checkliste mit Tipps für prägnante Textzusammenfassungen.
+Ziel: Verstehe, wie du durch das Schreiben von Zusammenfassungen dein Verständnis vertiefen kannst.
+Alt-Intro: Das Schreiben von Zusammenfassungen ist eine wertvolle Technik, um das eigene Verständnis für einen Text zu vertiefen und das Gelernte nachhaltig zu speichern. Eine gute Zusammenfassung konzentriert sich auf die Hauptpunkte und Schlüsselideen, während irrelevante Details weggelassen werden. Dies hil
+Alte Links:
+  OK                                              | Zusammenfassung schreiben: Ein Leitfaden | https://www.studienkreis.de/deutsch/zusammenfassung-schreiben/
+  OK                                              | Tipps für prägnante Zusammenfassungen | https://www.scribbr.ch/studium-ch/zusammenfassung-schreiben/
+  OK    3:12 2020-09-22 Language Knowledge - DE   | Video: Wie man effektiv Zusammenfassungen schreibt | https://www.youtube.com/watch?v=OZbH-yzz_JE

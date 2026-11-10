@@ -1,0 +1,64 @@
+{
+ "titel": "Mind-Mapping zur Visualisierung",
+ "kategorie": "Lerntechniken",
+ "aufgabe": "Finde heraus, wie Mind-Mapping als Technik zur Visualisierung von Ideen funktioniert. Erstelle eine kurze Zusammenfassung oder ein Mind-Map-Beispiel zur Veranschaulichung.",
+ "ziel": "Verstehe, wie du durch Mind-Mapping komplexe Informationen übersichtlich darstellen kannst.",
+ "text": [
+  "Notizen in langen Sätzen und Listen sind oft unübersichtlich. Wie die Dinge zusammenhängen, sieht man darin kaum.",
+  "Eine Mind-Map zeigt dein Wissen als Bild: Das Thema steht in der Mitte, die Unterthemen verzweigen sich wie Äste. Das hilft beim Sammeln von Ideen, beim Planen und beim Lernen, weil dein Gehirn Bilder und Zusammenhänge gut behalten kann."
+ ],
+ "methode_titel": "So erstellst du eine Mind-Map",
+ "fragen": [
+  "Wie sehen deine Notizen normalerweise aus?",
+  "Für welches Thema könntest du eine Mind-Map machen?",
+  "Arbeitest du lieber mit Text oder mit Bildern und Skizzen?"
+ ],
+ "suche": [
+  "Mind-Map erstellen",
+  "Mind-Map Beispiel",
+  "Mind-Map Prüfungsvorbereitung"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QchurWSVokE",
+   "titel": "Mind-Map einfach erklärt: Aufbau und Beispiel",
+   "dauer": "2 Min.",
+   "quelle": "How to Deutsch",
+   "notiz": "Kurz und klar"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=mKKAPCMU1bw",
+   "titel": "Mindmaps: Zusammenhänge besser behalten",
+   "dauer": "3,5 Min.",
+   "quelle": "simpleclub",
+   "notiz": "Mit Beispiel für die Prüfungsvorbereitung"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=mZJYNis3yIk",
+   "titel": "Mindmap erstellen",
+   "dauer": "8 Min.",
+   "quelle": "Akademie für Lernmethoden",
+   "notiz": "Ausführlich mit Regeln (z.B. höchstens vier Ebenen)"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.lehmanns.ch/page/mindmapping",
+   "grund": "Buchhandlung, verkauft Bücher"
+  },
+  {
+   "url": "https://miro.com/de/mind-map/",
+   "grund": "Softwarefirma, Werbung für eigenes Produkt"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=I93P0xhu7_I",
+   "grund": "15 Jahre alt, 13 Minuten"
+  }
+ ]
+}

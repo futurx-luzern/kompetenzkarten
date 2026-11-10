@@ -1,0 +1,70 @@
+{
+ "titel": "Feynman-Methode",
+ "kategorie": "Lerntechniken",
+ "aufgabe": "Recherchiere, wie die Feynman-Methode funktioniert und warum sie als effektive Lerntechnik gilt. Erstelle eine kurze Zusammenfassung oder ein einfaches Diagramm zur Methode.",
+ "ziel": "Verstehe, wie du durch das Erklären von Themen dein eigenes Verständnis vertiefen kannst.",
+ "text": [
+  "Kennst du das? Du liest etwas, nickst und denkst: «Alles klar.» Aber wenn dich jemand danach fragt, bekommst du es nicht erklärt. Dann hast du es nur gelesen, aber noch nicht wirklich verstanden.",
+  "Die Feynman-Methode macht genau das zum Lerntrick: Du erklärst ein Thema so einfach wie möglich. Dabei merkst du sofort, wo deine Lücken sind, und kannst sie gezielt schliessen."
+ ],
+ "methode_titel": "So funktioniert die Feynman-Methode",
+ "fragen": [
+  "Wann hast du zuletzt jemandem etwas erklärt? Wie gut hat es geklappt?",
+  "Welches Thema aus der Schule oder dem Betrieb könntest du einem Kind erklären? Welches nicht?",
+  "Warum lernt man selbst so viel, wenn man anderen etwas erklärt?"
+ ],
+ "suche": [
+  "Feynman-Methode",
+  "Lernen durch Erklären",
+  "Lernen durch Lehren"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=joiuVl9pqUY",
+   "titel": "Die Feynman-Technik: effektiv lernen",
+   "dauer": "3 Min.",
+   "quelle": "Sprouts",
+   "notiz": "Kurz und anschaulich animiert"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=AV6ANVSDD4c",
+   "titel": "Wie du alles verstehen kannst: Feynman-Methode einfach erklärt",
+   "dauer": "3,5 Min.",
+   "quelle": "explain it simple",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ge6u-u-22OM",
+   "titel": "Wie du alles verstehen kannst (Feynman-Methode)",
+   "dauer": "5,5 Min.",
+   "quelle": "Logical Lemon",
+   "notiz": "Sehr beliebt (2,7 Mio. Aufrufe), mit Beispielen"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.ostjob.ch/ratgeber/artikel/364/feynman-methode",
+   "titel": "Feynman-Methode: effektiver lernen durch Verstehen",
+   "dauer": "5 Min.",
+   "quelle": "ostjob.ch",
+   "notiz": "Schweizer Quelle. Bleibt von der alten Seite",
+   "warnung": "Stellenportal, hat Werbung"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=O1pnYl28cgE",
+   "titel": "Feynman-Technik an einem ausführlichen Beispiel",
+   "dauer": "12 Min.",
+   "quelle": "shribe! (Lernkanal)",
+   "notiz": "Zeigt die Methode Schritt für Schritt an einem Lernstoff",
+   "warnung": "Für Studierende, wirbt für eigene Kurse"
+  }
+ ]
+}

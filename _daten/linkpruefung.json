@@ -27,6 +27,20 @@
   "titel": "Migros",
   "weiterleitung": "https://www.migros.ch/de/content/famigros-ratgeber-und-inspiration"
  },
+ "https://futurx-luzern.github.io/kompetenzkarten/pqrst-methode-fuer-besseres-textverstaendnis.html": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "PQRST-Methode für besseres Textverständnis",
+  "weiterleitung": ""
+ },
+ "https://futurx-luzern.github.io/kompetenzkarten/sq3r-methode-fuer-effektives-lesen.html": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "SQ3R-Methode für effektives Lesen",
+  "weiterleitung": ""
+ },
  "https://futurx-luzern.github.io/kompetenzkarten/tages--und-wochenplanung.html": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -60,6 +74,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Erfolgstagebuch: Vorlage, Vorteile + Tipps zum Inhalt",
+  "weiterleitung": ""
+ },
+ "https://magazin.sofatutor.com/schueler/lernmythen-funktionieren-schnelllesetechniken/": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Lernmythen: Funktionieren Schnelllesetechniken?",
   "weiterleitung": ""
  },
  "https://prozessfux.com/de/newsblog/posts/2022-06-03_Wie-Du-mit-der-10-Minuten-Regel-die-Prokrastination-bekaempfst.php": {
@@ -153,6 +174,13 @@
   "titel": "Selbstmotivation: Verbindung von Wunsch und Hindernis – Deutsches Ärzteblatt",
   "weiterleitung": ""
  },
+ "https://www.allesgelingt.de/blog/p-q-r-s-t_lernmethode.html": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "PQRST-Methode: in 5 Schritten effektiv lernen | AllesGelingt!",
+  "weiterleitung": "https://www.allesgelingt.de/blog/p-q-r-s-t_lernmethode"
+ },
  "https://www.ardalpha.de/wissen/psychologie/prokrastination-ueberwinden-definition-ursache-behandlung-aufschieberitis-prokrastinieren-100.html": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -223,6 +251,13 @@
   "titel": "Anpacken statt Aufschieben: Ein kleiner Trick für mehr Motivation",
   "weiterleitung": ""
  },
+ "https://www.ostjob.ch/ratgeber/artikel/364/feynman-methode": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Feynman-Methode: Effektiver lernen durch Verstehen - ostjob.ch",
+  "weiterleitung": ""
+ },
  "https://www.psy.uni-hamburg.de/arbeitsbereiche/paedagogische-psychologie-und-motivation/personen/oettingen-gabriele/dokumente/krott-marheinecke-oettingen-2019-mentale-kontrastierung-und-woop-foerdern-einsicht-und-veraenderung.pdf": {
   "geprueft": "2026-11-09",
   "ok": false,
@@ -240,6 +275,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Warum Pausen zwischendurch so wichtig sind - Quarks",
+  "weiterleitung": ""
+ },
+ "https://www.scribbr.ch/studium-ch/zusammenfassung-schreiben/": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Zusammenfassung schreiben - erklärt anhand eines Beispiels",
   "weiterleitung": ""
  },
  "https://www.srf.ch/play/tv/we-myself--why/video/nein-sagen-so-klappt-es?urn=urn:srf:video:ee8d2591-400e-4c49-b39f-cf844fb3e0b5": {
@@ -301,6 +343,15 @@
   "status": "OK",
   "titel": "Mentaltraining: Inneren Schweinehund überwinden | Der 5-Minuten-Deal"
  },
+ "https://www.youtube.com/watch?v=2HWB3MrV8fc": {
+  "datum": "2024-03-22",
+  "geprueft": "2026-11-10",
+  "kanal": "Lernexperten Soest",
+  "ok": true,
+  "sekunden": 466,
+  "status": "OK",
+  "titel": "Lernexperten Lerntipp 32: Die SQ3R-Methode"
+ },
  "https://www.youtube.com/watch?v=3WQod9iu7uY": {
   "datum": "2023-05-21",
   "geprueft": "2026-11-09",
@@ -337,6 +388,24 @@
   "status": "OK",
   "titel": "Perfekte Mitschriften mit der ✅  Cornell-Methode"
  },
+ "https://www.youtube.com/watch?v=8ekATBUiqRQ": {
+  "datum": "2017-04-11",
+  "geprueft": "2026-11-10",
+  "kanal": "musstewissen Deutsch",
+  "ok": true,
+  "sekunden": 286,
+  "status": "OK",
+  "titel": "Sachtexte zusammenfassen I musstewissen Deutsch"
+ },
+ "https://www.youtube.com/watch?v=AV6ANVSDD4c": {
+  "datum": "2021-09-01",
+  "geprueft": "2026-11-10",
+  "kanal": "explain it simple - Erklärvideos",
+  "ok": true,
+  "sekunden": 211,
+  "status": "OK",
+  "titel": "Wie du alles verstehen kannst - Feynman Methode einfach erklärt"
+ },
  "https://www.youtube.com/watch?v=B-DXt1oCKuU": {
   "datum": "2023-04-04",
   "geprueft": "2026-11-09",
@@ -345,6 +414,15 @@
   "sekunden": 1757,
   "status": "OK",
   "titel": "Shaolin Meister Shi Heng Yi: Wie lerne ich Selbstbeherrschung? | Sternstunde Religion | SRF Kultur"
+ },
+ "https://www.youtube.com/watch?v=BpsoZi1FYPM": {
+  "datum": "2023-01-04",
+  "geprueft": "2026-11-10",
+  "kanal": "caesar.academy",
+  "ok": true,
+  "sekunden": 162,
+  "status": "OK",
+  "titel": "SQ3R Methode - 👨🏼‍🎓 EINFACH ERKLÄRT 👩🏼‍🎓"
  },
  "https://www.youtube.com/watch?v=CgfdDAaGUeg": {
   "datum": "2021-12-14",
@@ -373,6 +451,24 @@
   "status": "OK",
   "titel": "Müde in der Schule: Warum Teenies ausschlafen sollten | Quarks"
  },
+ "https://www.youtube.com/watch?v=Elt4JAsBGeE": {
+  "datum": "2023-09-13",
+  "geprueft": "2026-11-10",
+  "kanal": "verstanding",
+  "ok": true,
+  "sekunden": 396,
+  "status": "OK",
+  "titel": "Wie du Dir (fast) alles merken kannst - Chunking"
+ },
+ "https://www.youtube.com/watch?v=FY5LQWjVrhI": {
+  "datum": "2016-10-31",
+  "geprueft": "2026-11-10",
+  "kanal": "Simplicissimus",
+  "ok": true,
+  "sekunden": 217,
+  "status": "OK",
+  "titel": "Ein Trick um sich (fast) alles besser zu merken"
+ },
  "https://www.youtube.com/watch?v=GznqYrd_xcU": {
   "datum": "2022-04-22",
   "geprueft": "2026-11-09",
@@ -399,6 +495,24 @@
   "sekunden": 1889,
   "status": "OK",
   "titel": "Gesunder Schlaf – wie du dein Schlafproblem in den Griff bekommst | Puls | SRF"
+ },
+ "https://www.youtube.com/watch?v=IHy9v4pjTvw": {
+  "datum": "2022-03-26",
+  "geprueft": "2026-11-10",
+  "kanal": "Deutsch - sofatutor",
+  "ok": true,
+  "sekunden": 247,
+  "status": "OK",
+  "titel": "Wichtige Textstellen finden & markieren – Erklärung & Funktion"
+ },
+ "https://www.youtube.com/watch?v=IM_Vo8-jY3Y": {
+  "datum": "2016-02-27",
+  "geprueft": "2026-11-10",
+  "kanal": "Zur Abschlussarbeit",
+  "ok": true,
+  "sekunden": 946,
+  "status": "OK",
+  "titel": "Beste Lesetechnik für die Literaturrecherche - SQ3R (ausführliche Version)"
  },
  "https://www.youtube.com/watch?v=J2hBEl8eIro": {
   "datum": "2019-03-31",
@@ -427,6 +541,15 @@
   "status": "OK",
   "titel": "Die ADHS-Have-Done-Liste! So viel befriedigender als eine To-Do-Liste!"
  },
+ "https://www.youtube.com/watch?v=K5l2BobcfKc": {
+  "datum": "2021-11-12",
+  "geprueft": "2026-11-10",
+  "kanal": "CampusTVMainz",
+  "ok": true,
+  "sekunden": 878,
+  "status": "OK",
+  "titel": "Die Loci-Methode - Der Weg zum Gedächtnispalast"
+ },
  "https://www.youtube.com/watch?v=KLgop0GyKD8": {
   "datum": "2026-04-13",
   "geprueft": "2026-11-09",
@@ -435,6 +558,15 @@
   "sekunden": 606,
   "status": "OK",
   "titel": "People Pleasing: Warum wir so schwer Nein sagen können | Reden hilft | ARD GESUND"
+ },
+ "https://www.youtube.com/watch?v=O1pnYl28cgE": {
+  "datum": "2018-02-17",
+  "geprueft": "2026-11-10",
+  "kanal": "shribe! - master your studies",
+  "ok": true,
+  "sekunden": 707,
+  "status": "OK",
+  "titel": "Feynman Technik - SO effektiv hast du noch nie gelernt! (Klausurphase)  📚"
  },
  "https://www.youtube.com/watch?v=O8Y3WvWM42g": {
   "datum": "2023-03-30",
@@ -472,6 +604,15 @@
   "status": "OK",
   "titel": "So krempelst du dein Leben um!"
  },
+ "https://www.youtube.com/watch?v=OnpTOyclUw4": {
+  "datum": "2020-05-11",
+  "geprueft": "2026-11-10",
+  "kanal": "lernfoerderung",
+  "ok": true,
+  "sekunden": 159,
+  "status": "OK",
+  "titel": "Schlüsselwörter in Texten ✅ Erklärung und Beispiel"
+ },
  "https://www.youtube.com/watch?v=P7lWoPTyCl4": {
   "datum": "2025-05-02",
   "geprueft": "2026-11-09",
@@ -508,6 +649,15 @@
   "status": "OK",
   "titel": "Ich kann keine Grenzen setzen – Psychologie Kompakt mit Stefanie Stahl"
  },
+ "https://www.youtube.com/watch?v=QJ2_7TDE4Wk": {
+  "datum": "2022-02-06",
+  "geprueft": "2026-11-10",
+  "kanal": "Sozialpsychologie mit Prof. Erb",
+  "ok": true,
+  "sekunden": 446,
+  "status": "OK",
+  "titel": "Chunking | Sozialpsychologie mit Prof. Erb"
+ },
  "https://www.youtube.com/watch?v=QNyKtYJ-e7Y": {
   "datum": "2023-03-07",
   "geprueft": "2026-11-09",
@@ -525,6 +675,24 @@
   "sekunden": 147,
   "status": "OK",
   "titel": "Was ist Selbstwirksamkeit?"
+ },
+ "https://www.youtube.com/watch?v=QchurWSVokE": {
+  "datum": "2017-04-10",
+  "geprueft": "2026-11-10",
+  "kanal": "How to Deutsch",
+  "ok": true,
+  "sekunden": 120,
+  "status": "OK",
+  "titel": "Mind-Map einfach erklärt! | Aufbau | Beispiel"
+ },
+ "https://www.youtube.com/watch?v=RCDOSan-Oxs": {
+  "datum": "2020-02-19",
+  "geprueft": "2026-11-10",
+  "kanal": "BR24",
+  "ok": true,
+  "sekunden": 162,
+  "status": "OK",
+  "titel": "Schnell-Lesen: Wie funktioniert das? | Abendschau | BR24"
  },
  "https://www.youtube.com/watch?v=Rn_S4Nga2Yc": {
   "datum": "2023-08-29",
@@ -589,6 +757,15 @@
   "status": "OK",
   "titel": "Wie uns Social Media abhängig macht | Quarks"
  },
+ "https://www.youtube.com/watch?v=X1RNHpUKsRk": {
+  "datum": "2022-05-16",
+  "geprueft": "2026-11-10",
+  "kanal": "Studyflix",
+  "ok": true,
+  "sekunden": 308,
+  "status": "OK",
+  "titel": "Zusammenfassung schreiben | einfach erklärt"
+ },
  "https://www.youtube.com/watch?v=XKdLEwCIYZo": {
   "datum": "2024-03-25",
   "geprueft": "2026-11-09",
@@ -606,6 +783,15 @@
   "sekunden": 255,
   "status": "OK",
   "titel": "Grenzen setzen: Wie du \"Nein\" sagen kannst"
+ },
+ "https://www.youtube.com/watch?v=Y6m5EODSQ_o": {
+  "datum": "2018-09-19",
+  "geprueft": "2026-11-10",
+  "kanal": "Studyflix",
+  "ok": true,
+  "sekunden": 211,
+  "status": "OK",
+  "titel": "SQ3R Methode - die beste Lesetechnik für deine wissenschaftliche Arbeit"
  },
  "https://www.youtube.com/watch?v=YkqK8KFktXs": {
   "datum": "2020-01-17",
@@ -652,6 +838,15 @@
   "status": "OK",
   "titel": "Krankhaftes Aufschieben | Die Ratgeber"
  },
+ "https://www.youtube.com/watch?v=cJrKwI7McK4": {
+  "datum": "2021-07-11",
+  "geprueft": "2026-11-10",
+  "kanal": "Quarks Dimension Ralph",
+  "ok": true,
+  "sekunden": 687,
+  "status": "OK",
+  "titel": "Erinnerungen: Wie funktioniert unser Gedächtnis? | Quarks | Ralphs Universum"
+ },
  "https://www.youtube.com/watch?v=cxmmLgTMX2U": {
   "datum": "2024-04-14",
   "geprueft": "2026-11-09",
@@ -669,6 +864,15 @@
   "sekunden": 679,
   "status": "OK",
   "titel": "Zeitmanagement -- ABC-Analyse, Eisenhower-Prinzip, ALPEN-Methode, Pareto-Prinzip"
+ },
+ "https://www.youtube.com/watch?v=da84WrvcJ7o": {
+  "datum": "2021-01-11",
+  "geprueft": "2026-11-10",
+  "kanal": "Frau Pipps",
+  "ok": true,
+  "sekunden": 275,
+  "status": "OK",
+  "titel": "Wie entnehme ich Sachtexten Informationen? Teil 1"
  },
  "https://www.youtube.com/watch?v=eZiGbTDZVTA": {
   "datum": "2023-03-02",
@@ -715,6 +919,15 @@
   "status": "OK",
   "titel": "Die Gefahr der Pomodoro-Technik (wieso Leute sie falsch benutzen)"
  },
+ "https://www.youtube.com/watch?v=ge6u-u-22OM": {
+  "datum": "2018-05-26",
+  "geprueft": "2026-11-10",
+  "kanal": "Logical Lemon",
+  "ok": true,
+  "sekunden": 334,
+  "status": "OK",
+  "titel": "Wie Du Alles Verstehen Kannst (Feynman Methode)"
+ },
  "https://www.youtube.com/watch?v=iiXRRIoW9aQ": {
   "datum": "2020-12-15",
   "geprueft": "2026-11-09",
@@ -742,6 +955,24 @@
   "status": "OK",
   "titel": "So schützt du deine Daten auf Social Media"
  },
+ "https://www.youtube.com/watch?v=jZEYfSCk6JM": {
+  "datum": "2018-09-18",
+  "geprueft": "2026-11-10",
+  "kanal": "musstewissen Deutsch",
+  "ok": true,
+  "sekunden": 262,
+  "status": "OK",
+  "titel": "Lesetechniken: schneller lesen lernen | einfache Deutsch-Tipps"
+ },
+ "https://www.youtube.com/watch?v=joiuVl9pqUY": {
+  "datum": "2021-04-20",
+  "geprueft": "2026-11-10",
+  "kanal": "Sprouts Deutschland",
+  "ok": true,
+  "sekunden": 171,
+  "status": "OK",
+  "titel": "Die Feynman Technik – Effektiv Lernen"
+ },
  "https://www.youtube.com/watch?v=kGJdU17qVmw": {
   "datum": "2016-11-17",
   "geprueft": "2026-11-09",
@@ -750,6 +981,15 @@
   "sekunden": 707,
   "status": "OK",
   "titel": "Cornell - Methode - besser Lernen, Notieren, Mitschreiben und Zusammenfassen"
+ },
+ "https://www.youtube.com/watch?v=kSDt4qxlOP8": {
+  "datum": "2023-08-28",
+  "geprueft": "2026-11-10",
+  "kanal": "lernfoerderung",
+  "ok": true,
+  "sekunden": 271,
+  "status": "OK",
+  "titel": "Texte clever zusammenfassen ✅ 7 Schritte"
  },
  "https://www.youtube.com/watch?v=kY5rFRU8A1c": {
   "datum": "2023-03-26",
@@ -778,6 +1018,15 @@
   "status": "OK",
   "titel": "Die SMART-Methode | STARK erklärt"
  },
+ "https://www.youtube.com/watch?v=lED4LkIrVY0": {
+  "datum": "2021-10-18",
+  "geprueft": "2026-11-10",
+  "kanal": "hyperkulturell",
+  "ok": true,
+  "sekunden": 177,
+  "status": "OK",
+  "titel": "Die 5-Schritt-Lesemethode – Leseverständnis mit System"
+ },
  "https://www.youtube.com/watch?v=lHqy_Mg6oP4": {
   "datum": "2020-10-16",
   "geprueft": "2026-11-09",
@@ -795,6 +1044,33 @@
   "sekunden": 332,
   "status": "OK",
   "titel": "Sozialkognitive Lerntheorie: Banduras Experimente mit der Schlagpuppe"
+ },
+ "https://www.youtube.com/watch?v=mKKAPCMU1bw": {
+  "datum": "2019-02-17",
+  "geprueft": "2026-11-10",
+  "kanal": "simpleclub - Die Lernapp",
+  "ok": true,
+  "sekunden": 221,
+  "status": "OK",
+  "titel": "Mindmaps - Zusammenhänge besser behalten"
+ },
+ "https://www.youtube.com/watch?v=mZJYNis3yIk": {
+  "datum": "2021-08-03",
+  "geprueft": "2026-11-10",
+  "kanal": "Akademie für Lernmethoden",
+  "ok": true,
+  "sekunden": 490,
+  "status": "OK",
+  "titel": "Mindmap erstellen"
+ },
+ "https://www.youtube.com/watch?v=mkv_t6nqIPI": {
+  "datum": "2026-05-26",
+  "geprueft": "2026-11-10",
+  "kanal": "planet schule",
+  "ok": true,
+  "sekunden": 296,
+  "status": "OK",
+  "titel": "Deutsch Basics: Die 5-Schritt-Lesetechnik lernen und verstehen! | kolleg24 | planet schule | ARD"
  },
  "https://www.youtube.com/watch?v=mtDrWYf6Te8": {
   "datum": "2026-02-16",
@@ -832,6 +1108,15 @@
   "status": "OK",
   "titel": "ABC Analyse: Schrittweise am einfachen Beispiel erklärt"
  },
+ "https://www.youtube.com/watch?v=rpOnDFYUQiw": {
+  "datum": "2023-05-05",
+  "geprueft": "2026-11-10",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 1638,
+  "status": "OK",
+  "titel": "Challenge mit Gedächtnis-Weltmeister | Terra Xplore mit Biologin Jasmina Neudecker"
+ },
  "https://www.youtube.com/watch?v=ryFRGisHN7M": {
   "datum": "2025-12-21",
   "geprueft": "2026-11-09",
@@ -841,6 +1126,15 @@
   "status": "OK",
   "titel": "LERNEN AM MODELL nach Bandura mit BEISPIELEN einfach erklärt (kompakt) | ERZIEHERKANAL"
  },
+ "https://www.youtube.com/watch?v=sBhArkhX3zk": {
+  "datum": "2021-11-15",
+  "geprueft": "2026-11-10",
+  "kanal": "lernfoerderung",
+  "ok": true,
+  "sekunden": 220,
+  "status": "OK",
+  "titel": "Schwierige Sachtexte verstehen ✅ 5-Schritte-Lesemethode"
+ },
  "https://www.youtube.com/watch?v=sIwBvw3PQxU": {
   "datum": "2019-10-31",
   "geprueft": "2026-11-09",
@@ -849,6 +1143,15 @@
   "sekunden": 413,
   "status": "OK",
   "titel": "Richtig belohnen! - Wie Belohnungen wirklich motivieren. | Betzold"
+ },
+ "https://www.youtube.com/watch?v=t3nfcMDFRPo": {
+  "datum": "2018-06-03",
+  "geprueft": "2026-11-10",
+  "kanal": "Studenten-Tipps",
+  "ok": true,
+  "sekunden": 417,
+  "status": "OK",
+  "titel": "Markieren und lesen ist SINNLOS! So lernst du wirklich mit Erfolg schwierige Texte im Studium!"
  },
  "https://www.youtube.com/watch?v=tsrkB9I7m80": {
   "datum": "2025-09-19",
@@ -868,6 +1171,15 @@
   "status": "OK",
   "titel": "Lebenszeit gewinnen durch weniger Schlaf? | Terra Xplore mit Jasmina Neudecker"
  },
+ "https://www.youtube.com/watch?v=uRO4c0fCF9o": {
+  "datum": "2020-07-01",
+  "geprueft": "2026-11-10",
+  "kanal": "PULS Reportage",
+  "ok": true,
+  "sekunden": 869,
+  "status": "OK",
+  "titel": "Speed Reading: Doppelt so schnell lesen in nur einer Woche? || PULS Reportage"
+ },
  "https://www.youtube.com/watch?v=wH5ik6qcw60": {
   "datum": "2023-05-02",
   "geprueft": "2026-11-09",
@@ -876,6 +1188,15 @@
   "sekunden": 896,
   "status": "OK",
   "titel": "Prokrastination: Wie schlimm ist Aufschieberitis? | Terra Xplore mit Geologin Thora Schubert"
+ },
+ "https://www.youtube.com/watch?v=wJTdgimaRLE": {
+  "datum": "2022-12-13",
+  "geprueft": "2026-11-10",
+  "kanal": "Quarks Dimension Ralph",
+  "ok": true,
+  "sekunden": 722,
+  "status": "OK",
+  "titel": "Kann man Schnelllesen trainieren? | Quarks Dimension Ralph"
  },
  "https://www.youtube.com/watch?v=wLHPgcOekvw": {
   "datum": "2025-10-29",

@@ -1,0 +1,75 @@
+{
+ "titel": "PQRST-Methode für besseres Textverständnis",
+ "kategorie": "Lesekompetenz",
+ "aufgabe": "Finde heraus, wie die PQRST-Methode (Preview, Question, Read, Summarize, Test) funktioniert und wie sie das Textverständnis verbessert. Erstelle eine kurze Zusammenfassung oder eine Schritt-für-Schritt-Anleitung.",
+ "ziel": "Verstehe, wie du durch gezielte Lesetechniken Informationen besser verarbeiten kannst.",
+ "text": [
+  "Manche Texte versteht man beim ersten Lesen einfach nicht. Zu viele Fachwörter, zu lange Sätze, zu viel Information auf einmal.",
+  "Die PQRST-Methode hilft dir, auch schwierige Texte zu knacken. Statt einmal durchzulesen, gehst du in fünf Schritten vor. Im Deutschunterricht kennst du sie vielleicht als «5-Schritt-Lesemethode»."
+ ],
+ "methode_titel": "So funktioniert die PQRST-Methode",
+ "fragen": [
+  "Was machst du, wenn du einen Text nicht verstehst?",
+  "Welche Texte sind für dich besonders schwierig?",
+  "Welcher der fünf Schritte lässt du beim Lesen meistens weg?"
+ ],
+ "suche": [
+  "5-Schritt-Lesemethode",
+  "PQRST-Methode",
+  "Sachtexte verstehen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=mkv_t6nqIPI",
+   "titel": "Die 5-Schritt-Lesetechnik lernen und verstehen",
+   "dauer": "5 Min.",
+   "quelle": "planet schule (ARD), Mai 2026",
+   "notiz": "Aktuell, genau diese Methode"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=lED4LkIrVY0",
+   "titel": "Die 5-Schritt-Lesemethode: Leseverständnis mit System",
+   "dauer": "3 Min.",
+   "quelle": "hyperkulturell",
+   "notiz": "Kurz, die fünf Schritte entsprechen P, Q, R, S, T"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.allesgelingt.de/blog/p-q-r-s-t_lernmethode.html",
+   "titel": "PQRST-Methode: in 5 Schritten effektiv lernen",
+   "dauer": "5 Min.",
+   "quelle": "AllesGelingt (Lernblog)",
+   "notiz": "Erklärt die Methode unter ihrem englischen Namen. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=sBhArkhX3zk",
+   "titel": "Schwierige Sachtexte verstehen mit der 5-Schritte-Lesemethode",
+   "dauer": "3,5 Min.",
+   "quelle": "lernfoerderung",
+   "notiz": "Mit Beispiel",
+   "warnung": "Kanal wirbt für ein Buch"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://futurx-luzern.github.io/kompetenzkarten/sq3r-methode-fuer-effektives-lesen.html",
+   "titel": "Kompetenzkarte «SQ3R-Methode»",
+   "dauer": "Karte",
+   "quelle": "Kompetenzkarten FuturX",
+   "notiz": "Verwandte Methode mit Übung"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=OJw0wQNXWXc",
+   "grund": "Allgemeine Lesetipps, nicht zur PQRST-Methode"
+  }
+ ]
+}

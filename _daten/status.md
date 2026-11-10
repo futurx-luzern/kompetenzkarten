@@ -1,9 +1,9 @@
 # Statusliste Kompetenzkarten
 
-Stand 2026-11-09. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
+Stand 2026-11-10. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 15 online, 12 bereit, 95 offen (von 122)
+**Total:** 27 online, 9 bereit, 86 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -35,32 +35,32 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| 5-Minuten-Regel | `5-minuten-regel-kennenlernen.html` | bereit |
-| Zeitfresser identifizieren und eliminieren | `zeitdiebe-identifizieren-und-eliminieren.html` | bereit |
-| Sofort anfangen statt aufschieben | `sofort-anfangen-statt-aufschieben.html` | bereit |
-| Tagesplanung gegen Aufschieberitis | `tagesplanung-gegen-aufschieberitis.html` | bereit |
-| Realistische Ziele setzen | `realistische-ziele-setzen.html` | bereit |
-| Umgang mit innerem Widerstand | `umgang-mit-innerem-widerstand.html` | bereit |
-| Klein anfangen mit der 10-Minuten-Regel | `klein-anfangen-mit-der-10-minuten-regel.html` | bereit |
-| Selbstdisziplin stärken | `selbstdisziplin-staerken.html` | bereit |
-| Flexibilität bei der Aufgabenwahl | `flexibilitaet-bei-der-aufgabenwahl.html` | bereit |
-| WOOP-Methode anwenden | `woop-methode-anwenden.html` | bereit |
-| Selbstreflexion zur Überwindung von Aufschieberitis | `selbstreflexion-zur-ueberwindung-von-aufschieberitis.html` | bereit |
-| Müllzeit reduzieren | `muellzeit-reduzieren.html` | bereit |
+| 5-Minuten-Regel | `5-minuten-regel-kennenlernen.html` | online |
+| Zeitfresser identifizieren und eliminieren | `zeitdiebe-identifizieren-und-eliminieren.html` | online |
+| Sofort anfangen statt aufschieben | `sofort-anfangen-statt-aufschieben.html` | online |
+| Tagesplanung gegen Aufschieberitis | `tagesplanung-gegen-aufschieberitis.html` | online |
+| Realistische Ziele setzen | `realistische-ziele-setzen.html` | online |
+| Umgang mit innerem Widerstand | `umgang-mit-innerem-widerstand.html` | online |
+| Klein anfangen mit der 10-Minuten-Regel | `klein-anfangen-mit-der-10-minuten-regel.html` | online |
+| Selbstdisziplin stärken | `selbstdisziplin-staerken.html` | online |
+| Flexibilität bei der Aufgabenwahl | `flexibilitaet-bei-der-aufgabenwahl.html` | online |
+| WOOP-Methode anwenden | `woop-methode-anwenden.html` | online |
+| Selbstreflexion zur Überwindung von Aufschieberitis | `selbstreflexion-zur-ueberwindung-von-aufschieberitis.html` | online |
+| Müllzeit reduzieren | `muellzeit-reduzieren.html` | online |
 
 ## Paket 3: Lerntechniken und Lesekompetenz (9 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Feynman-Methode | `feynman-methode-kennenlernen.html` | offen |
-| SQ3R-Methode für effektives Lesen | `sq3r-methode-fuer-effektives-lesen.html` | offen |
-| Loci-Methode als Gedächtnistechnik | `loci-methode-als-gedaechtnistechnik.html` | offen |
-| Chunking zur Informationsverarbeitung | `chunking-zur-informationsverarbeitung.html` | offen |
-| Mind-Mapping zur Visualisierung | `mind-mapping-zur-visualisierung-von-ideen.html` | offen |
-| Schnelllesetechniken kennenlernen | `schnelllesetechniken-kennenlernen.html` | offen |
-| PQRST-Methode für besseres Textverständnis | `pqrst-methode-fuer-besseres-textverstaendnis.html` | offen |
-| Wichtige Informationen extrahieren | `wichtige-informationen-extrahieren.html` | offen |
-| Zusammenfassungen schreiben | `zusammenfassungen-schreiben.html` | offen |
+| Feynman-Methode | `feynman-methode-kennenlernen.html` | bereit |
+| SQ3R-Methode für effektives Lesen | `sq3r-methode-fuer-effektives-lesen.html` | bereit |
+| Loci-Methode als Gedächtnistechnik | `loci-methode-als-gedaechtnistechnik.html` | bereit |
+| Chunking zur Informationsverarbeitung | `chunking-zur-informationsverarbeitung.html` | bereit |
+| Mind-Mapping zur Visualisierung | `mind-mapping-zur-visualisierung-von-ideen.html` | bereit |
+| Schnelllesetechniken kennenlernen | `schnelllesetechniken-kennenlernen.html` | bereit |
+| PQRST-Methode für besseres Textverständnis | `pqrst-methode-fuer-besseres-textverstaendnis.html` | bereit |
+| Wichtige Informationen extrahieren | `wichtige-informationen-extrahieren.html` | bereit |
+| Zusammenfassungen schreiben | `zusammenfassungen-schreiben.html` | bereit |
 
 ## Paket 4: Prüfungen bestehen (6 Karten)
 

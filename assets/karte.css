@@ -39,6 +39,8 @@ body {
   background: var(--creme);
 }
 h1, h2, h3, .gross { font-family: "Bricolage Grotesque", system-ui, sans-serif; font-weight: 800; letter-spacing: -.02em; }
+/* lange deutsche Wörter (z.B. «Informationsverarbeitung») auf dem Handy umbrechen statt überlaufen */
+h1, h2, h3, .gross, .t, .feld, .kasten { overflow-wrap: break-word; hyphens: auto; -webkit-hyphens: auto; }
 h2 { font-size: clamp(1.6rem, 6vw, 2.2rem); line-height: 1.08; margin: 0 0 1rem; }
 h3 { font-size: 1.25rem; margin: 0 0 .5rem; }
 p { margin: 0 0 .8rem; }
