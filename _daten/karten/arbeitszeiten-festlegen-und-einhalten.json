@@ -1,0 +1,118 @@
+{
+ "titel": "Arbeitszeiten festlegen und einhalten",
+ "kategorie": "Work-Life-Balance",
+ "aufgabe": "Finde heraus, wie du feste Arbeitszeiten einrichtest und einhältst, um eine klare Trennung von Arbeit und Freizeit zu erreichen. Erstelle eine kurze Zusammenfassung oder eine Vorlage für deine eigenen Arbeitszeiten.",
+ "ziel": "Erfahre, wie klare Arbeitszeiten dir helfen, Beruf und Freizeit besser zu trennen.",
+ "text": [
+  "Wenn du immer ein bisschen arbeitest oder lernst, aber nie richtig, bist du am Ende müde, ohne viel geschafft zu haben. Und richtig frei hast du auch nie.",
+  "Feste Arbeitszeiten helfen, Arbeit und Freizeit klar zu trennen. Auf dieser Karte erfährst du, wie das geht und welche Arbeitszeiten für Lernende in der Schweiz gelten."
+ ],
+ "methode_titel": "So trennst du Arbeit und Freizeit",
+ "uebung": {
+  "frage": "Ist das für Lernende unter 18 erlaubt?",
+  "optionen": [
+   "Erlaubt",
+   "Nicht erlaubt"
+  ],
+  "hinweis": "Denk an die Regeln für Jugendliche oben. In einzelnen Berufen gibt es Ausnahmen, hier geht es um den Normalfall.",
+  "aufgaben": [
+   {
+    "text": "Du bist 17 und arbeitest 9 Stunden an einem Tag.",
+    "richtig": "Erlaubt",
+    "warum": "9 Stunden pro Tag sind das Maximum."
+   },
+   {
+    "text": "Du bist 16 und sollst bis 23 Uhr arbeiten.",
+    "richtig": "Nicht erlaubt",
+    "warum": "Ab 16 Jahren ist bis 22 Uhr erlaubt."
+   },
+   {
+    "text": "Am Abend vor dem Berufsschultag arbeitest du bis 21 Uhr.",
+    "richtig": "Nicht erlaubt",
+    "warum": "Vor einem Berufsschultag gilt 20 Uhr als Grenze."
+   },
+   {
+    "text": "Bei 8 Stunden Arbeit machst du 30 Minuten Mittagspause.",
+    "richtig": "Erlaubt",
+    "warum": "Bei mehr als 7 Stunden Arbeit sind mindestens 30 Minuten Pause vorgeschrieben."
+   },
+   {
+    "text": "Zwischen Arbeitsende und Arbeitsbeginn am nächsten Tag liegen nur 10 Stunden.",
+    "richtig": "Nicht erlaubt",
+    "warum": "Jugendliche brauchen mindestens 12 Stunden Ruhezeit am Stück."
+   }
+  ]
+ },
+ "fragen": [
+  "Wann arbeitest oder lernst du heute? Gibt es feste Zeiten?",
+  "Wann fällt es dir schwer, abzuschalten?",
+  "Welche festen Zeiten möchtest du für dich einführen?"
+ ],
+ "suche": [
+  "Feierabend abschalten",
+  "Jugendarbeitsschutz Schweiz",
+  "Work-Life-Balance Tipps"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=k5kImU1RXCE",
+   "titel": "Drei Tipps für das Gleichgewicht zwischen Arbeit und Freizeit",
+   "dauer": "2,5 Min.",
+   "quelle": "Österreichischer Gewerkschaftsbund, 2022",
+   "notiz": "Kurz und für junge Arbeitnehmende"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.seco.admin.ch/de/jugendarbeitsschutz",
+   "titel": "Jugendarbeitsschutz",
+   "dauer": "5 Min.",
+   "quelle": "Staatssekretariat für Wirtschaft SECO",
+   "notiz": "Was für Lernende unter 18 gilt"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/arbeit/ressourcen/arbeitswelt/probleme_in_der_lehre/stress-arbeitsplatz.cfm",
+   "titel": "Stress am Arbeitsplatz",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Für Lernende geschrieben"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=9d7uzfG0JKY",
+   "titel": "Richtig abschalten im Feierabend",
+   "dauer": "7 Min.",
+   "quelle": "Janine Dieke (Psychologin)",
+   "notiz": "Wie der Kopf nach der Arbeit loslassen kann"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.fritzundfraenzi.ch/video/entscheide-dich-arbeitszeit-oder-freizeit/",
+   "titel": "Entscheide dich: Arbeitszeit oder Freizeit?",
+   "dauer": "kurz",
+   "quelle": "Fritz+Fränzi (Schweiz)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ZapWFwwyUiI",
+   "titel": "Work-Life-Dilemma: Spagat zwischen Karriere und Lebensqualität",
+   "dauer": "21,5 Min.",
+   "quelle": "SRF Reportage, 2023",
+   "notiz": "Wie junge Menschen in der Schweiz über Arbeit denken"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.nzz.ch/feuilleton/work-life-balance-trennung-von-leben-und-arbeit-eine-illusion-ld.1729061",
+   "grund": "Anspruchsvoller Feuilleton-Artikel, oft hinter Bezahlschranke"
+  }
+ ]
+}

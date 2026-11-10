@@ -1,0 +1,75 @@
+{
+ "titel": "Kreative Auszeiten planen",
+ "kategorie": "Work-Life-Balance",
+ "aufgabe": "Informiere dich darüber, wie kreative Auszeiten (z.B. Malen, Musik) zur mentalen Erholung beitragen können. Erstelle eine kurze Zusammenfassung oder ein Plakat mit den besten kreativen Aktivitäten.",
+ "ziel": "Verstehe, wie kreative Tätigkeiten dein Wohlbefinden und deine Erholung fördern.",
+ "text": [
+  "Zeichnen, Musik machen, schreiben, backen: Kreative Tätigkeiten sind eine besondere Art der Erholung. Du bist mit dem Kopf ganz woanders als bei Schule oder Arbeit, und am Ende hast du sogar etwas geschaffen.",
+  "Auf dieser Karte erfährst du, warum kreative Pausen guttun, und planst eine eigene kreative Auszeit."
+ ],
+ "methode_titel": "Kreative Auszeiten",
+ "fragen": [
+  "Was hast du früher gerne kreativ gemacht? Machst du es noch?",
+  "Wann hattest du zuletzt das Gefühl, die Zeit vergeht wie im Flug?",
+  "Welche kreative Auszeit planst du für die nächste Woche?"
+ ],
+ "suche": [
+  "Flow Erlebnis",
+  "Kreativität Pause",
+  "kreative Hobbys"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=XgugyJCqERQ",
+   "titel": "Kreativität ist Kopfsache",
+   "dauer": "3 Min.",
+   "quelle": "Hertie-Stiftung (Hirnforschung), 2023",
+   "notiz": "Wie Kreativität im Gehirn entsteht"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/medienkompetenz/ressourcen/cybermobbing_medien_gewalt/konsum/leben_ohne_bildschirm.cfm",
+   "titel": "Ein Leben ohne Bildschirm",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Ideen für kreative Freizeit"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=g6_aNHrKofs",
+   "titel": "Wie werde ich kreativer?",
+   "dauer": "14 Min.",
+   "quelle": "Quarks (Ralph Caspers), 2024",
+   "notiz": "Mit YouTuberinnen und YouTubern, die kreativ arbeiten"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.studysmarter.de/magazine/auszeit-nehmen-ideen-tipps/",
+   "titel": "Auszeit nehmen: Ideen und Tipps",
+   "dauer": "6 Min.",
+   "quelle": "StudySmarter (Lernplattform)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cFwyZuxBI08",
+   "titel": "Langeweile: Das unerforschte Gefühl",
+   "dauer": "52 Min.",
+   "quelle": "ARTE, 2026",
+   "notiz": "Warum auch Nichtstun kreativ macht",
+   "warnung": "Lang, gut in Teilen schauen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://die-ordnungs-expertin.de/podcast/133-mach-doch-mal-pause-13-ideen-fuer-deine-kleine-kreative-auszeit/",
+   "grund": "Podcast einer Ordnungs-Coachin, für Erwachsene"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "titel": "Entspannungstechniken für den Alltag",
+ "kategorie": "Gesundheit und Wohlbefinden",
+ "aufgabe": "Suche Informationen über Entspannungstechniken, die dir im Alltag helfen können, zur Ruhe zu kommen. Erstelle eine kurze Zusammenfassung oder eine Schritt-für-Schritt- Anleitung zu den besten Methoden.",
+ "ziel": "Erfahre, wie du durch gezielte Entspannungstechniken Stress abbauen und Energie tanken kannst.",
+ "text": [
+  "Wenn der Kopf voll ist und der Körper angespannt, hilft es, bewusst abzuschalten. Dafür gibt es bewährte Entspannungstechniken. Manche dauern nur zwei Minuten, andere eine Viertelstunde.",
+  "Auf dieser Karte lernst du die wichtigsten Techniken kennen und probierst sie aus. So findest du heraus, welche zu dir passt."
+ ],
+ "methode_titel": "Die wichtigsten Entspannungstechniken",
+ "fragen": [
+  "Welche Technik hast du ausprobiert? Wie hat sie sich angefühlt?",
+  "In welchen Situationen könntest du Entspannung gut brauchen?",
+  "Wann und wo willst du die Technik in nächster Zeit üben?"
+ ],
+ "suche": [
+  "Progressive Muskelentspannung",
+  "Autogenes Training Anleitung",
+  "Atemübung Entspannung"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=8jzZrtst5H8",
+   "titel": "5 Minuten Progressive Muskelentspannung im Sitzen",
+   "dauer": "5 Min.",
+   "quelle": "Matthias Walter (Physiotherapeut)",
+   "notiz": "Zum Mitmachen, auch im Schulzimmer"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QT8I4BoiL74",
+   "titel": "5-Finger-Atmung: 2 Minuten gegen Stress",
+   "dauer": "2,5 Min.",
+   "quelle": "Techniker Krankenkasse",
+   "notiz": "Eine einfache Atemübung"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/entspannung/uebungen/entspannungstipps.cfm",
+   "titel": "Entspannungstipps",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Übungen für Jugendliche, auch zum Anhören"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=vsJ01LxdAi4",
+   "titel": "Progressive Muskelentspannung Schritt für Schritt",
+   "dauer": "9 Min.",
+   "quelle": "AOK (Krankenkasse), 2025",
+   "notiz": "Mit Erklärung, wie die Methode wirkt"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.helsana.ch/de/blog/psyche/entspannung/methoden-zur-entspannung.html",
+   "titel": "Methoden zur Entspannung",
+   "dauer": "6 Min.",
+   "quelle": "Helsana (Schweiz)",
+   "notiz": "Überblick über mehrere Techniken. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=98XyXBHAB9Q",
+   "titel": "Die 4-7-8-Atemtechnik zum Mitmachen",
+   "dauer": "4 Min.",
+   "quelle": "Mentalreisen",
+   "notiz": "Gut zum Einschlafen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=C3IX_fovw3k",
+   "grund": "Mit App-Werbung, ersetzt durch neutralere Anleitungen"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=ZXwCQ4KWVVc",
+   "grund": "Persönlicher Coaching-Kanal"
+  }
+ ]
+}

@@ -3,7 +3,7 @@
 Stand 2026-11-10. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 49 online, 11 bereit, 62 offen (von 122)
+**Total:** 60 online, 10 bereit, 52 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -89,32 +89,32 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Liegende Acht üben | `liegende-acht-ueben.html` | bereit |
-| Arbeitsplatz optimieren | `arbeitsplatz-optimieren.html` | bereit |
-| Konzentrationspausen richtig gestalten | `konzentrationspausen-richtig-gestalten.html` | bereit |
-| Achtsamkeitsübungen kennenlernen | `achtsamkeitsuebungen-kennenlernen.html` | bereit |
-| Ernährung und Konzentration | `ernaehrung-und-konzentration.html` | bereit |
-| Konzentrationsbooster im Alltag | `konzentrationsbooster-im-alltag.html` | bereit |
-| Augenyoga kennenlernen | `augenyoga-kennenlernen.html` | bereit |
-| Rückwärts schreiben | `rueckwaerts-schreiben-als-konzentrationsuebung.html` | bereit |
-| Balance-Übungen | `balance-uebungen-zur-konzentrationssteigerung.html` | bereit |
-| Arbeitszeit strukturieren | `arbeitszeit-strukturieren.html` | bereit |
-| Stimmung und Wohlbefinden | `stimmung-und-wohlbefinden-als-konzentrationsfaktoren.html` | bereit |
+| Liegende Acht üben | `liegende-acht-ueben.html` | online |
+| Arbeitsplatz optimieren | `arbeitsplatz-optimieren.html` | online |
+| Konzentrationspausen richtig gestalten | `konzentrationspausen-richtig-gestalten.html` | online |
+| Achtsamkeitsübungen kennenlernen | `achtsamkeitsuebungen-kennenlernen.html` | online |
+| Ernährung und Konzentration | `ernaehrung-und-konzentration.html` | online |
+| Konzentrationsbooster im Alltag | `konzentrationsbooster-im-alltag.html` | online |
+| Augenyoga kennenlernen | `augenyoga-kennenlernen.html` | online |
+| Rückwärts schreiben | `rueckwaerts-schreiben-als-konzentrationsuebung.html` | online |
+| Balance-Übungen | `balance-uebungen-zur-konzentrationssteigerung.html` | online |
+| Arbeitszeit strukturieren | `arbeitszeit-strukturieren.html` | online |
+| Stimmung und Wohlbefinden | `stimmung-und-wohlbefinden-als-konzentrationsfaktoren.html` | online |
 
 ## Paket 7: Gesundheit und Work-Life-Balance (10 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Gesunde Ernährung für Konzentration | `gesunde-ernaehrung-fuer-konzentration.html` | offen |
-| Bewegung und Fitness für den Alltag | `bewegung-und-fitness-fuer-den-alltag.html` | offen |
-| Auswirkung von Stress auf die Gesundheit | `auswirkung-von-stress-auf-die-gesundheit.html` | offen |
-| Entspannungstechniken für den Alltag | `entspannungstechniken-fuer-den-alltag.html` | offen |
-| Hydration und mentale Leistung | `hydration-und-mentale-leistung.html` | offen |
-| Gezielte Pausen einplanen | `gezielte-pausen-einplanen.html` | offen |
-| Kurzentspannungsübungen für den Alltag | `kurzentspannungsuebungen-fuer-den-alltag.html` | offen |
-| Freizeitaktivitäten zur Erholung | `freizeitaktivitaeten-zur-erholung.html` | offen |
-| Kreative Auszeiten planen | `kreative-auszeiten-planen.html` | offen |
-| Arbeitszeiten festlegen und einhalten | `arbeitszeiten-festlegen-und-einhalten.html` | offen |
+| Gesunde Ernährung für Konzentration | `gesunde-ernaehrung-fuer-konzentration.html` | bereit |
+| Bewegung und Fitness für den Alltag | `bewegung-und-fitness-fuer-den-alltag.html` | bereit |
+| Auswirkung von Stress auf die Gesundheit | `auswirkung-von-stress-auf-die-gesundheit.html` | bereit |
+| Entspannungstechniken für den Alltag | `entspannungstechniken-fuer-den-alltag.html` | bereit |
+| Hydration und mentale Leistung | `hydration-und-mentale-leistung.html` | bereit |
+| Gezielte Pausen einplanen | `gezielte-pausen-einplanen.html` | bereit |
+| Kurzentspannungsübungen für den Alltag | `kurzentspannungsuebungen-fuer-den-alltag.html` | bereit |
+| Freizeitaktivitäten zur Erholung | `freizeitaktivitaeten-zur-erholung.html` | bereit |
+| Kreative Auszeiten planen | `kreative-auszeiten-planen.html` | bereit |
+| Arbeitszeiten festlegen und einhalten | `arbeitszeiten-festlegen-und-einhalten.html` | bereit |
 
 ## Paket 8: Entscheidungsfindung und Problemlösung (6 Karten)
 

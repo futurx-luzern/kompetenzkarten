@@ -1,0 +1,131 @@
+{
+ "titel": "Hydration und mentale Leistung",
+ "kategorie": "Gesundheit und Wohlbefinden",
+ "aufgabe": "Finde heraus, wie Hydration (ausreichende Flüssigkeitszufuhr) die mentale Leistung beeinflusst. Erstelle eine kurze Zusammenfassung oder ein einfaches Poster mit den wichtigsten Tipps zur Hydration.",
+ "ziel": "Lerne, wie du durch ausreichendes Trinken deine Konzentration und geistige Leistungsfähigkeit steigerst.",
+ "text": [
+  "«Hydration» heisst einfach: genug Flüssigkeit im Körper. Klingt banal, wird aber oft vergessen, besonders wenn man in die Arbeit vertieft ist.",
+  "Schon wenig Wassermangel macht müde und unkonzentriert. Auf dieser Karte erfährst du, warum Trinken für dein Gehirn so wichtig ist, wie viel du brauchst und welche Getränke sinnvoll sind."
+ ],
+ "methode_titel": "Warum dein Gehirn Wasser braucht",
+ "uebung": {
+  "frage": "Stimmt das oder stimmt das nicht?",
+  "optionen": [
+   "Stimmt",
+   "Stimmt nicht"
+  ],
+  "hinweis": "Denk an die Mini-Einführung oben.",
+  "aufgaben": [
+   {
+    "text": "Wer Durst hat, hat oft schon zu wenig getrunken.",
+    "richtig": "Stimmt",
+    "warum": "Durst ist ein spätes Signal. Besser regelmässig trinken."
+   },
+   {
+    "text": "Alle Menschen müssen genau 3 Liter pro Tag trinken.",
+    "richtig": "Stimmt nicht",
+    "warum": "Für Jugendliche sind 1 bis 2 Liter ein guter Richtwert. Bei Sport und Hitze braucht es mehr."
+   },
+   {
+    "text": "Hahnenwasser in der Schweiz kann man ohne Bedenken trinken.",
+    "richtig": "Stimmt",
+    "warum": "Es wird streng kontrolliert und ist sehr gut."
+   },
+   {
+    "text": "Energydrinks sind gut, um beim Lernen genug zu trinken.",
+    "richtig": "Stimmt nicht",
+    "warum": "Sie enthalten viel Zucker und Koffein. Wasser oder ungesüsster Tee sind besser."
+   },
+   {
+    "text": "Schon leichter Wassermangel kann Kopfweh und Müdigkeit auslösen.",
+    "richtig": "Stimmt",
+    "warum": "Das Gehirn reagiert empfindlich auf zu wenig Flüssigkeit."
+   },
+   {
+    "text": "Dunkler Urin ist ein Zeichen, dass du genug trinkst.",
+    "richtig": "Stimmt nicht",
+    "warum": "Dunkler Urin deutet auf zu wenig Flüssigkeit hin. Hellgelb ist gut."
+   }
+  ]
+ },
+ "fragen": [
+  "Wie viel trinkst du an einem normalen Tag? Was trinkst du?",
+  "Hast du schon gemerkt, dass dir Trinken beim Lernen hilft?",
+  "Was kannst du tun, um regelmässiger zu trinken?"
+ ],
+ "suche": [
+  "genug trinken Gehirn",
+  "Wie viel Wasser pro Tag",
+  "Dehydration Symptome"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=J8lERk6rS_I",
+   "titel": "Brauchen wir mindestens zwei Liter Wasser am Tag?",
+   "dauer": "2 Min.",
+   "quelle": "Beobachter (Schweiz)",
+   "notiz": "Eine Ärztin klärt auf"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=bmqFN8cFjzg",
+   "titel": "Wie bei der Arbeit genug Wasser trinken?",
+   "dauer": "3,5 Min.",
+   "quelle": "Techniker Krankenkasse",
+   "notiz": "Tipps für den Arbeitsalltag"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.sge-ssn.ch/media/fnsetflr/sge_mb_jugendliche_de.pdf",
+   "titel": "Ernährung für Jugendliche",
+   "dauer": "Merkblatt",
+   "quelle": "Schweizerische Gesellschaft für Ernährung",
+   "notiz": "Mit Empfehlungen zu Getränken und Energydrinks"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=kbM7nPeX-7E",
+   "titel": "Wassermangel: Symptome erkennen",
+   "dauer": "4 Min.",
+   "quelle": "AOK (Krankenkasse), 2023",
+   "notiz": "Was bei zu wenig Wasser passiert"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=AiQSzL61ExA",
+   "titel": "Richtig trinken: Wie viel Wasser ist zu viel?",
+   "dauer": "8,5 Min.",
+   "quelle": "Quarks",
+   "notiz": "Welche Trink-Tipps wirklich belegt sind"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cw_fV4f1CMQ",
+   "titel": "Wie viel Wasser trinken ist gesund?",
+   "dauer": "10,5 Min.",
+   "quelle": "ARD Gesund, 2024",
+   "notiz": "Eine Ärztin erklärt ausführlich"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.chiefslife.com/de-ch/gesundheit-hydration/",
+   "grund": "Seite eines Getränkeherstellers"
+  },
+  {
+   "url": "https://getraenkezone.com/blogs/hydration/der-zusammenhang-zwischen-hydration-und-mentaler-klarheit",
+   "grund": "Blog eines Online-Shops"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=7J3jw8D2RcU",
+   "grund": "60 Minuten, englischsprachiger Fachvortrag"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "titel": "Kurzentspannungsübungen für den Alltag",
+ "kategorie": "Work-Life-Balance",
+ "aufgabe": "Finde heraus, welche einfachen Entspannungsübungen du schnell im Alltag umsetzen kannst. Erstelle eine kurze Zusammenfassung oder eine Infografik der Übungen und ihrer Vorteile.",
+ "ziel": "Erfahre, wie du durch Kurzentspannungstechniken deinen Stress im Alltag reduzierst.",
+ "text": [
+  "Vor der Prüfung schlägt das Herz schnell, im Betrieb ist es hektisch, oder du ärgerst dich über etwas: Manchmal brauchst du schnell wieder Ruhe.",
+  "Kurzentspannungsübungen dauern nur ein bis drei Minuten und gehen fast überall. Auf dieser Karte lernst du einige kennen und findest heraus, welche dir am besten hilft."
+ ],
+ "methode_titel": "Übungen für zwischendurch",
+ "fragen": [
+  "Welche Übung hast du ausprobiert? Wie ging es dir danach?",
+  "In welchen Situationen im Alltag würde dir eine Kurzentspannung helfen?",
+  "Welche Übung willst du dir merken?"
+ ],
+ "suche": [
+  "Kurzentspannung",
+  "Atemübung 2 Minuten",
+  "Entspannung vor Prüfung"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QT8I4BoiL74",
+   "titel": "5-Finger-Atmung: 2 Minuten gegen Stress",
+   "dauer": "2,5 Min.",
+   "quelle": "Techniker Krankenkasse",
+   "notiz": "Zum Mitmachen"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=IxViccBvsj8",
+   "titel": "3 Minuten Entspannung",
+   "dauer": "3 Min.",
+   "quelle": "the golden drop",
+   "notiz": "Auf Züritüütsch, zum Mitmachen"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/entspannung/uebungen/entspannungstipps.cfm",
+   "titel": "Entspannungstipps",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Kurze Übungen für Jugendliche"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=BF9xAm8hqPA",
+   "titel": "Progressive Muskelentspannung: 3-Minuten-Kurzversion",
+   "dauer": "4 Min.",
+   "quelle": "Matthias Walter (Physiotherapeut), 2024"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=98XyXBHAB9Q",
+   "titel": "Die 4-7-8-Atemtechnik zum Mitmachen",
+   "dauer": "4 Min.",
+   "quelle": "Mentalreisen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.for-me-online.de/familie/freizeitaktivitaeten/entspannungsuebungen",
+   "grund": "Frauenmagazin mit viel Werbung"
+  },
+  {
+   "url": "https://www.sabrina-fleisch.at/entspannung_entspannungsuebungen/",
+   "grund": "Seite einer Coachin mit Verkaufsangeboten"
+  }
+ ],
+ "bemerkung": "Fortgeschrittene Links stehen auf der Karte «Entspannungstechniken für den Alltag»."
+}

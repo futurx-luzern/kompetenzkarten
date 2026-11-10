@@ -1,0 +1,78 @@
+{
+ "titel": "Gezielte Pausen einplanen",
+ "kategorie": "Work-Life-Balance",
+ "aufgabe": "Recherchiere, wie du gezielte Pausen in deinen Arbeitsalltag einplanen kannst, um deine Erholung zu fördern. Erstelle eine kurze Zusammenfassung oder eine Pausenplanungsvorlage.",
+ "ziel": "Lerne, wie du durch regelmässige Pausen deine Produktivität und Erholung optimierst.",
+ "text": [
+  "Pausen sind kein Zeichen von Faulheit. Wer regelmässig Pause macht, arbeitet konzentrierter, macht weniger Fehler und ist am Abend weniger erschöpft.",
+  "Auf dieser Karte geht es darum, Pausen bewusst in deinen Tag einzuplanen, im Lehrbetrieb, in der Schule und beim Lernen zu Hause. Und darum, welche Pausen dir im Betrieb zustehen."
+ ],
+ "methode_titel": "So planst du deine Pausen",
+ "fragen": [
+  "Wann machst du heute Pausen? Planst du sie oder passieren sie einfach?",
+  "Was machst du in deinen Pausen, und erholt dich das?",
+  "Wie könnte ein Pausenplan für deinen nächsten Arbeits- oder Lerntag aussehen?"
+ ],
+ "suche": [
+  "Pausen planen",
+  "Pausenregelung Schweiz",
+  "aktive Pause"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=qTLTmDK_gEc",
+   "titel": "Keine Pause wegen Stress? Keine gute Idee!",
+   "dauer": "2 Min.",
+   "quelle": "Gesunde Arbeit (Arbeiterkammer Österreich)",
+   "notiz": "Warum 10 Prozent der Arbeitszeit für Pausen da sind"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/arbeit/ressourcen/arbeitswelt/probleme_in_der_lehre/abwechslung_entspannung.cfm",
+   "titel": "Abwechslung und Erholung von der Arbeit",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Für Lernende geschrieben"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cvvWx4hmm7M",
+   "titel": "Struktur und Pausen: Gesunde Routinen bei der Arbeit",
+   "dauer": "6 Min.",
+   "quelle": "Universität Bremen",
+   "notiz": "Eine Gesundheitsforscherin erklärt, wie man Pausen plant"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Ks80Mg4aezU",
+   "titel": "Pause am Arbeitsplatz: Die wichtigsten Rechtsfragen",
+   "dauer": "7 Min.",
+   "quelle": "SRF Kassensturz, 2023",
+   "notiz": "Was in der Schweiz gilt"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=-LV2uWk5iCE",
+   "titel": "Gezielte Pausen: Sieben Arten, Pause zu machen",
+   "dauer": "18 Min.",
+   "quelle": "Motiviert Studiert (Dr. Daniel Hunold)",
+   "notiz": "Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.geo.de/wissen/gesundheit/18597-rtkl-weniger-stress-mehr-erfolg-wir-muessen-lernen-pausen-zu-machen",
+   "grund": "Langer Magazinartikel für Erwachsene"
+  },
+  {
+   "url": "https://studioway.ch/journal/mach-mal-pause/",
+   "grund": "Blog eines Designstudios"
+  }
+ ]
+}

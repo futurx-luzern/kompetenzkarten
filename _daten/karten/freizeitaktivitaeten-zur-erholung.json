@@ -1,0 +1,78 @@
+{
+ "titel": "Freizeitaktivitäten zur Erholung",
+ "kategorie": "Work-Life-Balance",
+ "aufgabe": "Recherchiere, welche Freizeitaktivitäten besonders zur Erholung und Entspannung beitragen. Erstelle eine kurze Zusammenfassung oder eine Liste der effektivsten Erholungsaktivitäten.",
+ "ziel": "Lerne, wie du durch gezielte Freizeitgestaltung deine Work-Life-Balance verbesserst.",
+ "text": [
+  "Nach der Schule oder der Arbeit willst du dich erholen. Aber nicht alles, was wir in der Freizeit machen, erholt uns wirklich. Manchmal fühlt man sich nach einem freien Abend müder als vorher.",
+  "Auf dieser Karte erfährst du, was gute Erholung ausmacht und welche Freizeitaktivitäten dir neue Energie geben können."
+ ],
+ "methode_titel": "Was wirklich erholt",
+ "fragen": [
+  "Was machst du in deiner Freizeit am liebsten?",
+  "Nach welchen Aktivitäten fühlst du dich erholt, nach welchen eher nicht?",
+  "Was möchtest du in deiner Freizeit öfter machen?"
+ ],
+ "suche": [
+  "Erholung Freizeit",
+  "Hobbys gegen Stress",
+  "Abschalten nach der Arbeit"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/gestresst_gelangweilt_schlechte_stimmung/musik_freundschaft_familie_sport.cfm",
+   "titel": "Wie es Jugendlichen gelingt, sich trotz Stress besser zu fühlen",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Musik, Freunde, Familie, Sport: was Jugendliche helfen"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/medienkompetenz/ressourcen/cybermobbing_medien_gewalt/konsum/leben_ohne_bildschirm.cfm",
+   "titel": "Ein Leben ohne Bildschirm",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Ideen für Freizeit ohne Handy"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Wah1qjk8xgc",
+   "titel": "Stress durch Freizeit: Tipps für mehr Entspannung",
+   "dauer": "5 Min.",
+   "quelle": "Gefühlssache (Psychologie-Kanal)",
+   "notiz": "Wenn die Freizeit zu voll wird"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=mV_A4wO8k5w",
+   "titel": "Kopf, Körper und Mindset: Mental Health bei Jugendlichen",
+   "dauer": "11 Min.",
+   "quelle": "SRF school, 2025",
+   "notiz": "Was Jugendlichen guttut, mit Fachleuten"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=WawRJqIcX-0",
+   "titel": "Reset fürs Gehirn: Die besten Strategien",
+   "dauer": "16,5 Min.",
+   "quelle": "Quarks, 2026",
+   "notiz": "Was beim Abschalten im Kopf passiert"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.christophschalk.com/entspannung-finden-wie-du-die-perfekte-freizeitgestaltung-fuer-dich-entdeckst/",
+   "grund": "Blog eines Coaches"
+  },
+  {
+   "url": "https://www.sabrina-fleisch.at/100-anregende-aktivitaeten-zum-entspannen-energie-tanken/",
+   "grund": "Seite einer Coachin mit Verkaufsangeboten"
+  }
+ ]
+}
