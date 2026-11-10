@@ -1,0 +1,70 @@
+{
+ "titel": "Ergebnisse verkaufen",
+ "kategorie": "Methodenkompetenzen",
+ "aufgabe": "Informiere dich darüber, wie du deine Ergebnisse und Erfolge überzeugend präsentieren und «verkaufen» kannst. Lerne, welche Techniken dir helfen, deine Leistungen positiv darzustellen und dein Publikum zu überzeugen. Erstelle eine Liste mit Tipps, die dir helfen, deine Erfolge besser zu präsentieren.",
+ "ziel": "Lerne, wie du deine Erfolge und Ergebnisse erfolgreich «verkaufst».",
+ "text": [
+  "Du hast etwas geschafft: ein Projekt abgeschlossen, eine Aufgabe im Betrieb gelöst, eine gute Arbeit geschrieben. Aber wenn du es nicht zeigst, merkt es vielleicht niemand.",
+  "«Ergebnisse verkaufen» heisst: deine Leistung so präsentieren, dass andere verstehen, was du gemacht hast und warum es wertvoll ist. Das ist keine Angeberei, sondern eine wichtige Fähigkeit in Schule, Lehre und Beruf."
+ ],
+ "methode_titel": "So präsentierst du deine Ergebnisse",
+ "fragen": [
+  "Auf welches Ergebnis aus den letzten Wochen bist du stolz?",
+  "Fällt es dir leicht oder schwer, über deine Erfolge zu sprechen? Warum?",
+  "Wo wirst du bald Ergebnisse präsentieren müssen?"
+ ],
+ "suche": [
+  "Präsentation Tipps",
+  "Elevator Pitch",
+  "Ergebnisse präsentieren"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=SLXXVpzPB5k",
+   "titel": "So hältst du überzeugende Präsentationen",
+   "dauer": "5,5 Min.",
+   "quelle": "Studyflix, 2025",
+   "notiz": "Aktuell, kurze Tipps"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=jdGqkU27woQ",
+   "titel": "So pitchst du eine Idee",
+   "dauer": "5 Min.",
+   "quelle": "Startup Teens",
+   "notiz": "Für Jugendliche gemacht"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=YbBVVKSlSAY",
+   "titel": "Elevator Pitch: dich selbst in einer Minute präsentieren",
+   "dauer": "8 Min.",
+   "quelle": "shribe! (Lernkanal)",
+   "notiz": "Wie man sich und seine Arbeit kurz vorstellt",
+   "warnung": "Wirbt für eigene Kurse"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=qRLQDCyPqYQ",
+   "titel": "10 Tipps für ein richtig gutes Referat",
+   "dauer": "13 Min.",
+   "quelle": "Lehrerschmidt",
+   "notiz": "Ein Lehrer erklärt, worauf es ankommt"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://my-life.lu/de/drei-tipps-dazu-wie-sie-ihre-ideen-besser-verkaufen-24021/",
+   "grund": "Lifestyle-Magazin aus Luxemburg, für Erwachsene"
+  },
+  {
+   "url": "https://www.starting-up.de/marketing/verkaufen/20-tipps-fuer-besseres-verkaufen.html",
+   "grund": "Tipps zum Verkaufen von Produkten, passt nicht"
+  }
+ ]
+}

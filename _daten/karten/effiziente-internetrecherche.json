@@ -1,0 +1,78 @@
+{
+ "titel": "Effiziente Internetrecherche",
+ "kategorie": "Digitale Kompetenzen",
+ "aufgabe": "Recherchiere, wie du effizient im Internet recherchierst und vertrauenswürdige Quellen bewertest. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken zur Internetrecherche.",
+ "ziel": "Lerne, wie du durch gezielte Recherche hochwertige Informationen findest.",
+ "text": [
+  "Im Internet findest du zu fast allem eine Antwort, aber nicht jede Antwort stimmt. Zwischen seriösen Informationen stehen Werbung, Meinungen, veraltete Seiten und Falschmeldungen.",
+  "Effizient recherchieren heisst zwei Dinge: gezielt suchen, damit du schnell findest, was du brauchst. Und die Quellen prüfen, damit du dich auf das Gefundene verlassen kannst."
+ ],
+ "methode_titel": "So recherchierst du im Internet",
+ "fragen": [
+  "Wie gehst du vor, wenn du etwas im Internet suchst?",
+  "Woran erkennst du, ob eine Seite vertrauenswürdig ist?",
+  "Bist du schon einmal auf eine Falschmeldung hereingefallen?"
+ ],
+ "suche": [
+  "Suchoperatoren Google",
+  "Quellen prüfen",
+  "Fake News erkennen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=tDcTYQ2HIvE",
+   "titel": "Wie machst du einen Vortrag? Recherche und Quellen prüfen",
+   "dauer": "4 Min.",
+   "quelle": "SRF Kids «Media school», Oktober 2026",
+   "notiz": "Schweizer Quelle, Tipps von Schülerinnen und Schülern"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=y7WFHBdMMQc",
+   "titel": "Richtig recherchieren",
+   "dauer": "3 Min.",
+   "quelle": "DER SPIEGEL (SPIEGEL Ed)",
+   "notiz": "Eine Journalistin erklärt, wie Profis recherchieren"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.saferinternet.at/faq/informationskompetenz/wie-suche-ich-im-internet-richtig",
+   "titel": "Wie sucht man im Internet richtig?",
+   "dauer": "4 Min.",
+   "quelle": "Saferinternet.at",
+   "notiz": "Für Jugendliche geschrieben. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=TsD6x9r24QM",
+   "titel": "Recherche mit Suchoperatoren und KI-Tools",
+   "dauer": "7,5 Min.",
+   "quelle": "planet schule (ARD), April 2026",
+   "notiz": "Aktuell, mit Faktencheck"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=oBfZuyy-zQY",
+   "titel": "Faktencheck: Wie erkenne ich Fake News?",
+   "dauer": "4 Min.",
+   "quelle": "DW Deutsch",
+   "notiz": "Tipps vom Faktencheck-Team"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=g4uLreWUs8s",
+   "grund": "Ersetzt durch aktuellere Videos von SRF und planet schule"
+  },
+  {
+   "url": "https://www.perplexity.ai/",
+   "grund": "Link auf ein KI-Produkt, keine Information"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "titel": "Sichere Passwörter erstellen",
+ "kategorie": "Digitale Kompetenzen",
+ "aufgabe": "Recherchiere, wie man sichere Passwörter erstellt und verwaltet, um die eigenen Daten zu schützen. Erstelle eine kurze Zusammenfassung oder eine Checkliste zur Passwortsicherheit.",
+ "ziel": "Lerne, wie du durch sichere Passwörter deine digitalen Konten vor Missbrauch schützt.",
+ "text": [
+  "E-Mail, Social Media, Schul-Login, Online-Shop, Banking: Jedes Konto ist mit einem Passwort geschützt. Wenn jemand dein Passwort errät oder stiehlt, kann er in deinem Namen handeln, deine Daten lesen oder Geld ausgeben.",
+  "Viele Menschen nutzen kurze, einfache Passwörter und dasselbe für viele Konten. Genau das nutzen Kriminelle aus. Dabei ist es gar nicht so schwer, sich gut zu schützen."
+ ],
+ "methode_titel": "So schützt du deine Konten",
+ "uebung": {
+  "frage": "Ist das sicher oder unsicher?",
+  "optionen": [
+   "Sicher",
+   "Unsicher"
+  ],
+  "hinweis": "Denk an die Regeln: lang, für jedes Konto anders, nichts Persönliches.",
+  "aufgaben": [
+   {
+    "text": "Passwort: «Sommer2026!»",
+    "richtig": "Unsicher",
+    "warum": "Kurz und ein sehr häufiges Muster (Jahreszeit plus Jahr). Wird schnell erraten."
+   },
+   {
+    "text": "Passwort: «Fahrrad-Kaffee-Wolke-Pinguin»",
+    "richtig": "Sicher",
+    "warum": "Lang und aus zufälligen Wörtern, trotzdem gut zu merken."
+   },
+   {
+    "text": "Du nutzt dasselbe gute Passwort für Instagram, E-Mail und den Schul-Login.",
+    "richtig": "Unsicher",
+    "warum": "Wird ein Konto geknackt, sind alle anderen auch offen."
+   },
+   {
+    "text": "Ein Passwort-Manager speichert alle deine Passwörter, geschützt mit einem starken Hauptpasswort.",
+    "richtig": "Sicher",
+    "warum": "So empfiehlt es auch das Bundesamt für Cybersicherheit."
+   },
+   {
+    "text": "Passwort: Name deines Hundes und dein Geburtsjahr.",
+    "richtig": "Unsicher",
+    "warum": "Persönliche Infos lassen sich oft in Social Media finden."
+   },
+   {
+    "text": "Du schaltest die Zwei-Faktor-Anmeldung ein.",
+    "richtig": "Sicher",
+    "warum": "Selbst wenn jemand dein Passwort kennt, fehlt ihm der zweite Code."
+   }
+  ]
+ },
+ "fragen": [
+  "Wie viele verschiedene Passwörter nutzt du ungefähr?",
+  "Wie merkst du dir deine Passwörter?",
+  "Hast du schon Zwei-Faktor-Anmeldung oder Passkeys eingeschaltet?"
+ ],
+ "suche": [
+  "sichere Passwörter BACS",
+  "Passwort-Manager",
+  "Passkeys erklärt"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=WogQ6Ns3Sao",
+   "titel": "In wenigen Schritten zum sicheren Passwort",
+   "dauer": "2,5 Min.",
+   "quelle": "Bundesamt für Sicherheit in der Informationstechnik (BSI, Deutschland)",
+   "notiz": "Offizielle Stelle, kurz und klar"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.bacs.admin.ch/de/ks23-1-de",
+   "titel": "S-U-P-E-R: So erstellen Sie sichere Passwörter",
+   "dauer": "4 Min.",
+   "quelle": "Bundesamt für Cybersicherheit (BACS, Schweiz)",
+   "notiz": "Offizielle Schweizer Empfehlung",
+   "warnung": "Sie-Form"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=xCCni1Sxe80",
+   "titel": "So funktioniert die Zwei-Faktor-Anmeldung",
+   "dauer": "2 Min.",
+   "quelle": "BSI (Deutschland)",
+   "notiz": "Kurz erklärt. Älteres Video, gilt aber weiterhin"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=3VbIEE_WdW0",
+   "titel": "Passwörter verwalten mit dem Passwort-Manager",
+   "dauer": "3 Min.",
+   "quelle": "BSI (Deutschland)",
+   "notiz": "Wie ein Passwort-Manager funktioniert"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.bacs.admin.ch/de/26w16-de",
+   "titel": "Ein Passwort für viele Konten: hohe Risiken",
+   "dauer": "4 Min.",
+   "quelle": "BACS (Schweiz), April 2026",
+   "notiz": "Aktueller Wochenrückblick mit echten Fällen",
+   "warnung": "Sie-Form"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=3gm71ABbXVo",
+   "titel": "Passkeys endlich verstanden",
+   "dauer": "10 Min.",
+   "quelle": "c't 3003 (heise), 2025",
+   "notiz": "Wie die Anmeldung ohne Passwort funktioniert",
+   "warnung": "Technisch anspruchsvoll"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=LhbZP57Tflk",
+   "grund": "Ersetzt durch offizielle Videos des BSI"
+  },
+  {
+   "url": "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html",
+   "grund": "Seite nicht mehr erreichbar"
+  },
+  {
+   "url": "https://www.ncsc.admin.ch/ncsc/de/home/aktuell/im-fokus/2023/ks-passwortsicherheit.html",
+   "grund": "Seite nicht mehr erreichbar, NCSC heisst heute BACS"
+  }
+ ]
+}

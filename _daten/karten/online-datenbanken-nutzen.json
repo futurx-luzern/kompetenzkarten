@@ -1,0 +1,79 @@
+{
+ "titel": "Online-Datenbanken nutzen",
+ "kategorie": "Digitale Kompetenzen",
+ "aufgabe": "Finde heraus, welche Online-Datenbanken es gibt und wie du sie für deine Recherchen nutzen kannst. Erstelle eine kurze Zusammenfassung oder eine Übersicht der wichtigsten Datenbanken.",
+ "ziel": "Verstehe, wie du durch die Nutzung von Online-Datenbanken umfassende und verlässliche Informationen erhältst.",
+ "text": [
+  "Für einen Vortrag, eine Vertiefungsarbeit oder eine Projektarbeit reicht eine Google-Suche oft nicht. Du brauchst verlässliche Bücher, Fachartikel oder offizielle Zahlen.",
+  "Online-Datenbanken sind geordnete Sammlungen solcher Informationen. Viele sind kostenlos, zum Beispiel die Bibliothekskataloge oder die Statistik des Bundes. Wer sie kennt, findet schneller bessere Quellen."
+ ],
+ "methode_titel": "Welche Datenbanken es gibt und wie du suchst",
+ "fragen": [
+  "Wo suchst du, wenn du für eine Arbeit verlässliche Quellen brauchst?",
+  "Warst du schon einmal in einer Bibliothek, um etwas zu recherchieren?",
+  "Für welches Thema könntest du in swisscovery oder beim Bundesamt für Statistik suchen?"
+ ],
+ "suche": [
+  "swisscovery",
+  "Google Scholar",
+  "Bundesamt für Statistik"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=xCBS7uOqX-A",
+   "titel": "swisscovery: die Bibliotheksplattform der Schweiz",
+   "dauer": "2 Min.",
+   "quelle": "Swiss Library Service Platform",
+   "notiz": "Kurze Vorstellung"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=9MOYAXTwcGU",
+   "titel": "Mit Google Scholar recherchieren",
+   "dauer": "4 Min.",
+   "quelle": "Stadtbücherei Ibbenbüren (Tutorial für Facharbeiten)",
+   "notiz": "Für Schülerinnen und Schüler gemacht"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=btWNmjQlDXs",
+   "titel": "Wie suche ich in swisscovery Zentralschweiz?",
+   "dauer": "5,5 Min.",
+   "quelle": "ZHB Luzern (Zentral- und Hochschulbibliothek)",
+   "notiz": "Luzerner Bibliothek, Schritt für Schritt"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken.html",
+   "titel": "Statistiken nach Themen",
+   "dauer": "5 Min.",
+   "quelle": "Bundesamt für Statistik (BFS)",
+   "notiz": "Offizielle Zahlen zur Schweiz, kostenlos",
+   "warnung": "Viele Zahlen, nicht alles ist einfach"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=7n31HKucjwA",
+   "titel": "swisscovery für Einsteigerinnen und Einsteiger",
+   "dauer": "14,5 Min.",
+   "quelle": "Universitätsbibliothek Bern, 2026",
+   "notiz": "Ausführlich mit erweiterter Suche"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://seatable.io/online-datenbank-kostenlos/",
+   "grund": "Software zum Bauen eigener Datenbanken, passt nicht zur Aufgabe"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=2Ym7srFdQEg",
+   "grund": "Video existiert nicht mehr"
+  }
+ ]
+}

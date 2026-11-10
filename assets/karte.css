@@ -44,6 +44,7 @@ h1, h2, h3, .gross, .t, .feld, .kasten { overflow-wrap: break-word; hyphens: aut
 h2 { font-size: clamp(1.6rem, 6vw, 2.2rem); line-height: 1.08; margin: 0 0 1rem; }
 h3 { font-size: 1.25rem; margin: 0 0 .5rem; }
 p { margin: 0 0 .8rem; }
+code { white-space: nowrap; font-size: .9em; background: var(--b-hell); border-radius: 4px; padding: .05rem .3rem; }
 a { color: inherit; }
 
 .band { padding: 2.2rem 1rem; }

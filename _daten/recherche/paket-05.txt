@@ -1,0 +1,279 @@
+
+######## Nutzung von Rechtschreibtools  (nutzung-von-rechtschreibtools.html, Digitale Kompetenzen)
+Aufgabe: Recherchiere, wie Rechtschreibtools wie Duden Mentor funktionieren und wie sie zur Verbesserung deiner Texte beitragen können. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Tools.
+Ziel: Verstehe, wie du durch den Einsatz von Rechtschreibtools deine schriftliche Kommunikation verbessern kannst.
+Alt-Intro: Rechtschreibtools sind digitale Hilfsmittel, die dir helfen, Fehler in deinen Texten zu erkennen und zu korrigieren. Sie bieten nicht nur Korrekturen für Rechtschreibung, sondern auch für Grammatik, Stil und Ausdruck. Durch die Nutzung dieser Tools kannst du deine schriftliche Kommunikation verbesse
+Alte Links:
+  OK                                              | Die besten Rechtschreibtools im Überblick | https://blog.xeit.ch/die-3-besten-rechtschreib-tools-so-klappts-mit-dem-texten/
+  OK                                              | Digitale Helfer für fehlerfreie Texte | https://www.srf.ch/radio-srf-3/rechtschreibung-diese-digitalen-helfer-machen-ihre-texte-fehlerfrei
+  Suche «Rechtschreibprüfung Tools»:
+    bDQYy4H-86Y |    2:35 | vor 4 Jahren    | TutorialCenter               | 10.454 Aufrufe   | Fehlerfreie Rechtschreibung mit diesem Tool! (Tutorial) - kostenlos!
+    rSDXRl5fdPk |    3:54 | vor 4 Jahren    | Microsoft ExpertZone DACH    | 1.099 Aufrufe    | Bessere Rechtschreibung, Grammatik und Prägnanz. Mit diesen Tools wird das Schreiben easy.
+    ECazrcAfNHw |    2:30 | vor 8 Jahren    | musstewissen Deutsch         | 536.018 Aufrufe  | Rechtschreibung lernen – einfache Deutsch-Tipps
+    sQgxudk1UhA |    0:56 | vor 4 Monaten   | How to Profi                 | 54 Aufrufe       | Microsoft Word Rechtschreibprüfung aktivieren - Rechtschreibprüfung einschalten
+    j1fgk9z0QbA |    6:03 | vor 6 Jahren    | Claudia Kauscheder | Effizie | 989 Aufrufe      | Rechtschreibung prüfen mit dem LanguageToolPlus
+    c4XNsh4e8k4 |    1:18 | vor 4 Jahren    | atempo                       | 79 Aufrufe       | Rechtschreibung? Check! ✔️ | Tools für Rechtschreibeprüfung | Thomas für ENTELIS+
+    mYOk76DHv8c |    7:55 | vor 5 Jahren    | Simon                        | 17.111 Aufrufe   | LanguageTool (Tutorial) Einfach kostenlos Texte auf Rechtschreibung & Grammatik überprüfen
+    CNp4ydlVzbs |    9:27 | vor 6 Jahren    | Akademie für Lerncoaching    | 165.845 Aufrufe  | Rechtschreibung verbessern in 10 Minuten pro Tag: Rechtschreibregeln trainieren
+    ZoAJCrRUFg0 |    1:36 | vor 11 Tagen    | Theo TuTo De                 | 3 Aufrufe        | Rechtschreibprüfung online kostenlos (mit Grammatik)
+    eFf0paGEw_A |    6:23 | vor 5 Jahren    | Grundschullehrerin Diana Weg | 32.017 Aufrufe   | Rechtschreibung verbessern in 10 Minuten (nutze diese genial einfache Methode)
+  Suche «Duden Mentor LanguageTool»:
+    AOLALcMlsis |   17:53 | vor 1 Jahr      | Lektor Vogt                  | 1.606 Aufrufe    | Duden Mentor | Test und Ersteindruck der Korrekturhilfe "Duden Mentor" aus dem Hause Duden
+    mYOk76DHv8c |    7:55 | vor 5 Jahren    | Simon                        | 17.111 Aufrufe   | LanguageTool (Tutorial) Einfach kostenlos Texte auf Rechtschreibung & Grammatik überprüfen
+    VMA6SPYDBBg |   11:54 | vor 7 Jahren    | GermanSkills.com             | 23.918 Aufrufe   | Duden-Mentor im Test: kostenlos Texte korrigieren
+    CBTBl6cucDM |    0:36 | vor 3 Jahren    | Duden                        | 1.246 Aufrufe    | Duden-Mentor: die Textprüfung
+    U0uNRvqo2iI |    0:26 | vor 3 Jahren    | Duden                        | 97.654 Aufrufe   | Kennen Sie schon den Duden-Mentor?
+    cB5ksDBiqmE |    1:37 | vor 6 Jahren    | Duden                        | 21.887 Aufrufe   | Duden-Mentor - Die digitale Textprüfung
+    mmMN7jnHeKU |    0:27 | vor 3 Jahren    | Duden                        | 400 Aufrufe      | So werten Sie Ihre Texte mit dem Duden-Mentor auf
+    FhuQKxG1GYc |    7:15 | vor 4 Jahren    | Auf-Entdeckertour            | 142 Aufrufe      | #221 Korrekt mit dem Duden Mentor
+    chY9GedoNdk |    0:27 | vor 3 Jahren    | Duden                        | 363 Aufrufe      | Der Duden-Mentor unterstützt Sie zu jeder Zeit mit der Textprüfung
+    fMU3Za_NGLs |    4:28 | vor 4 Jahren    | Margit Wickhoff (www.wort-sp | 145 Aufrufe      | Rechtschreibprüfung mit dem LanguageTool
+
+######## AI-gestützte Textüberarbeitung  (ai-gestuetzte-textueberarbeitung.html, Digitale Kompetenzen)
+Aufgabe: Finde heraus, wie AI-Tools zur Textüberarbeitung (z.B. Grammarly) funktionieren und welche Vorteile sie bieten. Erstelle eine kurze Zusammenfassung oder eine Übersicht der besten Tools
+Ziel: Erfahre, wie du durch AI-gestützte Tools deine Texte präziser und klarer gestalten kannst.
+Alt-Intro: AI-gestützte Tools zur Textüberarbeitung, wie Grammarly, bieten weit mehr als nur eine einfache Rechtschreibprüfung. Sie analysieren deinen Text auf verschiedene Aspekte, wie Grammatik, Stil, Ton und Klarheit, und geben dir gezielte Verbesserungsvorschläge. Durch den Einsatz dieser Tools kannst du s
+Alte Links:
+  OK                                              | Übersicht über AI-Tools zur Textüberarbeitung | https://jens.marketing/tools-ki-texte/
+  OK                                              | Informationen über AI-gestützte Texttools | https://chatgpt.com/
+  Suche «KI Schule richtig nutzen»:
+    qlZ6CzKNafI |   12:32 | vor 9 Monaten   | DW Deutsch                   | 60.122 Aufrufe   | Besser lernen oder weniger denken? Wie KI Schule und Unterricht verändert | DW Shift
+    A4qw-7OEP-Y |    4:04 | vor 1 Jahr      | Björn Sydow - TeachSmarter   | 842 Aufrufe      | Rechtssicher mit KI in der Schule: Do’s & Don’ts für Lehrkräfte (inkl. Praxis-Tipps)
+    wXPqseDaKeo |   19:39 | vor 1 Jahr      | Luis Newton                  | 76.928 Aufrufe   | Wie ich mit KI so effektiv lerne, es sollte illegal sein
+    bYZ1MXHH3xg |    8:02 | vor 9 Monaten   | laurinspire                  | 21.876 Aufrufe   | Diese Tools sollten alle Schüler & Studenten 2026 nutzen. 🤫💻
+    HE5DEDjZ7Nk |   16:02 | vor 1 Jahr      | KlassenFlow                  | 10.764 Aufrufe   | 6 KI-Tools für Lehrer die du unbedingt kennen musst | Unterricht planen mit AI 2025
+    mKyu9oRRecc |   16:56 | vor 10 Monaten  | emitheteacher                | 9.944 Aufrufe    | KI-Schule: Ein Ort an dem Kinder 2x so viel lernen
+    G0OVU6adw5w |   23:55 | vor 6 Monaten   | PUR+                         | 40.454 Aufrufe   | KI in der Schule: Ersetzen ChatGPT & Co. bald Lehrerinnen und Lehrer? | PUR+
+    oh5q1BV0FY8 |   13:33 | vor 1 Jahr      | Luis Newton                  | 118.602 Aufrufe  | 9 Neue KI-Apps, Die Studieren Viel Zu Einfach Machen (2026)
+    y8OZCecRDsM |    3:14 | vor 1 Jahr      | tagesschau                   | 24.782 Aufrufe   | Wie künstliche Intelligenz in der Schule genutzt wird
+    S3FAgx2ZFOI | 2:07:46 | vor 1 Jahr      | Everlast AI                  | 161.768 Aufrufe  | Lerne ALLES über KI in 120min - Vom Anfänger zum Profi in 6 Schritten
+  Suche «ChatGPT Text verbessern lassen»:
+    6tdNv6EpvOg |    3:51 | vor 2 Jahren    | Wondershare Deutsch          | 2.563 Aufrufe    | ChatGPT Korrekturlesen: Wie es gemacht wird
+    VaSVGTBnAQY |    5:55 | vor 2 Jahren    | Digitale Profis              | 38.209 Aufrufe   | MIT DIESEM PROMPT SCHREIBT CHATGPT WIE DU | So übernimmt ChatGPT deinen Ton, Schreibstil &
+    cJrBjyVma_k |    2:26 | vor 3 Jahren    | SABO                         | 71.240 Aufrufe   | ChatGPT Text umschreiben lassen und KI-Detektor umgehen Tutorial | SABO
+    W5tDv4iVZ3E |    5:32 | vor 2 Jahren    | Basar Seven                  | 17.528 Aufrufe   | "Meistere Word-Dokumente mit ChatGPT: Ein umfassender Guide zum perfekten Formatieren!"
+    HQv8aqsDocg |    6:36 | vor 1 Jahr      | Silke Koppitz: Karriereberat | 56.727 Aufrufe   | ChatGPT Ruiniert Deine Bewerbung (außer Du Machst DAS)
+    Zr6UnwhnJVI |   24:14 | vor 1 Jahr      | Christoph Magnussen          | 28.083 Aufrufe   | 3 Methoden um ChatGPT zu personalisieren (& MASTER KONTEXT)
+    evXfJnaBrQI |   16:03 | vor 3 Wochen    | KI Visionär                  | 106 Aufrufe      | ChatGPT-Texte verbessern: Wenn „überzeugender“ nicht reicht
+    QIPVONs7Hts |   10:04 | vor 3 Jahren    | KI Content Club              | 81.692 Aufrufe   | ChatGPT Tipps für Studenten und Wissenschaftler | Akademisches Schreiben mit KI
+    gJ2_AdHQ7_Y |    5:23 | vor 1 Jahr      | Jens Steingröver Seo Online  | 1.942 Aufrufe    | ChatGPT Texte umschreiben 🚀🤖 So klingen deine Texte sofort besser!
+    s2ShoeZrGGo |    4:42 | vor 1 Jahr      | Techflare                    | 5.616 Aufrufe    | GEHEIME ChatGPT Funktion - Text zu Sprache (KOSTENLOS!)
+  Suche «KI Halluzinationen erklärt»:
+    cumYLnkXJ-I |   12:10 | vor 2 Jahren    | cloudstrive                  | 3.562 Aufrufe    | Warum KI DICH anlügt: KI-Halluzination einfach erklärt
+    W1Dv2snvuJM |    7:42 | vor 7 Monaten   | KI Kompass                   | 1.620 Aufrufe    | Warum deine KI lügt
+    -ttJuqi8Rho |    5:21 | vor 1 Jahr      | Digitalzentrum Berlin        | 5.002 Aufrufe    | Lügt ChatGPT? 4 Wege, um KI-Fehler zu vermeiden & Tools für genauere Ergebnisse | Kurz erk
+    URZxd5KKDSw |   19:33 | vor 1 Jahr      | The Morpheus                 | 50.728 Aufrufe   | ChatGPTs Halluzinationen GEHEN ZU WEIT
+    bUvwIhkSL2c |   11:54 | vor 1 Jahr      | KI Strategie                 | 800 Aufrufe      | KI-Halluzinationen erklärt: Warum Künstliche Intelligenz manchmal Fehler macht 🤔💡
+    Z8lM8t95yAA |    6:56 | vor 1 Jahr      | StartUpWissen & KI-Känguru   | 838 Aufrufe      | Tipps gegen KI- & ChatGPT-Halluzinationen [Anleitung]
+    fT69SLK2m9I |    3:42 | vor 3 Jahren    | explainity ® Erklärvideos    | 252.369 Aufrufe  | Künstliche Intelligenz einfach erklärt (explainity® Erklärvideo) (2023)
+    rE7yHoQqWP8 |    5:37 | vor 2 Jahren    | Loris Galler                 | 1.717 Aufrufe    | KI und Halluzinationen | Google AI Overviews
+    LDAPbIFZtVs |    2:04 | vor 10 Monaten  | AdSimple GmbH                | 182 Aufrufe      | KI verstehen: Folge 14/30 Was sind KI-Halluzinationen?
+    7Izi8IP3a4U |    0:59 | vor 2 Jahren    | Digitale Profis              | 4.082 Aufrufe    | Was sind Halluzinationen bei KI-Tools?  #chatgpt #künstlicheintelligenz #kitools
+
+######## Effiziente Internetrecherche  (effiziente-internetrecherche.html, Digitale Kompetenzen)
+Aufgabe: Recherchiere, wie du effizient im Internet recherchierst und vertrauenswürdige Quellen bewertest. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken zur Internetrecherche.
+Ziel: Lerne, wie du durch gezielte Recherche hochwertige Informationen findest.
+Alt-Intro: Effiziente Internetrecherche ist eine wichtige Fähigkeit, um schnell und zuverlässig Informationen zu finden. Dabei geht es nicht nur darum, die richtigen Suchbegriffe zu verwenden, sondern auch darum, die Qualität und Vertrauenswürdigkeit der gefundenen Quellen zu bewerten. Mit den richtigen Techni
+Alte Links:
+  OK                                              | Wie suche ich im Internet richtig? | https://www.saferinternet.at/faq/informationskompetenz/wie-suche-ich-im-internet-richtig
+  OK    5:27 2018-08-16 Orange by Handelsblatt    | Video: Effizient im Internet recherchieren | https://www.youtube.com/watch?v=g4uLreWUs8s
+  OK                                              | Perplexity: Ein Tool zur effizienten Recherche | https://www.perplexity.ai/
+  Suche «Internetrecherche Tipps Schule»:
+    68uRVri36r4 |    8:50 | vor 4 Jahren    | shribe! - master your studie | 13.631 Aufrufe   | Richtig recherchieren im Internet (3 unverzichtbare Tipps) 💻🔍
+    y7WFHBdMMQc |    3:07 | vor 6 Jahren    | DER SPIEGEL                  | 21.946 Aufrufe   | Richtig recherchieren | SPIEGEL Ed
+    Isa2j7s_d8M |    3:20 | vor 6 Jahren    | lernfoerderung               | 10.842 Aufrufe   | Recherche im Netz ✅ So informierst du dich richtig: 5 Tipps
+    Rr-uWTO_HAw |    5:16 | vor 8 Jahren    | SRF Kids                     | 166.805 Aufrufe  | Frag Fred: Wie funktioniert eine Suchmaschine wie z. B. Google? | Kindervideos | SRF Kids
+    2Gq3cisfcT8 |    8:16 | vor 4 Jahren    | v-lernen                     | 213 Aufrufe      | Internetrecherche - Übungen
+    gLjUV5Yf3Xk |    2:39 | vor 3 Jahren    | Schlau durchs Netz           | 153 Aufrufe      | How to Internetrecherche | Schlau durchs Netz #2
+    g4uLreWUs8s |    5:27 | vor 8 Jahren    | Orange by Handelsblatt       | 28.484 Aufrufe   | Richtig recherchieren im Internet: So geht's | Orange by Handelsblatt
+    ggYLPUiffsU |    2:40 | vor 1 Jahr      | SRF Kids                     | 31.005 Aufrufe   | Was ist Cybergrooming? – einfach erklärt | Kindervideos | SRF Kids
+    TsD6x9r24QM |    7:38 | vor 7 Monaten   | planet schule                | 627 Aufrufe      | Deutsch Basics:  Recherche mit Suchoperatoren und KI-Tools | kolleg24 | planet schule | AR
+    tDcTYQ2HIvE |    4:06 | vor 12 Tagen    | SRF Kids                     | 793 Aufrufe      | SRF Media school: Wie machst du einen Vortrag? | Recherchieren (1) | Kindervideos | SRF Ki
+  Suche «Google Suche Tipps Operatoren»:
+    xIIm8RLFWlM |   18:42 | vor 3 Jahren    | Digitale Profis              | 27.172 Aufrufe   | DIE 16 BESTEN TIPPS UND TRICKS FÜR GOOGLE | Google Suche für Profis
+    BUpORAWn9bk |    9:07 | vor 4 Jahren    | BILDNER TV                   | 19.824 Aufrufe   | 11 Profi-Tipps zur Google-Suche!
+    3lwo5HTZaTI |    4:39 | vor 11 Jahren   | Henry Hasselbach             | 92.867 Aufrufe   | Googeln wie ein Profi - 20 Tipps zur Google Suche
+    1merivd_bRc |    2:55 | vor 4 Jahren    | eBakery                      | 524 Aufrufe      | Google Suchbefehle - eine Auflistung der bekanntesten Suchoperatoren | Google Tutorial
+    nV9xVYoEzHE |    3:30 | vor 6 Jahren    | Felicia Simon                | 1.119 Aufrufe    | 3 Google Tricks in 3 Minuten 🔎 Google Suchoperatoren
+    2_c-ennRxhM |    4:35 | vor 4 Jahren    | Python Programmer            | 246.406 Aufrufe  | 10 Google-Suchtipps, die 99 % der Leute nicht kennen
+    eYhilvmQ0K4 |    7:57 | vor 4 Jahren    | ithelps – SEO & GEO Agentur  | 14.121 Aufrufe   | Google Ranking boosten mit dieser simplen & kostenlosen Methode 📊
+    s9XZk9CLxK4 |    6:43 | vor 8 Jahren    | Common Sense Education       | 229.441 Aufrufe  | Essential Google Search Tricks for Research
+    -PfA5ltzKkA |    1:21 | vor 5 Jahren    | Onlinemarketing Strategen    | 170 Aufrufe      | Allintext - Der Google Suchoperator erklärt
+    FGPESwUEYpQ |    7:37 | vor 3 Jahren    | LMN Lemon Monkey Network     | 1.192 Aufrufe    | Google Suchoperatoren - einfach schneller suchen
+  Suche «Quellen prüfen Fake News erkennen»:
+    oBfZuyy-zQY |    4:12 | vor 4 Jahren    | DW Deutsch                   | 32.027 Aufrufe   | Video Faktencheck: Wie erkenne ich Fake News?
+    z2A_g4IGQKA |    1:46 | vor 1 Jahr      | ARD Kinder und Familie       | 11.146 Aufrufe   | Wie kann man Fake News erkennen? | neuneinhalb
+    -Y7m8R8cuPQ |    5:22 | vor 2 Jahren    | ZIB erklärt                  | 4.574 Aufrufe    | Wie man Falschnachrichten auf Social Media erkennen kann
+    6ysYtIX2rfQ |    2:33 | vor 2 Jahren    | Stadt Wien. Informationen zu | 216 Aufrufe      | Fake News checken: Hilfreiche Tipps zum Überprüfen der Glaubwürdigkeit von Quellen
+    o3y60ftulzU |    1:24 | vor 5 Jahren    | checkdiefakten               | 290 Aufrufe      | Wie erkenne ich Fake News?
+    r9gf5kze6_8 |    1:06 | vor 9 Jahren    | tagesschau                   | 24.080 Aufrufe   | Wie erkennt man Fake News?
+    BqigJmEHYuw |    8:19 | vor 9 Jahren    | MrWissen2go                  | 131.141 Aufrufe  | Wie erkennt man "Fake News"?
+    -1On8-kkz_M |    1:51 | vor 7 Jahren    | DigiKnow                     | 12.393 Aufrufe   | Fake News erkennen! Tipps und Tricks
+    v6nQ_bq3xl4 |    2:24 | vor 6 Jahren    | DER SPIEGEL                  | 77.908 Aufrufe   | Was sind Fake News? | SPIEGEL Ed
+    rYczxlHy8M4 |    2:15 | vor 2 Wochen    | Faktenfackel                 | 7 Aufrufe        | Fake News erkennen: So prüfst du eine Behauptung selbst
+
+######## Online-Datenbanken nutzen  (online-datenbanken-nutzen.html, Digitale Kompetenzen)
+Aufgabe: Finde heraus, welche Online-Datenbanken es gibt und wie du sie für deine Recherchen nutzen kannst. Erstelle eine kurze Zusammenfassung oder eine Übersicht der wichtigsten Datenbanken.
+Ziel: Verstehe, wie du durch die Nutzung von Online-Datenbanken umfassende und verlässliche Informationen erhältst.
+Alt-Intro: Online-Datenbanken sind wertvolle Ressourcen, um umfassende und verlässliche Informationen zu recherchieren. Sie bieten Zugang zu wissenschaftlichen Artikeln, Fachliteratur, Statistiken und anderen hochwertigen Quellen, die oft nicht über eine einfache Internetsuche zugänglich sind. Durch die geziel
+Alte Links:
+  OK                                              | Online-Datenbanken kostenlos nutzen | https://seatable.io/online-datenbank-kostenlos/
+  TOT                                             | Video: Einführung in die Nutzung von Online-Datenbanken | https://www.youtube.com/watch?v=2Ym7srFdQEg
+  Suche «Bibliothekskatalog Recherche»:
+    4uKz3iSVtz0 |    3:29 | vor 1 Jahr      | Universität Hohenheim        | 186 Aufrufe      | HohSearch – Literaturrecherche nach Büchern mit dem Hohenheimer Bibliothekskatalog (HOT4:S
+    ZDvcTII_kyc |   12:26 | vor 4 Jahren    | Bergische Universität Wupper | 566 Aufrufe      | Katalogsuche kompakt
+    wXaiK2G877Q |   10:05 | vor 2 Jahren    | Bayerische Staatsbibliothek  | 1.722 Aufrufe    | BSB DISCOVER! - Recherche
+    t9KCNy929DA |    8:48 | vor 6 Jahren    | DHBW Mosbach                 | 974 Aufrufe      | Recherche im Bibliothekskatalog - So geht's
+    wrbvdcQduUc |    2:21 | vor 3 Jahren    | Universitätsbibliothek Mannh | 1.354 Aufrufe    | Einstiegssuche in der Literaturrecherche
+    rXbY3Ah6JD8 |    4:57 | vor 1 Jahr      | FH CAMPUS 02                 | 31 Aufrufe       | Literatursuche im Bibliothekskatalog - Tipps
+    rX_kMeGk_-s |    3:18 | vor 6 Jahren    | Medizinische Zentralbiblioth | 106 Aufrufe      | Katalogrecherche - Basics
+    sptjM_HRBck |    3:14 | vor 11 Monaten  | Universitätsbibliothek Biele | 223 Aufrufe      | How to: Recherche | BIB-BASICS | Universitätsbibliothek Bielefeld
+    CKwpp9PMIRo |   10:14 | vor 2 Monaten   | Universitätsbibliothek Basel | 227 Aufrufe      | Zum Semesterstart - Einführung in den Bibliothekskatalog
+    A68T94rqRy0 |   12:22 | vor 5 Jahren    | Funck Dirk                   | 825 Aufrufe      | Datenbanken, Kataloge & Suchmaschienen zur wissenschaftlichen Literaturrecherche
+  Suche «Google Scholar Tutorial deutsch»:
+    dziMYj8FAq4 |    6:21 | vor 5 Jahren    | Statistik am PC              | 10.619 Aufrufe   | Google Scholar - Eine Einführung
+    AkILNWvpWhc |   12:59 | vor 2 Jahren    | shribe! - master your studie | 9.070 Aufrufe    | Google Scholar richtig nutzen (7 versteckte Funktionen) 🔎📚
+    BmcpRW4EeJ0 |    3:28 | vor 4 Monaten   | Universität Göttingen        | 251 Aufrufe      | Google Scholar clever nutzen
+    ukQR2HMQnVI |   12:57 | vor 6 Jahren    | Universitätsbibliothek der J | 5.919 Aufrufe    | #7 - Google Scholar
+    kEaE4HAcSJs |    8:26 | vor 4 Jahren    | Universitätsbibliothek Kiel  | 3.274 Aufrufe    | Google Scholar
+    PpsHzkVDw4A |    2:25 | vor 9 Jahren    | Wilmas Tutorials             | 1.209 Aufrufe    | Wilmas Tutorials: Literaturrecherche mit Google Scholar
+    9MOYAXTwcGU |    3:49 | vor 5 Jahren    | Stadtbücherei Ibbenbüren     | 328 Aufrufe      | Facharbeiten Tutorial: Google Scholar Erklärfilm
+    uirP8z2cNqs |    1:16 | vor 4 Jahren    | Universitätsbibliothek Leipz | 1.347 Aufrufe    | How to: Literaturrecherche mit Google Scholar // Universitätsbibliothek Leipzig
+    Uk2SP0zYgZw |    4:26 | vor 9 Jahren    | Zur Abschlussarbeit          | 23.994 Aufrufe   | Mit Google Scholar Literatur suchen
+    K9plmbUAQQs |    8:57 | vor 5 Jahren    | Prof. Dr. Jens K. Perret     | 180 Aufrufe      | Wissenschaftliches Arbeiten - Literaturrecherche mit Google Scholar
+  Suche «Swisscovery Recherche»:
+    7n31HKucjwA |   14:33 | vor 2 Monaten   | Universitätsbibliothek Bern  | 193 Aufrufe      | Swisscovery für Einsteiger*innen - Recherchieren - Ausleihen - Downloaden
+    RMP4sAfCW_Q |    6:18 | vor 5 Jahren    | zhbluzern                    | 613 Aufrufe      | Wie nutze ich die erweiterte Suche in swisscovery RZS?
+    aREphofMkKI |    4:16 | vor 3 Jahren    | Universitätsbibliothek Bern  | 2.793 Aufrufe    | swisscovery: Buch ausleihen und auf Online-Ressourcen zugreifen
+    btWNmjQlDXs |    5:30 | vor 3 Jahren    | zhbluzern                    | 1.050 Aufrufe    | Wie suche ich in swisscovery RZS?
+    c1zbOWTO-KM |    1:50 | vor 5 Jahren    | SLSP                         | 5.657 Aufrufe    | swisscovery: Ihr neues Discovery-Tool für wissenschaftliche Materialien in der Schweiz
+    xCBS7uOqX-A |    1:41 | vor 5 Jahren    | SLSP                         | 6.023 Aufrufe    | swisscovery: die neue Bibliotheksplattform der Schweiz
+    o64FxykEVos |    3:49 | vor 5 Jahren    | zhbluzern                    | 237 Aufrufe      | How to Conduct a Search in swisscovery Central Switzerland?
+    f4lJDL0gy14 |    0:52 | vor 6 Jahren    | Zentralbibliothek Zürich     | 748 Aufrufe      | Swisscovery löst das Rechercheportal ab!
+    EHz0jruUHHM |    0:50 | vor 6 Jahren    | ETH-Bibliothek               | 517 Aufrufe      | ETH-Bibliothek | swisscovery
+    khLToFnKgOY |    2:33 | vor 5 Jahren    | Universitätsbibliothek Bern  | 2.000 Aufrufe    | Wie kann ich in swisscovery auf Online-Ressourcen zugreifen?
+
+######## Sichere Passwörter erstellen  (sichere-passwoerter-erstellen.html, Digitale Kompetenzen)
+Aufgabe: Recherchiere, wie man sichere Passwörter erstellt und verwaltet, um die eigenen Daten zu schützen. Erstelle eine kurze Zusammenfassung oder eine Checkliste zur Passwortsicherheit.
+Ziel: Lerne, wie du durch sichere Passwörter deine digitalen Konten vor Missbrauch schützt.
+Alt-Intro: Sichere Passwörter sind entscheidend, um deine digitalen Konten vor unbefugtem Zugriff zu schützen. Ein starkes Passwort sollte komplex genug sein, um schwer zu knacken, aber gleichzeitig leicht zu merken. Indem du bestimmte Regeln und Methoden zur Erstellung und Verwaltung von Passwörtern befolgst,
+Alte Links:
+  OK    1:17 2023-05-22 Mein Schlüssel zur Welt   | Video: Sichere Passwörter erstellen | https://www.youtube.com/watch?v=LhbZP57Tflk
+  TOT                                             | Tipps zur Passwortsicherheit vom BSI | https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html
+  TOT                                             | Passwortsicherheit und wie man sie verbessert | https://www.ncsc.admin.ch/ncsc/de/home/aktuell/im-fokus/2023/ks-passwortsicherheit.html
+  Suche «sichere Passwörter erstellen»:
+    1lVqVVgkxYE |    7:51 | vor 6 Jahren    | SRF Kids                     | 64.781 Aufrufe   | Frag Fred: Was ist ein sicheres Passwort? | Kindervideos | SRF Kids
+    nj9sKzr3wNw |    8:19 | vor 2 Jahren    | BILDNER TV                   | 15.643 Aufrufe   | Das perfekte Passwort erstellen – das kann KEINER knacken!
+    Q57tFhyN7fE |    2:55 | vor 7 Jahren    | DigiKnow                     | 12.171 Aufrufe   | Sicheres und starkes Passwort erstellen - How-to
+    jtFc6B5lmIM |    4:28 | vor 11 Jahren   | alexanderlehmann             | 323.198 Aufrufe  | Unknackbar aber einfach zu merken! - Passwörter Einfach Erklärt (1/5)
+    c7EKGddzZ-g |    1:27 | vor 4 Jahren    | ZDFtivi                      | 10.989 Aufrufe   | Wie mache ich mein Passwort möglichst sicher? - logo! erklärt - ZDFtivi
+    _WI8mRIaVWQ |    6:12 | vor 5 Jahren    | PrivacyTutor                 | 20.554 Aufrufe   | Passwort-Tutorial: Unknackbar & einfach zu merken (Schritt-für-Schritt-Anleitung)
+    WogQ6Ns3Sao |    2:28 | vor 3 Jahren    | Bundesamt für Sicherheit in  | 7.926 Aufrufe    | In wenigen Schritten zum sicheren Passwort | BSI
+    AvID5iqfclg |    3:32 | vor 6 Jahren    | Deutsch - Kingston Technolog | 1.772 Aufrufe    | Sichere Passwörter erstellen
+    3VbIEE_WdW0 |    2:43 | vor 3 Jahren    | Bundesamt für Sicherheit in  | 26.300 Aufrufe   | Passwörter verwalten mit dem Passwort-Manager | BSI
+    5SaftIaoHNw |    1:38 | vor 3 Jahren    | Artis                        | 1.187 Aufrufe    | Sichere Passwörter erstellen & super einfach verwalten
+  Suche «Passwortmanager erklärt»:
+    3VbIEE_WdW0 |    2:43 | vor 3 Jahren    | Bundesamt für Sicherheit in  | 26.300 Aufrufe   | Passwörter verwalten mit dem Passwort-Manager | BSI
+    3gm71ABbXVo |   10:16 | vor 1 Jahr      | c't 3003                     | 346.497 Aufrufe  | Passkeys endlich verstanden | Nie mehr Passwörter
+    U3fBRE4FBHo |    9:20 | vor 4 Jahren    | SRF News & Hintergründe      | 36.592 Aufrufe   | Passwortmanager im Test: Diese Manager schützen vor Hackern | 2022 | Kassensturz | SRF
+    BLllXxvrdO0 |   12:41 | vor 5 Jahren    | PrivacyTutor                 | 85.075 Aufrufe   | Bitwarden: Deshalb ist er mein Lieblings-Passwortmanager
+    Gsu97dxeqF8 |    2:09 | vor 4 Jahren    | Bundesamt für Sicherheit in  | 6.957 Aufrufe    | Passwortmanager - Was können sie? | BSI
+    Vnj-_CG0C6A |   38:49 | vor 7 Monaten   | c't uplink                   | 27.839 Aufrufe   | Passwörter raus aus der US-Cloud – aber wohin? | c't uplink
+    iuU-prPRxz4 |    1:45 | vor 2 Jahren    | Cybernews Deutsch            | 33.210 Aufrufe   | Was sind Passkeys? In 2 Minuten Erklärt
+    c5QSDS2Tp9M |    8:47 | vor 2 Jahren    | Rafael Zeier                 | 71.646 Aufrufe   | So mach ich das mit Passwörtern und Passwortmanagern
+    1TZcgp5uLIE |    3:31 | vor 3 Monaten   | VPNpro Deutsch 🇩🇪            | 23.177 Aufrufe   | Passwortmanager Vergleich 2026 | Welcher ist wirklich der beste?
+    6xvabcu3DZ8 |    7:48 | vor 2 Jahren    | IT an der Bar                | 3.972 Aufrufe    | Passwortmanager: Ja oder Nein? 🚫
+  Suche «Zwei-Faktor-Authentifizierung erklärt»:
+    xCCni1Sxe80 |    1:48 | vor 6 Jahren    | Bundesamt für Sicherheit in  | 77.360 Aufrufe   | So funktioniert die Zwei-Faktor-Authentisierung | BSI
+    FPIwRjBQtdM |    5:41 | vor 10 Monaten  | erklaerung-und-mehr          | 2.867 Aufrufe    | Wie funktioniert die Zwei-Faktor-Authentifizierung
+    5ckla1_UWTg |    8:45 | vor 2 Jahren    | BILDNER TV                   | 11.176 Aufrufe   | 2-Faktor-Authentifzierung: Was ist das und wie funktioniert es?
+    MEyR_yDT3Ts |    1:03 | vor 2 Monaten   | Apple Deutschland            | 3.109 Aufrufe    | Was ist die Zwei-Faktor-Authentifizierung für den Apple Account? | Apple Support
+    EY9hiHD9XKU |   22:17 | vor 3 Jahren    | The Morpheus                 | 114.255 Aufrufe  | Vergleich: NICHT ALLE Zwei-Faktor-Methoden sind sicher!
+    mQClhZjooH4 |    4:02 | vor 4 Jahren    | Akademie Digitale Berufe | D | 1.159 Aufrufe    | Was ist Multi-Faktor-Authentifizierung? Einfach erklärt! LERNVIDEO
+    L00DmKzgW7E |    3:09 | vor 1 Tag       | Capybara EDV                 | 3 Aufrufe        | Capybara erklärt Zwei Faktor Authentifizierung
+    75375lLZUqI |    2:53 | vor 4 Jahren    | extra 3                      | 114.770 Aufrufe  | Identitätsprüfung: 2-Faktor-Authentifizierung im Real Life | extra 3 | NDR
+    bOncmHVx7_I |    3:02 | vor 1 Jahr      | Jigxor DE                    | 46.167 Aufrufe   | Google Authenticator einrichten für alle Apps - So geht's! [2024]
+    pvhNm0nAyvU |   12:14 | vor 4 Jahren    | BILDNER TV                   | 85.849 Aufrufe   | Mit der Microsoft Authenticator-App die 2-Faktor-Authentifizierung bündeln und vereinfache
+
+######## Ordnung halten  (ordnung-halten.html, Methodenkompetenzen)
+Aufgabe: Recherchiere, wie du deine Umgebung und deinen Arbeitsplatz so organisierst, dass du effizient und stressfrei arbeiten kannst. Lerne, wie du Ordnung schaffst und beibehältst, um produktiver zu sein. Erstelle eine Liste mit Tipps, die dir helfen, Ordnung zu halten.
+Ziel: Lerne, wie du eine strukturierte und geordnete Arbeitsumgebung schaffst und erhältst.
+Alt-Intro: Eine gut organisierte Arbeitsumgebung ist der Schlüssel zu effizientem und stressfreiem Arbeiten. Struktur und Ordnung helfen dir, den Überblick zu behalten, deine Zeit besser zu nutzen und produktiver zu sein. Durch die Schaffung und Aufrechterhaltung einer klaren Struktur in deinem Arbeitsbereich 
+Alte Links:
+  OK   33:23 2022-10-17 SRF Puls                  | Ordnung halten: Tipps und Tricks | https://www.srf.ch/play/tv/puls/video/ordnung-halten---puls-raeumt-auf?urn=urn:srf:video:e50b7a80-04ba-46d4-bd27-c9783efcd051
+  OK   12:18 2021-08-22 Kreativ Organisiert       | Video: Arbeitsplatz organisieren | https://www.youtube.com/watch?v=6D1OlRbrkLU
+  OK   31:53 2022-10-17 SRF Wissen                | Video: Struktur und Ordnung am Arbeitsplatz | https://www.youtube.com/watch?v=7lEIyEQHrf4
+  Suche «Ordnung am Schreibtisch Schule»:
+    B3sQjmyMD6g |   13:22 | vor 2 Jahren    | mamiblock                    | 222.788 Aufrufe  | Ikea Hacks ORGANISATION ➡️ Kinderschreibtisch , Schule & Büro | mamiblock
+    buczRvvM4oo |   29:54 | vor 3 Jahren    | Ilias Welt                   | 1.923.563 Aufrufe | ILIAS WELT - 📌 Schreibtisch Ordnung NEU!
+    XB6-noW-VUA |    7:28 | vor 11 Jahren   | Julia Beautx                 | 1.476.824 Aufrufe | 8 EASY DESK ORGANISATION DIYs! | Julia Beautx
+    EDgZ3hxJgPY |   22:31 | vor 3 Jahren    | Cali Kessy                   | 307.627 Aufrufe  | EXTREME SCHREIBTISCH TRANSFORMATION 🫧 * aesthetic und motivierend * Cali Kessy
+    Cac5dYdXgQY |   10:02 | vor 7 Jahren    | Cali Kessy                   | 365.559 Aufrufe  | SCHREIBTISCH AUFRÄUMEN und ORGANISIEREN ✂️DIY's für den Schreibtisch 🆘Cali Kessy
+    OX6KX8jBQy8 |    7:57 | vor 6 Jahren    | Clarielle                    | 826.082 Aufrufe  | Coole Hacks für XXL Schreibtisch | neu organisieren | Tolle Ideen für die Schule | Clariel
+    2tlNSAw-FA0 |    6:14 | vor 8 Jahren    | Giulia Groth                 | 69.002 Aufrufe   | Back to School Organisation & Lernhacks! Ordnung auf dem Schreibtisch
+    Y5MIGazDP9Y |   48:15 | vor 1 Jahr      | Ilias Welt                   | 726.003 Aufrufe  | ILIAS WELT 📚 Schreibtisch Mk-Over + Tour!
+    TPuqC-ZxyfI |    6:33 | vor 5 Jahren    | Westwing                     | 14.297 Aufrufe   | Schreibtisch organisieren nach Feng Shui!
+    i9Ee-XitCU4 |   15:09 | vor 1 Jahr      | Büro-Effizienz: Top Ergebnis | 11.254 Aufrufe   | Organisieren Schreibtisch mit dem RICHTIGEN Büromaterial + EINMAL-Regel = Papier im Griff
+  Suche «Ordnersystem Dateien organisieren»:
+    dvHZ16OoTKE |   13:48 | vor 2 Wochen    | Marco Franz                  | 21.926 Aufrufe   | Datei Chaos automatisch sortieren mit KI (Schritt für Schritt-Anleitung)
+    3Cqrm7oBVms |   13:35 | vor 1 Jahr      | Micha Gruber                 | 25.722 Aufrufe   | 🤯 Datei Chaos? In 4 Schritten zur perfekten Struktur! 🚀
+    ZVMIB2tKiok |   11:33 | vor 3 Jahren    | MS-Office-Training Anuschka  | 71.405 Aufrufe   | Digitale Ablage am PC - 8 Tipps für Ihre optimale Ordner- und Dateistruktur
+    yufb5CLmt0k |    8:32 | vor 3 Jahren    | Lernwas                      | 37.504 Aufrufe   | Ordnung auf dem PC: Sinnvolle digitale Ordnerstruktur
+    yJn6spc2stI |    9:19 | vor 2 Jahren    | Jakob Neubauer               | 72.017 Aufrufe   | Die BESTE Art deine Daten zu organisieren 🗂️
+    lhct_oOtkoM |    9:12 | vor 7 Jahren    | BILDNER TV                   | 99.952 Aufrufe   | Windows 10 für Senioren: Ordnung muss sein - so bringt ihr Struktur in eure Dateien!
+    _m_EtsDQ-DQ |   14:50 | vor 1 Jahr      | Büro-Effizienz: Top Ergebnis | 56.074 Aufrufe   | DIE EINE Struktur für digitale Ordnung im Büro: Dateisystem einfach umsetzbar
+    yiKRjvYeOrM |   12:31 | vor 3 Jahren    | BILDNER TV                   | 51.282 Aufrufe   | Windows 11: Den Datei-Explorer richtig organisieren, sortieren und gruppieren
+    u16R7zskchQ |    8:23 | vor 3 Jahren    | Der Informatiklehrer         | 3.496 Aufrufe    | DATEIEN und ORDNER - ORDNER ERSTELLEN und DATEIEN ABSPEICHERN
+    5fM9LF7p_Ek |   12:55 | vor 5 Jahren    | Benjamin Lenz                | 8.546 Aufrufe    | Ordnerstruktur anlegen
+  Suche «Schulsachen organisieren»:
+    FtbbqI2jZ1c |    5:58 | vor 3 Jahren    | mj_tipps I Schule Rocken🧠💥   | 14.587 Aufrufe   | Dein Schulleben RICHTIG organisieren I Abi leicht gemacht I 5 Schritte + Tipps
+    B3sQjmyMD6g |   13:22 | vor 2 Jahren    | mamiblock                    | 222.785 Aufrufe  | Ikea Hacks ORGANISATION ➡️ Kinderschreibtisch , Schule & Büro | mamiblock
+    yWUow523o5g |   27:13 | vor 4 Jahren    | Mamiseelen                   | 2.572.317 Aufrufe | Back to School Haul GYMNASIUM 😍 Schulsachen kaufen für neue Schule! Clarielle Johann Loop 
+    OnDXTObkFPI |    7:12 | vor 8 Jahren    | Cali Kessy                   | 576.536 Aufrufe  | BACK TO SCHOOL ORGANISATION DIYs + HACKS ✏️💗 DIY Back to school Deutsch 2018
+    Y-4OEspnXnc |    5:45 | vor 8 Jahren    | JustSayEleanor               | 240.412 Aufrufe  | ORDNER vs. HEFTER für die Schule - Back to School // JustSayEleanor ♡
+    -KcXRYCVpcg |   19:32 | vor 6 Jahren    | Simple Vero                  | 3.821 Aufrufe    | Wie die Schulsachen ordnen? Überschriften,Hefte...⎮Simple Vero
+    sYQ7_Wa2uC4 |   18:44 | vor 6 Jahren    | Jenny                        | 28.795 Aufrufe   | Organisation Schule/Oberstufe für Abi Vorbereitung (Teil 1) | Lernzettel, Schulsachen auss
+    yEBMpAIvXsc |   11:45 | vor 10 Jahren   | Mila Gray                    | 12.251 Aufrufe   | Schulsachen wegschmeißen! I Akten ausmisten I PROJEKT MNMLSMS
+    5H8jhWm70Io |    9:37 | vor 6 Jahren    | Shalina Chantal              | 125.831 Aufrufe  | Organisation für die Schule | Shalina Chantal
+    FXLiswLx9dc |   13:13 | vor 4 Jahren    | mamiblock                    | 88.463 Aufrufe   | 10 Back To School Tricks 💯💡 | Organisation - Lerntricks - Aufbewahrung | Grundschule | mam
+
+######## Ergebnisse verkaufen  (ergebnisse-verkaufen.html, Methodenkompetenzen)
+Aufgabe: Informiere dich darüber, wie du deine Ergebnisse und Erfolge überzeugend präsentieren und «verkaufen» kannst. Lerne, welche Techniken dir helfen, deine Leistungen positiv darzustellen und dein Publikum zu überzeugen. Erstelle eine Liste mit Tipps, die dir helfen, deine Erfolge besser zu präsentieren.
+Ziel: Lerne, wie du deine Erfolge und Ergebnisse erfolgreich «verkaufst».
+Alt-Intro: Die Fähigkeit, deine Erfolge und Ergebnisse überzeugend zu präsentieren, ist entscheidend, um Anerkennung und Unterstützung zu gewinnen. Es geht darum, deine Leistungen positiv darzustellen und dein Publikum von deren Wert zu überzeugen. Indem du lernst, deine Ergebnisse klar und überzeugend zu komm
+Alte Links:
+  OK                                              | Tipps zum besseren Verkaufen von Ideen | https://my-life.lu/de/drei-tipps-dazu-wie-sie-ihre-ideen-besser-verkaufen-24021/
+  OK                                              | Erfolge überzeugend präsentieren | https://www.starting-up.de/marketing/verkaufen/20-tipps-fuer-besseres-verkaufen.html
+  Suche «Ergebnisse präsentieren Tipps»:
+    Vf-F7Q6yP-0 |   13:41 | vor 4 Jahren    | Nicistemmler                 | 193.270 Aufrufe  | Mit diesen 3 Psychologischen Tricks überzeugst du in Präsentationen!
+    mqn6yMYIi1Y |    8:15 | vor 5 Jahren    | Stefanie Voss                | 88.544 Aufrufe   | Die perfekte Rede: So solltest Du Deine Präsentation beginnen | Stefanie Voss
+    IVVrG8Rrq7c |    5:27 | vor 8 Jahren    | musstewissen Deutsch         | 435.421 Aufrufe  | 5 Tipps gegen Lampenfieber! I musstewissen Deutsch
+    SLXXVpzPB5k |    5:22 | vor 1 Jahr      | Studyflix                    | 4.889 Aufrufe    | So hältst du überzeugende Präsentationen! Tpps & Tricks
+    qRLQDCyPqYQ |   12:55 | vor 7 Jahren    | Lehrerschmidt                | 379.060 Aufrufe  | 10 Tipps - für ein richtig gutes Referat! | Lehrerschmidt
+    DNJXji61g1c |   11:03 | vor 5 Jahren    | Slide Campus - Präsentatione | 109.760 Aufrufe  | 3 PROFI TIPPS - SO erstellst du emotionale Folien, die BEGEISTERN!
+    2XYJobyvoSU |    8:02 | vor 3 Jahren    | Lara Emily                   | 44.412 Aufrufe   | SO bekommst du immer eine 1+ in PRÄSENTATIONEN 🤫
+    cHZFcHaH1JU |    6:46 | vor 9 Jahren    | Die Merkhilfe                | 559.977 Aufrufe  | Präsentieren & Referate - Tipps & Tricks für Vorträge & Präsentationen in Schule, Ausbildu
+    1Lg87zhA7kU |    6:40 | vor 9 Jahren    | TheJoCraft Media             | 210.573 Aufrufe  | 📜 Mit diesen 7 TIPPS wird deine PRÄSENTATION PERFEKT 📜 Was musst du beachten!
+    qes7OrZx3ms |    6:16 | vor 8 Jahren    | musstewissen Deutsch         | 30.695 Aufrufe   | 5 schnelle Tipps wie du ein gutes Referat hältst mit Simon Will
+  Suche «Pitch Tipps»:
+    l0hVIH3EnlQ |    4:47 | vor 3 Jahren    | TED                          | 888.281 Aufrufe  | The Secret to Successfully Pitching an Idea | The Way We Work, a TED series
+    nNvVgr8JBPo |   13:06 | vor 3 Jahren    | BIRDIETRAIN                  | 201.548 Aufrufe  | Chip vs Pitch | Die Technik und wann man welchen Schlag nutzt
+    jdGqkU27woQ |    4:44 | vor 7 Jahren    | STARTUP TEENS                | 62.983 Aufrufe   | So pitchst du eine Idee
+    uVY9rga-z5o |    1:12 | vor 14 Jahren   | Michael Geerdts              | 117.752 Aufrufe  | Elevator Pitch Beispiel: Der kürzeste Pitch aller Zeiten? - Michael Geerdts
+    2uXiPwXNMWw |    4:08 | vor 7 Jahren    | Fabian Bünker Golfakademie   | 117.668 Aufrufe  | PITCHEN - DIE PERFEKTE TECHNIK
+    YHDYcMbowDU |    4:41 | vor 4 Jahren    | de:hub Initiative            | 4.586 Aufrufe    | de:hub Academy - Der perfekte Pitch: Aufbau, Storytelling und Präsentation | Digital Hub I
+    YbBVVKSlSAY |    8:06 | vor 5 Jahren    | shribe! - master your studie | 73.007 Aufrufe   | Elevator Pitch für eine fulminante Selbstpräsentation (5 Schritte + Beispiel) 🙆
+    _n2bQa-WHT0 |   11:52 | vor 4 Jahren    | Felix Thönnessen             | 17.980 Aufrufe   | Elevator Pitch: 7 Tipps aus 4 Jahren Höhle der Löwen Coaching
+    3joY0vMQTvc |   10:47 | vor 1 Jahr      | Timo Sven Bauer              | 86.385 Aufrufe   | Door2Door Akquise: Der perfekte Opener & Pitch
+    P2LwuF7zn9c |    2:32 | vor 11 Jahren   | Dominic Colenso              | 1.102.331 Aufrufe | SO BEGINNEN SIE EINEN PITCH ODER EINE PRÄSENTATION
+  Suche «Präsentation halten Tipps»:
+    IVVrG8Rrq7c |    5:27 | vor 8 Jahren    | musstewissen Deutsch         | 435.421 Aufrufe  | 5 Tipps gegen Lampenfieber! I musstewissen Deutsch
+    Vf-F7Q6yP-0 |   13:41 | vor 4 Jahren    | Nicistemmler                 | 193.270 Aufrufe  | Mit diesen 3 Psychologischen Tricks überzeugst du in Präsentationen!
+    qWD9JEn9vKw |    3:13 | vor 1 Jahr      | Sebastian                    | 1.126 Aufrufe    | Nervös bei Präsentationen? 4 Tipps, mit denen du besser wirst!
+    OL-VfA4gwR0 |   13:33 | vor 3 Jahren    | shribe! - master your studie | 19.034 Aufrufe   | Die Angst vor Präsentationen überwinden (7 Sofort-Gegenmittel) 🗣️🎤
+    vDwiKMsoEP4 |    7:04 | vor 5 Jahren    | RedeFabrik - Kommunikation & | 23.286 Aufrufe   | Rhetorik: 5 Tricks für überzeugende Präsentationen
+    mqn6yMYIi1Y |    8:15 | vor 5 Jahren    | Stefanie Voss                | 88.548 Aufrufe   | Die perfekte Rede: So solltest Du Deine Präsentation beginnen | Stefanie Voss
+    0OKmbwmaivc |    5:48 | vor 6 Jahren    | Yvonne de Bark               | 20.684 Aufrufe   | Selbstbewusst auftreten - 7 Tipps für mehr Selbstsicherheit beim präsentieren oder Rede ha
+    SLXXVpzPB5k |    5:22 | vor 1 Jahr      | Studyflix                    | 4.889 Aufrufe    | So hältst du überzeugende Präsentationen! Tpps & Tricks
+    ZDNA4pu8JP4 |    7:54 | vor 5 Jahren    | Richtig Deutsch sprechen     | 119.281 Aufrufe  | Professionelle PRÄSENTATION halten - So geht es! Deutsch Wortschatz für Fortgeschrittene -
+    MgRma_pLtkY |    9:22 | vor 6 Jahren    | Nik Pichler                  | 90.721 Aufrufe   | PRÄSENTATIONSANGST ÜBERWINDEN - Nie wieder Angst vor einer Präsentation

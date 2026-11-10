@@ -13,6 +13,13 @@
   "titel": "Notizen machen – Seite 2 – Study Things",
   "weiterleitung": ""
  },
+ "https://blog.xeit.ch/die-3-besten-rechtschreib-tools-so-klappts-mit-dem-texten/": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Die 3 besten Rechtschreib-Tools – so klappt’s mit dem Texten | xeit Blog",
+  "weiterleitung": ""
+ },
  "https://blogs.uni-bremen.de/wissenswert/files/Studierpersoenlichkeit_EisenhowerMatrix.pdf": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -26,6 +33,13 @@
   "status": "HTTP 200",
   "titel": "Migros",
   "weiterleitung": "https://www.migros.ch/de/content/famigros-ratgeber-und-inspiration"
+ },
+ "https://futurx-luzern.github.io/kompetenzkarten/arbeitsplatz-optimieren.html": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Arbeitsplatz optimieren",
+  "weiterleitung": ""
  },
  "https://futurx-luzern.github.io/kompetenzkarten/entspannungsuebungen-vor-pruefungen.html": {
   "geprueft": "2026-11-10",
@@ -223,6 +237,27 @@
   "titel": "Prokrastination: So könnt ihr eure Aufschieberitis überwinden | Psychologie | Verstehen | ARD alpha",
   "weiterleitung": ""
  },
+ "https://www.bacs.admin.ch/de/26w16-de": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Woche 16: Ein Passwort für viele Konten – dies birgt hohe Risiken",
+  "weiterleitung": ""
+ },
+ "https://www.bacs.admin.ch/de/ks23-1-de": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "S-U-P-E-R.ch - So erstellen Sie sichere Passwörter",
+  "weiterleitung": ""
+ },
+ "https://www.bfs.admin.ch/bfs/de/home/statistiken.html": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Themen entdecken | Portal Statistik Schweiz",
+  "weiterleitung": "https://statistik.admin.ch/de/themen"
+ },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/selbstvertrauen_aufpeppen/gnomio_entwaffnen/uebungen_fuer_mehr_selbstwert.cfm": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -340,12 +375,28 @@
   "titel": "Warum Pausen zwischendurch so wichtig sind - Quarks",
   "weiterleitung": ""
  },
+ "https://www.saferinternet.at/faq/informationskompetenz/wie-suche-ich-im-internet-richtig": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Wie sucht man im Internet richtig? - Saferinternet.at",
+  "weiterleitung": "https://www.saferinternet.at/wie-sucht-man-im-internet-richtig"
+ },
  "https://www.scribbr.ch/studium-ch/zusammenfassung-schreiben/": {
   "geprueft": "2026-11-10",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Zusammenfassung schreiben - erklärt anhand eines Beispiels",
   "weiterleitung": ""
+ },
+ "https://www.srf.ch/play/tv/puls/video/ordnung-halten---puls-raeumt-auf?urn=urn:srf:video:e50b7a80-04ba-46d4-bd27-c9783efcd051": {
+  "datum": "2022-10-17",
+  "geprueft": "2026-11-10",
+  "kanal": "SRF Puls",
+  "ok": true,
+  "sekunden": 2003,
+  "status": "OK",
+  "titel": "Ordnung halten – «Puls» räumt auf"
  },
  "https://www.srf.ch/play/tv/we-myself--why/video/nein-sagen-so-klappt-es?urn=urn:srf:video:ee8d2591-400e-4c49-b39f-cf844fb3e0b5": {
   "datum": "2022-06-22",
@@ -355,6 +406,13 @@
   "sekunden": 255,
   "status": "OK",
   "titel": "Nein sagen: So klappt es"
+ },
+ "https://www.srf.ch/radio-srf-3/rechtschreibung-diese-digitalen-helfer-machen-ihre-texte-fehlerfrei": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Rechtschreibung - Diese digitalen Helfer machen Ihre Texte fehlerfrei - Radio SRF 3 - SRF",
+  "weiterleitung": ""
  },
  "https://www.tk.de/techniker/magazin/life-balance/balance-im-job/arbeit-pausen-foerdern-leistung-2007200": {
   "geprueft": "2026-11-09",
@@ -369,6 +427,15 @@
   "status": "HTTP 200",
   "titel": "Zeitdiebe - Erkennen und Beseitigen",
   "weiterleitung": ""
+ },
+ "https://www.youtube.com/watch?v=-ttJuqi8Rho": {
+  "datum": "2025-04-07",
+  "geprueft": "2026-11-10",
+  "kanal": "Digitalzentrum Berlin",
+  "ok": true,
+  "sekunden": 321,
+  "status": "OK",
+  "titel": "Lügt ChatGPT? 4 Wege, um KI-Fehler zu vermeiden & Tools für genauere Ergebnisse | Kurz erklärt"
  },
  "https://www.youtube.com/watch?v=-vwiEs8QE2g": {
   "datum": "2021-03-25",
@@ -424,6 +491,15 @@
   "status": "OK",
   "titel": "Schnell auswendig lernen mit dem \"Spacing Effect\" 💾"
  },
+ "https://www.youtube.com/watch?v=3VbIEE_WdW0": {
+  "datum": "2023-03-07",
+  "geprueft": "2026-11-10",
+  "kanal": "Bundesamt für Sicherheit in der Informationstechnik",
+  "ok": true,
+  "sekunden": 163,
+  "status": "OK",
+  "titel": "Passwörter verwalten mit dem Passwort-Manager | BSI"
+ },
  "https://www.youtube.com/watch?v=3WQod9iu7uY": {
   "datum": "2023-05-21",
   "geprueft": "2026-11-09",
@@ -432,6 +508,15 @@
   "sekunden": 1314,
   "status": "OK",
   "titel": "Ab 8 Sekunden ist Schluss: Können wir uns nicht mehr konzentrieren? | Quarks"
+ },
+ "https://www.youtube.com/watch?v=3gm71ABbXVo": {
+  "datum": "2025-01-03",
+  "geprueft": "2026-11-10",
+  "kanal": "c't 3003",
+  "ok": true,
+  "sekunden": 616,
+  "status": "OK",
+  "titel": "Passkeys endlich verstanden | Nie mehr Passwörter"
  },
  "https://www.youtube.com/watch?v=4Q-fwlxyk14": {
   "datum": "2022-03-06",
@@ -487,6 +572,15 @@
   "status": "OK",
   "titel": "Stress - Was passiert im Körper?"
  },
+ "https://www.youtube.com/watch?v=7n31HKucjwA": {
+  "datum": "2026-09-07",
+  "geprueft": "2026-11-10",
+  "kanal": "Universitätsbibliothek Bern",
+  "ok": true,
+  "sekunden": 873,
+  "status": "OK",
+  "titel": "Swisscovery für Einsteiger*innen - Recherchieren - Ausleihen - Downloaden"
+ },
  "https://www.youtube.com/watch?v=8ODlGme5Qmo": {
   "datum": "2022-01-19",
   "geprueft": "2026-11-09",
@@ -504,6 +598,24 @@
   "sekunden": 286,
   "status": "OK",
   "titel": "Sachtexte zusammenfassen I musstewissen Deutsch"
+ },
+ "https://www.youtube.com/watch?v=9MOYAXTwcGU": {
+  "datum": "2021-01-05",
+  "geprueft": "2026-11-10",
+  "kanal": "Stadtbücherei Ibbenbüren",
+  "ok": true,
+  "sekunden": 228,
+  "status": "OK",
+  "titel": "Facharbeiten Tutorial: Google Scholar Erklärfilm"
+ },
+ "https://www.youtube.com/watch?v=AOLALcMlsis": {
+  "datum": "2024-12-08",
+  "geprueft": "2026-11-10",
+  "kanal": "Lektor Vogt",
+  "ok": true,
+  "sekunden": 1073,
+  "status": "OK",
+  "titel": "Duden Mentor | Test und Ersteindruck der Korrekturhilfe \"Duden Mentor\" aus dem Hause Duden"
  },
  "https://www.youtube.com/watch?v=AV6ANVSDD4c": {
   "datum": "2021-09-01",
@@ -594,6 +706,15 @@
   "sekunden": 217,
   "status": "OK",
   "titel": "Ein Trick um sich (fast) alles besser zu merken"
+ },
+ "https://www.youtube.com/watch?v=G0OVU6adw5w": {
+  "datum": "2026-05-01",
+  "geprueft": "2026-11-10",
+  "kanal": "PUR+",
+  "ok": true,
+  "sekunden": 1434,
+  "status": "OK",
+  "titel": "KI in der Schule: Ersetzen ChatGPT & Co. bald Lehrerinnen und Lehrer? | PUR+"
  },
  "https://www.youtube.com/watch?v=GznqYrd_xcU": {
   "datum": "2022-04-22",
@@ -865,6 +986,15 @@
   "status": "OK",
   "titel": "Prokrastination: Warum wir Aufgaben aufschieben | Reden hilft | ARD GESUND"
  },
+ "https://www.youtube.com/watch?v=SLXXVpzPB5k": {
+  "datum": "2025-10-22",
+  "geprueft": "2026-11-10",
+  "kanal": "Studyflix",
+  "ok": true,
+  "sekunden": 322,
+  "status": "OK",
+  "titel": "So hältst du überzeugende Präsentationen! Tpps & Tricks"
+ },
  "https://www.youtube.com/watch?v=SPvZnaEkjtg": {
   "datum": "2023-10-26",
   "geprueft": "2026-11-09",
@@ -883,6 +1013,15 @@
   "status": "OK",
   "titel": "Das Eisenhower-Prinzip | Richtig priorisieren lernen | #gesundesmiteinander | DAK-Gesundheit"
  },
+ "https://www.youtube.com/watch?v=TsD6x9r24QM": {
+  "datum": "2026-04-07",
+  "geprueft": "2026-11-10",
+  "kanal": "planet schule",
+  "ok": true,
+  "sekunden": 458,
+  "status": "OK",
+  "titel": "Deutsch Basics:  Recherche mit Suchoperatoren und KI-Tools | kolleg24 | planet schule | ARD"
+ },
  "https://www.youtube.com/watch?v=VqEHyQChTok": {
   "datum": "2022-12-20",
   "geprueft": "2026-11-09",
@@ -900,6 +1039,15 @@
   "sekunden": 277,
   "status": "OK",
   "titel": "Wie uns Social Media abhängig macht | Quarks"
+ },
+ "https://www.youtube.com/watch?v=WogQ6Ns3Sao": {
+  "datum": "2023-02-14",
+  "geprueft": "2026-11-10",
+  "kanal": "Bundesamt für Sicherheit in der Informationstechnik",
+  "ok": true,
+  "sekunden": 148,
+  "status": "OK",
+  "titel": "In wenigen Schritten zum sicheren Passwort | BSI"
  },
  "https://www.youtube.com/watch?v=X1RNHpUKsRk": {
   "datum": "2022-05-16",
@@ -936,6 +1084,15 @@
   "sekunden": 211,
   "status": "OK",
   "titel": "SQ3R Methode - die beste Lesetechnik für deine wissenschaftliche Arbeit"
+ },
+ "https://www.youtube.com/watch?v=YbBVVKSlSAY": {
+  "datum": "2021-07-06",
+  "geprueft": "2026-11-10",
+  "kanal": "shribe! - master your studies",
+  "ok": true,
+  "sekunden": 486,
+  "status": "OK",
+  "titel": "Elevator Pitch für eine fulminante Selbstpräsentation (5 Schritte + Beispiel) 🙆"
  },
  "https://www.youtube.com/watch?v=YkqK8KFktXs": {
   "datum": "2020-01-17",
@@ -990,6 +1147,15 @@
   "sekunden": 527,
   "status": "OK",
   "titel": "Krankhaftes Aufschieben | Die Ratgeber"
+ },
+ "https://www.youtube.com/watch?v=btWNmjQlDXs": {
+  "datum": "2023-04-05",
+  "geprueft": "2026-11-10",
+  "kanal": "zhbluzern",
+  "ok": true,
+  "sekunden": 329,
+  "status": "OK",
+  "titel": "Wie suche ich in swisscovery RZS?"
  },
  "https://www.youtube.com/watch?v=cJrKwI7McK4": {
   "datum": "2021-07-11",
@@ -1117,6 +1283,15 @@
   "status": "OK",
   "titel": "Lesetechniken: schneller lesen lernen | einfache Deutsch-Tipps"
  },
+ "https://www.youtube.com/watch?v=jdGqkU27woQ": {
+  "datum": "2019-02-13",
+  "geprueft": "2026-11-10",
+  "kanal": "STARTUP TEENS",
+  "ok": true,
+  "sekunden": 284,
+  "status": "OK",
+  "titel": "So pitchst du eine Idee"
+ },
  "https://www.youtube.com/watch?v=joiuVl9pqUY": {
   "datum": "2021-04-20",
   "geprueft": "2026-11-10",
@@ -1216,6 +1391,15 @@
   "status": "OK",
   "titel": "Mindmaps - Zusammenhänge besser behalten"
  },
+ "https://www.youtube.com/watch?v=mYOk76DHv8c": {
+  "datum": "2021-08-25",
+  "geprueft": "2026-11-10",
+  "kanal": "Simon",
+  "ok": true,
+  "sekunden": 474,
+  "status": "OK",
+  "titel": "LanguageTool (Tutorial) Einfach kostenlos Texte auf Rechtschreibung & Grammatik überprüfen"
+ },
  "https://www.youtube.com/watch?v=mZJYNis3yIk": {
   "datum": "2021-08-03",
   "geprueft": "2026-11-10",
@@ -1243,6 +1427,15 @@
   "status": "OK",
   "titel": "Interleaving - Gemischtes Üben - Smarter lernen 🎓 Lernen lernen – Die Erfolgsserie für bessere Noten"
  },
+ "https://www.youtube.com/watch?v=oBfZuyy-zQY": {
+  "datum": "2022-06-18",
+  "geprueft": "2026-11-10",
+  "kanal": "DW Deutsch",
+  "ok": true,
+  "sekunden": 251,
+  "status": "OK",
+  "titel": "Video Faktencheck: Wie erkenne ich Fake News?"
+ },
  "https://www.youtube.com/watch?v=oKjYVjl_G60": {
   "datum": "2025-09-28",
   "geprueft": "2026-11-09",
@@ -1269,6 +1462,24 @@
   "sekunden": 814,
   "status": "OK",
   "titel": "ABC Analyse: Schrittweise am einfachen Beispiel erklärt"
+ },
+ "https://www.youtube.com/watch?v=qRLQDCyPqYQ": {
+  "datum": "2019-09-05",
+  "geprueft": "2026-11-10",
+  "kanal": "Lehrerschmidt",
+  "ok": true,
+  "sekunden": 774,
+  "status": "OK",
+  "titel": "10 Tipps - für ein richtig gutes Referat! | Lehrerschmidt"
+ },
+ "https://www.youtube.com/watch?v=qlZ6CzKNafI": {
+  "datum": "2026-01-14",
+  "geprueft": "2026-11-10",
+  "kanal": "DW Deutsch",
+  "ok": true,
+  "sekunden": 751,
+  "status": "OK",
+  "titel": "Besser lernen oder weniger denken? Wie KI Schule und Unterricht verändert | DW Shift"
  },
  "https://www.youtube.com/watch?v=rpOnDFYUQiw": {
   "datum": "2023-05-05",
@@ -1323,6 +1534,15 @@
   "sekunden": 417,
   "status": "OK",
   "titel": "Markieren und lesen ist SINNLOS! So lernst du wirklich mit Erfolg schwierige Texte im Studium!"
+ },
+ "https://www.youtube.com/watch?v=tDcTYQ2HIvE": {
+  "datum": "2026-10-28",
+  "geprueft": "2026-11-10",
+  "kanal": "SRF Kids",
+  "ok": true,
+  "sekunden": 246,
+  "status": "OK",
+  "titel": "SRF Media school: Wie machst du einen Vortrag? | Recherchieren (1) | Kindervideos | SRF Kids"
  },
  "https://www.youtube.com/watch?v=tq8CvN5h4Qo": {
   "datum": "2025-01-28",
@@ -1405,6 +1625,24 @@
   "status": "OK",
   "titel": "Eule oder Lerche? So wirkt dein Chronotyp auf Sport, Stoffwechsel und Schlaf | ARD GESUND"
  },
+ "https://www.youtube.com/watch?v=xCBS7uOqX-A": {
+  "datum": "2020-12-01",
+  "geprueft": "2026-11-10",
+  "kanal": "SLSP",
+  "ok": true,
+  "sekunden": 101,
+  "status": "OK",
+  "titel": "swisscovery: die neue Bibliotheksplattform der Schweiz"
+ },
+ "https://www.youtube.com/watch?v=xCCni1Sxe80": {
+  "datum": "2020-07-06",
+  "geprueft": "2026-11-10",
+  "kanal": "Bundesamt für Sicherheit in der Informationstechnik",
+  "ok": true,
+  "sekunden": 107,
+  "status": "OK",
+  "titel": "So funktioniert die Zwei-Faktor-Authentisierung | BSI"
+ },
  "https://www.youtube.com/watch?v=xSm5XFbIUCc": {
   "datum": "2026-05-26",
   "geprueft": "2026-11-09",
@@ -1422,6 +1660,24 @@
   "sekunden": 264,
   "status": "OK",
   "titel": "So wirst du produktiver: Schluss mit Müllzeit"
+ },
+ "https://www.youtube.com/watch?v=y7WFHBdMMQc": {
+  "datum": "2019-11-18",
+  "geprueft": "2026-11-10",
+  "kanal": "DER SPIEGEL",
+  "ok": true,
+  "sekunden": 186,
+  "status": "OK",
+  "titel": "Richtig recherchieren | SPIEGEL Ed"
+ },
+ "https://www.youtube.com/watch?v=y8OZCecRDsM": {
+  "datum": "2025-07-08",
+  "geprueft": "2026-11-10",
+  "kanal": "tagesschau",
+  "ok": true,
+  "sekunden": 193,
+  "status": "OK",
+  "titel": "Wie künstliche Intelligenz in der Schule genutzt wird"
  },
  "https://www.youtube.com/watch?v=yDUbNZPO0RI": {
   "datum": "2023-05-04",
@@ -1459,6 +1715,15 @@
   "status": "OK",
   "titel": "Lerntipps für's Abi - Strukturiere deinen Lernstoff 🖊️"
  },
+ "https://www.youtube.com/watch?v=yufb5CLmt0k": {
+  "datum": "2023-04-15",
+  "geprueft": "2026-11-10",
+  "kanal": "Lernwas",
+  "ok": true,
+  "sekunden": 511,
+  "status": "OK",
+  "titel": "Ordnung auf dem PC: Sinnvolle digitale Ordnerstruktur"
+ },
  "https://www.youtube.com/watch?v=zolCxH4Wf9E": {
   "datum": "2020-09-07",
   "geprueft": "2026-11-10",
@@ -1467,5 +1732,12 @@
   "sekunden": 335,
   "status": "OK",
   "titel": "Erste Hilfe bei Prüfungsangst und Blackout"
+ },
+ "https://www.zhaw.ch/storage/psychologie/forschung/JAMES/JAMESfocus_KI_DE.pdf": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
  }
 }
