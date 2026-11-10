@@ -1,0 +1,135 @@
+{
+ "titel": "Ernährung und Konzentration",
+ "kategorie": "Konzentration",
+ "aufgabe": "Recherchiere, wie deine Ernährung die Konzentration beeinflusst. Erstelle eine kurze Zusammenfassung darüber, welche Lebensmittel die Konzentration fördern oder ein kleines Plakat mit Ernährungstipps.",
+ "ziel": "Verstehe, wie deine Ernährung deine geistige Leistungsfähigkeit beeinflusst.",
+ "text": [
+  "Was du isst und trinkst, beeinflusst, wie wach und konzentriert du bist. Nach einem Energydrink und einem Schoggiriegel bist du kurz voller Energie, eine Stunde später aber oft müde.",
+  "Hier erfährst du, was dein Gehirn braucht, was du von «Brainfood» halten kannst und wie ein gutes Znüni aussieht."
+ ],
+ "methode_titel": "Was dein Gehirn braucht",
+ "uebung": {
+  "frage": "Hilft das deiner Konzentration oder eher nicht?",
+  "optionen": [
+   "Hilft",
+   "Eher nicht"
+  ],
+  "hinweis": "Denk an Trinken, regelmässige Mahlzeiten und an «langsame» Energie.",
+  "aufgaben": [
+   {
+    "text": "Eine Flasche Wasser steht beim Lernen neben dir.",
+    "richtig": "Hilft",
+    "warum": "Schon wenig Flüssigkeitsmangel macht müde."
+   },
+   {
+    "text": "Vor der Prüfung ein Energydrink statt Frühstück.",
+    "richtig": "Eher nicht",
+    "warum": "Viel Zucker und Koffein, danach folgt oft ein Tief. Die Wirkung auf die Konzentration ist nicht belegt."
+   },
+   {
+    "text": "Ein Vollkornbrot mit Käse und ein Apfel als Znüni.",
+    "richtig": "Hilft",
+    "warum": "Gibt über längere Zeit gleichmässig Energie."
+   },
+   {
+    "text": "Bis zum Mittag gar nichts essen und trinken.",
+    "richtig": "Eher nicht",
+    "warum": "Am Vormittag fehlt dann die Energie, viele haben gegen 10 Uhr ein Tief."
+   },
+   {
+    "text": "Eine Handvoll Nüsse beim Lernen.",
+    "richtig": "Hilft",
+    "warum": "Ein guter Snack, der lange satt macht."
+   },
+   {
+    "text": "Eine grosse Tüte Gummibärchen beim Lernen.",
+    "richtig": "Eher nicht",
+    "warum": "Der Blutzucker steigt schnell und fällt dann wieder."
+   }
+  ]
+ },
+ "fragen": [
+  "Was isst und trinkst du an einem normalen Schultag oder Arbeitstag?",
+  "Hast du schon gemerkt, dass Essen oder Trinken deine Konzentration beeinflusst?",
+  "Was möchtest du in der nächsten Woche ausprobieren?"
+ ],
+ "suche": [
+  "Brainfood Wahrheit",
+  "Znüni gesund Ideen",
+  "Trinken Konzentration"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=WcF8zl8EECU",
+   "titel": "Frühstück fürs Gehirn",
+   "dauer": "2 Min.",
+   "quelle": "Universität Wien, 2025",
+   "notiz": "Warum der Start in den Tag zählt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=GENYa1SZ7Uc",
+   "titel": "Brainfood: Essen für Konzentration und Lernen",
+   "dauer": "2,5 Min.",
+   "quelle": "AK Young (Arbeiterkammer Niederösterreich), 2026",
+   "notiz": "Für Lernende gemacht"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.sge-ssn.ch/media/4jclkanp/znueniblatt_deutsch.pdf",
+   "titel": "Tipps für ein ausgewogenes Znüni",
+   "dauer": "2 Seiten",
+   "quelle": "Schweizerische Gesellschaft für Ernährung"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.sge-ssn.ch/media/fnsetflr/sge_mb_jugendliche_de.pdf",
+   "titel": "Ernährung für Jugendliche",
+   "dauer": "Merkblatt",
+   "quelle": "Schweizerische Gesellschaft für Ernährung",
+   "notiz": "Auch zu Getränken und Energydrinks"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.helsana.ch/de/blog/ernaehrung/heilende-ernaehrung/brainfood.html",
+   "titel": "Brainfood: Essen fürs Gehirn",
+   "dauer": "5 Min.",
+   "quelle": "Helsana (Schweiz)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Lq4F8aSX0RY",
+   "titel": "Macht Zucker dumm?",
+   "dauer": "27 Min.",
+   "quelle": "ARTE, 42, 2024",
+   "notiz": "Was Zucker mit dem Gehirn macht"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=LN-GLLZ3Dw4",
+   "titel": "Brainfood: Wie Ernährung unser Gehirn beeinflusst",
+   "dauer": "37,5 Min.",
+   "quelle": "SRF Einstein, 2023",
+   "notiz": "Ausführliche Sendung mit Schweizer Forschenden"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.mental-aktiv.de/gedaechtnis-und-konzentration-steigern-nahrung-fuer-das-gehirn/",
+   "grund": "Seite verkauft Gedächtnistraining"
+  },
+  {
+   "url": "https://www.ndr.de/ratgeber/gesundheit/Brainfood-Lebensmittel-und-Rezepte-fuer-das-Gehirn,brainfood100.html",
+   "grund": "Rezeptseite für Erwachsene, ersetzt durch Schweizer Fachstelle"
+  }
+ ]
+}

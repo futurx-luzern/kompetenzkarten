@@ -1,0 +1,82 @@
+{
+ "titel": "Arbeitsplatz optimieren",
+ "kategorie": "Konzentration",
+ "aufgabe": "Finde heraus, wie du deinen Arbeitsplatz so einrichten kannst, dass er deine Konzentration fördert (z.B. Licht, Ordnung, Sitzposition). Erstelle eine kurze PowerPoint- Präsentation oder eine schriftliche Zusammenfassung.",
+ "ziel": "Verstehe, wie ein gut organisierter Arbeitsplatz deine Produktivität unterstützt.",
+ "text": [
+  "Wo und wie du arbeitest, hat grossen Einfluss darauf, wie gut du dich konzentrieren kannst. Ein unordentlicher Tisch, schlechtes Licht, ein unbequemer Stuhl oder ein Handy, das ständig vibriert: All das kostet Aufmerksamkeit.",
+  "Die gute Nachricht: Mit wenig Aufwand kannst du deinen Lernplatz zu Hause oder im Betrieb so einrichten, dass er dich unterstützt."
+ ],
+ "methode_titel": "Ein guter Arbeitsplatz in vier Punkten",
+ "fragen": [
+  "Wie sieht dein Lernplatz zu Hause im Moment aus? Was stört dich dort?",
+  "Was davon kannst du schon heute ändern?",
+  "Wo lernst du am besten, und warum?"
+ ],
+ "suche": [
+  "Lernplatz einrichten",
+  "Bildschirmarbeitsplatz Ergonomie",
+  "Ablenkung beim Lernen vermeiden"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=XC21RJWKzIo",
+   "titel": "Gute Lernumgebung: Schreibtisch einrichten",
+   "dauer": "4 Min.",
+   "quelle": "simpleclub",
+   "notiz": "Ordnung, Licht, Handy und Musik beim Lernen"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/tipps_beim_arbeiten/besser-werden.cfm",
+   "titel": "Wie kann ich in der Schule besser werden?",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Tipps von Jugendlichen, auch zum Arbeitsplatz"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=lZHAXBKssA0",
+   "titel": "Bildschirmarbeitsplatz richtig einrichten",
+   "dauer": "6,5 Min.",
+   "quelle": "Arbeiterkammer Österreich, 2023",
+   "notiz": "Sitzen, Bildschirmhöhe, Laptop"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=OKQiJURRgA8",
+   "titel": "Was bedeutet eigentlich Ergonomie?",
+   "dauer": "3,5 Min.",
+   "quelle": "BGW (Berufsgenossenschaft)",
+   "notiz": "Kurz erklärt, mit Beispielen aus dem Berufsalltag"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://www.suva.ch/download/dokument/bildschirmarbeit--informationen-zur-ergonomie---publikation--44034.d?sc_lang=de-CH",
+   "titel": "Ergonomie am Bildschirmarbeitsplatz",
+   "dauer": "Broschüre",
+   "quelle": "Suva",
+   "notiz": "Die Schweizer Fachstelle erklärt alle Einstellungen genau"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.schaefer-shop.ch/themenwelten/konzentrationsuebungen",
+   "grund": "Seite eines Büromöbel-Shops"
+  },
+  {
+   "url": "https://greifwerk.com/ablenkungen-am-arbeitsplatz-vermeiden/",
+   "grund": "Firmenblog, für Büros von Erwachsenen"
+  },
+  {
+   "url": "https://zeeg.me/de/blog/content/produktivitatskiller-im-buro-ablenkungen-erkennen-und-besiegen",
+   "grund": "Werbeblog einer Software-Firma"
+  }
+ ]
+}

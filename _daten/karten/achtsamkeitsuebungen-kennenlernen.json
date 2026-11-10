@@ -1,0 +1,90 @@
+{
+ "titel": "Achtsamkeitsübungen kennenlernen",
+ "kategorie": "Konzentration",
+ "aufgabe": "Informiere dich über einfache Achtsamkeitsübungen, die deine Konzentration fördern können (z.B. achtsames Atmen). Erstelle eine kurze Zusammenfassung der Übungen oder gestalte ein Plakat mit den wichtigsten Punkten.",
+ "ziel": "Erfahre, wie Achtsamkeitstechniken deinen Fokus verbessern.",
+ "text": [
+  "Achtsamkeit heisst, ganz bewusst im Hier und Jetzt zu sein. Statt mit den Gedanken bei der nächsten Prüfung oder beim Streit von gestern zu sein, nimmst du wahr, was gerade passiert: deinen Atem, Geräusche, deinen Körper.",
+  "Achtsamkeitsübungen trainieren deine Aufmerksamkeit wie ein Muskel. Sie können helfen, ruhiger zu werden, Stress abzubauen und dich besser zu konzentrieren. Die meisten dauern nur wenige Minuten."
+ ],
+ "methode_titel": "Achtsamkeit üben",
+ "fragen": [
+  "Welche Übung hast du ausprobiert? Wie war das für dich?",
+  "Wann sind deine Gedanken besonders unruhig?",
+  "Wann im Alltag könntest du eine kurze Übung einbauen?"
+ ],
+ "suche": [
+  "Achtsamkeitsübung kurz",
+  "Body Scan 5 Minuten",
+  "5-4-3-2-1 Methode"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=x_HHQE9IWMM",
+   "titel": "Achtsamkeit im Alltag: Tipps und Übungen",
+   "dauer": "3 Min.",
+   "quelle": "AOK, 2025",
+   "notiz": "Ein Arzt erklärt kurz, was Achtsamkeit ist"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=YFvAnfgHUSM",
+   "titel": "Geführter Body Scan (5 Minuten)",
+   "dauer": "5 Min.",
+   "quelle": "OpenUp",
+   "notiz": "Zum Mitmachen"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/schule/methoden/abenteuerinsel/lebenskompetenzen/stressbewaeltigung/aufgaben/i3-atempausen.cfm",
+   "titel": "Atempausen: Atemübungen zum Ausprobieren",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=r9psBo88Wj8",
+   "titel": "Die 5-4-3-2-1-Methode",
+   "dauer": "5,5 Min.",
+   "quelle": "Dr. Yvonne Radtke, Psychologin",
+   "notiz": "Eine Übung, die dich schnell ins Hier und Jetzt holt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=zIxJaB7E_5U",
+   "titel": "Achtsam den Alltag gestalten: Die MBSR-Methode",
+   "dauer": "4,5 Min.",
+   "quelle": "Hessischer Rundfunk, 2024",
+   "notiz": "Das bekannteste Achtsamkeitsprogramm"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=c259e3BmxiE",
+   "titel": "Achtsamkeit: Was ist das eigentlich?",
+   "dauer": "26 Min.",
+   "quelle": "3sat nano",
+   "notiz": "Woher Achtsamkeit kommt und was die Forschung dazu sagt"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.powerful-me.de/achtsamkeit/achtsamkeitsuebungen/",
+   "grund": "Coaching-Seite mit Verkaufsangeboten"
+  },
+  {
+   "url": "https://anti-stress-team.de/blog/achtsamkeit/die-30-besten-achtsamkeitsuebungen-fuer-den-alltag/",
+   "grund": "Firmenblog, sehr lang, für Erwachsene"
+  },
+  {
+   "url": "https://www.ndr.de/ratgeber/gesundheit/Achtsamkeit-Einfache-Uebungen-gegen-Stress,achtsamkeit114.html",
+   "grund": "Ersetzt durch Videos zum Mitmachen"
+  }
+ ]
+}

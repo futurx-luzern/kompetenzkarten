@@ -1,0 +1,79 @@
+{
+ "titel": "Balance-Übungen",
+ "kategorie": "Konzentration",
+ "aufgabe": "Recherchiere, wie Balance-Übungen (z.B. Balancieren von Gegenständen) die Konzentration fördern können. Erstelle eine kurze Zusammenfassung oder ein anschauliches Diagramm der Übungen und ihrer Vorteile.",
+ "ziel": "Erfahre, wie körperliche Balance- Übungen deine geistige Konzentration fördern können.",
+ "text": [
+  "Auf einem Bein stehen, über eine Linie balancieren, ein Buch auf dem Kopf tragen: Balance-Übungen sind kurz und brauchen kaum Platz.",
+  "Weil dein Gehirn beim Balancieren voll beschäftigt ist, sind sie eine gute Pause vom Sitzen und Denken. Sie bringen den Körper in Bewegung und helfen, danach wieder konzentriert weiterzuarbeiten."
+ ],
+ "methode_titel": "Balance-Übungen für zwischendurch",
+ "fragen": [
+  "Welche Übung war leicht, welche schwierig?",
+  "Wie hast du dich danach beim Weiterarbeiten gefühlt?",
+  "Wo und wann könntest du die Übungen machen, ohne dass es dir unangenehm ist?"
+ ],
+ "suche": [
+  "Gleichgewichtsübungen",
+  "Bewegung Gehirn Konzentration",
+  "Bewegungspause Schule"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=3SpyavZgZYo",
+   "titel": "Warum Sport uns schlau macht",
+   "dauer": "5,5 Min.",
+   "quelle": "Quarks",
+   "notiz": "Was Bewegung im Gehirn bewirkt"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/entspannung/uebungen/entspannungstipps.cfm",
+   "titel": "Entspannungstipps",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Kurze Übungen mit Bewegung und Atmung"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=fCu6yYXbCzU",
+   "titel": "Koordinations- und Gleichgewichtstraining: 6 Übungen",
+   "dauer": "8 Min.",
+   "quelle": "Ergotopia",
+   "notiz": "Zum Mitmachen",
+   "warnung": "Am Schluss Werbung für eine App"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Tm0f5iXMeso",
+   "titel": "Wundermittel Sport: Körper und Geist profitieren",
+   "dauer": "5 Min.",
+   "quelle": "Quarks",
+   "notiz": "Was Forschende über Bewegung herausgefunden haben"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=qSz97b7COk8",
+   "titel": "Neuroathletik: Was das Training fürs Gehirn bringt",
+   "dauer": "10,5 Min.",
+   "quelle": "ARD Gesund, 2025",
+   "notiz": "Gleichgewicht, Augen und Gehirn hängen eng zusammen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.betzold.ch/blog/konzentrationsuebungen/?srsltid=AfmBOood8Ltabo0_xUR4xuBwlo4yGy7fiDj5UeGeT9hN_ubWuOHs4j7H#1",
+   "grund": "Blog eines Schulmaterial-Shops, für Primarschulen"
+  },
+  {
+   "url": "https://www.aok.de/pk/magazin/sport/fit-im-alter/bleiben-sie-im-gleichgewicht-mit-gleichgewichtsuebungen/",
+   "grund": "Für ältere Menschen geschrieben"
+  }
+ ]
+}

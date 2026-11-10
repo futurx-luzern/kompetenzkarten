@@ -132,6 +132,13 @@
   "titel": "Prozessfux AG - Clever gemacht. - Wie Du mit der 10-Minuten-Regel die Prokrastination bekämpfst",
   "weiterleitung": ""
  },
+ "https://reginahelfenstein.ch/images/Tipps_PDF/kinesiologie-tipps/Liegende_Achten.pdf": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
+ },
  "https://selbstreguliertes-lernen.uzh.ch/dam/jcr:e6a04bde-11e5-4182-9f7e-67389a904a60/Sich%20motivieren.pdf": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -216,6 +223,13 @@
   "titel": "Forschung — WOOP my life",
   "weiterleitung": ""
  },
+ "https://www.147.ch/de/": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "147 | Wir sind für dich da",
+  "weiterleitung": ""
+ },
  "https://www.aerzteblatt.de/archiv/selbstmotivation-verbindung-von-wunsch-und-hindernis-7e553ca6-13bb-4665-8a98-3617c03321a2": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -229,6 +243,13 @@
   "status": "HTTP 200",
   "titel": "PQRST-Methode: in 5 Schritten effektiv lernen | AllesGelingt!",
   "weiterleitung": "https://www.allesgelingt.de/blog/p-q-r-s-t_lernmethode"
+ },
+ "https://www.aok.de/pk/magazin/koerper-psyche/gehirn-nerven/die-konzentration-steigern-durch-konzentrationsuebungen/": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Die Konzentration steigern durch Konzentrationsübungen",
+  "weiterleitung": ""
  },
  "https://www.ardalpha.de/wissen/psychologie/prokrastination-ueberwinden-definition-ursache-behandlung-aufschieberitis-prokrastinieren-100.html": {
   "geprueft": "2026-11-09",
@@ -258,6 +279,27 @@
   "titel": "Themen entdecken | Portal Statistik Schweiz",
   "weiterleitung": "https://statistik.admin.ch/de/themen"
  },
+ "https://www.bst.bkd.be.ch/de/start/themen/psyche-wohlbefinden/psychische-probleme/konzentrationsstoerungen.html": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Konzentrationsstörungen",
+  "weiterleitung": ""
+ },
+ "https://www.diefamilie.ch/N161345/10-praktische-ubungen-zur-forderung-der-konzentration.html": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Lernen sich zu konzentrieren - wie Sie Ihr Kind unterstützen können - dieFamilie.ch, regionale Webseite der Gruppe lafam",
+  "weiterleitung": ""
+ },
+ "https://www.erstenachhilfe.de/blog/kleine-konzentrationsuebungen-fuer-ein-besseres-lernen": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Kleine Konzentrationsübungen für ein besseres Lernen | ErsteNachhilfe.de",
+  "weiterleitung": ""
+ },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/selbstvertrauen_aufpeppen/gnomio_entwaffnen/uebungen_fuer_mehr_selbstwert.cfm": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -272,11 +314,25 @@
   "titel": "Fit für die Prüfung: Tipps zur Prüfungsvorbereitung",
   "weiterleitung": ""
  },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/tipps_beim_arbeiten/besser-werden.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Wie kann ich in der Schule besser werden? Tipps von Jugendlichen",
+  "weiterleitung": ""
+ },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/tipps_beim_arbeiten/tipps_gegen_schulstress.cfm": {
   "geprueft": "2026-11-10",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Tipps gegen Schulstress",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/entspannung/uebungen/entspannungstipps.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Entspannungstipps",
   "weiterleitung": ""
  },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/entspannung/uebungen/pruefungsstress.cfm": {
@@ -314,11 +370,25 @@
   "titel": "Prüfungsangst",
   "weiterleitung": ""
  },
+ "https://www.feel-ok.ch/de_CH/schule/methoden/abenteuerinsel/lebenskompetenzen/stressbewaeltigung/aufgaben/i3-atempausen.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Atempausen",
+  "weiterleitung": ""
+ },
  "https://www.handysektor.de/artikel/darum-solltest-du-im-internet-nicht-alles-preisgeben/": {
   "geprueft": "2026-11-09",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Darum solltest du im Internet nicht alles preisgeben! – Handysektor",
+  "weiterleitung": ""
+ },
+ "https://www.helsana.ch/de/blog/ernaehrung/heilende-ernaehrung/brainfood.html": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Brainfood: Lebensmittel für das Gehirn\t - Helsana",
   "weiterleitung": ""
  },
  "https://www.jobteaser.com/de/advices/abc-analyse-besseres-zeitmanagement-durch-priorisierung": {
@@ -389,6 +459,20 @@
   "titel": "Zusammenfassung schreiben - erklärt anhand eines Beispiels",
   "weiterleitung": ""
  },
+ "https://www.sge-ssn.ch/media/4jclkanp/znueniblatt_deutsch.pdf": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
+ },
+ "https://www.sge-ssn.ch/media/fnsetflr/sge_mb_jugendliche_de.pdf": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
+ },
  "https://www.srf.ch/play/tv/puls/video/ordnung-halten---puls-raeumt-auf?urn=urn:srf:video:e50b7a80-04ba-46d4-bd27-c9783efcd051": {
   "datum": "2022-10-17",
   "geprueft": "2026-11-10",
@@ -412,6 +496,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Rechtschreibung - Diese digitalen Helfer machen Ihre Texte fehlerfrei - Radio SRF 3 - SRF",
+  "weiterleitung": ""
+ },
+ "https://www.suva.ch/download/dokument/bildschirmarbeit--informationen-zur-ergonomie---publikation--44034.d?sc_lang=de-CH": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Bildschirmarbeit. Wichtige Informationen für Ihr Wohlbefinden (für Benützerinnen und Benützer)",
   "weiterleitung": ""
  },
  "https://www.tk.de/techniker/magazin/life-balance/balance-im-job/arbeit-pausen-foerdern-leistung-2007200": {
@@ -455,6 +546,15 @@
   "status": "OK",
   "titel": "Dopamin: So kriegst du es in den Griff | Studio Q"
  },
+ "https://www.youtube.com/watch?v=0YtdQvQbUGg": {
+  "datum": "2020-02-04",
+  "geprueft": "2026-11-10",
+  "kanal": "Ergotopia",
+  "ok": true,
+  "sekunden": 773,
+  "status": "OK",
+  "titel": "Augenübungen - 4 Übungen gegen müde Augen am Bildschirm"
+ },
  "https://www.youtube.com/watch?v=0emqvMQVauA": {
   "datum": "2021-01-02",
   "geprueft": "2026-11-09",
@@ -473,6 +573,15 @@
   "status": "OK",
   "titel": "Mentaltraining: Inneren Schweinehund überwinden | Der 5-Minuten-Deal"
  },
+ "https://www.youtube.com/watch?v=1gmTG0g7Mgw": {
+  "datum": "2014-02-03",
+  "geprueft": "2026-11-10",
+  "kanal": "BildungsTV",
+  "ok": true,
+  "sekunden": 52,
+  "status": "OK",
+  "titel": "Liegende Acht"
+ },
  "https://www.youtube.com/watch?v=2HWB3MrV8fc": {
   "datum": "2024-03-22",
   "geprueft": "2026-11-10",
@@ -490,6 +599,15 @@
   "sekunden": 482,
   "status": "OK",
   "titel": "Schnell auswendig lernen mit dem \"Spacing Effect\" 💾"
+ },
+ "https://www.youtube.com/watch?v=3SpyavZgZYo": {
+  "datum": "2020-05-14",
+  "geprueft": "2026-11-10",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 326,
+  "status": "OK",
+  "titel": "Warum Sport uns schlau macht und unser Gehirn fit hält | Quarks"
  },
  "https://www.youtube.com/watch?v=3VbIEE_WdW0": {
   "datum": "2023-03-07",
@@ -554,6 +672,15 @@
   "status": "OK",
   "titel": "Aufschieberitis: So erleichterst du dir den Start!"
  },
+ "https://www.youtube.com/watch?v=5O68sm6BBBs": {
+  "datum": "2026-05-21",
+  "geprueft": "2026-11-10",
+  "kanal": "SRF Wissen",
+  "ok": true,
+  "sekunden": 2202,
+  "status": "OK",
+  "titel": "Denken, Lernen, Träumen: Was unser Gehirn alles leistet | Einstein | SRF Wissen"
+ },
  "https://www.youtube.com/watch?v=5RHRXE6v54U": {
   "datum": "2014-02-26",
   "geprueft": "2026-11-10",
@@ -607,6 +734,15 @@
   "sekunden": 228,
   "status": "OK",
   "titel": "Facharbeiten Tutorial: Google Scholar Erklärfilm"
+ },
+ "https://www.youtube.com/watch?v=9tx5FcodvK0": {
+  "datum": "2020-08-28",
+  "geprueft": "2026-11-10",
+  "kanal": "David Guttmann",
+  "ok": true,
+  "sekunden": 475,
+  "status": "OK",
+  "titel": "Zeitmanagement-Methoden kennen und anwenden"
  },
  "https://www.youtube.com/watch?v=AOLALcMlsis": {
   "datum": "2024-12-08",
@@ -716,6 +852,24 @@
   "status": "OK",
   "titel": "KI in der Schule: Ersetzen ChatGPT & Co. bald Lehrerinnen und Lehrer? | PUR+"
  },
+ "https://www.youtube.com/watch?v=GDFfpMEvsqY": {
+  "datum": "2021-06-19",
+  "geprueft": "2026-11-10",
+  "kanal": "Günter Freund",
+  "ok": true,
+  "sekunden": 354,
+  "status": "OK",
+  "titel": "Die 2 Besten Konzentrationsübungen - Ohne App, Internet oder Hilfsmittel!"
+ },
+ "https://www.youtube.com/watch?v=GENYa1SZ7Uc": {
+  "datum": "2026-06-20",
+  "geprueft": "2026-11-10",
+  "kanal": "AK YOUNG NÖ",
+  "ok": true,
+  "sekunden": 160,
+  "status": "OK",
+  "titel": "Brainfood 🧠 Essen für Konzentration, Lernen, bessere Stimmung & mehr Energie"
+ },
  "https://www.youtube.com/watch?v=GznqYrd_xcU": {
   "datum": "2022-04-22",
   "geprueft": "2026-11-09",
@@ -815,6 +969,33 @@
   "status": "OK",
   "titel": "People Pleasing: Warum wir so schwer Nein sagen können | Reden hilft | ARD GESUND"
  },
+ "https://www.youtube.com/watch?v=LN-GLLZ3Dw4": {
+  "datum": "2023-01-05",
+  "geprueft": "2026-11-10",
+  "kanal": "SRF Wissen",
+  "ok": true,
+  "sekunden": 2261,
+  "status": "OK",
+  "titel": "Brainfood - Wie Ernährung unser Gehirn und Verhalten beeinflusst | Einstein | SRF Wissen"
+ },
+ "https://www.youtube.com/watch?v=Lq4F8aSX0RY": {
+  "datum": "2024-03-08",
+  "geprueft": "2026-11-10",
+  "kanal": "ARTEde",
+  "ok": true,
+  "sekunden": 1633,
+  "status": "OK",
+  "titel": "Macht Zucker dumm?  | 42 - Die Antwort auf fast alles | ARTE"
+ },
+ "https://www.youtube.com/watch?v=O0N5CrXBqgE": {
+  "datum": "2025-12-10",
+  "geprueft": "2026-11-10",
+  "kanal": "Studyflix",
+  "ok": true,
+  "sekunden": 261,
+  "status": "OK",
+  "titel": "Wertvolle Tipps: So kontrollierst du deine Emotionen"
+ },
  "https://www.youtube.com/watch?v=O1pnYl28cgE": {
   "datum": "2018-02-17",
   "geprueft": "2026-11-10",
@@ -842,9 +1023,18 @@
   "status": "OK",
   "titel": "Tschüss Privatsphäre! – So verraten Tinder, Spotify & Co. intime Details von dir | Impact | SRF"
  },
+ "https://www.youtube.com/watch?v=OKQiJURRgA8": {
+  "datum": "2023-02-22",
+  "geprueft": "2026-11-10",
+  "kanal": "BGW",
+  "ok": true,
+  "sekunden": 210,
+  "status": "OK",
+  "titel": "Was bedeutet eigentlich Ergonomie?"
+ },
  "https://www.youtube.com/watch?v=OPI8wR87fqg": {
   "datum": "2023-10-16",
-  "geprueft": "2026-11-09",
+  "geprueft": "2026-11-10",
   "kanal": "Quarks Dimension Ralph",
   "ok": true,
   "sekunden": 202,
@@ -895,6 +1085,15 @@
   "sekunden": 332,
   "status": "OK",
   "titel": "Der Marshmallow Test"
+ },
+ "https://www.youtube.com/watch?v=Pz207H-J2tE": {
+  "datum": "2025-08-11",
+  "geprueft": "2026-11-10",
+  "kanal": "Hessischer Rundfunk",
+  "ok": true,
+  "sekunden": 297,
+  "status": "OK",
+  "titel": "Wissenschaftlich belegter Erfrischungseffekt: Das gibt es bei Mikropausen zu beachten"
  },
  "https://www.youtube.com/watch?v=Q16NkzC3czM": {
   "datum": "2026-02-24",
@@ -1013,6 +1212,15 @@
   "status": "OK",
   "titel": "Das Eisenhower-Prinzip | Richtig priorisieren lernen | #gesundesmiteinander | DAK-Gesundheit"
  },
+ "https://www.youtube.com/watch?v=Tm0f5iXMeso": {
+  "datum": "2018-07-12",
+  "geprueft": "2026-11-10",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 302,
+  "status": "OK",
+  "titel": "Wundermittel Sport: Körper, Geist und Gene profitieren von Bewegung | Quarks"
+ },
  "https://www.youtube.com/watch?v=TsD6x9r24QM": {
   "datum": "2026-04-07",
   "geprueft": "2026-11-10",
@@ -1024,12 +1232,21 @@
  },
  "https://www.youtube.com/watch?v=VqEHyQChTok": {
   "datum": "2022-12-20",
-  "geprueft": "2026-11-09",
+  "geprueft": "2026-11-10",
   "kanal": "TUMuenchen",
   "ok": true,
   "sekunden": 436,
   "status": "OK",
   "titel": "Auszeit fürs Gehirn: Warum wir Pausen brauchen, um besser lernen zu können | TUMinside"
+ },
+ "https://www.youtube.com/watch?v=WcF8zl8EECU": {
+  "datum": "2025-10-27",
+  "geprueft": "2026-11-10",
+  "kanal": "Universität Wien",
+  "ok": true,
+  "sekunden": 102,
+  "status": "OK",
+  "titel": "Gesund studieren: ☕️Frühstück fürs Gehirn 🧠 | Universität Wien"
  },
  "https://www.youtube.com/watch?v=Wj0kROaA4s4": {
   "datum": "2019-05-27",
@@ -1058,6 +1275,15 @@
   "status": "OK",
   "titel": "Zusammenfassung schreiben | einfach erklärt"
  },
+ "https://www.youtube.com/watch?v=XC21RJWKzIo": {
+  "datum": "2019-04-14",
+  "geprueft": "2026-11-10",
+  "kanal": "simpleclub - Die Lernapp",
+  "ok": true,
+  "sekunden": 246,
+  "status": "OK",
+  "titel": "GUTE LERNUMGEBUNG: Lernatmosphäre schaffen, Schreibtisch einrichten, Lernmusik?"
+ },
  "https://www.youtube.com/watch?v=XKdLEwCIYZo": {
   "datum": "2024-03-25",
   "geprueft": "2026-11-09",
@@ -1084,6 +1310,15 @@
   "sekunden": 211,
   "status": "OK",
   "titel": "SQ3R Methode - die beste Lesetechnik für deine wissenschaftliche Arbeit"
+ },
+ "https://www.youtube.com/watch?v=YFvAnfgHUSM": {
+  "datum": "2022-05-11",
+  "geprueft": "2026-11-10",
+  "kanal": "OpenUp",
+  "ok": true,
+  "sekunden": 314,
+  "status": "OK",
+  "titel": "Geführter Bodyscan für Innere Ruhe (5 min)"
  },
  "https://www.youtube.com/watch?v=YbBVVKSlSAY": {
   "datum": "2021-07-06",
@@ -1121,6 +1356,15 @@
   "status": "OK",
   "titel": "Lernen lernen: 13 Tipps aus der Gehirnforschung"
  },
+ "https://www.youtube.com/watch?v=_MGYKES66-E": {
+  "datum": "2023-03-20",
+  "geprueft": "2026-11-10",
+  "kanal": "Anja Planken - Institut und Praxis für Kinesiologie",
+  "ok": true,
+  "sekunden": 278,
+  "status": "OK",
+  "titel": "4 Brain Gym Übungen, die dich in deinen Rhythmus bringen"
+ },
  "https://www.youtube.com/watch?v=_V_VBrW3ZuY": {
   "datum": "2024-12-17",
   "geprueft": "2026-11-09",
@@ -1139,6 +1383,15 @@
   "status": "OK",
   "titel": "INTRINSISCHE Motivation und EXTRINSISCHE Motivation mit Beispielen (einfach erklärt) | ERZIEHERKANAL"
  },
+ "https://www.youtube.com/watch?v=aVfY19arX5k": {
+  "datum": "2018-07-27",
+  "geprueft": "2026-11-10",
+  "kanal": "Anja Planken - Institut und Praxis für Kinesiologie",
+  "ok": true,
+  "sekunden": 238,
+  "status": "OK",
+  "titel": "Liegende Acht und Überkreuzbewegungen"
+ },
  "https://www.youtube.com/watch?v=bPPt8aU7Xao": {
   "datum": "2022-07-10",
   "geprueft": "2026-11-09",
@@ -1156,6 +1409,15 @@
   "sekunden": 329,
   "status": "OK",
   "titel": "Wie suche ich in swisscovery RZS?"
+ },
+ "https://www.youtube.com/watch?v=c259e3BmxiE": {
+  "datum": "2019-12-19",
+  "geprueft": "2026-11-10",
+  "kanal": "3sat NANO",
+  "ok": true,
+  "sekunden": 1546,
+  "status": "OK",
+  "titel": "Achtsamkeit – was ist das eigentlich? | Gert Scobel"
  },
  "https://www.youtube.com/watch?v=cJrKwI7McK4": {
   "datum": "2021-07-11",
@@ -1220,6 +1482,15 @@
   "status": "OK",
   "titel": "Ziele SMART formulieren – Die SMART-Formel einfach erklärt"
  },
+ "https://www.youtube.com/watch?v=fCu6yYXbCzU": {
+  "datum": "2024-11-26",
+  "geprueft": "2026-11-10",
+  "kanal": "Ergotopia",
+  "ok": true,
+  "sekunden": 476,
+  "status": "OK",
+  "titel": "Koordinations- und Gleichgewichtstraining – 6 Übungen für mehr Balance"
+ },
  "https://www.youtube.com/watch?v=fMCJWe21284": {
   "datum": "2019-03-02",
   "geprueft": "2026-11-09",
@@ -1246,6 +1517,24 @@
   "sekunden": 334,
   "status": "OK",
   "titel": "Wie Du Alles Verstehen Kannst (Feynman Methode)"
+ },
+ "https://www.youtube.com/watch?v=haKp72rxkFY": {
+  "datum": "2026-08-16",
+  "geprueft": "2026-11-10",
+  "kanal": "Universitätsklinikum Freiburg",
+  "ok": true,
+  "sekunden": 396,
+  "status": "OK",
+  "titel": "Macht Bildschirmarbeit die Augen kaputt? Augenarzt erklärt"
+ },
+ "https://www.youtube.com/watch?v=hzLmih1gJpk": {
+  "datum": "2024-07-12",
+  "geprueft": "2026-11-10",
+  "kanal": "Bleib neugierig — TED-Ed",
+  "ok": true,
+  "sekunden": 257,
+  "status": "OK",
+  "titel": "Was Stress mit unserem Gehirn macht - Madhumita Murgia"
  },
  "https://www.youtube.com/watch?v=iiXRRIoW9aQ": {
   "datum": "2020-12-15",
@@ -1300,6 +1589,15 @@
   "sekunden": 171,
   "status": "OK",
   "titel": "Die Feynman Technik – Effektiv Lernen"
+ },
+ "https://www.youtube.com/watch?v=jytnXMSqgi0": {
+  "datum": "2023-06-28",
+  "geprueft": "2026-11-10",
+  "kanal": "Astrid Nöhring | Yoga \\u0026 Hormone",
+  "ok": true,
+  "sekunden": 397,
+  "status": "OK",
+  "titel": "5 Min Augen Yoga Quickie | schnelles, effektives Augentraining"
  },
  "https://www.youtube.com/watch?v=kGJdU17qVmw": {
   "datum": "2016-11-17",
@@ -1382,6 +1680,15 @@
   "status": "OK",
   "titel": "Sozialkognitive Lerntheorie: Banduras Experimente mit der Schlagpuppe"
  },
+ "https://www.youtube.com/watch?v=lZHAXBKssA0": {
+  "datum": "2023-02-15",
+  "geprueft": "2026-11-10",
+  "kanal": "Arbeiterkammer Österreich",
+  "ok": true,
+  "sekunden": 381,
+  "status": "OK",
+  "titel": "Ergonomie: Bildschirmarbeitsplatz einrichten | Richtig sitzen & stehen"
+ },
  "https://www.youtube.com/watch?v=mKKAPCMU1bw": {
   "datum": "2019-02-17",
   "geprueft": "2026-11-10",
@@ -1427,6 +1734,15 @@
   "status": "OK",
   "titel": "Interleaving - Gemischtes Üben - Smarter lernen 🎓 Lernen lernen – Die Erfolgsserie für bessere Noten"
  },
+ "https://www.youtube.com/watch?v=neV6c3V3KDg": {
+  "datum": "2025-11-28",
+  "geprueft": "2026-11-10",
+  "kanal": "ARTEde",
+  "ok": true,
+  "sekunden": 1686,
+  "status": "OK",
+  "titel": "Verliert unser Gehirn den Fokus? | 42 - Die Antwort auf fast alles | ARTE"
+ },
  "https://www.youtube.com/watch?v=oBfZuyy-zQY": {
   "datum": "2022-06-18",
   "geprueft": "2026-11-10",
@@ -1444,6 +1760,15 @@
   "sekunden": 578,
   "status": "OK",
   "titel": "Hör auf die Eisenhower-Matrix zu nutzen - Hier ist warum"
+ },
+ "https://www.youtube.com/watch?v=pG7b6lN7Weg": {
+  "datum": "2025-03-09",
+  "geprueft": "2026-11-10",
+  "kanal": "ntv Nachrichten",
+  "ok": true,
+  "sekunden": 84,
+  "status": "OK",
+  "titel": "Müde Augen vom Bildschirm? Diese schnellen Übungen können helfen"
  },
  "https://www.youtube.com/watch?v=pr-JdgDLRQM": {
   "datum": "2020-08-26",
@@ -1472,6 +1797,24 @@
   "status": "OK",
   "titel": "10 Tipps - für ein richtig gutes Referat! | Lehrerschmidt"
  },
+ "https://www.youtube.com/watch?v=qSz97b7COk8": {
+  "datum": "2025-04-03",
+  "geprueft": "2026-11-10",
+  "kanal": "ARD GESUND",
+  "ok": true,
+  "sekunden": 626,
+  "status": "OK",
+  "titel": "Neuroathletik: Was das Training fürs Gehirn bringt | Dr. Julia Fischer | ARD Gesund"
+ },
+ "https://www.youtube.com/watch?v=qXgKaJsmwz4": {
+  "datum": "2020-12-11",
+  "geprueft": "2026-11-10",
+  "kanal": "Marketinginstitut",
+  "ok": true,
+  "sekunden": 171,
+  "status": "OK",
+  "titel": "TIMEBOXING - Was ist eigentlich...?"
+ },
  "https://www.youtube.com/watch?v=qlZ6CzKNafI": {
   "datum": "2026-01-14",
   "geprueft": "2026-11-10",
@@ -1480,6 +1823,15 @@
   "sekunden": 751,
   "status": "OK",
   "titel": "Besser lernen oder weniger denken? Wie KI Schule und Unterricht verändert | DW Shift"
+ },
+ "https://www.youtube.com/watch?v=r9psBo88Wj8": {
+  "datum": "2022-06-18",
+  "geprueft": "2026-11-10",
+  "kanal": "Dipl.-Psych. Dr. phil. Yvonne Radtke",
+  "ok": true,
+  "sekunden": 341,
+  "status": "OK",
+  "titel": "5-4-3-2-1-Methode - Effektive und leicht anzuwendende Achtsamkeitsübung"
  },
  "https://www.youtube.com/watch?v=rpOnDFYUQiw": {
   "datum": "2023-05-05",
@@ -1580,6 +1932,15 @@
   "status": "OK",
   "titel": "Speed Reading: Doppelt so schnell lesen in nur einer Woche? || PULS Reportage"
  },
+ "https://www.youtube.com/watch?v=v47lu01i1hs": {
+  "datum": "2019-08-10",
+  "geprueft": "2026-11-10",
+  "kanal": "Studienscheiss — Dr. Tim Reichel",
+  "ok": true,
+  "sekunden": 579,
+  "status": "OK",
+  "titel": "Richtig Pause machen: Wie du deine Lernpausen optimal nutzt und das Maximum an Erholung erreichst"
+ },
  "https://www.youtube.com/watch?v=vqZ4GqKQ-Og": {
   "datum": "2023-06-09",
   "geprueft": "2026-11-10",
@@ -1609,7 +1970,7 @@
  },
  "https://www.youtube.com/watch?v=wLHPgcOekvw": {
   "datum": "2025-10-29",
-  "geprueft": "2026-11-09",
+  "geprueft": "2026-11-10",
   "kanal": "Studyflix",
   "ok": true,
   "sekunden": 267,
@@ -1651,6 +2012,15 @@
   "sekunden": 1817,
   "status": "OK",
   "titel": "Mach ich später! Die Lust am Aufschieben | Twist | ARTE"
+ },
+ "https://www.youtube.com/watch?v=x_HHQE9IWMM": {
+  "datum": "2025-10-30",
+  "geprueft": "2026-11-10",
+  "kanal": "AOK - Der Gesundheitskanal",
+  "ok": true,
+  "sekunden": 182,
+  "status": "OK",
+  "titel": "Achtsamkeit im Alltag: Tipps und Übungen für weniger Stress"
  },
  "https://www.youtube.com/watch?v=xhBTnzAs-h0": {
   "datum": "2019-02-06",
@@ -1724,6 +2094,15 @@
   "status": "OK",
   "titel": "Ordnung auf dem PC: Sinnvolle digitale Ordnerstruktur"
  },
+ "https://www.youtube.com/watch?v=zIxJaB7E_5U": {
+  "datum": "2024-01-20",
+  "geprueft": "2026-11-10",
+  "kanal": "Hessischer Rundfunk",
+  "ok": true,
+  "sekunden": 275,
+  "status": "OK",
+  "titel": "Achtsam den Alltag gestalten: Die MBSR-Methode | Die Ratgeber"
+ },
  "https://www.youtube.com/watch?v=zolCxH4Wf9E": {
   "datum": "2020-09-07",
   "geprueft": "2026-11-10",
@@ -1732,6 +2111,15 @@
   "sekunden": 335,
   "status": "OK",
   "titel": "Erste Hilfe bei Prüfungsangst und Blackout"
+ },
+ "https://www.youtube.com/watch?v=zx51nwn1iew": {
+  "datum": "2019-04-17",
+  "geprueft": "2026-11-10",
+  "kanal": "simpleclub - Die Lernapp",
+  "ok": true,
+  "sekunden": 221,
+  "status": "OK",
+  "titel": "Besser konzentrieren: 3 Wege um deine Konzentration zu boosten + Erklärung"
  },
  "https://www.zhaw.ch/storage/psychologie/forschung/JAMES/JAMESfocus_KI_DE.pdf": {
   "geprueft": "2026-11-10",
