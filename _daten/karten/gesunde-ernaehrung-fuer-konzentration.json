@@ -1,0 +1,77 @@
+{
+ "titel": "Gesunde Ernährung für Konzentration",
+ "kategorie": "Gesundheit und Wohlbefinden",
+ "aufgabe": "Recherchiere, wie gesunde Ernährung die Konzentrations- und Leistungsfähigkeit beeinflusst. Erstelle eine kurze Zusammenfassung oder ein Plakat mit den besten Ernährungsstrategien für mentale Fitness.",
+ "ziel": "Verstehe, wie du durch gezielte Ernährung deine Konzentrationsfähigkeit steigern kannst.",
+ "text": [
+  "Was du isst, beeinflusst, wie fit du dich fühlst und wie gut du dich konzentrieren kannst. Dabei geht es weniger um einzelne «Superfoods» als um die Ernährung insgesamt.",
+  "Auf dieser Karte lernst du, wie eine ausgewogene Ernährung aussieht, wie die Schweizer Empfehlungen funktionieren und was das mit deinem Lernalltag zu tun hat."
+ ],
+ "methode_titel": "So sieht eine ausgewogene Ernährung aus",
+ "fragen": [
+  "Wie sieht ein normaler Tag bei dir aus: Was isst und trinkst du wann?",
+  "Was davon passt schon gut zu den Empfehlungen, was weniger?",
+  "Welche kleine Änderung möchtest du ausprobieren?"
+ ],
+ "suche": [
+  "Schweizer Ernährungsscheibe",
+  "ausgewogene Ernährung Jugendliche",
+  "gesundes Znüni"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=_9tQhtnU1Jw",
+   "titel": "Die Ernährungspyramide einfach erklärt",
+   "dauer": "3,5 Min.",
+   "quelle": "Bundeszentrum für Ernährung, 2026",
+   "notiz": "Aktuelle Empfehlungen aus Deutschland, sehr ähnlich wie in der Schweiz"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.sge-ssn.ch/media/oktfmqcz/merkblatt_ernaehrungsscheibe_de.pdf",
+   "titel": "Die Schweizer Ernährungsscheibe",
+   "dauer": "Merkblatt",
+   "quelle": "Schweizerische Gesellschaft für Ernährung"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.sge-ssn.ch/media/fnsetflr/sge_mb_jugendliche_de.pdf",
+   "titel": "Ernährung für Jugendliche",
+   "dauer": "Merkblatt",
+   "quelle": "Schweizerische Gesellschaft für Ernährung",
+   "notiz": "Mit Tipps zu Mahlzeiten, Getränken und Snacks"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=y5PKU3X4TUo",
+   "titel": "Gesund essen? Die neuen Ernährungsempfehlungen",
+   "dauer": "11 Min.",
+   "quelle": "Quarks, 2024",
+   "notiz": "Was hinter den Empfehlungen steckt"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=LN-GLLZ3Dw4",
+   "titel": "Brainfood: Wie Ernährung unser Gehirn beeinflusst",
+   "dauer": "37,5 Min.",
+   "quelle": "SRF Einstein, 2023",
+   "notiz": "Ausführliche Sendung mit Schweizer Forschenden"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.ndr.de/ratgeber/gesundheit/Brainfood-Lebensmittel-und-Rezepte-fuer-das-Gehirn,brainfood100.html",
+   "grund": "Rezeptseite für Erwachsene, ersetzt durch Schweizer Fachstelle"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=PvH7H9OkzZQ",
+   "grund": "60 Minuten Fitness-Kanal, zu lang und mit Verkaufsfokus"
+  }
+ ]
+}

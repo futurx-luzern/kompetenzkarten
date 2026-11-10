@@ -1,0 +1,92 @@
+{
+ "titel": "Auswirkung von Stress auf die Gesundheit",
+ "kategorie": "Gesundheit und Wohlbefinden",
+ "aufgabe": "Recherchiere, wie Stress die körperliche und geistige Gesundheit beeinflusst. Erstelle eine kurze Zusammenfassung der wichtigsten Erkenntnisse oder ein Poster mit Strategien zur Stressbewältigung.",
+ "ziel": "Verstehe, wie du durch Stressmanagement deine Gesundheit und Leistungsfähigkeit erhältst.",
+ "text": [
+  "Fast alle kennen Stress: vor Prüfungen, bei Streit, wenn zu viel auf einmal kommt. Ein bisschen Stress ist normal und kann sogar helfen, Leistung zu bringen.",
+  "Wenn der Stress aber lange anhält, kann er krank machen, körperlich und psychisch. Auf dieser Karte erfährst du, was bei Stress im Körper passiert, woran du zu viel Stress erkennst und was hilft."
+ ],
+ "methode_titel": "Was Stress mit dem Körper macht",
+ "fragen": [
+  "Was stresst dich im Moment am meisten?",
+  "Woran merkst du bei dir, dass du gestresst bist?",
+  "Was hilft dir, wieder runterzukommen?"
+ ],
+ "suche": [
+  "Stress Körper erklärt",
+  "chronischer Stress",
+  "Stress Jugendliche Tipps"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=6GKQrn1OcAI",
+   "titel": "Stress: Was passiert im Körper?",
+   "dauer": "2 Min.",
+   "quelle": "Stiftung Gesundheitswissen, 2024",
+   "notiz": "Kurz und klar erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=9lILRqFvAto",
+   "titel": "Eustress und Distress: Welcher Stress macht krank?",
+   "dauer": "2 Min.",
+   "quelle": "Stiftung Gesundheitswissen, 2024",
+   "notiz": "Guter und schlechter Stress"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/stress_wie_warum_was_strategien/stress/was_hilft_dir_gegen_stress.cfm",
+   "titel": "Was hilft dir gegen Stress?",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Für Jugendliche geschrieben"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=o-4bmxO9Tc8",
+   "titel": "Schulstress, Leistungsdruck und Co.",
+   "dauer": "11 Min.",
+   "quelle": "SRF school, 2025",
+   "notiz": "Jugendliche aus der Schweiz und Fachleute erzählen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=SWSWfMY6luM",
+   "titel": "Wie sich Stress auf den Körper auswirkt",
+   "dauer": "5 Min.",
+   "quelle": "TED-Ed (deutsche Fassung), 2023",
+   "notiz": "Gezeichnet erklärt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=6dhHvfXjoFA",
+   "titel": "Chronischer Stress und seine Folgen",
+   "dauer": "3,5 Min.",
+   "quelle": "Stiftung Gesundheitswissen, 2023",
+   "notiz": "Eine Ärztin erklärt. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://gesund.bund.de/stress",
+   "titel": "Stress: Ursachen, Folgen, was hilft",
+   "dauer": "10 Min.",
+   "quelle": "Gesundheitsportal des deutschen Gesundheitsministeriums",
+   "notiz": "Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www1.wdr.de/mediathek/video-was-passiert-bei-stress-im-koerper-100.html",
+   "grund": "Mediathek-Video, ersetzt durch frei verfügbare Videos"
+  }
+ ]
+}

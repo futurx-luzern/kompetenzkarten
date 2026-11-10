@@ -83,6 +83,13 @@
   "titel": "Zielsetzung mit SMART-Methode · Kompetenzkarten",
   "weiterleitung": ""
  },
+ "https://gesund.bund.de/stress": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Wie sich Stress auf Körper und Psyche auswirkt | gesund.bund.de",
+  "weiterleitung": ""
+ },
  "https://hub.hslu.ch/soziale-arbeit/lernen-ohne-aufschieben-sieben-tipps-gegen-prokrastination/": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -272,6 +279,13 @@
   "titel": "S-U-P-E-R.ch - So erstellen Sie sichere Passwörter",
   "weiterleitung": ""
  },
+ "https://www.baspo.admin.ch/de/bewegungsempfehlungen": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Bewegungsempfehlungen",
+  "weiterleitung": ""
+ },
  "https://www.bfs.admin.ch/bfs/de/home/statistiken.html": {
   "geprueft": "2026-11-10",
   "ok": true,
@@ -298,6 +312,27 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Kleine Konzentrationsübungen für ein besseres Lernen | ErsteNachhilfe.de",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/arbeit/ressourcen/arbeitswelt/probleme_in_der_lehre/abwechslung_entspannung.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Abwechslung und Erholung von der Arbeit",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/arbeit/ressourcen/arbeitswelt/probleme_in_der_lehre/stress-arbeitsplatz.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Stress am Arbeitsplatz",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/medienkompetenz/ressourcen/cybermobbing_medien_gewalt/konsum/leben_ohne_bildschirm.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Ein Leben ohne Bildschirm",
   "weiterleitung": ""
  },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/selbstvertrauen_aufpeppen/gnomio_entwaffnen/uebungen_fuer_mehr_selbstwert.cfm": {
@@ -342,6 +377,13 @@
   "titel": "Entspannung trotz Prüfungsstress",
   "weiterleitung": ""
  },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/gestresst_gelangweilt_schlechte_stimmung/musik_freundschaft_familie_sport.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Wie es Jugendlichen gelingt, sich trotz Stress besser zu fühlen",
+  "weiterleitung": ""
+ },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/nein_sagen/tipps/ich_sage_nein.cfm": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -354,6 +396,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Schlafqualität verbessern",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/stress_wie_warum_was_strategien/stress/was_hilft_dir_gegen_stress.cfm": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Was hilft dir gegen Stress?",
   "weiterleitung": ""
  },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/tests/tests/nein_sagen.cfm": {
@@ -377,6 +426,13 @@
   "titel": "Atempausen",
   "weiterleitung": ""
  },
+ "https://www.fritzundfraenzi.ch/video/entscheide-dich-arbeitszeit-oder-freizeit/": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Freizeit und Arbeitszeit klar trennen – Elternmagazin Fritz+Fränzi",
+  "weiterleitung": "https://www.fritzundfraenzi.ch/entscheide-dich-arbeitszeit-oder-freizeit"
+ },
  "https://www.handysektor.de/artikel/darum-solltest-du-im-internet-nicht-alles-preisgeben/": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -389,6 +445,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Brainfood: Lebensmittel für das Gehirn\t - Helsana",
+  "weiterleitung": ""
+ },
+ "https://www.helsana.ch/de/blog/psyche/entspannung/methoden-zur-entspannung.html": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Entspannungsübungen: 8 Techniken zum Stressabbau - Helsana",
   "weiterleitung": ""
  },
  "https://www.jobteaser.com/de/advices/abc-analyse-besseres-zeitmanagement-durch-priorisierung": {
@@ -459,6 +522,13 @@
   "titel": "Zusammenfassung schreiben - erklärt anhand eines Beispiels",
   "weiterleitung": ""
  },
+ "https://www.seco.admin.ch/de/jugendarbeitsschutz": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Jugendarbeitsschutz",
+  "weiterleitung": ""
+ },
  "https://www.sge-ssn.ch/media/4jclkanp/znueniblatt_deutsch.pdf": {
   "geprueft": "2026-11-10",
   "ok": true,
@@ -472,6 +542,22 @@
   "status": "HTTP 200",
   "titel": "",
   "weiterleitung": ""
+ },
+ "https://www.sge-ssn.ch/media/oktfmqcz/merkblatt_ernaehrungsscheibe_de.pdf": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
+ },
+ "https://www.srf.ch/play/tv/puls/video/bewegung-tut-gut-so-steigt-die-motivation-fuer-sport-im-alltag?urn=urn:srf:video:4cc2458e-38b7-4a13-a8e9-ec55cf5ba648": {
+  "datum": "2022-05-23",
+  "geprueft": "2026-11-10",
+  "kanal": "SRF Puls",
+  "ok": true,
+  "sekunden": 1975,
+  "status": "OK",
+  "titel": "Bewegung tut gut: So steigt die Motivation für Sport im Alltag"
  },
  "https://www.srf.ch/play/tv/puls/video/ordnung-halten---puls-raeumt-auf?urn=urn:srf:video:e50b7a80-04ba-46d4-bd27-c9783efcd051": {
   "datum": "2022-10-17",
@@ -498,6 +584,13 @@
   "titel": "Rechtschreibung - Diese digitalen Helfer machen Ihre Texte fehlerfrei - Radio SRF 3 - SRF",
   "weiterleitung": ""
  },
+ "https://www.studysmarter.de/magazine/auszeit-nehmen-ideen-tipps/": {
+  "geprueft": "2026-11-10",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "StudySmarter | Die Lernapp für Studenten & Schüler",
+  "weiterleitung": "https://www.studysmarter.de/"
+ },
  "https://www.suva.ch/download/dokument/bildschirmarbeit--informationen-zur-ergonomie---publikation--44034.d?sc_lang=de-CH": {
   "geprueft": "2026-11-10",
   "ok": true,
@@ -518,6 +611,15 @@
   "status": "HTTP 200",
   "titel": "Zeitdiebe - Erkennen und Beseitigen",
   "weiterleitung": ""
+ },
+ "https://www.youtube.com/watch?v=-LV2uWk5iCE": {
+  "datum": "2019-04-08",
+  "geprueft": "2026-11-10",
+  "kanal": "Motiviert Studiert - Mit Dr. Daniel Hunold",
+  "ok": true,
+  "sekunden": 1093,
+  "status": "OK",
+  "titel": "Pausen - Wie Pausen deine Produktivität sofort steigern!!!"
  },
  "https://www.youtube.com/watch?v=-ttJuqi8Rho": {
   "datum": "2025-04-07",
@@ -699,6 +801,15 @@
   "status": "OK",
   "titel": "Stress - Was passiert im Körper?"
  },
+ "https://www.youtube.com/watch?v=6dhHvfXjoFA": {
+  "datum": "2023-07-07",
+  "geprueft": "2026-11-10",
+  "kanal": "Stiftung Gesundheitswissen",
+  "ok": true,
+  "sekunden": 202,
+  "status": "OK",
+  "titel": "Welche Folgen kann Stress haben?"
+ },
  "https://www.youtube.com/watch?v=7n31HKucjwA": {
   "datum": "2026-09-07",
   "geprueft": "2026-11-10",
@@ -726,6 +837,24 @@
   "status": "OK",
   "titel": "Sachtexte zusammenfassen I musstewissen Deutsch"
  },
+ "https://www.youtube.com/watch?v=8jzZrtst5H8": {
+  "datum": "2022-02-06",
+  "geprueft": "2026-11-10",
+  "kanal": "Matthias Walter - Physio Insight",
+  "ok": true,
+  "sekunden": 312,
+  "status": "OK",
+  "titel": "5 Min progressive Muskelentspannung im Sitzen"
+ },
+ "https://www.youtube.com/watch?v=98XyXBHAB9Q": {
+  "datum": "2021-05-31",
+  "geprueft": "2026-11-10",
+  "kanal": "Mentalreisen",
+  "ok": true,
+  "sekunden": 252,
+  "status": "OK",
+  "titel": "Die 4-7-8 Atemtechnik: Geführte Übung zum Mitmachen"
+ },
  "https://www.youtube.com/watch?v=9MOYAXTwcGU": {
   "datum": "2021-01-05",
   "geprueft": "2026-11-10",
@@ -734,6 +863,24 @@
   "sekunden": 228,
   "status": "OK",
   "titel": "Facharbeiten Tutorial: Google Scholar Erklärfilm"
+ },
+ "https://www.youtube.com/watch?v=9d7uzfG0JKY": {
+  "datum": "2022-09-12",
+  "geprueft": "2026-11-10",
+  "kanal": "Janine Dieke",
+  "ok": true,
+  "sekunden": 428,
+  "status": "OK",
+  "titel": "Richtig abschalten im Feierabend. Das hilft."
+ },
+ "https://www.youtube.com/watch?v=9lILRqFvAto": {
+  "datum": "2024-10-10",
+  "geprueft": "2026-11-10",
+  "kanal": "Stiftung Gesundheitswissen",
+  "ok": true,
+  "sekunden": 131,
+  "status": "OK",
+  "titel": "Eustress vs. Disstress - Welcher Stress macht krank?"
  },
  "https://www.youtube.com/watch?v=9tx5FcodvK0": {
   "datum": "2020-08-28",
@@ -762,6 +909,15 @@
   "status": "OK",
   "titel": "Wie du alles verstehen kannst - Feynman Methode einfach erklärt"
  },
+ "https://www.youtube.com/watch?v=AiQSzL61ExA": {
+  "datum": "2019-11-12",
+  "geprueft": "2026-11-10",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 511,
+  "status": "OK",
+  "titel": "Richtig trinken: Wie viel Wasser ist zu viel? | Quarks"
+ },
  "https://www.youtube.com/watch?v=B-DXt1oCKuU": {
   "datum": "2023-04-04",
   "geprueft": "2026-11-09",
@@ -770,6 +926,15 @@
   "sekunden": 1757,
   "status": "OK",
   "titel": "Shaolin Meister Shi Heng Yi: Wie lerne ich Selbstbeherrschung? | Sternstunde Religion | SRF Kultur"
+ },
+ "https://www.youtube.com/watch?v=BF9xAm8hqPA": {
+  "datum": "2024-08-18",
+  "geprueft": "2026-11-10",
+  "kanal": "Matthias Walter - Physio Insight",
+  "ok": true,
+  "sekunden": 250,
+  "status": "OK",
+  "titel": "Progressive Muskelentspannung nach Jacobson | 3 Min Kurzversion"
  },
  "https://www.youtube.com/watch?v=BI3plwLH_X8": {
   "datum": "2023-06-05",
@@ -915,6 +1080,15 @@
   "status": "OK",
   "titel": "Beste Lesetechnik für die Literaturrecherche - SQ3R (ausführliche Version)"
  },
+ "https://www.youtube.com/watch?v=IxViccBvsj8": {
+  "datum": "2016-04-26",
+  "geprueft": "2026-11-10",
+  "kanal": "the golden drop | Entspannung \\u0026 Achtsamkeit",
+  "ok": true,
+  "sekunden": 167,
+  "status": "OK",
+  "titel": "3 Min. | Autogenes Training | Entspannung | züritüütsch"
+ },
  "https://www.youtube.com/watch?v=J2hBEl8eIro": {
   "datum": "2019-03-31",
   "geprueft": "2026-11-09",
@@ -932,6 +1106,15 @@
   "sekunden": 268,
   "status": "OK",
   "titel": "Prüfungsangst? ✅ Diese Atemübung hilft sofort - atme mit"
+ },
+ "https://www.youtube.com/watch?v=J8lERk6rS_I": {
+  "datum": "2020-10-26",
+  "geprueft": "2026-11-10",
+  "kanal": "Beobachter",
+  "ok": true,
+  "sekunden": 128,
+  "status": "OK",
+  "titel": "Brauchen wir mindestens zwei Liter Wasser am Tag?"
  },
  "https://www.youtube.com/watch?v=JTlDIu_PXlE": {
   "datum": "2020-12-09",
@@ -951,6 +1134,15 @@
   "status": "OK",
   "titel": "Die ADHS-Have-Done-Liste! So viel befriedigender als eine To-Do-Liste!"
  },
+ "https://www.youtube.com/watch?v=K1xUS-5I6Qc": {
+  "datum": "2019-04-26",
+  "geprueft": "2026-11-10",
+  "kanal": "Stiftung Gesundheitswissen",
+  "ok": true,
+  "sekunden": 185,
+  "status": "OK",
+  "titel": "Fit bleiben im Alltag: Tipps vom Sportexperten Dr. Ingo Froböse"
+ },
  "https://www.youtube.com/watch?v=K5l2BobcfKc": {
   "datum": "2021-11-12",
   "geprueft": "2026-11-10",
@@ -968,6 +1160,15 @@
   "sekunden": 606,
   "status": "OK",
   "titel": "People Pleasing: Warum wir so schwer Nein sagen können | Reden hilft | ARD GESUND"
+ },
+ "https://www.youtube.com/watch?v=Ks80Mg4aezU": {
+  "datum": "2023-02-07",
+  "geprueft": "2026-11-10",
+  "kanal": "SRF News \\u0026 Hintergründe",
+  "ok": true,
+  "sekunden": 410,
+  "status": "OK",
+  "titel": "Pause am Arbeitsplatz - Die wichtigsten Rechtsfragen erklärt | 2023 | Kassensturz - Dein Recht | SRF"
  },
  "https://www.youtube.com/watch?v=LN-GLLZ3Dw4": {
   "datum": "2023-01-05",
@@ -1203,6 +1404,15 @@
   "status": "OK",
   "titel": "Prokrastination überwinden: So kannst du die Aufschieberitis besiegen | ARD Gesund"
  },
+ "https://www.youtube.com/watch?v=SWSWfMY6luM": {
+  "datum": "2023-07-28",
+  "geprueft": "2026-11-10",
+  "kanal": "Bleib neugierig — TED-Ed",
+  "ok": true,
+  "sekunden": 284,
+  "status": "OK",
+  "titel": "Wie sich Stress auf den Körper auswirkt – Sharon Horesh Bergquist"
+ },
  "https://www.youtube.com/watch?v=SyNoySmKlok": {
   "datum": "2021-10-09",
   "geprueft": "2026-11-09",
@@ -1238,6 +1448,24 @@
   "sekunden": 436,
   "status": "OK",
   "titel": "Auszeit fürs Gehirn: Warum wir Pausen brauchen, um besser lernen zu können | TUMinside"
+ },
+ "https://www.youtube.com/watch?v=Wah1qjk8xgc": {
+  "datum": "2020-09-11",
+  "geprueft": "2026-11-10",
+  "kanal": "Gefühlssache",
+  "ok": true,
+  "sekunden": 291,
+  "status": "OK",
+  "titel": "Stress durch Freizeit: Tipps für mehr Entspannung | Gefühlssache"
+ },
+ "https://www.youtube.com/watch?v=WawRJqIcX-0": {
+  "datum": "2026-03-13",
+  "geprueft": "2026-11-10",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 999,
+  "status": "OK",
+  "titel": "Reset fürs Gehirn – die besten Strategien | Studio Q"
  },
  "https://www.youtube.com/watch?v=WcF8zl8EECU": {
   "datum": "2025-10-27",
@@ -1293,6 +1521,15 @@
   "status": "OK",
   "titel": "Die Pomodoro Technik - in 4 Minuten erklärt"
  },
+ "https://www.youtube.com/watch?v=XgugyJCqERQ": {
+  "datum": "2023-07-20",
+  "geprueft": "2026-11-10",
+  "kanal": "hertiestiftung",
+  "ok": true,
+  "sekunden": 173,
+  "status": "OK",
+  "titel": "Dr. Mondino: Kreativität ist Kopfsache!"
+ },
  "https://www.youtube.com/watch?v=Xphn3_z7KDc": {
   "datum": "2025-12-03",
   "geprueft": "2026-11-09",
@@ -1346,6 +1583,24 @@
   "sekunden": 866,
   "status": "OK",
   "titel": "Zeitmanagement - mit Pausen effektiv lernen"
+ },
+ "https://www.youtube.com/watch?v=ZapWFwwyUiI": {
+  "datum": "2023-07-10",
+  "geprueft": "2026-11-10",
+  "kanal": "SRF Dokus \\u0026 Reportagen",
+  "ok": true,
+  "sekunden": 1285,
+  "status": "OK",
+  "titel": "Work-Life-Dilemma – Spagat zwischen Karriere und Lebensqualität | Reportage | rec. | SRF"
+ },
+ "https://www.youtube.com/watch?v=_9tQhtnU1Jw": {
+  "datum": "2026-10-01",
+  "geprueft": "2026-11-10",
+  "kanal": "Bundeszentrum für Ernährung",
+  "ok": true,
+  "sekunden": 223,
+  "status": "OK",
+  "titel": "Die BZfE-Ernährungspyramide – einfach erklärt"
  },
  "https://www.youtube.com/watch?v=_CgmMnBjnz0": {
   "datum": "2018-11-14",
@@ -1401,6 +1656,15 @@
   "status": "OK",
   "titel": "Krankhaftes Aufschieben | Die Ratgeber"
  },
+ "https://www.youtube.com/watch?v=bmqFN8cFjzg": {
+  "datum": "2017-04-21",
+  "geprueft": "2026-11-10",
+  "kanal": "Die Techniker",
+  "ok": true,
+  "sekunden": 215,
+  "status": "OK",
+  "titel": "Wie bei der Arbeit genug Wasser trinken | Dr. Johannes Wimmer"
+ },
  "https://www.youtube.com/watch?v=btWNmjQlDXs": {
   "datum": "2023-04-05",
   "geprueft": "2026-11-10",
@@ -1419,6 +1683,15 @@
   "status": "OK",
   "titel": "Achtsamkeit – was ist das eigentlich? | Gert Scobel"
  },
+ "https://www.youtube.com/watch?v=cFwyZuxBI08": {
+  "datum": "2026-04-05",
+  "geprueft": "2026-11-10",
+  "kanal": "ARTEde",
+  "ok": true,
+  "sekunden": 3113,
+  "status": "OK",
+  "titel": "Langeweile - Das unerforschte Gefühl | Doku HD | ARTE"
+ },
  "https://www.youtube.com/watch?v=cJrKwI7McK4": {
   "datum": "2021-07-11",
   "geprueft": "2026-11-10",
@@ -1428,6 +1701,24 @@
   "status": "OK",
   "titel": "Erinnerungen: Wie funktioniert unser Gedächtnis? | Quarks | Ralphs Universum"
  },
+ "https://www.youtube.com/watch?v=cvvWx4hmm7M": {
+  "datum": "2021-11-16",
+  "geprueft": "2026-11-10",
+  "kanal": "Universität Bremen",
+  "ok": true,
+  "sekunden": 364,
+  "status": "OK",
+  "titel": "Video 1: Struktur und Pausen | Gesunde Routinen bei der Arbeit"
+ },
+ "https://www.youtube.com/watch?v=cw_fV4f1CMQ": {
+  "datum": "2024-07-11",
+  "geprueft": "2026-11-10",
+  "kanal": "ARD GESUND",
+  "ok": true,
+  "sekunden": 628,
+  "status": "OK",
+  "titel": "Trinken: Wie viel Wasser trinken ist gesund? | Dr. Julia Fischer | ARD Gesund"
+ },
  "https://www.youtube.com/watch?v=cxmmLgTMX2U": {
   "datum": "2024-04-14",
   "geprueft": "2026-11-09",
@@ -1436,6 +1727,15 @@
   "sekunden": 304,
   "status": "OK",
   "titel": "SMART Ziele - Wie du Ziele mit der SMART Methode formulierst (+Beispiele) | ERZIEHERKANAL"
+ },
+ "https://www.youtube.com/watch?v=d-Pz9Ga0i6U": {
+  "datum": "2023-10-23",
+  "geprueft": "2026-11-10",
+  "kanal": "Helmholtz Munich",
+  "ok": true,
+  "sekunden": 75,
+  "status": "OK",
+  "titel": "Bewegung im Alltag: Warum jede Bewegung zählt"
  },
  "https://www.youtube.com/watch?v=dWQoldjrB1s": {
   "datum": "2021-02-05",
@@ -1508,6 +1808,15 @@
   "sekunden": 864,
   "status": "OK",
   "titel": "Die Gefahr der Pomodoro-Technik (wieso Leute sie falsch benutzen)"
+ },
+ "https://www.youtube.com/watch?v=g6_aNHrKofs": {
+  "datum": "2024-01-02",
+  "geprueft": "2026-11-10",
+  "kanal": "Quarks Dimension Ralph",
+  "ok": true,
+  "sekunden": 830,
+  "status": "OK",
+  "titel": "Wie werde ich kreativer? | Quarks Dimension Ralph mit @coldmirror und @wolterzwillinge"
  },
  "https://www.youtube.com/watch?v=ge6u-u-22OM": {
   "datum": "2018-05-26",
@@ -1599,6 +1908,15 @@
   "status": "OK",
   "titel": "5 Min Augen Yoga Quickie | schnelles, effektives Augentraining"
  },
+ "https://www.youtube.com/watch?v=k5kImU1RXCE": {
+  "datum": "2022-04-27",
+  "geprueft": "2026-11-10",
+  "kanal": "ÖGB - Österreichischer Gewerkschaftsbund",
+  "ok": true,
+  "sekunden": 140,
+  "status": "OK",
+  "titel": "Work Life Balance: Diese drei Tipps bringen dich ins Gleichgewicht"
+ },
  "https://www.youtube.com/watch?v=kGJdU17qVmw": {
   "datum": "2016-11-17",
   "geprueft": "2026-11-09",
@@ -1625,6 +1943,15 @@
   "sekunden": 1014,
   "status": "OK",
   "titel": "6 oder 9 Uhr? Warum wir zur falschen Zeit aufstehen!  | Quarks"
+ },
+ "https://www.youtube.com/watch?v=kbM7nPeX-7E": {
+  "datum": "2023-07-12",
+  "geprueft": "2026-11-10",
+  "kanal": "AOK - Der Gesundheitskanal",
+  "ok": true,
+  "sekunden": 229,
+  "status": "OK",
+  "titel": "Dehydration: Symptome erkennen & Folgen von Wassermangel verstehen"
  },
  "https://www.youtube.com/watch?v=ktAQa4OcVeQ": {
   "datum": "2018-11-15",
@@ -1689,6 +2016,15 @@
   "status": "OK",
   "titel": "Ergonomie: Bildschirmarbeitsplatz einrichten | Richtig sitzen & stehen"
  },
+ "https://www.youtube.com/watch?v=ll9m0sx9uAI": {
+  "datum": "2017-11-29",
+  "geprueft": "2026-11-10",
+  "kanal": "Bundesamt für Sport BASPO",
+  "ok": true,
+  "sekunden": 145,
+  "status": "OK",
+  "titel": "Gesundheitswirksame Bewegung für Kinder und Jugendliche – Bewegungsempfehlungen"
+ },
  "https://www.youtube.com/watch?v=mKKAPCMU1bw": {
   "datum": "2019-02-17",
   "geprueft": "2026-11-10",
@@ -1697,6 +2033,15 @@
   "sekunden": 221,
   "status": "OK",
   "titel": "Mindmaps - Zusammenhänge besser behalten"
+ },
+ "https://www.youtube.com/watch?v=mV_A4wO8k5w": {
+  "datum": "2025-12-30",
+  "geprueft": "2026-11-10",
+  "kanal": "SRF Wissen",
+  "ok": true,
+  "sekunden": 667,
+  "status": "OK",
+  "titel": "Kopf, Körper & Mindset – Mental Health bei Jugendlichen | SRF school | SRF Wissen"
  },
  "https://www.youtube.com/watch?v=mYOk76DHv8c": {
   "datum": "2021-08-25",
@@ -1742,6 +2087,15 @@
   "sekunden": 1686,
   "status": "OK",
   "titel": "Verliert unser Gehirn den Fokus? | 42 - Die Antwort auf fast alles | ARTE"
+ },
+ "https://www.youtube.com/watch?v=o-4bmxO9Tc8": {
+  "datum": "2025-12-26",
+  "geprueft": "2026-11-10",
+  "kanal": "SRF Wissen",
+  "ok": true,
+  "sekunden": 647,
+  "status": "OK",
+  "titel": "Schulstress, Leistungsdruck & Co. – Mental Health bei Jugendlichen | SRF school | SRF Wissen"
  },
  "https://www.youtube.com/watch?v=oBfZuyy-zQY": {
   "datum": "2022-06-18",
@@ -1805,6 +2159,15 @@
   "sekunden": 626,
   "status": "OK",
   "titel": "Neuroathletik: Was das Training fürs Gehirn bringt | Dr. Julia Fischer | ARD Gesund"
+ },
+ "https://www.youtube.com/watch?v=qTLTmDK_gEc": {
+  "datum": "2022-03-21",
+  "geprueft": "2026-11-10",
+  "kanal": "Gesunde Arbeit",
+  "ok": true,
+  "sekunden": 102,
+  "status": "OK",
+  "titel": "Keine Pause bei der Arbeit wegen Stress? Das ist nicht die Lösung! | Gesunde Arbeit"
  },
  "https://www.youtube.com/watch?v=qXgKaJsmwz4": {
   "datum": "2020-12-11",
@@ -1950,6 +2313,15 @@
   "status": "OK",
   "titel": "Performance-Druck und Prüfungsangst | Dr. Johannes Wimmer"
  },
+ "https://www.youtube.com/watch?v=vsJ01LxdAi4": {
+  "datum": "2025-05-14",
+  "geprueft": "2026-11-10",
+  "kanal": "AOK – Mental Gesund",
+  "ok": true,
+  "sekunden": 559,
+  "status": "OK",
+  "titel": "Progressive Muskelentspannung (PMR): Schritt-für-Schritt-Entspannung für Körper & Geist"
+ },
  "https://www.youtube.com/watch?v=wH5ik6qcw60": {
   "datum": "2023-05-02",
   "geprueft": "2026-11-09",
@@ -2030,6 +2402,15 @@
   "sekunden": 264,
   "status": "OK",
   "titel": "So wirst du produktiver: Schluss mit Müllzeit"
+ },
+ "https://www.youtube.com/watch?v=y5PKU3X4TUo": {
+  "datum": "2024-11-08",
+  "geprueft": "2026-11-10",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 669,
+  "status": "OK",
+  "titel": "Gesund essen? Die Wahrheit über die Ernährungsempfehlungen der DGE | Quarks Studio Q"
  },
  "https://www.youtube.com/watch?v=y7WFHBdMMQc": {
   "datum": "2019-11-18",

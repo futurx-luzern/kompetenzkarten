@@ -1,0 +1,86 @@
+{
+ "titel": "Bewegung und Fitness für den Alltag",
+ "kategorie": "Gesundheit und Wohlbefinden",
+ "aufgabe": "Finde heraus, wie regelmässige Bewegung und einfache Fitnessübungen als Ausgleich zum Lernen dienen können. Erstelle eine kurze Zusammenfassung oder ein Trainingsprogramm mit den effektivsten Übungen.",
+ "ziel": "Lerne, wie du durch Bewegung und Fitness deine körperliche und geistige Gesundheit erhältst.",
+ "text": [
+  "Schule, Lehre, Hausaufgaben, Handy: Viele Jugendliche sitzen den grössten Teil des Tages. Dabei braucht der Körper Bewegung, und der Kopf auch.",
+  "Du musst dafür nicht ins Fitnessstudio. Schon kleine Änderungen im Alltag machen einen Unterschied. Auf dieser Karte erfährst du, wie viel Bewegung empfohlen wird und wie du sie in deinen Tag einbaust."
+ ],
+ "methode_titel": "Wie viel Bewegung brauchst du?",
+ "fragen": [
+  "Wie viel bewegst du dich an einem normalen Tag? Schätze in Minuten.",
+  "Welche Bewegung macht dir Spass?",
+  "Wo in deinem Alltag könntest du mehr Bewegung einbauen?"
+ ],
+ "suche": [
+  "Bewegungsempfehlungen Jugendliche",
+  "Bewegung im Alltag Tipps",
+  "Sport Gehirn"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ll9m0sx9uAI",
+   "titel": "Bewegungsempfehlungen für Kinder und Jugendliche",
+   "dauer": "2,5 Min.",
+   "quelle": "Bundesamt für Sport BASPO",
+   "notiz": "Die offiziellen Schweizer Empfehlungen"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=d-Pz9Ga0i6U",
+   "titel": "Bewegung im Alltag: Warum jede Bewegung zählt",
+   "dauer": "1 Min.",
+   "quelle": "Helmholtz München (Forschungszentrum), 2023"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.baspo.admin.ch/de/bewegungsempfehlungen",
+   "titel": "Bewegungsempfehlungen Schweiz",
+   "dauer": "5 Min.",
+   "quelle": "Bundesamt für Sport BASPO",
+   "notiz": "Mit Broschüre für Kinder und Jugendliche"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=K1xUS-5I6Qc",
+   "titel": "Fit bleiben im Alltag: Tipps vom Sportexperten",
+   "dauer": "3 Min.",
+   "quelle": "Stiftung Gesundheitswissen",
+   "notiz": "Prof. Ingo Froböse, Sporthochschule Köln"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Tm0f5iXMeso",
+   "titel": "Wundermittel Sport: Körper und Geist profitieren",
+   "dauer": "5 Min.",
+   "quelle": "Quarks",
+   "notiz": "Was Forschende über Bewegung herausgefunden haben"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.srf.ch/play/tv/puls/video/bewegung-tut-gut-so-steigt-die-motivation-fuer-sport-im-alltag?urn=urn:srf:video:4cc2458e-38b7-4a13-a8e9-ec55cf5ba648",
+   "titel": "Bewegung tut gut: So steigt die Motivation für Sport",
+   "dauer": "33 Min.",
+   "quelle": "SRF Puls, 2022",
+   "notiz": "Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=QIrFoIAgaOo",
+   "grund": "Video nicht mehr verfügbar"
+  },
+  {
+   "url": "https://www.stiftung-gesundheitswissen.de/gesundes-leben/bewegung-sport/bewegung-im-alltag-so-halten-sie-sich-fit",
+   "grund": "Ersetzt durch die Schweizer Empfehlungen des BASPO"
+  }
+ ]
+}
