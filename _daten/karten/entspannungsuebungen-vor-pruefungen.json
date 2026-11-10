@@ -1,0 +1,88 @@
+{
+ "titel": "Entspannungsübungen vor Prüfungen",
+ "kategorie": "Prüfungen bestehen",
+ "aufgabe": "Recherchiere einfache Entspannungsübungen, die du vor einer Prüfung anwenden kannst, um Stress zu reduzieren. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Übungen.",
+ "ziel": "Erfahre, wie du durch Entspannungsübungen deine Prüfungsangst mindern kannst.",
+ "text": [
+  "Vor einer Prüfung nervös zu sein, ist normal. Ein bisschen Aufregung hilft sogar: Du bist wach und konzentriert. Wenn die Nervosität aber zu gross wird, blockiert sie.",
+  "Mit einfachen Entspannungsübungen kannst du deinen Körper beruhigen. Das funktioniert, weil Atmung und Muskeln direkt mit dem Stresssystem verbunden sind. Wer ruhiger atmet, wird auch ruhiger im Kopf."
+ ],
+ "methode_titel": "Drei Übungen für vor der Prüfung",
+ "fragen": [
+  "Wie merkst du im Körper, dass du nervös bist?",
+  "Was machst du heute, um dich vor einer Prüfung zu beruhigen?",
+  "Welche der Übungen könntest du vor der nächsten Prüfung ausprobieren?"
+ ],
+ "suche": [
+  "Atemübung gegen Prüfungsangst",
+  "Entspannung vor Prüfung",
+  "Prüfungsstress"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QT8I4BoiL74",
+   "titel": "5-Finger-Atmung: 2 Minuten Atemübung",
+   "dauer": "2,5 Min.",
+   "quelle": "Die Techniker",
+   "notiz": "Zum Mitmachen"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=J5h3CsTM8ss",
+   "titel": "Prüfungsangst? Diese Atemübung hilft, atme mit",
+   "dauer": "4,5 Min.",
+   "quelle": "lernfoerderung, Januar 2026",
+   "notiz": "Geführte Atemübung für Schülerinnen und Schüler"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/entspannung/uebungen/pruefungsstress.cfm",
+   "titel": "Entspannungsübungen bei Prüfungsstress",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Gesundheitsstiftung RADIX)",
+   "notiz": "Schweizer Jugendportal, Übungen zum Ausprobieren"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=4Q-fwlxyk14",
+   "titel": "3 einfache Atemübungen gegen Angst",
+   "dauer": "4 Min.",
+   "quelle": "Knop & Niehaus",
+   "notiz": "Erklärt, warum Atmen gegen Angst hilft",
+   "warnung": "Kanal einer Praxis"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://magazin.sofatutor.com/schueler/prufungsangst-mit-diesen-tipps-bleibst-du-entspannter/",
+   "titel": "Prüfungsangst: 11 Tipps für mehr Ruhe bei Tests",
+   "dauer": "6 Min.",
+   "quelle": "sofatutor Magazin",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=6GKQrn1OcAI",
+   "titel": "Stress: Was passiert im Körper?",
+   "dauer": "2 Min.",
+   "quelle": "Stiftung Gesundheitswissen",
+   "notiz": "Hintergrund: warum Entspannung wirkt"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=NyCF37DcAC4",
+   "grund": "Kanal einer Coachin, ersetzt durch Techniker und feel-ok"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=UqVcunDS8ms",
+   "grund": "15-minütige Meditation eines Influencers"
+  }
+ ]
+}

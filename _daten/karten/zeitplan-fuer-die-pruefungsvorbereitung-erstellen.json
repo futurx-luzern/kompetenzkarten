@@ -1,0 +1,80 @@
+{
+ "titel": "Zeitplan für die Prüfungsvorbereitung",
+ "kategorie": "Prüfungen bestehen",
+ "aufgabe": "Finde heraus, wie man einen effektiven Zeitplan für die Prüfungsvorbereitung erstellt. Erstelle eine kurze Zusammenfassung oder eine einfache Zeitplantabelle.",
+ "ziel": "Verstehe, wie ein gut durchdachter Zeitplan dir hilft, stressfrei zu lernen.",
+ "text": [
+  "«Ich fange nächste Woche an.» Und plötzlich ist die Prüfung übermorgen. Wer ohne Plan lernt, landet oft beim Pauken in letzter Minute, mit viel Stress und wenig Erfolg.",
+  "Ein Zeitplan verteilt den Stoff auf mehrere Tage. So ist jeder Tag machbar, du hast Zeit zum Wiederholen und gehst ruhiger in die Prüfung."
+ ],
+ "methode_titel": "So erstellst du einen Lernplan",
+ "fragen": [
+  "Wann fängst du normalerweise an, für eine Prüfung zu lernen?",
+  "Wie viel Zeit hast du an einem normalen Tag neben Schule und Arbeit?",
+  "Wann hast du zuletzt in letzter Minute gelernt? Wie lief die Prüfung?"
+ ],
+ "suche": [
+  "Lernplan erstellen",
+  "verteiltes Lernen",
+  "Prüfungsvorbereitung Zeitplan"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=C6z2ujIjz7g",
+   "titel": "Prüfungsvorbereitung mit dem richtigen Zeitmanagement",
+   "dauer": "8 Min.",
+   "quelle": "Ausbildung.de",
+   "notiz": "5 Tipps, gemacht für Lernende in der Ausbildung"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/tipps_beim_arbeiten/tipps_gegen_schulstress.cfm",
+   "titel": "Tipps gegen Schulstress",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Gesundheitsstiftung RADIX)",
+   "notiz": "Schweizer Jugendportal"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=2zeLJ5t-nok",
+   "titel": "Auswendig lernen mit dem Spacing-Effekt",
+   "dauer": "8 Min.",
+   "quelle": "shribe! (Lernkanal)",
+   "notiz": "Warum verteiltes Lernen besser wirkt",
+   "warnung": "Für Studierende, wirbt für eigene Kurse"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=pr-JdgDLRQM",
+   "titel": "Einen Lernplan erstellen",
+   "dauer": "10 Min.",
+   "quelle": "laurinspire",
+   "notiz": "Praktisch, Schritt für Schritt",
+   "warnung": "Lern-Influencerin, eher Gymnasium und Studium"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://futurx-luzern.github.io/kompetenzkarten/tages--und-wochenplanung.html",
+   "titel": "Kompetenzkarte «Tages- und Wochenplanung»",
+   "dauer": "Karte",
+   "quelle": "Kompetenzkarten FuturX",
+   "notiz": "Allgemein zur Planung mit der ALPEN-Methode"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=03_oOVPzuLE",
+   "grund": "18 Minuten, für Studierende, wirbt für eigene Produkte"
+  },
+  {
+   "url": "https://tutorspace.de/blog/lernplan-erstellen",
+   "grund": "Nachhilfe-Firma, Werbung"
+  }
+ ]
+}
