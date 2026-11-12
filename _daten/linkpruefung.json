@@ -20,6 +20,13 @@
   "titel": "Die 3 besten Rechtschreib-Tools – so klappt’s mit dem Texten | xeit Blog",
   "weiterleitung": ""
  },
+ "https://blog.yousty.ch/berufswahl/keine-lehrstelle-was-jetzt": {
+  "geprueft": "2026-11-12",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Keine Lehrstelle – was jetzt?",
+  "weiterleitung": ""
+ },
  "https://blogs.uni-bremen.de/wissenswert/files/Studierpersoenlichkeit_EisenhowerMatrix.pdf": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -139,6 +146,13 @@
   "titel": "Prozessfux AG - Clever gemacht. - Wie Du mit der 10-Minuten-Regel die Prokrastination bekämpfst",
   "weiterleitung": ""
  },
+ "https://prozessraum.ch/die-scamper-methode-in-der-prozessoptimierung/": {
+  "geprueft": "2026-11-12",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "SCAMPER in der Prozessoptimierung: 7 Schritte zur Verbesserung",
+  "weiterleitung": ""
+ },
  "https://reginahelfenstein.ch/images/Tipps_PDF/kinesiologie-tipps/Liegende_Achten.pdf": {
   "geprueft": "2026-11-10",
   "ok": true,
@@ -151,6 +165,20 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "",
+  "weiterleitung": ""
+ },
+ "https://studyflix.de/jobs/karriere-tipps/brainstorming-7144": {
+  "geprueft": "2026-11-12",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Brainstorming • Einfach Erklärt, Methoden · Studyflix",
+  "weiterleitung": ""
+ },
+ "https://studyflix.de/jobs/karriere-tipps/entscheidungen-treffen-4605": {
+  "geprueft": "2026-11-12",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Entscheidungen treffen • Tipps und Tricks · Studyflix",
   "weiterleitung": ""
  },
  "https://studyflix.de/jobs/karriere-tipps/morgenroutine-5480": {
@@ -188,12 +216,33 @@
   "titel": "Prüfungsvorbereitung • Die besten Lernstrategien - Video · Studyflix",
   "weiterleitung": ""
  },
+ "https://studyflix.de/wirtschaft-schueler/ideenfindung-mit-der-scamper-methode-543/video": {
+  "geprueft": "2026-11-12",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Ideenfindung mit der SCAMPER-Methode | einfach erklärt - Video · Studyflix",
+  "weiterleitung": ""
+ },
  "https://studyflix.de/wirtschaft/eisenhower-prinzip-3229": {
   "geprueft": "2026-11-09",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Eisenhower Prinzip • Funktionsweise, Tipps · Studyflix",
   "weiterleitung": "https://studyflix.de/biologie/eisenhower-prinzip-3229"
+ },
+ "https://studyflix.de/wirtschaft/entscheidung-bei-risiko-i-837/video": {
+  "geprueft": "2026-11-12",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Entscheidung bei Risiko I | einfach erklärt! - Video · Studyflix",
+  "weiterleitung": ""
+ },
+ "https://studyflix.de/wirtschaft/entscheidungsmatrix-7025": {
+  "geprueft": "2026-11-12",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Was ist eine Entscheidungsmatrix? • einfach erklärt · Studyflix",
+  "weiterleitung": ""
  },
  "https://studyflix.de/wirtschaft/pareto-prinzip-3898": {
   "geprueft": "2026-11-09",
@@ -285,6 +334,13 @@
   "status": "HTTP 200",
   "titel": "Bewegungsempfehlungen",
   "weiterleitung": ""
+ },
+ "https://www.berufsberatung.ch/dyn/show/7430": {
+  "geprueft": "2026-11-12",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Cookie Not accepted",
+  "weiterleitung": "https://www.berufsberatung.ch/cookie-check/CookieCheckError.html?trg=wra2THvnTG8ukUqhrEi8JFkAhNKK6_keCLh-kxuEyyY$"
  },
  "https://www.bfs.admin.ch/bfs/de/home/statistiken.html": {
   "geprueft": "2026-11-10",
@@ -639,6 +695,15 @@
   "status": "OK",
   "titel": "Einführung Selbstwirksamkeit"
  },
+ "https://www.youtube.com/watch?v=00VX4wp7_ao": {
+  "datum": "2023-09-05",
+  "geprueft": "2026-11-12",
+  "kanal": "Entscheidungsnavigator",
+  "ok": true,
+  "sekunden": 354,
+  "status": "OK",
+  "titel": "Der Entscheidungsbaum - eine bewährte Strategie bei schwierigen Entscheidungen"
+ },
  "https://www.youtube.com/watch?v=0IVfJCu4MWs": {
   "datum": "2025-08-29",
   "geprueft": "2026-11-09",
@@ -647,6 +712,15 @@
   "sekunden": 763,
   "status": "OK",
   "titel": "Dopamin: So kriegst du es in den Griff | Studio Q"
+ },
+ "https://www.youtube.com/watch?v=0Seo5InNh5E": {
+  "datum": "2025-08-20",
+  "geprueft": "2026-11-12",
+  "kanal": "Bleib neugierig — TED-Ed",
+  "ok": true,
+  "sekunden": 276,
+  "status": "OK",
+  "titel": "Die Psychologie hinter irrationalen Entscheidungen - Sara Garofalo"
  },
  "https://www.youtube.com/watch?v=0YtdQvQbUGg": {
   "datum": "2020-02-04",
@@ -738,6 +812,15 @@
   "status": "OK",
   "titel": "Passkeys endlich verstanden | Nie mehr Passwörter"
  },
+ "https://www.youtube.com/watch?v=4BmQ4YAoa8Q": {
+  "datum": "2009-07-08",
+  "geprueft": "2026-11-12",
+  "kanal": "onlinedozent",
+  "ok": true,
+  "sekunden": 553,
+  "status": "OK",
+  "titel": "Entscheidungsbaum - ABWL - Entscheidung unter Unsicherheit"
+ },
  "https://www.youtube.com/watch?v=4Q-fwlxyk14": {
   "datum": "2022-03-06",
   "geprueft": "2026-11-10",
@@ -791,6 +874,15 @@
   "sekunden": 294,
   "status": "OK",
   "titel": "6 Tipps für schriftliche Prüfungen (Abi & Co.)"
+ },
+ "https://www.youtube.com/watch?v=5a8kaynpw-4": {
+  "datum": "2020-11-04",
+  "geprueft": "2026-11-12",
+  "kanal": "Lehrerschmidt",
+  "ok": true,
+  "sekunden": 231,
+  "status": "OK",
+  "titel": "Eine Entscheidung treffen .... in vier Schritten!"
  },
  "https://www.youtube.com/watch?v=6GKQrn1OcAI": {
   "datum": "2024-12-05",
@@ -881,6 +973,15 @@
   "sekunden": 131,
   "status": "OK",
   "titel": "Eustress vs. Disstress - Welcher Stress macht krank?"
+ },
+ "https://www.youtube.com/watch?v=9osEGKglKs4": {
+  "datum": "2024-04-28",
+  "geprueft": "2026-11-12",
+  "kanal": "SRF Bounce",
+  "ok": true,
+  "sekunden": 221,
+  "status": "OK",
+  "titel": "Entscheidungen treffen: 5 Tipps von Psychologin Stephie | Psychologie | We, Myself & Why | SRF"
  },
  "https://www.youtube.com/watch?v=9tx5FcodvK0": {
   "datum": "2020-08-28",
@@ -1035,6 +1136,15 @@
   "status": "OK",
   "titel": "Brainfood 🧠 Essen für Konzentration, Lernen, bessere Stimmung & mehr Energie"
  },
+ "https://www.youtube.com/watch?v=GtZvjYVcGfY": {
+  "datum": "2017-12-02",
+  "geprueft": "2026-11-12",
+  "kanal": "Thomas Grosser",
+  "ok": true,
+  "sekunden": 106,
+  "status": "OK",
+  "titel": "Entscheidungsbaum"
+ },
  "https://www.youtube.com/watch?v=GznqYrd_xcU": {
   "datum": "2022-04-22",
   "geprueft": "2026-11-09",
@@ -1043,6 +1153,15 @@
   "sekunden": 104,
   "status": "OK",
   "titel": "Richtig Pausen machen beim Lernen! | Wissen für die Ausbildung | Prozubi.de"
+ },
+ "https://www.youtube.com/watch?v=H6R6nR_N0Yo": {
+  "datum": "2022-04-14",
+  "geprueft": "2026-11-12",
+  "kanal": "Ingrid und Peter Gerstbach",
+  "ok": true,
+  "sekunden": 202,
+  "status": "OK",
+  "titel": "So funktioniert Brainstorming richtig"
  },
  "https://www.youtube.com/watch?v=HDSSvqKPMnc": {
   "datum": "2021-09-07",
@@ -1061,6 +1180,24 @@
   "sekunden": 1889,
   "status": "OK",
   "titel": "Gesunder Schlaf – wie du dein Schlafproblem in den Griff bekommst | Puls | SRF"
+ },
+ "https://www.youtube.com/watch?v=I7txkQNHlmw": {
+  "datum": "2020-03-18",
+  "geprueft": "2026-11-12",
+  "kanal": "Tuna Cagla",
+  "ok": true,
+  "sekunden": 381,
+  "status": "OK",
+  "titel": "Entscheidungstechniken - Entscheidungsbaum, Entscheidungsmatrix & Nutzwertanalyse"
+ },
+ "https://www.youtube.com/watch?v=ICh-2YSqE8I": {
+  "datum": "2025-10-01",
+  "geprueft": "2026-11-12",
+  "kanal": "SRF Dokus \\u0026 Reportagen",
+  "ok": true,
+  "sekunden": 1965,
+  "status": "OK",
+  "titel": "Lehrabbruch – und jetzt?"
  },
  "https://www.youtube.com/watch?v=IHy9v4pjTvw": {
   "datum": "2022-03-26",
@@ -1106,6 +1243,15 @@
   "sekunden": 268,
   "status": "OK",
   "titel": "Prüfungsangst? ✅ Diese Atemübung hilft sofort - atme mit"
+ },
+ "https://www.youtube.com/watch?v=J7LXXZ5oFVE": {
+  "datum": "2021-04-05",
+  "geprueft": "2026-11-12",
+  "kanal": "PINKTUM",
+  "ok": true,
+  "sekunden": 378,
+  "status": "OK",
+  "titel": "Kreativitätstechniken (Teil 1): Kreativität fördern durch Brainstorming"
  },
  "https://www.youtube.com/watch?v=J8lERk6rS_I": {
   "datum": "2020-10-26",
@@ -1187,6 +1333,15 @@
   "sekunden": 1633,
   "status": "OK",
   "titel": "Macht Zucker dumm?  | 42 - Die Antwort auf fast alles | ARTE"
+ },
+ "https://www.youtube.com/watch?v=NmzJIJ233NI": {
+  "datum": "2022-05-09",
+  "geprueft": "2026-11-12",
+  "kanal": "lernfoerderung",
+  "ok": true,
+  "sekunden": 269,
+  "status": "OK",
+  "titel": "✅ Pro und Contra - Methode für Entscheidungen und Diskussionen"
  },
  "https://www.youtube.com/watch?v=O0N5CrXBqgE": {
   "datum": "2025-12-10",
@@ -1277,6 +1432,15 @@
   "sekunden": 287,
   "status": "OK",
   "titel": "Die 5 Minuten Regel: Wie du produktiver und effizienter wirst"
+ },
+ "https://www.youtube.com/watch?v=PZgmA3llLso": {
+  "datum": "2019-05-28",
+  "geprueft": "2026-11-12",
+  "kanal": "Swiss Safety Center",
+  "ok": true,
+  "sekunden": 267,
+  "status": "OK",
+  "titel": "Risikoanalyse einfach erklärt:  Schritt-für-Schritt Anleitung"
  },
  "https://www.youtube.com/watch?v=Pf0ZSMchPds": {
   "datum": "2022-11-16",
@@ -1485,6 +1649,15 @@
   "status": "OK",
   "titel": "Wie uns Social Media abhängig macht | Quarks"
  },
+ "https://www.youtube.com/watch?v=WkSNMW7C8jI": {
+  "datum": "2021-04-19",
+  "geprueft": "2026-11-12",
+  "kanal": "PINKTUM",
+  "ok": true,
+  "sekunden": 180,
+  "status": "OK",
+  "titel": "Kreativitätstechniken (Teil 3): Kreativität fördern mit der 635-Methode"
+ },
  "https://www.youtube.com/watch?v=WogQ6Ns3Sao": {
   "datum": "2023-02-14",
   "geprueft": "2026-11-10",
@@ -1520,6 +1693,15 @@
   "sekunden": 218,
   "status": "OK",
   "titel": "Die Pomodoro Technik - in 4 Minuten erklärt"
+ },
+ "https://www.youtube.com/watch?v=XekS-d5utzE": {
+  "datum": "2020-10-21",
+  "geprueft": "2026-11-12",
+  "kanal": "Projekte leicht gemacht",
+  "ok": true,
+  "sekunden": 675,
+  "status": "OK",
+  "titel": "Die SCAMPER Methode einfach erklärt: Diese Kreativitätstechnik rockt"
  },
  "https://www.youtube.com/watch?v=XgugyJCqERQ": {
   "datum": "2023-07-20",
@@ -1656,6 +1838,15 @@
   "status": "OK",
   "titel": "Krankhaftes Aufschieben | Die Ratgeber"
  },
+ "https://www.youtube.com/watch?v=beY4phQRMiE": {
+  "datum": "2025-03-13",
+  "geprueft": "2026-11-12",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 988,
+  "status": "OK",
+  "titel": "FOBO: Was tun gegen die Angst vor einer falschen Entscheidung? | Terra Xplore mit Lisa Budzinski"
+ },
  "https://www.youtube.com/watch?v=bmqFN8cFjzg": {
   "datum": "2017-04-21",
   "geprueft": "2026-11-10",
@@ -1755,6 +1946,15 @@
   "status": "OK",
   "titel": "Wie entnehme ich Sachtexten Informationen? Teil 1"
  },
+ "https://www.youtube.com/watch?v=dsGe5UxVAes": {
+  "datum": "2022-11-30",
+  "geprueft": "2026-11-12",
+  "kanal": "Yousty – Lehrstellen Schweiz",
+  "ok": true,
+  "sekunden": 101,
+  "status": "OK",
+  "titel": "Entscheidung zum Lehrabbruch - was nun? | Magic Helps"
+ },
  "https://www.youtube.com/watch?v=eZiGbTDZVTA": {
   "datum": "2023-03-02",
   "geprueft": "2026-11-09",
@@ -1782,6 +1982,15 @@
   "status": "OK",
   "titel": "Ziele SMART formulieren – Die SMART-Formel einfach erklärt"
  },
+ "https://www.youtube.com/watch?v=f3tCOQO80vU": {
+  "datum": "2022-01-26",
+  "geprueft": "2026-11-12",
+  "kanal": "ZEIT Akademie",
+  "ok": true,
+  "sekunden": 764,
+  "status": "OK",
+  "titel": "Besser entscheiden. Intuition & Risikokompetenz - Interview mit Prof. Dr. Gerd Gigerenzer"
+ },
  "https://www.youtube.com/watch?v=fCu6yYXbCzU": {
   "datum": "2024-11-26",
   "geprueft": "2026-11-10",
@@ -1808,6 +2017,15 @@
   "sekunden": 864,
   "status": "OK",
   "titel": "Die Gefahr der Pomodoro-Technik (wieso Leute sie falsch benutzen)"
+ },
+ "https://www.youtube.com/watch?v=g3Baxtyfjk8": {
+  "datum": "2023-02-17",
+  "geprueft": "2026-11-12",
+  "kanal": "ZEIT Akademie",
+  "ok": true,
+  "sekunden": 166,
+  "status": "OK",
+  "titel": "Die Brainwriting-Methode und Ihre Vorteile gegenüber Brainstorming | Kreativität"
  },
  "https://www.youtube.com/watch?v=g6_aNHrKofs": {
   "datum": "2024-01-02",
@@ -2250,6 +2468,15 @@
   "status": "OK",
   "titel": "Markieren und lesen ist SINNLOS! So lernst du wirklich mit Erfolg schwierige Texte im Studium!"
  },
+ "https://www.youtube.com/watch?v=tBeLFL84Uy0": {
+  "datum": "2025-02-26",
+  "geprueft": "2026-11-12",
+  "kanal": "FLIP!N Lernen",
+  "ok": true,
+  "sekunden": 228,
+  "status": "OK",
+  "titel": "🎨 Kreativitätstechniken: So findest du geniale Ideen in jeder Situation! 💡"
+ },
  "https://www.youtube.com/watch?v=tDcTYQ2HIvE": {
   "datum": "2026-10-28",
   "geprueft": "2026-11-10",
@@ -2295,6 +2522,15 @@
   "status": "OK",
   "titel": "Speed Reading: Doppelt so schnell lesen in nur einer Woche? || PULS Reportage"
  },
+ "https://www.youtube.com/watch?v=undmT0Jh7H4": {
+  "datum": "2024-10-18",
+  "geprueft": "2026-11-12",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 742,
+  "status": "OK",
+  "titel": "Die besten Entscheidungen treffen mit der WRAP-Methode | Quarks Studio Q"
+ },
  "https://www.youtube.com/watch?v=v47lu01i1hs": {
   "datum": "2019-08-10",
   "geprueft": "2026-11-10",
@@ -2303,6 +2539,15 @@
   "sekunden": 579,
   "status": "OK",
   "titel": "Richtig Pause machen: Wie du deine Lernpausen optimal nutzt und das Maximum an Erholung erreichst"
+ },
+ "https://www.youtube.com/watch?v=vhiWoXdzHEQ": {
+  "datum": "2023-01-12",
+  "geprueft": "2026-11-12",
+  "kanal": "Mittelschul- und Berufsbildungsamt des Kantons Bern",
+  "ok": true,
+  "sekunden": 279,
+  "status": "OK",
+  "titel": "Rat&Tat: Lehrvertragsauflösung-DE"
  },
  "https://www.youtube.com/watch?v=vqZ4GqKQ-Og": {
   "datum": "2023-06-09",
@@ -2321,6 +2566,15 @@
   "sekunden": 559,
   "status": "OK",
   "titel": "Progressive Muskelentspannung (PMR): Schritt-für-Schritt-Entspannung für Körper & Geist"
+ },
+ "https://www.youtube.com/watch?v=vtPVIA4t79E": {
+  "datum": "2022-11-30",
+  "geprueft": "2026-11-12",
+  "kanal": "caesar.academy",
+  "ok": true,
+  "sekunden": 126,
+  "status": "OK",
+  "titel": "Risikomatrix - 👨🏼‍🎓 EINFACH ERKLÄRT 👩🏼‍🎓"
  },
  "https://www.youtube.com/watch?v=wH5ik6qcw60": {
   "datum": "2023-05-02",
@@ -2429,6 +2683,15 @@
   "sekunden": 193,
   "status": "OK",
   "titel": "Wie künstliche Intelligenz in der Schule genutzt wird"
+ },
+ "https://www.youtube.com/watch?v=y9epYNtQMRY": {
+  "datum": "2022-09-10",
+  "geprueft": "2026-11-12",
+  "kanal": "Alexander Schelle",
+  "ok": true,
+  "sekunden": 582,
+  "status": "OK",
+  "titel": "Die Scamper-Methode - Kreativitätstechnik"
  },
  "https://www.youtube.com/watch?v=yDUbNZPO0RI": {
   "datum": "2023-05-04",

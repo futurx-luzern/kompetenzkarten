@@ -1,9 +1,9 @@
 # Statusliste Kompetenzkarten
 
-Stand 2026-11-10. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
+Stand 2026-11-12. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 60 online, 10 bereit, 52 offen (von 122)
+**Total:** 70 online, 6 bereit, 46 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -105,27 +105,27 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Gesunde Ernährung für Konzentration | `gesunde-ernaehrung-fuer-konzentration.html` | bereit |
-| Bewegung und Fitness für den Alltag | `bewegung-und-fitness-fuer-den-alltag.html` | bereit |
-| Auswirkung von Stress auf die Gesundheit | `auswirkung-von-stress-auf-die-gesundheit.html` | bereit |
-| Entspannungstechniken für den Alltag | `entspannungstechniken-fuer-den-alltag.html` | bereit |
-| Hydration und mentale Leistung | `hydration-und-mentale-leistung.html` | bereit |
-| Gezielte Pausen einplanen | `gezielte-pausen-einplanen.html` | bereit |
-| Kurzentspannungsübungen für den Alltag | `kurzentspannungsuebungen-fuer-den-alltag.html` | bereit |
-| Freizeitaktivitäten zur Erholung | `freizeitaktivitaeten-zur-erholung.html` | bereit |
-| Kreative Auszeiten planen | `kreative-auszeiten-planen.html` | bereit |
-| Arbeitszeiten festlegen und einhalten | `arbeitszeiten-festlegen-und-einhalten.html` | bereit |
+| Gesunde Ernährung für Konzentration | `gesunde-ernaehrung-fuer-konzentration.html` | online |
+| Bewegung und Fitness für den Alltag | `bewegung-und-fitness-fuer-den-alltag.html` | online |
+| Auswirkung von Stress auf die Gesundheit | `auswirkung-von-stress-auf-die-gesundheit.html` | online |
+| Entspannungstechniken für den Alltag | `entspannungstechniken-fuer-den-alltag.html` | online |
+| Hydration und mentale Leistung | `hydration-und-mentale-leistung.html` | online |
+| Gezielte Pausen einplanen | `gezielte-pausen-einplanen.html` | online |
+| Kurzentspannungsübungen für den Alltag | `kurzentspannungsuebungen-fuer-den-alltag.html` | online |
+| Freizeitaktivitäten zur Erholung | `freizeitaktivitaeten-zur-erholung.html` | online |
+| Kreative Auszeiten planen | `kreative-auszeiten-planen.html` | online |
+| Arbeitszeiten festlegen und einhalten | `arbeitszeiten-festlegen-und-einhalten.html` | online |
 
 ## Paket 8: Entscheidungsfindung und Problemlösung (6 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Pro- und Contra-Liste zur Entscheidungsfindung | `pro--und-contra-liste-zur-entscheidungsfindung.html` | offen |
-| Entscheidungsbaum | `entscheidungsbaum-zur-loesung-komplexer-probleme.html` | offen |
-| Brainstorming-Techniken | `brainstorming-techniken-zur-kreativen-problemloesung.html` | offen |
-| SCAMPER-Methode zur Problemlösung | `scamper-methode-zur-problemloesung.html` | offen |
-| Risikomanagement bei Entscheidungen | `risikomanagement-bei-entscheidungen.html` | offen |
-| Plan B entwickeln für den Fall der Fälle | `plan-b-entwickeln-fuer-den-fall-der-faelle.html` | offen |
+| Pro- und Contra-Liste zur Entscheidungsfindung | `pro--und-contra-liste-zur-entscheidungsfindung.html` | bereit |
+| Entscheidungsbaum | `entscheidungsbaum-zur-loesung-komplexer-probleme.html` | bereit |
+| Brainstorming-Techniken | `brainstorming-techniken-zur-kreativen-problemloesung.html` | bereit |
+| SCAMPER-Methode zur Problemlösung | `scamper-methode-zur-problemloesung.html` | bereit |
+| Risikomanagement bei Entscheidungen | `risikomanagement-bei-entscheidungen.html` | bereit |
+| Plan B entwickeln für den Fall der Fälle | `plan-b-entwickeln-fuer-den-fall-der-faelle.html` | bereit |
 
 ## Paket 9: Selbstreflexion und Achtsamkeit (6 Karten)
 

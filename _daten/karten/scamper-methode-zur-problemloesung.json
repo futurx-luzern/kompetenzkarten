@@ -1,0 +1,110 @@
+{
+ "titel": "SCAMPER-Methode zur Problemlösung",
+ "kategorie": "Entscheidungsfindung und Problemlösung",
+ "aufgabe": "Suche Informationen darüber, wie die SCAMPER- Methode (Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse) funktioniert und wie sie zur Problemlösung eingesetzt wird. Erstelle eine kurze Zusammenfassung oder eine Übersicht der Methode.",
+ "ziel": "Lerne, wie du durch die SCAMPER- Methode kreative Ansätze zur Lösung von Problemen entwickelst.",
+ "text": [
+  "Manchmal will man etwas verbessern, weiss aber nicht, wo anfangen. Die SCAMPER-Methode gibt dir sieben Fragen, mit denen du ein Produkt, einen Ablauf oder ein Problem von allen Seiten anschaust.",
+  "So kommst du auf Ideen, auf die du sonst nicht gekommen wärst. Die Methode wird in Firmen für neue Produkte genutzt, funktioniert aber auch im Alltag."
+ ],
+ "methode_titel": "So funktioniert SCAMPER",
+ "uebung": {
+  "frage": "Welcher SCAMPER-Buchstabe passt zu dieser Idee?",
+  "optionen": [
+   "S",
+   "C",
+   "A",
+   "M",
+   "P",
+   "E",
+   "R"
+  ],
+  "hinweis": "S Ersetzen · C Kombinieren · A Anpassen · M Verändern · P Anders nutzen · E Weglassen · R Umkehren",
+  "aufgaben": [
+   {
+    "text": "Ein Rucksack mit eingebauter Powerbank.",
+    "richtig": "C",
+    "warum": "Zwei Dinge werden kombiniert."
+   },
+   {
+    "text": "Holz statt Plastik für die Zahnbürste.",
+    "richtig": "S",
+    "warum": "Ein Material wird ersetzt."
+   },
+   {
+    "text": "Ein altes Velo-Rad wird zur Wanduhr.",
+    "richtig": "P",
+    "warum": "Etwas wird für einen anderen Zweck genutzt."
+   },
+   {
+    "text": "Ein Formular ohne die Felder, die niemand braucht.",
+    "richtig": "E",
+    "warum": "Unnötiges wird weggelassen."
+   },
+   {
+    "text": "Zuerst wird gegessen, dann bezahlt. Ein Café dreht das um.",
+    "richtig": "R",
+    "warum": "Die Reihenfolge wird umgekehrt."
+   },
+   {
+    "text": "Ein Handy, das man zusammenfalten kann.",
+    "richtig": "M",
+    "warum": "Die Form wird verändert."
+   }
+  ]
+ },
+ "fragen": [
+  "An welchem Beispiel hast du SCAMPER ausprobiert? Welche Ideen sind entstanden?",
+  "Welche der sieben Fragen war am hilfreichsten?",
+  "Wo im Betrieb oder in der Schule könnte man etwas mit SCAMPER verbessern?"
+ ],
+ "suche": [
+  "SCAMPER Methode",
+  "SCAMPER Beispiel",
+  "Kreativitätstechnik Ideen verbessern"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://studyflix.de/wirtschaft-schueler/ideenfindung-mit-der-scamper-methode-543/video",
+   "titel": "Ideenfindung mit der SCAMPER-Methode",
+   "dauer": "5 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Kurz erklärt. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=XekS-d5utzE",
+   "titel": "Die SCAMPER-Methode einfach erklärt",
+   "dauer": "11 Min.",
+   "quelle": "Projekte leicht gemacht",
+   "notiz": "Alle sieben Fragen an einem Beispiel"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=y9epYNtQMRY",
+   "titel": "Die SCAMPER-Methode: Kreativitätstechnik",
+   "dauer": "9,5 Min.",
+   "quelle": "Prof. Alexander Schelle (Hochschule)",
+   "notiz": "Mit Beispielen aus Produkten"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://prozessraum.ch/die-scamper-methode-in-der-prozessoptimierung/",
+   "titel": "Die SCAMPER-Methode in der Prozessoptimierung",
+   "dauer": "6 Min.",
+   "quelle": "prozessraum.ch (Schweiz)",
+   "notiz": "Wie Firmen damit Abläufe verbessern. Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://blog.hubspot.de/marketing/scamper#:~:text=SCAMPER%20ist%20eine%20Kreativit%C3%A4tstechnik%20in,%2C%20put%2C%20eliminate%20und%20reverse.",
+   "grund": "Marketing-Blog eines Software-Anbieters"
+  }
+ ]
+}
