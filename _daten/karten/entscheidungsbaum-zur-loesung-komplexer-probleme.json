@@ -1,0 +1,75 @@
+{
+ "titel": "Entscheidungsbaum",
+ "kategorie": "Entscheidungsfindung und Problemlösung",
+ "aufgabe": "Finde heraus, wie du einen Entscheidungsbaum zur Lösung komplexer Probleme erstellst. Erstelle eine kurze Zusammenfassung oder einen Entscheidungsbaum für ein eigenes Beispiel.",
+ "ziel": "Verstehe, wie du durch visuelle Entscheidungsbäume strukturierte und durchdachte Entscheidungen treffen kannst.",
+ "text": [
+  "Manche Entscheidungen sind kompliziert: Es gibt mehrere Möglichkeiten, und jede führt zu weiteren Entscheidungen. Im Kopf verliert man da schnell den Überblick.",
+  "Ein Entscheidungsbaum zeichnet alle Wege auf, wie die Äste eines Baums. So siehst du auf einen Blick, welche Möglichkeiten du hast und wohin sie führen."
+ ],
+ "methode_titel": "So funktioniert ein Entscheidungsbaum",
+ "fragen": [
+  "Für welche Entscheidung hast du einen Entscheidungsbaum gezeichnet?",
+  "Hat dir das Zeichnen geholfen? Was hast du dabei gemerkt?",
+  "Wann ist ein Entscheidungsbaum besser als eine Pro- und Contra-Liste?"
+ ],
+ "suche": [
+  "Entscheidungsbaum erstellen",
+  "Entscheidungsbaum Beispiel",
+  "Entscheidungstechniken"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=GtZvjYVcGfY",
+   "titel": "Der Entscheidungsbaum",
+   "dauer": "2 Min.",
+   "quelle": "Thomas Grosser",
+   "notiz": "Kurz erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://studyflix.de/jobs/karriere-tipps/entscheidungen-treffen-4605",
+   "titel": "Entscheidungen treffen: Tipps und Methoden",
+   "dauer": "6 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Mit Entscheidungsbaum"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=00VX4wp7_ao",
+   "titel": "Der Entscheidungsbaum bei schwierigen Entscheidungen",
+   "dauer": "6 Min.",
+   "quelle": "Entscheidungsnavigator",
+   "notiz": "Mit Beispiel. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=I7txkQNHlmw",
+   "titel": "Entscheidungsbaum, Entscheidungsmatrix und Nutzwertanalyse",
+   "dauer": "6,5 Min.",
+   "quelle": "Tuna Cagla",
+   "notiz": "Drei Methoden im Vergleich, mit Übungsbeispiel"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=4BmQ4YAoa8Q",
+   "titel": "Entscheidungsbaum: Entscheidung unter Unsicherheit",
+   "dauer": "9 Min.",
+   "quelle": "onlinedozent (Betriebswirtschaft)",
+   "notiz": "Mit Wahrscheinlichkeiten rechnen",
+   "warnung": "Aus dem Wirtschaftsstudium, mit Rechnen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://asana.com/de/resources/decision-tree-analysis",
+   "grund": "Seite eines Software-Anbieters, für Firmen"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "titel": "Plan B entwickeln für den Fall der Fälle",
+ "kategorie": "Entscheidungsfindung und Problemlösung",
+ "aufgabe": "Finde heraus, wie du bei wichtigen Entscheidungen einen Plan B entwickeln kannst, um auf unvorhergesehene Ereignisse vorbereitet zu sein. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken.",
+ "ziel": "Lerne, wie du durch das Erstellen von Alternativplänen flexibel auf Veränderungen reagieren kannst.",
+ "text": [
+  "Nicht immer läuft alles nach Plan. Die Wunsch-Lehrstelle klappt nicht, ein Projekt scheitert, oder die Lehre passt doch nicht. Das ist enttäuschend, aber kein Weltuntergang, besonders wenn du vorbereitet bist.",
+  "Ein Plan B ist eine Alternative, die du schon vorher überlegt hast. Auf dieser Karte lernst du, wie du einen Plan B entwickelst und wo du Unterstützung findest."
+ ],
+ "methode_titel": "So entwickelst du einen Plan B",
+ "fragen": [
+  "Was ist dein Plan A für die nächsten ein bis zwei Jahre?",
+  "Wie könnte dein Plan B aussehen?",
+  "Kennst du jemanden, bei dem ein Plan B gut funktioniert hat?"
+ ],
+ "suche": [
+  "keine Lehrstelle was tun",
+  "Brückenangebot Schweiz",
+  "Lehrabbruch was nun"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://blog.yousty.ch/berufswahl/keine-lehrstelle-was-jetzt",
+   "titel": "Keine Lehrstelle: Was jetzt?",
+   "dauer": "5 Min.",
+   "quelle": "Yousty (Schweizer Lehrstellenportal)"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=dsGe5UxVAes",
+   "titel": "Entscheidung zum Lehrabbruch: Was nun?",
+   "dauer": "2 Min.",
+   "quelle": "Yousty, 2022"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.berufsberatung.ch/dyn/show/7430",
+   "titel": "Brückenangebote",
+   "dauer": "5 Min.",
+   "quelle": "berufsberatung.ch (offizielles Portal)",
+   "notiz": "Welche Zwischenlösungen es in der Schweiz gibt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=vhiWoXdzHEQ",
+   "titel": "Rat und Tat: Lehrvertragsauflösung",
+   "dauer": "4,5 Min.",
+   "quelle": "Mittelschul- und Berufsbildungsamt Kanton Bern, 2023",
+   "notiz": "Was du tun kannst, wenn die Lehre nicht passt"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ICh-2YSqE8I",
+   "titel": "Lehrabbruch: Und jetzt?",
+   "dauer": "33 Min.",
+   "quelle": "SRF Dokus und Reportagen, 2025",
+   "notiz": "Junge Menschen erzählen, wie es nach dem Abbruch weiterging"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.iapm.net/de/blog/plan-b-im-projektmanagement/",
+   "grund": "Für Projektmanager geschrieben"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=2pV2AHpwUYs",
+   "grund": "Video einer Freikirche, nicht neutral"
+  }
+ ]
+}
