@@ -1,0 +1,76 @@
+{
+ "titel": "Tagebuchführung zur Selbstreflexion",
+ "kategorie": "Selbstreflexion und Achtsamkeit",
+ "aufgabe": "Informiere dich darüber, wie das Führen eines Tagebuchs zur Selbstreflexion beitragen kann. Erstelle eine kurze Zusammenfassung oder eine Vorlage für ein Reflexionstagebuch.",
+ "ziel": "Erfahre, wie du durch das Schreiben deine Gedanken ordnen und reflektieren kannst.",
+ "text": [
+  "Manchmal ist der Kopf so voll, dass man nicht mehr klar denken kann. Aufschreiben hilft: Was auf Papier steht, muss nicht mehr im Kopf herumkreisen.",
+  "Ein Tagebuch ist ein einfaches Werkzeug, um dich selbst besser kennenzulernen. Es gibt viele Arten, eines zu führen. Auf dieser Karte lernst du einige kennen und findest heraus, was zu dir passt."
+ ],
+ "methode_titel": "So führst du ein Tagebuch",
+ "fragen": [
+  "Hast du schon einmal Tagebuch geschrieben? Wie war das?",
+  "Welche Art von Tagebuch spricht dich am meisten an?",
+  "Was hast du beim Ausprobieren über dich gemerkt?"
+ ],
+ "suche": [
+  "Journaling Tipps",
+  "Dankbarkeitstagebuch",
+  "Tagebuch schreiben Psychologie"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=yK2HziTT7do",
+   "titel": "Journaling: Tagebuch schreiben für die mentale Gesundheit",
+   "dauer": "4,5 Min.",
+   "quelle": "Hessischer Rundfunk",
+   "notiz": "Was beim Schreiben passiert. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=XtXsYTKKo88",
+   "titel": "Die Wirkung von Dankbarkeit im Gehirn",
+   "dauer": "2 Min.",
+   "quelle": "Dr. Barbara Studer (Neuropsychologin, Schweiz), 2023"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=g-ihZpx3aQY",
+   "titel": "Achtsamkeitstagebuch führen",
+   "dauer": "5 Min.",
+   "quelle": "AOK Mental Gesund, 2025",
+   "notiz": "Wie Schreiben hilft, Gedanken zu ordnen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=TvtkOiOkgyY",
+   "titel": "Wie sinnvoll ist ein Dankbarkeitstagebuch? 30 Tage Selbstversuch",
+   "dauer": "7 Min.",
+   "quelle": "To the Roots, 2023"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://schreiben-und-leben.de/tagebuch-schreiben/",
+   "titel": "Tagebuch schreiben: Anleitung und Tipps",
+   "dauer": "10 Min.",
+   "quelle": "Schreiben und Leben (Blog)",
+   "notiz": "Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://bernardzitzer.com/de/fragen-selbstreflexion-tagebuch/",
+   "grund": "Blog eines Coaches"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=KJ-nTo2b0EI",
+   "grund": "Geführte Meditation, nicht zum Thema Tagebuch"
+  }
+ ]
+}

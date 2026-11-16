@@ -1,9 +1,9 @@
 # Statusliste Kompetenzkarten
 
-Stand 2026-11-12. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
+Stand 2026-11-16. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 70 online, 6 bereit, 46 offen (von 122)
+**Total:** 76 online, 6 bereit, 40 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -120,23 +120,23 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Pro- und Contra-Liste zur Entscheidungsfindung | `pro--und-contra-liste-zur-entscheidungsfindung.html` | bereit |
-| Entscheidungsbaum | `entscheidungsbaum-zur-loesung-komplexer-probleme.html` | bereit |
-| Brainstorming-Techniken | `brainstorming-techniken-zur-kreativen-problemloesung.html` | bereit |
-| SCAMPER-Methode zur Problemlösung | `scamper-methode-zur-problemloesung.html` | bereit |
-| Risikomanagement bei Entscheidungen | `risikomanagement-bei-entscheidungen.html` | bereit |
-| Plan B entwickeln für den Fall der Fälle | `plan-b-entwickeln-fuer-den-fall-der-faelle.html` | bereit |
+| Pro- und Contra-Liste zur Entscheidungsfindung | `pro--und-contra-liste-zur-entscheidungsfindung.html` | online |
+| Entscheidungsbaum | `entscheidungsbaum-zur-loesung-komplexer-probleme.html` | online |
+| Brainstorming-Techniken | `brainstorming-techniken-zur-kreativen-problemloesung.html` | online |
+| SCAMPER-Methode zur Problemlösung | `scamper-methode-zur-problemloesung.html` | online |
+| Risikomanagement bei Entscheidungen | `risikomanagement-bei-entscheidungen.html` | online |
+| Plan B entwickeln für den Fall der Fälle | `plan-b-entwickeln-fuer-den-fall-der-faelle.html` | online |
 
 ## Paket 9: Selbstreflexion und Achtsamkeit (6 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Gehmeditation kennenlernen | `gehmeditation-kennenlernen.html` | offen |
-| Progressive Muskelentspannung | `progressive-muskelentspannung.html` | offen |
-| Regelmässige Selbstreflexion praktizieren | `regelmaessige-selbstreflexion-praktizieren.html` | offen |
-| Tagebuchführung zur Selbstreflexion | `tagebuchfuehrung-zur-selbstreflexion.html` | offen |
-| Stressoren identifizieren | `stressoren-identifizieren.html` | offen |
-| Achtsamkeit im Alltag integrieren | `achtsamkeit-im-alltag-integrieren.html` | offen |
+| Gehmeditation kennenlernen | `gehmeditation-kennenlernen.html` | bereit |
+| Progressive Muskelentspannung | `progressive-muskelentspannung.html` | bereit |
+| Regelmässige Selbstreflexion praktizieren | `regelmaessige-selbstreflexion-praktizieren.html` | bereit |
+| Tagebuchführung zur Selbstreflexion | `tagebuchfuehrung-zur-selbstreflexion.html` | bereit |
+| Stressoren identifizieren | `stressoren-identifizieren.html` | bereit |
+| Achtsamkeit im Alltag integrieren | `achtsamkeit-im-alltag-integrieren.html` | bereit |
 
 ## Paket 10: Gefühle und Selbstbild (8 Karten)
 

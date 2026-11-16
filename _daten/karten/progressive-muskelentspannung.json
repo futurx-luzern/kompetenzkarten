@@ -1,0 +1,77 @@
+{
+ "titel": "Progressive Muskelentspannung",
+ "kategorie": "Selbstreflexion und Achtsamkeit",
+ "aufgabe": "Finde heraus, wie die Progressive Muskelentspannung funktioniert und wie sie zur Stressbewältigung eingesetzt wird. Erstelle eine kurze Zusammenfassung oder eine einfache Anleitung zur Anwendung.",
+ "ziel": "Lerne, wie du durch gezielte Entspannungsübungen Stress abbauen kannst.",
+ "text": [
+  "Wenn du gestresst bist, spannt sich dein Körper an, oft ohne dass du es merkst: hochgezogene Schultern, verkrampfter Kiefer, Fäuste. Die Progressive Muskelentspannung setzt genau da an.",
+  "Du spannst nacheinander verschiedene Muskeln an und lässt sie dann bewusst los. Die Methode ist einfach zu lernen, wissenschaftlich gut untersucht und wird oft gegen Stress, Nervosität und Einschlafprobleme empfohlen."
+ ],
+ "methode_titel": "So funktioniert die Progressive Muskelentspannung",
+ "fragen": [
+  "Wie hat sich dein Körper nach der Übung angefühlt?",
+  "Bei welchen Muskeln hast du gemerkt, dass sie vorher angespannt waren?",
+  "Wann könnte dir PMR helfen, zum Beispiel vor dem Schlafen oder vor einer Prüfung?"
+ ],
+ "suche": [
+  "Progressive Muskelentspannung Anleitung",
+  "PMR Kurzform",
+  "Jacobson Entspannung"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=9ud-G_znMKw",
+   "titel": "Was ist Progressive Muskelentspannung?",
+   "dauer": "1,5 Min.",
+   "quelle": "Vitos Klinikum",
+   "notiz": "Kurz erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=L4LO50m2_Eg",
+   "titel": "PMR für Anfänger: Mitmachübung",
+   "dauer": "12 Min.",
+   "quelle": "AOK (Krankenkasse), 2022",
+   "notiz": "Zum Mitmachen, im Sitzen"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.helsana.ch/de/blog/psyche/entspannung/progressive-muskelentspannung.html",
+   "titel": "Progressive Muskelentspannung",
+   "dauer": "5 Min.",
+   "quelle": "Helsana (Schweiz)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=c8NdFOXBgxE",
+   "titel": "Progressive Muskelentspannung im Liegen",
+   "dauer": "17,5 Min.",
+   "quelle": "AOK (Krankenkasse)",
+   "notiz": "Die Langform zum Mitmachen. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=VVhD-e9TiDI",
+   "titel": "Schnell entspannen mit PMR",
+   "dauer": "1,5 Min.",
+   "quelle": "AOK Mental Gesund, 2025",
+   "notiz": "Eine Kurzübung für zwischendurch"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/therapie/entspannungsverfahren/progressive-muskelentspannung/",
+   "titel": "Progressive Muskelentspannung: Hintergrund und Wirkung",
+   "dauer": "8 Min.",
+   "quelle": "Neurologen und Psychiater im Netz (Fachverbände)",
+   "notiz": "Fachlicher Text. Bleibt von der alten Seite"
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "titel": "Stressoren identifizieren",
+ "kategorie": "Selbstreflexion und Achtsamkeit",
+ "aufgabe": "Finde heraus, wie man Stressoren im Alltag identifiziert und welche Strategien es gibt, um sie zu reduzieren. Erstelle eine kurze Zusammenfassung oder ein Diagramm der besten Techniken.",
+ "ziel": "Lerne, wie du durch das Erkennen und Reduzieren von Stressoren dein Wohlbefinden steigerst.",
+ "text": [
+  "Stress hat immer Auslöser, man nennt sie Stressoren. Manche sind offensichtlich, wie eine wichtige Prüfung. Andere merkt man kaum, zum Beispiel ständige Handy-Nachrichten oder der eigene Anspruch, alles perfekt zu machen.",
+  "Wer seine Stressoren kennt, kann gezielt etwas dagegen tun. Auf dieser Karte lernst du, welche Arten von Stressoren es gibt und wie du mit einem Stresstagebuch deine eigenen findest."
+ ],
+ "methode_titel": "Wie du deine Stressoren findest",
+ "uebung": {
+  "frage": "Äusserer oder innerer Stressor?",
+  "optionen": [
+   "Äusserer",
+   "Innerer"
+  ],
+  "hinweis": "Äussere kommen aus der Umwelt, innere aus deinen Gedanken und Ansprüchen.",
+  "aufgaben": [
+   {
+    "text": "Drei Prüfungen in einer Woche.",
+    "richtig": "Äusserer",
+    "warum": "Die Situation kommt von aussen."
+   },
+   {
+    "text": "«Ich muss in allem die Beste sein.»",
+    "richtig": "Innerer",
+    "warum": "Ein hoher Anspruch an dich selbst."
+   },
+   {
+    "text": "Lärm auf der Baustelle neben dem Lehrbetrieb.",
+    "richtig": "Äusserer",
+    "warum": "Ein Umweltreiz."
+   },
+   {
+    "text": "Die Angst, vor der Klasse etwas Falsches zu sagen.",
+    "richtig": "Innerer",
+    "warum": "Die Angst entsteht in dir, auch wenn die Situation von aussen kommt."
+   },
+   {
+    "text": "Der Chef will die Arbeit bis morgen früh.",
+    "richtig": "Äusserer",
+    "warum": "Zeitdruck von aussen."
+   },
+   {
+    "text": "«Wenn ich das nicht schaffe, bin ich ein Versager.»",
+    "richtig": "Innerer",
+    "warum": "Ein belastender Gedanke."
+   }
+  ]
+ },
+ "fragen": [
+  "Was sind deine drei grössten Stressoren im Moment?",
+  "Sind es eher äussere oder innere Stressoren?",
+  "Welchen Stressor könntest du verändern, und wie?"
+ ],
+ "suche": [
+  "Stressoren erkennen",
+  "Stresstagebuch",
+  "Stress Jugendliche"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=NLhHiyWRzN8",
+   "titel": "Stressfaktoren erkennen: So hilft ein Stresstagebuch",
+   "dauer": "2 Min.",
+   "quelle": "Stiftung Gesundheitswissen, 2023"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/stress_wie_warum_was_strategien/stress/was_stresst_dich.cfm",
+   "titel": "Was stresst dich?",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Was Jugendliche in der Schweiz am meisten stresst"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/stressprofi_werden/checkliste_gegen_stress/analyse.cfm",
+   "titel": "Analyse: Was stresst dich genau?",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Hilft, den Stressor genau zu benennen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=_4GgldW0cOQ",
+   "titel": "Was gibt es für Stressoren?",
+   "dauer": "6 Min.",
+   "quelle": "ACTitude (Psychologie)",
+   "notiz": "Äussere und innere Stressoren mit Beispielen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=u_Ahyh5dy6I",
+   "titel": "Mental Health bei Jugendlichen: Was hilft gegen Stress und Angst?",
+   "dauer": "9,5 Min.",
+   "quelle": "WDR neuneinhalb, 2025",
+   "notiz": "Für Jugendliche gemacht"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=TvdBFzXaloc",
+   "titel": "Das Stressmodell nach Lazarus",
+   "dauer": "5,5 Min.",
+   "quelle": "Erzieherkanal, 2024",
+   "notiz": "Warum dieselbe Situation nicht alle gleich stresst"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=v_CH0_VM-9A",
+   "titel": "Jugendliche unter Druck",
+   "dauer": "50 Min.",
+   "quelle": "SRF Dokus und Reportagen",
+   "notiz": "Junge Menschen aus der Schweiz erzählen",
+   "warnung": "Lang, gut in Teilen schauen. Ernste Themen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=QWyT12ILkHg",
+   "grund": "Kanal eines Anti-Stress-Anbieters mit Verkaufsfokus"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=4b1E9l9pdmg",
+   "grund": "Kanal eines Personal Trainers"
+  },
+  {
+   "url": "https://www.sanitas.com/de/magazin/aktiv-sein/stress-und-entspannung/stressoren.html",
+   "grund": "Ersetzt durch feel-ok, für Jugendliche geschrieben"
+  }
+ ]
+}

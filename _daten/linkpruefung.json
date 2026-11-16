@@ -111,11 +111,25 @@
   "titel": "Häufiger Aufgabenwechsel führt zu größerer Flexibilität",
   "weiterleitung": ""
  },
+ "https://insighttimer.com/": {
+  "geprueft": "2026-11-16",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Insight Timer — The #1 Free Meditation and Sleep App",
+  "weiterleitung": ""
+ },
  "https://karrierebibel.de/erfolgstagebuch/": {
   "geprueft": "2026-11-09",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Erfolgstagebuch: Vorlage, Vorteile + Tipps zum Inhalt",
+  "weiterleitung": ""
+ },
+ "https://karrierebibel.de/selbstreflexion/": {
+  "geprueft": "2026-11-16",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Selbstreflexion: Definition, Beispiele + 50 Fragen",
   "weiterleitung": ""
  },
  "https://lerntool.ch/buc/lernbereiche/pruefungsstrategien/": {
@@ -158,6 +172,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "",
+  "weiterleitung": ""
+ },
+ "https://schreiben-und-leben.de/tagebuch-schreiben/": {
+  "geprueft": "2026-11-16",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Tagebuch schreiben: Die Kraft der Selbstreflexion !",
   "weiterleitung": ""
  },
  "https://selbstreguliertes-lernen.uzh.ch/dam/jcr:e6a04bde-11e5-4182-9f7e-67389a904a60/Sich%20motivieren.pdf": {
@@ -398,6 +419,13 @@
   "titel": "Übungen für mehr Selbstwert",
   "weiterleitung": ""
  },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/wer_bin_ich_was_tue_ich/deine_gefuehle/gefuehle_sind_wegweiser.cfm": {
+  "geprueft": "2026-11-16",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Wer bin ich? Gefühle sind Wegweiser",
+  "weiterleitung": ""
+ },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/pruefungen/prufungsvorbereitung.cfm": {
   "geprueft": "2026-11-10",
   "ok": true,
@@ -461,6 +489,20 @@
   "titel": "Was hilft dir gegen Stress?",
   "weiterleitung": ""
  },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/stress_wie_warum_was_strategien/stress/was_stresst_dich.cfm": {
+  "geprueft": "2026-11-16",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Was stresst dich?",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/stressprofi_werden/checkliste_gegen_stress/analyse.cfm": {
+  "geprueft": "2026-11-16",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Analyse: Was stresst dich genau?",
+  "weiterleitung": ""
+ },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/tests/tests/nein_sagen.cfm": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -510,6 +552,13 @@
   "titel": "Entspannungsübungen: 8 Techniken zum Stressabbau - Helsana",
   "weiterleitung": ""
  },
+ "https://www.helsana.ch/de/blog/psyche/entspannung/progressive-muskelentspannung.html": {
+  "geprueft": "2026-11-16",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Wissenswertes über Muskulatur: Bewegung und Muskeltypen - Helsana",
+  "weiterleitung": ""
+ },
  "https://www.jobteaser.com/de/advices/abc-analyse-besseres-zeitmanagement-durch-priorisierung": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -536,6 +585,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Anpacken statt Aufschieben: Ein kleiner Trick für mehr Motivation",
+  "weiterleitung": ""
+ },
+ "https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/therapie/entspannungsverfahren/progressive-muskelentspannung/": {
+  "geprueft": "2026-11-16",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Progressive Muskelentspannung »  Entspannungsverfahren »  Therapie »  Psychiatrie, Psychosomatik & Psychotherapie »  Neu",
   "weiterleitung": ""
  },
  "https://www.ostjob.ch/ratgeber/artikel/364/feynman-methode": {
@@ -938,6 +994,15 @@
   "status": "OK",
   "titel": "5 Min progressive Muskelentspannung im Sitzen"
  },
+ "https://www.youtube.com/watch?v=9-39JTx0FA4": {
+  "datum": "2020-12-13",
+  "geprueft": "2026-11-16",
+  "kanal": "DAK niceones",
+  "ok": true,
+  "sekunden": 216,
+  "status": "OK",
+  "titel": "Selbstreflexion für Anfänger | #gesundesmiteinander | DAK-Gesundheit"
+ },
  "https://www.youtube.com/watch?v=98XyXBHAB9Q": {
   "datum": "2021-05-31",
   "geprueft": "2026-11-10",
@@ -991,6 +1056,15 @@
   "sekunden": 475,
   "status": "OK",
   "titel": "Zeitmanagement-Methoden kennen und anwenden"
+ },
+ "https://www.youtube.com/watch?v=9ud-G_znMKw": {
+  "datum": "2023-07-13",
+  "geprueft": "2026-11-16",
+  "kanal": "Vitos",
+  "ok": true,
+  "sekunden": 97,
+  "status": "OK",
+  "titel": "Progressive Muskelentspannung (PMR) - was ist das?"
  },
  "https://www.youtube.com/watch?v=AOLALcMlsis": {
   "datum": "2024-12-08",
@@ -1316,6 +1390,15 @@
   "status": "OK",
   "titel": "Pause am Arbeitsplatz - Die wichtigsten Rechtsfragen erklärt | 2023 | Kassensturz - Dein Recht | SRF"
  },
+ "https://www.youtube.com/watch?v=L4LO50m2_Eg": {
+  "datum": "2022-10-25",
+  "geprueft": "2026-11-16",
+  "kanal": "AOK - Der Gesundheitskanal",
+  "ok": true,
+  "sekunden": 702,
+  "status": "OK",
+  "titel": "PMR für Anfänger - Deine Mitmachübung"
+ },
  "https://www.youtube.com/watch?v=LN-GLLZ3Dw4": {
   "datum": "2023-01-05",
   "geprueft": "2026-11-10",
@@ -1333,6 +1416,24 @@
   "sekunden": 1633,
   "status": "OK",
   "titel": "Macht Zucker dumm?  | 42 - Die Antwort auf fast alles | ARTE"
+ },
+ "https://www.youtube.com/watch?v=N5KpQ4q77fs": {
+  "datum": "2021-11-08",
+  "geprueft": "2026-11-16",
+  "kanal": "Paulina Thurm - Meditation für jeden Tag",
+  "ok": true,
+  "sekunden": 1038,
+  "status": "OK",
+  "titel": "Gehmeditation – auftanken an der frischen Luft (geführt, 17 Min)"
+ },
+ "https://www.youtube.com/watch?v=NLhHiyWRzN8": {
+  "datum": "2023-08-04",
+  "geprueft": "2026-11-16",
+  "kanal": "Stiftung Gesundheitswissen",
+  "ok": true,
+  "sekunden": 135,
+  "status": "OK",
+  "titel": "Stressfaktoren erkennen: So kann ein Stresstagebuch helfen"
  },
  "https://www.youtube.com/watch?v=NmzJIJ233NI": {
   "datum": "2022-05-09",
@@ -1399,7 +1500,7 @@
  },
  "https://www.youtube.com/watch?v=OSk0AUT4_8o": {
   "datum": "2022-06-05",
-  "geprueft": "2026-11-09",
+  "geprueft": "2026-11-16",
   "kanal": "Dinge Erklärt – Kurzgesagt",
   "ok": true,
   "sekunden": 657,
@@ -1604,6 +1705,33 @@
   "status": "OK",
   "titel": "Deutsch Basics:  Recherche mit Suchoperatoren und KI-Tools | kolleg24 | planet schule | ARD"
  },
+ "https://www.youtube.com/watch?v=TvdBFzXaloc": {
+  "datum": "2024-08-18",
+  "geprueft": "2026-11-16",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 324,
+  "status": "OK",
+  "titel": "STRESSMODELL nach LAZARUS einfach erklärt (+BEISPIEL) | ERZIEHERKANAL"
+ },
+ "https://www.youtube.com/watch?v=TvtkOiOkgyY": {
+  "datum": "2023-06-04",
+  "geprueft": "2026-11-16",
+  "kanal": "To the Roots",
+  "ok": true,
+  "sekunden": 419,
+  "status": "OK",
+  "titel": "Wie sinnvoll ist ein Dankbarkeitstagebuch? 30 Tage Selbstversuch"
+ },
+ "https://www.youtube.com/watch?v=VVhD-e9TiDI": {
+  "datum": "2025-05-16",
+  "geprueft": "2026-11-16",
+  "kanal": "AOK – Mental Gesund",
+  "ok": true,
+  "sekunden": 89,
+  "status": "OK",
+  "titel": "Entspanne sofort mit progressiver Muskelentspannung (PMR)"
+ },
  "https://www.youtube.com/watch?v=VqEHyQChTok": {
   "datum": "2022-12-20",
   "geprueft": "2026-11-10",
@@ -1721,6 +1849,15 @@
   "status": "OK",
   "titel": "Grenzen setzen: Wie du \"Nein\" sagen kannst"
  },
+ "https://www.youtube.com/watch?v=XtXsYTKKo88": {
+  "datum": "2023-11-16",
+  "geprueft": "2026-11-16",
+  "kanal": "Dr. Barbara Studer",
+  "ok": true,
+  "sekunden": 110,
+  "status": "OK",
+  "titel": "Die Wirkung von Dankbarkeit im Gehirn und Körper"
+ },
  "https://www.youtube.com/watch?v=Y6m5EODSQ_o": {
   "datum": "2018-09-19",
   "geprueft": "2026-11-10",
@@ -1738,6 +1875,15 @@
   "sekunden": 314,
   "status": "OK",
   "titel": "Geführter Bodyscan für Innere Ruhe (5 min)"
+ },
+ "https://www.youtube.com/watch?v=YUeykO3HI-g": {
+  "datum": "2023-07-02",
+  "geprueft": "2026-11-16",
+  "kanal": "OpenUp",
+  "ok": true,
+  "sekunden": 298,
+  "status": "OK",
+  "titel": "Achtsam essen: Meditation beim Essen"
  },
  "https://www.youtube.com/watch?v=YbBVVKSlSAY": {
   "datum": "2021-07-06",
@@ -1775,6 +1921,15 @@
   "status": "OK",
   "titel": "Work-Life-Dilemma – Spagat zwischen Karriere und Lebensqualität | Reportage | rec. | SRF"
  },
+ "https://www.youtube.com/watch?v=_4GgldW0cOQ": {
+  "datum": "2022-09-13",
+  "geprueft": "2026-11-16",
+  "kanal": "ACTitude – Für mehr psychische Flexibilität",
+  "ok": true,
+  "sekunden": 347,
+  "status": "OK",
+  "titel": "Stressoren: Was gibt es für Stressoren? 🤯 (einfach erklärt mit Beispielen für Stressfaktoren)"
+ },
  "https://www.youtube.com/watch?v=_9tQhtnU1Jw": {
   "datum": "2026-10-01",
   "geprueft": "2026-11-10",
@@ -1810,6 +1965,15 @@
   "sekunden": 637,
   "status": "OK",
   "titel": "Social Media: Warum kann ich nicht aufhören mit Binge-Scrolling?  | Quarks Dimension Ralph"
+ },
+ "https://www.youtube.com/watch?v=a0CSU5GrtvM": {
+  "datum": "2024-10-10",
+  "geprueft": "2026-11-16",
+  "kanal": "hilftachtsam",
+  "ok": true,
+  "sekunden": 403,
+  "status": "OK",
+  "titel": "\"Achtsam Gehen\" | Erdberührung nach Thích Nhất Hạnh | Tägliche Praxis"
  },
  "https://www.youtube.com/watch?v=aLl0-_KDJ5g": {
   "datum": "2024-04-21",
@@ -1874,6 +2038,15 @@
   "status": "OK",
   "titel": "Achtsamkeit – was ist das eigentlich? | Gert Scobel"
  },
+ "https://www.youtube.com/watch?v=c8NdFOXBgxE": {
+  "datum": "2015-01-07",
+  "geprueft": "2026-11-16",
+  "kanal": "AOK - Der Gesundheitskanal",
+  "ok": true,
+  "sekunden": 1046,
+  "status": "OK",
+  "titel": "Progressive Muskelentspannung im Liegen - Anleitung zum Mitmachen"
+ },
  "https://www.youtube.com/watch?v=cFwyZuxBI08": {
   "datum": "2026-04-05",
   "geprueft": "2026-11-10",
@@ -1891,6 +2064,15 @@
   "sekunden": 687,
   "status": "OK",
   "titel": "Erinnerungen: Wie funktioniert unser Gedächtnis? | Quarks | Ralphs Universum"
+ },
+ "https://www.youtube.com/watch?v=ctZAQid_Bm4": {
+  "datum": "2026-01-19",
+  "geprueft": "2026-11-16",
+  "kanal": "Bayerischer Rundfunk",
+  "ok": true,
+  "sekunden": 314,
+  "status": "OK",
+  "titel": "Mehr Ruhe, weniger Stress: Achtsamkeit im Alltag | Frankenschau | BR"
  },
  "https://www.youtube.com/watch?v=cvvWx4hmm7M": {
   "datum": "2021-11-16",
@@ -2009,6 +2191,15 @@
   "status": "OK",
   "titel": "Psychologie der Motivation: Länger durchhalten dank intelligenter Ziele!"
  },
+ "https://www.youtube.com/watch?v=fRur17M_23g": {
+  "datum": "2026-10-13",
+  "geprueft": "2026-11-16",
+  "kanal": "Irgendwas mit ARTE und Kultur",
+  "ok": true,
+  "sekunden": 1803,
+  "status": "OK",
+  "titel": "Digital Detox: Macht offline glücklich? | Twist | ARTE"
+ },
  "https://www.youtube.com/watch?v=fYidB0rKnuI": {
   "datum": "2022-10-23",
   "geprueft": "2026-11-09",
@@ -2017,6 +2208,15 @@
   "sekunden": 864,
   "status": "OK",
   "titel": "Die Gefahr der Pomodoro-Technik (wieso Leute sie falsch benutzen)"
+ },
+ "https://www.youtube.com/watch?v=g-ihZpx3aQY": {
+  "datum": "2025-03-19",
+  "geprueft": "2026-11-16",
+  "kanal": "AOK – Mental Gesund",
+  "ok": true,
+  "sekunden": 290,
+  "status": "OK",
+  "titel": "Achtsamkeitstagebuch führen - Klarer Kopf durch Journaling"
  },
  "https://www.youtube.com/watch?v=g3Baxtyfjk8": {
   "datum": "2023-02-17",
@@ -2297,6 +2497,15 @@
   "status": "OK",
   "titel": "Interleaving - Gemischtes Üben - Smarter lernen 🎓 Lernen lernen – Die Erfolgsserie für bessere Noten"
  },
+ "https://www.youtube.com/watch?v=nKIg0ttgS10": {
+  "datum": "2019-05-13",
+  "geprueft": "2026-11-16",
+  "kanal": "Stefanie Voss",
+  "ok": true,
+  "sekunden": 255,
+  "status": "OK",
+  "titel": "3 Bausteine guter Selbstreflexion | Stefanie Voss"
+ },
  "https://www.youtube.com/watch?v=neV6c3V3KDg": {
   "datum": "2025-11-28",
   "geprueft": "2026-11-10",
@@ -2332,6 +2541,15 @@
   "sekunden": 578,
   "status": "OK",
   "titel": "Hör auf die Eisenhower-Matrix zu nutzen - Hier ist warum"
+ },
+ "https://www.youtube.com/watch?v=p-qL2uxE5LM": {
+  "datum": "2021-09-04",
+  "geprueft": "2026-11-16",
+  "kanal": "Meditieren mit Jette - Entspannung \\u0026 Achtsamkeit",
+  "ok": true,
+  "sekunden": 815,
+  "status": "OK",
+  "titel": "Achtsam gehen & Stress loslassen – Geführte Geh-Meditation für den Alltag"
  },
  "https://www.youtube.com/watch?v=pG7b6lN7Weg": {
   "datum": "2025-03-09",
@@ -2413,6 +2631,15 @@
   "sekunden": 341,
   "status": "OK",
   "titel": "5-4-3-2-1-Methode - Effektive und leicht anzuwendende Achtsamkeitsübung"
+ },
+ "https://www.youtube.com/watch?v=rIGzh9fMlDk": {
+  "datum": "2019-01-18",
+  "geprueft": "2026-11-16",
+  "kanal": "Die Techniker",
+  "ok": true,
+  "sekunden": 222,
+  "status": "OK",
+  "titel": "Digital Detox - Tipps für eine kleine Smartphone-Pause | Dr. Johannes Wimmer"
  },
  "https://www.youtube.com/watch?v=rpOnDFYUQiw": {
   "datum": "2023-05-05",
@@ -2522,6 +2749,15 @@
   "status": "OK",
   "titel": "Speed Reading: Doppelt so schnell lesen in nur einer Woche? || PULS Reportage"
  },
+ "https://www.youtube.com/watch?v=u_Ahyh5dy6I": {
+  "datum": "2025-03-15",
+  "geprueft": "2026-11-16",
+  "kanal": "WDR",
+  "ok": true,
+  "sekunden": 566,
+  "status": "OK",
+  "titel": "Mental Health bei Jugendlichen: Was hilft gegen Stress & Angst? | neuneinhalb | WDR"
+ },
  "https://www.youtube.com/watch?v=undmT0Jh7H4": {
   "datum": "2024-10-18",
   "geprueft": "2026-11-12",
@@ -2531,6 +2767,15 @@
   "status": "OK",
   "titel": "Die besten Entscheidungen treffen mit der WRAP-Methode | Quarks Studio Q"
  },
+ "https://www.youtube.com/watch?v=ut5EPc-iCGA": {
+  "datum": "2021-11-02",
+  "geprueft": "2026-11-16",
+  "kanal": "Lotos - Vihara",
+  "ok": true,
+  "sekunden": 486,
+  "status": "OK",
+  "titel": "Gehmeditation - einfach erklärt durch Dr. Wilfried Reuter"
+ },
  "https://www.youtube.com/watch?v=v47lu01i1hs": {
   "datum": "2019-08-10",
   "geprueft": "2026-11-10",
@@ -2539,6 +2784,15 @@
   "sekunden": 579,
   "status": "OK",
   "titel": "Richtig Pause machen: Wie du deine Lernpausen optimal nutzt und das Maximum an Erholung erreichst"
+ },
+ "https://www.youtube.com/watch?v=v_CH0_VM-9A": {
+  "datum": "2023-04-13",
+  "geprueft": "2026-11-16",
+  "kanal": "SRF Dokus \\u0026 Reportagen",
+  "ok": true,
+  "sekunden": 3002,
+  "status": "OK",
+  "titel": "Jugendliche unter Druck – Wie psychische Probleme jungen Menschen zusetzen (2/2) DOK | SRF"
  },
  "https://www.youtube.com/watch?v=vhiWoXdzHEQ": {
   "datum": "2023-01-12",
@@ -2657,6 +2911,15 @@
   "status": "OK",
   "titel": "So wirst du produktiver: Schluss mit Müllzeit"
  },
+ "https://www.youtube.com/watch?v=xpExXBKrRPo": {
+  "datum": "2020-06-26",
+  "geprueft": "2026-11-16",
+  "kanal": "Gefühlssache",
+  "ok": true,
+  "sekunden": 371,
+  "status": "OK",
+  "titel": "5 Übungen für mehr Achtsamkeit im Alltag | Gefühlssache"
+ },
  "https://www.youtube.com/watch?v=y5PKU3X4TUo": {
   "datum": "2024-11-08",
   "geprueft": "2026-11-10",
@@ -2710,6 +2973,15 @@
   "sekunden": 2096,
   "status": "OK",
   "titel": "#133 - Mentales Kontrastieren mit WOOP! Im Gespräch mit Prof. Dr. Gabriele Oettingen"
+ },
+ "https://www.youtube.com/watch?v=yK2HziTT7do": {
+  "datum": "2021-08-03",
+  "geprueft": "2026-11-16",
+  "kanal": "Hessischer Rundfunk",
+  "ok": true,
+  "sekunden": 277,
+  "status": "OK",
+  "titel": "Journaling – Tagebuch schreiben für die mentale Gesundheit | die Ratgeber"
  },
  "https://www.youtube.com/watch?v=yjutSUDuhbc": {
   "datum": "2021-06-17",

@@ -1,0 +1,73 @@
+{
+ "titel": "Regelmässige Selbstreflexion praktizieren",
+ "kategorie": "Selbstreflexion und Achtsamkeit",
+ "aufgabe": "Recherchiere, wie regelmässige Selbstreflexion dir helfen kann, deine Ziele und Fortschritte zu überprüfen. Erstelle eine kurze Zusammenfassung oder eine Liste von Reflexionsfragen.",
+ "ziel": "Verstehe, wie Selbstreflexion dir hilft, dich persönlich und beruflich weiterzuentwickeln.",
+ "text": [
+  "Im Alltag rennt man oft von einer Sache zur nächsten. Selten nimmt man sich Zeit, um zurückzuschauen: Was ist gut gelaufen? Was hätte ich anders machen können? Was ist mir wirklich wichtig?",
+  "Genau das ist Selbstreflexion. Wer sie regelmässig macht, lernt aus Erfahrungen, erkennt eigene Stärken und Muster und kann bewusster entscheiden. Auf dieser Karte lernst du einfache Wege, das zur Gewohnheit zu machen."
+ ],
+ "methode_titel": "So reflektierst du regelmässig",
+ "fragen": [
+  "Wann denkst du heute über dich und dein Verhalten nach?",
+  "Welche Reflexionsfrage hat dich am meisten zum Nachdenken gebracht?",
+  "Wie und wann willst du Selbstreflexion in deinen Alltag einbauen?"
+ ],
+ "suche": [
+  "Selbstreflexion Übungen",
+  "Reflexionsfragen",
+  "Wochenrückblick"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=9-39JTx0FA4",
+   "titel": "Selbstreflexion für Anfänger",
+   "dauer": "3,5 Min.",
+   "quelle": "DAK (Krankenkasse)",
+   "notiz": "Ein Psychologe gibt Tipps und zwei Übungen. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/wer_bin_ich_was_tue_ich/deine_gefuehle/gefuehle_sind_wegweiser.cfm",
+   "titel": "Wer bin ich? Gefühle sind Wegweiser",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Für Jugendliche geschrieben"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=nKIg0ttgS10",
+   "titel": "3 Bausteine guter Selbstreflexion",
+   "dauer": "4 Min.",
+   "quelle": "Stefanie Voss (Coachin)"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://karrierebibel.de/selbstreflexion/",
+   "titel": "Selbstreflexion: Bedeutung und Methoden",
+   "dauer": "10 Min.",
+   "quelle": "Karrierebibel",
+   "notiz": "Mit vielen Fragen. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=OSk0AUT4_8o",
+   "titel": "So krempelst du dein Leben um",
+   "dauer": "11 Min.",
+   "quelle": "Kurzgesagt (deutsche Fassung)",
+   "notiz": "Wie man mit Rückblick und Zielen bewusster lebt"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=_XmRVVuQcVU",
+   "grund": "Kanal eines Herstellers von Nahrungsergänzung"
+  }
+ ]
+}

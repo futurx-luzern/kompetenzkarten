@@ -1,0 +1,99 @@
+{
+ "titel": "Achtsamkeit im Alltag integrieren",
+ "kategorie": "Selbstreflexion und Achtsamkeit",
+ "aufgabe": "Recherchiere, wie du Achtsamkeitstechniken in deinen Alltag integrieren kannst, um bewusster zu leben. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Ansätze.",
+ "ziel": "Verstehe, wie du durch Achtsamkeit mehr Balance und Ruhe in dein Leben bringst.",
+ "text": [
+  "Achtsamkeit klingt nach Meditation und Räucherstäbchen. Dabei geht es um etwas ganz Alltägliches: wirklich da sein bei dem, was du gerade tust, statt mit den Gedanken schon beim Nächsten.",
+  "Auf dieser Karte erfährst du, wie du Achtsamkeit in deinen normalen Tag einbaust: beim Essen, beim Gehen, beim Zähneputzen und im Umgang mit dem Handy."
+ ],
+ "methode_titel": "Achtsamkeit im Alltag",
+ "qr_hinweis": [
+  {
+   "karte": "Achtsamkeitsübungen kennenlernen",
+   "seite": "achtsamkeitsuebungen-kennenlernen.html"
+  }
+ ],
+ "fragen": [
+  "Bei welcher Alltagstätigkeit hast du Achtsamkeit ausprobiert? Wie war es?",
+  "Wann bist du im Alltag besonders oft mit den Gedanken woanders?",
+  "Welche kleine Achtsamkeits-Gewohnheit willst du einführen?"
+ ],
+ "suche": [
+  "Achtsamkeit im Alltag",
+  "achtsam essen",
+  "Digital Detox Tipps"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ctZAQid_Bm4",
+   "titel": "Mehr Ruhe, weniger Stress: Achtsamkeit im Alltag",
+   "dauer": "5 Min.",
+   "quelle": "Bayerischer Rundfunk, 2026",
+   "notiz": "Eine Achtsamkeitstrainerin zeigt einfache Übungen"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=xpExXBKrRPo",
+   "titel": "5 Übungen für mehr Achtsamkeit im Alltag",
+   "dauer": "6 Min.",
+   "quelle": "Gefühlssache (Psychologie-Kanal)"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=YUeykO3HI-g",
+   "titel": "Achtsam essen: Meditation beim Essen",
+   "dauer": "5 Min.",
+   "quelle": "OpenUp",
+   "notiz": "Zum Mitmachen beim nächsten Znüni"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=rIGzh9fMlDk",
+   "titel": "Digital Detox: Tipps für eine Smartphone-Pause",
+   "dauer": "3,5 Min.",
+   "quelle": "Techniker Krankenkasse"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://insighttimer.com/",
+   "titel": "Insight Timer: kostenlose Meditations-App",
+   "dauer": "App",
+   "quelle": "Insight Timer",
+   "notiz": "Viele geführte Übungen auf Deutsch. Bleibt von der alten Seite",
+   "warnung": "Grundversion gratis, es gibt auch ein Bezahl-Abo"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=fRur17M_23g",
+   "titel": "Digital Detox: Macht offline glücklich?",
+   "dauer": "30 Min.",
+   "quelle": "ARTE Twist, 2026"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://mycompetence.de/blog/achtsamkeit-im-alltag",
+   "grund": "Firmenblog eines Weiterbildungsanbieters"
+  },
+  {
+   "url": "https://stressbehandlung.info/11-leicht-umsetzbare-tipps-fuer-mehr-achtsamkeit-im-alltag/",
+   "grund": "Ratgeberseite ohne erkennbare Fachstelle"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=OLRohLkWhi8",
+   "grund": "35 Minuten, Kanal für Naturheilkunde"
+  },
+  {
+   "url": "https://insighttimer.com/de/yousefhammoudah/gefuehrte-meditation/morgenmeditation-in-8-minuten-entspannt-in-den-tag",
+   "grund": "Einzelne Meditation, die App selbst bleibt verlinkt"
+  }
+ ]
+}
