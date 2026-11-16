@@ -1,0 +1,66 @@
+{
+ "titel": "Gehmeditation kennenlernen",
+ "kategorie": "Selbstreflexion und Achtsamkeit",
+ "aufgabe": "Recherchiere, wie eine Gehmeditation funktioniert und welche Vorteile sie für das Wohlbefinden bietet. Erstelle eine kurze Zusammenfassung oder eine einfache Schritt-für- Schritt-Anleitung.",
+ "ziel": "Erfahre, wie du durch Gehmeditation zur Ruhe kommst und deine Achtsamkeit förderst.",
+ "text": [
+  "Meditieren heisst nicht immer stillsitzen mit geschlossenen Augen. Bei der Gehmeditation bist du in Bewegung. Du gehst langsam und achtest ganz bewusst auf jeden Schritt.",
+  "Das hilft, den Kopf frei zu bekommen und im Moment anzukommen. Besonders gut passt es für Menschen, die beim Sitzen unruhig werden. Auf dieser Karte lernst du, wie es geht, und probierst es aus."
+ ],
+ "methode_titel": "So funktioniert die Gehmeditation",
+ "fragen": [
+  "Wie war es für dich, so langsam und bewusst zu gehen?",
+  "Was hast du wahrgenommen, das dir sonst nicht auffällt?",
+  "Wo in deinem Alltag könntest du ein Stück bewusst gehen?"
+ ],
+ "suche": [
+  "Gehmeditation Anleitung",
+  "achtsam gehen",
+  "Meditation im Gehen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ut5EPc-iCGA",
+   "titel": "Einführung in die Gehmeditation",
+   "dauer": "8 Min.",
+   "quelle": "Lotos Vihara (Meditationszentrum)",
+   "notiz": "Ruhige Erklärung, wie es geht. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=a0CSU5GrtvM",
+   "titel": "Achtsam gehen: Anleitung zum Mitmachen",
+   "dauer": "6,5 Min.",
+   "quelle": "hilftachtsam, 2024",
+   "notiz": "Nach dem Mönch Thich Nhat Hanh"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=p-qL2uxE5LM",
+   "titel": "Achtsam gehen und Stress loslassen",
+   "dauer": "13,5 Min.",
+   "quelle": "Meditieren mit Jette",
+   "notiz": "Zum Anhören während eines Spaziergangs"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=N5KpQ4q77fs",
+   "titel": "Achtsamkeit beim Gehen: Gehmeditation",
+   "dauer": "17 Min.",
+   "quelle": "Paulina Thurm (Meditationslehrerin)",
+   "notiz": "Längere Anleitung. Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.waschbaer.ch/magazin/gehmeditation-anleitung-und-tipps/",
+   "grund": "Seite nicht mehr erreichbar"
+  }
+ ],
+ "bemerkung": "Gute Texte zum Lesen für Jugendliche fehlen. Die Mini-Einführung deckt die Anleitung ab."
+}
