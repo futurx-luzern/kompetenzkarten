@@ -1,0 +1,114 @@
+{
+ "titel": "Deine Emotionen zeigen",
+ "kategorie": "Gefühle zum Ausdruck bringen",
+ "aufgabe": "Finde heraus, wie du deine Gefühle offen und ehrlich zeigen kannst, ohne dich dabei unwohl zu fühlen. Erfahre, welche Wege es gibt, um Emotionen sicher und angemessen auszudrücken. Erstelle eine Liste mit den besten Tipps, die dir dabei helfen, deine Gefühle auf gesunde Weise zu zeigen.",
+ "ziel": "Lerne, wie du deine Emotionen sicher und offen ausdrücken kannst.",
+ "text": [
+  "Manche Menschen zeigen ihre Gefühle offen, andere behalten sie lieber für sich. Vielleicht hast du auch schon gehört: «Jungs weinen nicht» oder «Reiss dich zusammen».",
+  "Gefühle zu zeigen ist wichtig für gute Beziehungen. Es kommt aber darauf an, wie. Auf dieser Karte lernst du, Gefühle so auszudrücken, dass andere dich verstehen, ohne sie anzugreifen."
+ ],
+ "methode_titel": "So zeigst du Gefühle passend",
+ "uebung": {
+  "frage": "Ich-Botschaft oder Du-Botschaft?",
+  "optionen": [
+   "Ich-Botschaft",
+   "Du-Botschaft"
+  ],
+  "hinweis": "Eine Ich-Botschaft beschreibt dein Gefühl und deinen Wunsch. Eine Du-Botschaft beschreibt den anderen.",
+  "aufgaben": [
+   {
+    "text": "«Du bist immer so unzuverlässig!»",
+    "richtig": "Du-Botschaft",
+    "warum": "Ein Vorwurf an die andere Person."
+   },
+   {
+    "text": "«Ich war enttäuscht, als du nicht gekommen bist.»",
+    "richtig": "Ich-Botschaft",
+    "warum": "Beschreibt das eigene Gefühl."
+   },
+   {
+    "text": "«Ich fühle mich gestresst, wenn alles in letzter Minute kommt. Kannst du mir früher Bescheid geben?»",
+    "richtig": "Ich-Botschaft",
+    "warum": "Situation, Gefühl und Wunsch."
+   },
+   {
+    "text": "«Du machst mich wahnsinnig.»",
+    "richtig": "Du-Botschaft",
+    "warum": "Gibt dem anderen die Schuld für das eigene Gefühl."
+   },
+   {
+    "text": "«Ich freue mich sehr, dass du mir geholfen hast.»",
+    "richtig": "Ich-Botschaft",
+    "warum": "Auch positive Gefühle lassen sich so ausdrücken."
+   }
+  ]
+ },
+ "fragen": [
+  "Fällt es dir leicht oder schwer, Gefühle zu zeigen? Bei wem eher, bei wem weniger?",
+  "Welche Gefühle zeigst du gerne, welche lieber nicht? Warum?",
+  "Wann hast du zuletzt eine Ich-Botschaft benutzt, oder wann hättest du eine gebraucht?"
+ ],
+ "suche": [
+  "Ich-Botschaften",
+  "Gefühle zeigen",
+  "Gefühle zeigen Männer"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QMKAV3I6kF0",
+   "titel": "Ich-Botschaften und alles wird einfacher",
+   "dauer": "3,5 Min.",
+   "quelle": "DAK (Krankenkasse)",
+   "notiz": "Kurz und mit Beispielen"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=mnnRCoJHouM",
+   "titel": "Ich-Botschaften und Du-Botschaften",
+   "dauer": "4,5 Min.",
+   "quelle": "Erzieherkanal, 2024",
+   "notiz": "Mit einem Beispiel Schritt für Schritt"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/wer_bin_ich_was_tue_ich/deine_gefuehle/gefuehle_sind_wegweiser.cfm",
+   "titel": "Wer bin ich? Gefühle sind Wegweiser",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Warum alle Gefühle ihren Platz haben"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=K6mBD9W0xyE",
+   "titel": "Unterdrückte Gefühle: Warum es Männer oft schwerer haben",
+   "dauer": "10 Min.",
+   "quelle": "Vera F. Birkenbihl (Lernen der Zukunft)",
+   "notiz": "Ein Vortrag über Rollenbilder",
+   "warnung": "Am Anfang und Schluss Werbung für den Kanal"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=YuZPdldC9-s",
+   "titel": "Männerbild im Wandel",
+   "dauer": "27,5 Min.",
+   "quelle": "Terra Xplore (ZDF), 2024",
+   "notiz": "Ein Psychologe fragt, was es heute heisst, ein Mann zu sein"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://anchukoegl.com/gefuehle-zeigen/",
+   "grund": "Blog einer Coachin"
+  },
+  {
+   "url": "https://www.elitepartner.ch/magazin/daten/gefuehle-zeigen/",
+   "grund": "Magazin einer Partnervermittlung, passt nicht"
+  }
+ ]
+}

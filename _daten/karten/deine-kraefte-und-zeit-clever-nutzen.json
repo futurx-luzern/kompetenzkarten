@@ -1,0 +1,80 @@
+{
+ "titel": "Deine Kräfte und Zeit clever nutzen",
+ "kategorie": "Umgang mit eigenen Ressourcen",
+ "aufgabe": "Erkunde, wie du deine Energie und Zeit besser einteilen kannst, um den ganzen Tag über produktiv zu bleiben. Lerne Techniken kennen, die dir helfen, deine Aufgaben sinnvoll zu planen und dabei auch Pausen einzuplanen. Erstelle einen Tagesplan oder eine Liste mit den besten Tipps, um deine Ressourcen effizient zu nutzen.",
+ "ziel": "Verstehe, wie du deine Energie und Zeit so einteilst, dass du Aufgaben schaffst, ohne dich zu überlasten.",
+ "text": [
+  "Schule, Lehre, Training, Freunde, Familie, Handy: Der Tag ist voll. Manchmal fühlst du dich am Abend völlig leer, obwohl du gar nicht so viel geschafft hast.",
+  "Kräfte und Zeit clever nutzen heisst, zu wissen, was dir Energie gibt und was sie dir raubt, und deinen Tag danach zu planen. Auf dieser Karte findest du heraus, wie dein Energie-Akku funktioniert."
+ ],
+ "methode_titel": "Dein Energie-Akku",
+ "fragen": [
+  "Was sind deine drei grössten Energiespender, was deine drei grössten Energiefresser?",
+  "Wann am Tag bist du am leistungsfähigsten?",
+  "Was willst du an deiner Tagesplanung ändern, damit dein Akku voller bleibt?"
+ ],
+ "suche": [
+  "Energiespender Energiefresser",
+  "Tagesleistungskurve",
+  "Kraftquellen finden"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=yRDV1ypHA_k",
+   "titel": "Was sind persönliche Kraftquellen?",
+   "dauer": "2,5 Min.",
+   "quelle": "Institut für Ressourcenaktivierung"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cbce4LWmUec",
+   "titel": "Die Tagesleistungskurve",
+   "dauer": "5 Min.",
+   "quelle": "mindyourlife",
+   "notiz": "Wann du am leistungsfähigsten bist"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/stress_wie_warum_was_strategien/stress/was_hilft_dir_gegen_stress.cfm",
+   "titel": "Was hilft dir gegen Stress?",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Auch zu Kraftquellen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=BEUOT-cqJYg",
+   "titel": "Was dir wirklich deine Energie raubt",
+   "dauer": "8 Min.",
+   "quelle": "Psychologie im Alltag, 2024"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=wLHPgcOekvw",
+   "titel": "So verbesserst du dein Zeitmanagement: 10 Tipps",
+   "dauer": "4,5 Min.",
+   "quelle": "Studyflix, 2025"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ulgJjcWYZLk",
+   "titel": "Besser trainieren: Wie uns richtige Erholung stärker macht",
+   "dauer": "31,5 Min.",
+   "quelle": "SRF Wissen",
+   "notiz": "Warum Pausen und Erholung so wichtig sind"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://hellobetter.de/aerzte-psychotherapeuten/ressourcenaktivierung/",
+   "grund": "Für Fachleute aus der Psychotherapie geschrieben"
+  }
+ ]
+}

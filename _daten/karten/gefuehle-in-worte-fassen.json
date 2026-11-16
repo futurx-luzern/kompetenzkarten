@@ -1,0 +1,82 @@
+{
+ "titel": "Gefühle in Worte fassen",
+ "kategorie": "Innere Erleben reflektieren",
+ "aufgabe": "Lerne, wie du deine Gedanken und Gefühle besser verstehst und ausdrückst. Erfahre, warum es wichtig ist, über deine inneren Erlebnisse zu sprechen und wie du diese klarer formulieren kannst. Erstelle eine kurze Liste mit Tipps, die dir helfen, deine Emotionen besser zu verbalisieren.",
+ "ziel": "Lerne, wie du deine Gefühle und Gedanken klarer ausdrückst und mit anderen teilst.",
+ "text": [
+  "«Wie geht es dir?» – «Gut.» Oft antworten wir so, auch wenn es eigentlich komplizierter ist. Gefühle genau zu benennen ist gar nicht so einfach.",
+  "Dabei hilft es sehr, zu wissen, was man fühlt. Du verstehst dich selbst besser, kannst besser damit umgehen und anderen erklären, was los ist. Auf dieser Karte erweiterst du deinen Wortschatz für Gefühle."
+ ],
+ "methode_titel": "So benennst du Gefühle genauer",
+ "fragen": [
+  "Welche Gefühle hattest du heute? Versuche, sie möglichst genau zu benennen.",
+  "Welche Gefühle fallen dir leicht zu benennen, welche schwer?",
+  "Mit wem kannst du gut über Gefühle reden?"
+ ],
+ "suche": [
+  "Gefühle benennen",
+  "Rad der Emotionen",
+  "Emotionen und Gefühle Unterschied"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=BII2DYZLn38",
+   "titel": "Gefühle besser ausdrücken lernen",
+   "dauer": "7,5 Min.",
+   "quelle": "lernfoerderung",
+   "notiz": "Die wichtigsten Gefühle und passende Wörter. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=IHOwB39RFqo",
+   "titel": "Emotion oder Gefühl? Der Unterschied",
+   "dauer": "4,5 Min.",
+   "quelle": "DAK (Krankenkasse), 2022",
+   "notiz": "Ein Psychologe erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/wer_bin_ich_was_tue_ich/deine_gefuehle/gefuehle_sind_wegweiser.cfm",
+   "titel": "Wer bin ich? Gefühle sind Wegweiser",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Für Jugendliche geschrieben"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=_757yLXMHJM",
+   "titel": "Das Rad der Emotionen einfach erklärt",
+   "dauer": "9 Min.",
+   "quelle": "Glühhirn Universum, 2024",
+   "notiz": "Ein Werkzeug, um Gefühle genauer zu benennen"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.srf.ch/play/tv/einstein/video/emotionale-intelligenz-was-steckt-hinter-den-gefuehlen?urn=urn:srf:video:7142cf8d-a91a-4fed-b021-f4cf83041d37",
+   "titel": "Emotionale Intelligenz: Was steckt hinter den Gefühlen?",
+   "dauer": "36 Min.",
+   "quelle": "SRF Einstein, 2021",
+   "notiz": "Ausführliche Sendung mit Forschenden"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://worte-und-wunder.de/gefuehle-in-worte-fassen/",
+   "grund": "Blog einer Schreibcoachin"
+  },
+  {
+   "url": "https://praxistipps.focus.de/gefuehle-beschreiben-wie-sie-lernen-ihre-gefuehle-in-worte-zu-fassen_108477",
+   "grund": "Kurzer Ratgeber mit viel Werbung"
+  },
+  {
+   "url": "https://greator.com/gefuehlsrad/",
+   "grund": "Seite eines Coaching-Unternehmens mit Verkaufsfokus"
+  }
+ ]
+}

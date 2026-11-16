@@ -1,0 +1,83 @@
+{
+ "titel": "Deine Stärken kennen",
+ "kategorie": "Eigenen Kompetenzen und Ressourcen",
+ "aufgabe": "Informiere dich darüber, wie du deine eigenen Stärken und Fähigkeiten besser kennenlernen und nutzen kannst. Lerne, wie du bewusst mit deinen Ressourcen umgehst und sie gezielt einsetzt. Erstelle eine Liste oder ein Diagramm, das zeigt, wie du deine Kompetenzen optimal nutzt.",
+ "ziel": "Lerne, wie du deine Fähigkeiten und Ressourcen bewusst und effektiv einsetzt.",
+ "text": [
+  "«Was sind Ihre Stärken?» Diese Frage kommt in fast jedem Bewerbungsgespräch. Viele wissen dann nicht, was sie sagen sollen.",
+  "Dabei hat jede und jeder Stärken. Manchmal muss man sie nur entdecken. Auf dieser Karte lernst du, welche Arten von Stärken es gibt, wie du deine eigenen findest und wie du sie gut beschreibst."
+ ],
+ "methode_titel": "So entdeckst du deine Stärken",
+ "fragen": [
+  "Welche drei Stärken hast du bei dir gefunden? Hast du ein Beispiel dafür?",
+  "Was haben andere über deine Stärken gesagt? Hat dich etwas überrascht?",
+  "Wo kannst du deine Stärken im Alltag oder im Beruf einsetzen?"
+ ],
+ "suche": [
+  "eigene Stärken erkennen",
+  "Charakterstärken",
+  "Stärken Bewerbungsgespräch"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=U3TVByjqI2c",
+   "titel": "Was sind meine Stärken und Schwächen?",
+   "dauer": "3 Min.",
+   "quelle": "Ausbildung.de",
+   "notiz": "Mit Blick aufs Bewerbungsgespräch. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Jx4PF8cS9a8",
+   "titel": "Die eigenen Stärken finden",
+   "dauer": "4 Min.",
+   "quelle": "Startup Teens",
+   "notiz": "Für Jugendliche gemacht"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=CIkPomNfE90",
+   "titel": "Wie beeinflussen Charakterstärken unser Leben?",
+   "dauer": "2,5 Min.",
+   "quelle": "Stiftung Gesundheitswissen, 2026"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=pwizLAQsX3k",
+   "titel": "10 Fragen, um deine Stärken zu entdecken",
+   "dauer": "8 Min.",
+   "quelle": "Glücksdetektiv",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=38NX0OTSeVE",
+   "titel": "Was sind Charakterstärken?",
+   "dauer": "3 Min.",
+   "quelle": "Dr. Daniela Blickhan (Positive Psychologie)",
+   "notiz": "Das Modell der 24 Charakterstärken"
+  },
+  {
+   "stufe": 3,
+   "typ": "test",
+   "url": "https://www.viacharacter.org/",
+   "titel": "VIA-Test: Deine Charakterstärken",
+   "dauer": "15 Min.",
+   "quelle": "VIA Institute on Character",
+   "notiz": "Kostenloser wissenschaftlicher Test, auch auf Deutsch",
+   "warnung": "Für das Ergebnis braucht es eine Anmeldung mit E-Mail"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://soulsweet.de/blog/eigene-staerken-erkennen/",
+   "grund": "Blog ohne erkennbare Fachstelle"
+  }
+ ]
+}

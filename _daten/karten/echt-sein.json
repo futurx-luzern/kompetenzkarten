@@ -1,0 +1,74 @@
+{
+ "titel": "Echt sein",
+ "kategorie": "Authentizität",
+ "aufgabe": "Erfahre, warum es wichtig ist, authentisch zu sein – also so zu handeln und zu sprechen, wie du wirklich bist. Lerne, wie du ehrlich und echt bleibst, auch wenn es schwerfällt. Erstelle eine Liste mit Tipps, die dir helfen, authentischer im Alltag zu bleiben.",
+ "ziel": "Lerne, wie du echt bleibst und eine Übereinstimmung zwischen deinem verbalen und nonverbalen Ausdruck erreichst.",
+ "text": [
+  "Manchmal hat man das Gefühl, eine Rolle spielen zu müssen: cool sein vor den Kollegen, perfekt auf Instagram, angepasst im Betrieb. Das kann anstrengend sein.",
+  "Echt sein heisst, zu sich selbst zu stehen. Auf dieser Karte geht es darum, was das bedeutet, wo die Grenzen sind und wie du auch bei Gruppendruck du selbst bleibst."
+ ],
+ "methode_titel": "Was echt sein bedeutet",
+ "fragen": [
+  "In welchen Situationen fühlst du dich ganz echt, in welchen eher nicht?",
+  "Hast du schon einmal etwas gemacht, nur um dazuzugehören? Wie war das?",
+  "Was ist dir so wichtig, dass du dafür auch gegen die Gruppe einstehen würdest?"
+ ],
+ "suche": [
+  "authentisch sein",
+  "Gruppenzwang widerstehen",
+  "sich selbst treu bleiben"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=z2ewXqQ78hM",
+   "titel": "Was tun gegen Gruppenzwang?",
+   "dauer": "6 Min.",
+   "quelle": "VIGOZONE (mit laurinspire), 2022",
+   "notiz": "Für Jugendliche gemacht"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=oeDggA60zp8",
+   "titel": "So bist du echt, ehrlich und authentisch",
+   "dauer": "8 Min.",
+   "quelle": "Psychologie im Alltag, 2023",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/jugendliche_fragen_antworten/jugendbeitraege/checkout.cfm",
+   "titel": "Jugendliche fragen und antworten: Selbstvertrauen",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Erfahrungen von anderen Jugendlichen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.srf.ch/play/tv/mental-health-bei-jugendlichen/video/meine-identitaet?urn=urn:srf:video:b9da8d08-387e-4538-8277-adffa8fa3a6c",
+   "titel": "Meine Identität",
+   "dauer": "11 Min.",
+   "quelle": "SRF school, Mental Health bei Jugendlichen, 2025",
+   "notiz": "Jugendliche aus der Schweiz erzählen, wer sie sind"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QSwrupCDqY0",
+   "titel": "Warum uns Authentizität so wichtig ist",
+   "dauer": "13,5 Min.",
+   "quelle": "Menschen und Muster, 2023",
+   "notiz": "Was Authentizität überhaupt ist"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.foodspring.de/magazine/authentisch-sein",
+   "grund": "Seite nicht mehr erreichbar, Magazin eines Sportnahrungs-Herstellers"
+  }
+ ]
+}

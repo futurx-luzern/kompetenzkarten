@@ -166,6 +166,7 @@ h1 { font-size: clamp(2.3rem, 10vw, 4.2rem); line-height: .98; margin: .6rem 0 1
 .chips { display: flex; gap: .4rem; margin-bottom: .35rem; flex-wrap: wrap; }
 .chip { font-size: .78rem; font-weight: 700; padding: .05rem .55rem; border-radius: 999px; border: 2px solid var(--schwarz); background: var(--weiss); }
 .chip.zeit { background: var(--b-hell); }
+.chip.sprache { background: var(--gelb); }
 .t { font-family: "Bricolage Grotesque", system-ui, sans-serif; font-weight: 800; font-size: 1.15rem; line-height: 1.2; display: block; }
 .q { font-size: .9rem; color: var(--leise); }
 

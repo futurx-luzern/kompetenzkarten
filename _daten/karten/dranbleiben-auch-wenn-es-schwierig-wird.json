@@ -1,0 +1,82 @@
+{
+ "titel": "Dranbleiben, auch wenn es schwierig wird",
+ "kategorie": "Ziele allein weiterverfolgen",
+ "aufgabe": "Informiere dich darüber, wie du es schaffst, an deinen Zielen festzuhalten, auch wenn du auf dich allein gestellt bist. Finde heraus, wie du dich selbst motivieren kannst, auch in schwierigen Zeiten weiterzumachen. Erstelle eine Liste mit Strategien, die dir helfen, dein Durchhaltevermögen zu stärken.",
+ "ziel": "Lerne, wie du deine Ziele erfolgreich alleine weiterverfolgst und dich selbst motivierst.",
+ "text": [
+  "Am Anfang ist man motiviert: neues Training, neue Lehre, neues Ziel. Doch dann kommen Hindernisse, schlechte Noten, Rückschläge, und die Lust ist weg.",
+  "Dranbleiben ist eine Fähigkeit, die man lernen kann. Auf dieser Karte erfährst du, was Forschende über Durchhaltevermögen herausgefunden haben und welche Strategien helfen."
+ ],
+ "methode_titel": "Was beim Dranbleiben hilft",
+ "fragen": [
+  "Bei welchem Ziel bist du schon einmal drangeblieben, obwohl es schwierig war? Was hat dir geholfen?",
+  "Wo sagst du dir «Ich kann das nicht»? Wie klingt es mit «noch nicht»?",
+  "Welche Strategie willst du bei deinem nächsten schwierigen Ziel ausprobieren?"
+ ],
+ "suche": [
+  "Growth Mindset",
+  "Durchhaltevermögen",
+  "Frustrationstoleranz"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=I79fZFvz9JA",
+   "titel": "Growth Mindset und Fixed Mindset",
+   "dauer": "5,5 Min.",
+   "quelle": "Sprouts",
+   "notiz": "Gezeichnet erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=rnkigFb5KOk",
+   "titel": "Frustrationstoleranz: So gehst du besser mit Frust um",
+   "dauer": "4 Min.",
+   "quelle": "DAK (Krankenkasse)"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=q99DgQ2tICI",
+   "titel": "Growth Mindset: Warum ich etwas NOCH nicht kann",
+   "dauer": "7 Min.",
+   "quelle": "Bob Blume (Lehrer), 2023"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=HjbD4DETe50",
+   "titel": "Grit: Leidenschaft und Hartnäckigkeit",
+   "dauer": "20,5 Min.",
+   "quelle": "Prof. Hans-Peter Erb (Sozialpsychologie), 2023",
+   "notiz": "Was die Forschung zu Grit sagt"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=H14bBuluwB8",
+   "titel": "Der Schlüssel zum Erfolg? Durchhaltevermögen",
+   "dauer": "6 Min.",
+   "quelle": "TED (Angela Lee Duckworth)",
+   "notiz": "Der berühmte Vortrag der Grit-Forscherin",
+   "warnung": "Auf Englisch, deutsche Untertitel einschaltbar",
+   "sprache": "en"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=vejD0yH9alU",
+   "grund": "Andacht eines christlichen Senders"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=dzM_x9fTcbo",
+   "grund": "Kanal eines Mineralwasser-Herstellers"
+  },
+  {
+   "url": "https://www.bettinaramm.com/blog/weitermachen-oder-aufgeben",
+   "grund": "Blog einer Coachin"
+  }
+ ]
+}
