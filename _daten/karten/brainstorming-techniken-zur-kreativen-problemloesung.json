@@ -1,0 +1,122 @@
+{
+ "titel": "Brainstorming-Techniken",
+ "kategorie": "Entscheidungsfindung und Problemlösung",
+ "aufgabe": "Recherchiere, welche Brainstorming-Techniken es gibt und wie sie zur kreativen Problemlösung beitragen. Erstelle eine kurze Zusammenfassung oder eine Liste der effektivsten Techniken.",
+ "ziel": "Erfahre, wie du durch kreative Ideenfindung innovative Lösungen entwickeln kannst.",
+ "text": [
+  "Ihr sollt in der Gruppe eine Idee für ein Projekt finden, aber niemandem fällt etwas ein? Oder alle reden durcheinander, und am Schluss hat sich die lauteste Person durchgesetzt?",
+  "Brainstorming-Techniken helfen, in kurzer Zeit viele Ideen zu sammeln. Auf dieser Karte lernst du die wichtigsten Regeln und einige Varianten kennen."
+ ],
+ "methode_titel": "So funktioniert Brainstorming",
+ "uebung": {
+  "frage": "Passt das zu den Brainstorming-Regeln?",
+  "optionen": [
+   "Passt",
+   "Passt nicht"
+  ],
+  "hinweis": "Denk an die vier Regeln oben.",
+  "aufgaben": [
+   {
+    "text": "«Das funktioniert nie», sagt jemand zu einer neuen Idee.",
+    "richtig": "Passt nicht",
+    "warum": "Während des Sammelns wird nicht kritisiert."
+   },
+   {
+    "text": "Jemand schreibt eine ziemlich verrückte Idee auf.",
+    "richtig": "Passt",
+    "warum": "Ungewöhnliche Ideen sind erwünscht. Sie bringen andere auf neue Gedanken."
+   },
+   {
+    "text": "Ihr hört nach drei Ideen auf, weil die erste schon gut ist.",
+    "richtig": "Passt nicht",
+    "warum": "Zuerst möglichst viele Ideen sammeln, dann auswählen."
+   },
+   {
+    "text": "Du baust auf der Idee einer Kollegin auf und entwickelst sie weiter.",
+    "richtig": "Passt",
+    "warum": "Weiterspinnen ist ausdrücklich erwünscht."
+   },
+   {
+    "text": "Alle schreiben zuerst 5 Minuten still eigene Ideen auf.",
+    "richtig": "Passt",
+    "warum": "Das ist Brainwriting. So kommen auch ruhigere Personen zum Zug."
+   }
+  ]
+ },
+ "fragen": [
+  "Welche Technik hast du ausprobiert? Wie viele Ideen sind entstanden?",
+  "Arbeitest du lieber allein oder in der Gruppe an Ideen? Warum?",
+  "Wo könntest du Brainstorming in der Schule oder im Betrieb einsetzen?"
+ ],
+ "suche": [
+  "Brainstorming Regeln",
+  "Brainwriting 6-3-5",
+  "Kreativitätstechniken"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=H6R6nR_N0Yo",
+   "titel": "So funktioniert Brainstorming richtig",
+   "dauer": "3,5 Min.",
+   "quelle": "Ingrid und Peter Gerstbach (Design Thinking)",
+   "notiz": "Regeln und typische Fehler"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=tBeLFL84Uy0",
+   "titel": "Kreativitätstechniken: So findest du geniale Ideen",
+   "dauer": "4 Min.",
+   "quelle": "FLIP!N Lernen, 2025",
+   "notiz": "Mehrere Techniken im Überblick"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://studyflix.de/jobs/karriere-tipps/brainstorming-7144",
+   "titel": "Brainstorming einfach erklärt",
+   "dauer": "6 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Mit Vor- und Nachteilen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=g3Baxtyfjk8",
+   "titel": "Brainwriting: Die Vorteile gegenüber Brainstorming",
+   "dauer": "3 Min.",
+   "quelle": "ZEIT Akademie, 2023",
+   "notiz": "Eine Psychologin erklärt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=WkSNMW7C8jI",
+   "titel": "Die 6-3-5-Methode",
+   "dauer": "3 Min.",
+   "quelle": "PINKTUM",
+   "notiz": "Kurze Anleitung"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=J7LXXZ5oFVE",
+   "titel": "Kreativität fördern durch Brainstorming",
+   "dauer": "6,5 Min.",
+   "quelle": "PINKTUM",
+   "notiz": "Für die Arbeit in Teams"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://klaxoon.com/de/insight/5-brainstorming-techniken-fur-eine-effiziente-problemlosung",
+   "grund": "Seite eines Software-Anbieters"
+  },
+  {
+   "url": "https://asana.com/de/resources/brainstorming-techniques",
+   "grund": "Seite eines Software-Anbieters, für Firmen"
+  }
+ ]
+}

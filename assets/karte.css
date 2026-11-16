@@ -107,6 +107,15 @@ h1 { font-size: clamp(2.3rem, 10vw, 4.2rem); line-height: .98; margin: .6rem 0 1
 .z-pause { background: var(--blau); flex: 1 0 2rem; }
 .z-lang { background: #9be564; flex: 5 1 9rem; }
 
+/* Entscheidungsbaum */
+.baum { margin: 1.2rem 0; background: var(--weiss); border: var(--linie); border-radius: var(--radius); padding: 1rem; }
+.baum ul { list-style: none; margin: .3rem 0 0 .7rem; padding: 0 0 0 .9rem; }
+.baum li { margin: .55rem 0; position: relative; }
+.baum li::before { content: ""; position: absolute; left: -.9rem; top: -.6rem; bottom: -.6rem; border-left: 2px solid var(--schwarz); }
+.baum li:last-child::before { bottom: auto; height: 1.6rem; }
+.baum li::after { content: ""; position: absolute; left: -.9rem; top: .95rem; width: .75rem; border-top: 2px solid var(--schwarz); }
+.baum .knoten { display: inline-block; border: var(--linie); border-radius: 10px; padding: .15rem .6rem; font-weight: 700; margin-right: .3rem; }
+
 /* Cornell-Blatt */
 .blatt-skizze {
   display: grid; grid-template-columns: 1fr 2.4fr; grid-template-rows: auto 1fr auto;

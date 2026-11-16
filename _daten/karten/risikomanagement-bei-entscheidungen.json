@@ -1,0 +1,75 @@
+{
+ "titel": "Risikomanagement bei Entscheidungen",
+ "kategorie": "Entscheidungsfindung und Problemlösung",
+ "aufgabe": "Recherchiere, wie man Risiken bei Entscheidungen identifiziert und bewertet. Erstelle eine kurze Zusammenfassung oder eine Checkliste für das Risikomanagement",
+ "ziel": "Verstehe, wie du durch bewusstes Risikomanagement fundierte Entscheidungen triffst.",
+ "text": [
+  "Jede Entscheidung ist mit einem gewissen Risiko verbunden. Wechselst du den Lehrbetrieb, kaufst du ein teures Handy auf Raten, fährst du mit dem Velo statt dem Bus?",
+  "Risikomanagement heisst, Risiken zu erkennen, einzuschätzen und klug damit umzugehen. Auf dieser Karte lernst du die Risikomatrix kennen und erfährst, warum unser Gehirn Risiken oft falsch einschätzt."
+ ],
+ "methode_titel": "So schätzt du Risiken ein",
+ "fragen": [
+  "Welche Entscheidung hast du mit der Risikomatrix angeschaut? Was kam heraus?",
+  "Bist du eher vorsichtig oder risikofreudig? Woran merkst du das?",
+  "Bei welchem Risiko in deinem Leben möchtest du besser vorsorgen?"
+ ],
+ "suche": [
+  "Risikomatrix",
+  "Risikoanalyse einfach erklärt",
+  "Risikokompetenz Gigerenzer"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=vtPVIA4t79E",
+   "titel": "Risikomatrix einfach erklärt",
+   "dauer": "2 Min.",
+   "quelle": "caesar.academy",
+   "notiz": "Kurz und mit Beispiel"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=PZgmA3llLso",
+   "titel": "Risikoanalyse Schritt für Schritt",
+   "dauer": "4,5 Min.",
+   "quelle": "Swiss Safety Center",
+   "notiz": "Wie Fachleute Risiken erkennen und bewerten"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=0Seo5InNh5E",
+   "titel": "Die Psychologie hinter irrationalen Entscheidungen",
+   "dauer": "4,5 Min.",
+   "quelle": "TED-Ed (deutsche Fassung), 2025",
+   "notiz": "Warum wir Risiken oft falsch einschätzen"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=f3tCOQO80vU",
+   "titel": "Besser entscheiden: Intuition und Risikokompetenz",
+   "dauer": "12,5 Min.",
+   "quelle": "ZEIT Akademie, 2022",
+   "notiz": "Interview mit dem Psychologen Gerd Gigerenzer"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://studyflix.de/wirtschaft/entscheidung-bei-risiko-i-837/video",
+   "titel": "Entscheidung bei Risiko",
+   "dauer": "5 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Mit Rechenregeln aus der Betriebswirtschaft. Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=QWyT12ILkHg",
+   "grund": "Kanal eines Anti-Stress-Anbieters, passt nicht zum Thema"
+  }
+ ],
+ "bemerkung": "Kein Einstiegs-Text zum Lesen gefunden, der das Thema für Jugendliche erklärt. Die Mini-Einführung deckt den Einstieg ab."
+}

@@ -1,0 +1,95 @@
+{
+ "titel": "Pro- und Contra-Liste zur Entscheidungsfindung",
+ "kategorie": "Entscheidungsfindung und Problemlösung",
+ "aufgabe": "Recherchiere, wie du eine Pro- und Contra-Liste zur Entscheidungsfindung effektiv nutzen kannst. Erstelle eine kurze Zusammenfassung oder ein Beispiel einer solchen Liste.",
+ "ziel": "Lerne, wie du durch strukturiertes Abwägen von Vor- und Nachteilen bessere Entscheidungen triffst.",
+ "text": [
+  "Soll ich die Lehrstelle annehmen? Soll ich in den Fussballclub oder lieber Gitarre lernen? Bei solchen Entscheidungen drehen sich die Gedanken oft im Kreis.",
+  "Die Pro- und Contra-Liste ist eine der einfachsten Methoden, um Klarheit zu bekommen. Auf dieser Karte lernst du, wie sie funktioniert und wie du sie noch besser machst, indem du die Punkte gewichtest."
+ ],
+ "methode_titel": "So funktioniert die Pro- und Contra-Liste",
+ "fragen": [
+  "Vor welcher Entscheidung stehst du gerade oder bald?",
+  "Was hat deine eigene Pro- und Contra-Liste ergeben? Passt das zu deinem Bauchgefühl?",
+  "Wann ist eine solche Liste hilfreich, wann eher nicht?"
+ ],
+ "suche": [
+  "Pro und Contra Liste",
+  "Entscheidungen treffen Tipps",
+  "Entscheidungsmatrix"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=NmzJIJ233NI",
+   "titel": "Pro und Contra: Methode für Entscheidungen",
+   "dauer": "4,5 Min.",
+   "quelle": "lernfoerderung",
+   "notiz": "Die Methode Schritt für Schritt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=9osEGKglKs4",
+   "titel": "Entscheidungen treffen: 5 Tipps von einer Psychologin",
+   "dauer": "3,5 Min.",
+   "quelle": "SRF Bounce, 2024",
+   "notiz": "Für Jugendliche gemacht"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://studyflix.de/jobs/karriere-tipps/entscheidungen-treffen-4605",
+   "titel": "Entscheidungen treffen: Tipps und Methoden",
+   "dauer": "6 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Auch zur gewichteten Pro- und Contra-Liste"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=5a8kaynpw-4",
+   "titel": "Eine Entscheidung treffen in vier Schritten",
+   "dauer": "4 Min.",
+   "quelle": "Lehrerschmidt"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://studyflix.de/wirtschaft/entscheidungsmatrix-7025",
+   "titel": "Was ist eine Entscheidungsmatrix?",
+   "dauer": "6 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Wenn du mehr als zwei Möglichkeiten hast"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=undmT0Jh7H4",
+   "titel": "Die besten Entscheidungen treffen mit der WRAP-Methode",
+   "dauer": "12,5 Min.",
+   "quelle": "Quarks, 2024",
+   "notiz": "Warum die Pro- und Contra-Liste allein nicht immer reicht"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=beY4phQRMiE",
+   "titel": "FOBO: Die Angst vor der falschen Entscheidung",
+   "dauer": "16,5 Min.",
+   "quelle": "Terra Xplore (ZDF), 2025",
+   "notiz": "Was hilft, wenn man sich nicht entscheiden kann"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://karrierebibel.de/selbstreflexion/",
+   "grund": "Allgemeine Seite zur Selbstreflexion, nicht zur Methode"
+  },
+  {
+   "url": "https://www.so-smart.club/blog/pro-contra-liste",
+   "grund": "Blog eines Coaching-Angebots"
+  }
+ ]
+}
