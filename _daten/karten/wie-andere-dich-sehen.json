@@ -1,0 +1,118 @@
+{
+ "titel": "Wie andere dich sehen",
+ "kategorie": "Wirkung des eigenen Verhaltens",
+ "aufgabe": "Überlege, wie deine Stimme, Sprache, Körperhaltung und Mimik auf andere wirken können. Lerne, worauf du achten musst, um bewusst zu steuern, wie du auf andere wirkst. Erstelle eine kurze Übersicht, die dir zeigt, wie du dein Verhalten anpassen kannst, um deine Wirkung zu verbessern.",
+ "ziel": "Verstehe, wie dein Verhalten von anderen wahrgenommen wird und wie du diese Wahrnehmung beeinflussen kannst.",
+ "text": [
+  "Wie wirkst du auf andere? Das ist gar nicht so einfach zu wissen. Oft sehen andere uns anders als wir uns selbst.",
+  "Auf dieser Karte lernst du den Unterschied zwischen Selbstbild und Fremdbild kennen, das Johari-Fenster und wie der erste Eindruck entsteht. Und du erfährst, wie dir Feedback helfen kann."
+ ],
+ "methode_titel": "Selbstbild und Fremdbild",
+ "uebung": {
+  "frage": "In welches Feld des Johari-Fensters gehört das?",
+  "optionen": [
+   "Öffentlich",
+   "Blinder Fleck",
+   "Geheim",
+   "Unbekannt"
+  ],
+  "hinweis": "Frag dich: Weiss ich es? Wissen es die anderen?",
+  "aufgaben": [
+   {
+    "text": "Alle wissen, dass du gerne kochst. Du weisst es auch.",
+    "richtig": "Öffentlich",
+    "warum": "Du und die anderen wissen es."
+   },
+   {
+    "text": "Du spielst mit deinen Haaren, wenn du nervös bist, und merkst es nicht.",
+    "richtig": "Blinder Fleck",
+    "warum": "Andere sehen es, du nicht."
+   },
+   {
+    "text": "Du hast Angst vor Präsentationen, zeigst es aber nicht.",
+    "richtig": "Geheim",
+    "warum": "Nur du weisst es."
+   },
+   {
+    "text": "Du hättest Talent zum Schauspielen, hast es aber nie ausprobiert.",
+    "richtig": "Unbekannt",
+    "warum": "Weder du noch andere wissen davon."
+   },
+   {
+    "text": "Deine Kollegin findet, dass du sehr ruhig und überlegt wirkst. Du hältst dich für unsicher.",
+    "richtig": "Blinder Fleck",
+    "warum": "Wie du wirkst, weisst du selbst nicht."
+   }
+  ]
+ },
+ "fragen": [
+  "Was hast du über dein Fremdbild erfahren? Hat dich etwas überrascht?",
+  "Wie möchtest du auf andere wirken, zum Beispiel im Lehrbetrieb?",
+  "Wen könntest du um ehrliches Feedback bitten?"
+ ],
+ "suche": [
+  "Johari-Fenster",
+  "Selbstbild Fremdbild",
+  "erster Eindruck"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=hPdWrQsy5sI",
+   "titel": "Das Johari-Fenster",
+   "dauer": "2 Min.",
+   "quelle": "PINKTUM",
+   "notiz": "Ganz kurz erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=UiKfCiKOjsk",
+   "titel": "Das Johari-Fenster mit Beispiel",
+   "dauer": "4 Min.",
+   "quelle": "AnkerWissen"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=M-akvGaMcYE",
+   "titel": "Der erste Eindruck ohne zweite Chance",
+   "dauer": "4 Min.",
+   "quelle": "Deutsche Welle",
+   "notiz": "Wie der erste Eindruck entsteht"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=MFhEHNdmT8o",
+   "titel": "Das Johari-Fenster: die wichtigsten Erkenntnisse",
+   "dauer": "8 Min.",
+   "quelle": "Erzieherkanal",
+   "notiz": "Mit Tipps zu Feedback"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=FDA0jo5-pOo",
+   "titel": "So urteilen Menschen auf den ersten Blick",
+   "dauer": "19,5 Min.",
+   "quelle": "Terra Xplore (ZDF), 2025",
+   "notiz": "Wie Vorurteile und erster Eindruck entstehen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://asana.com/de/resources/nonverbal-communication",
+   "grund": "Seite eines Software-Anbieters"
+  },
+  {
+   "url": "https://www.wissenschaftsmanagement-online.de/sites/www.wissenschaftsmanagement-online.de/files/migrated_wimoarticle/Bargs-Krpersprache-Script.pdf",
+   "grund": "Datei nicht mehr erreichbar"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=JzWNigpq-WM",
+   "grund": "Video nicht mehr verfügbar"
+  }
+ ]
+}

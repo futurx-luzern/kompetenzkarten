@@ -412,6 +412,13 @@
   "titel": "Ein Leben ohne Bildschirm",
   "weiterleitung": ""
  },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/jugendliche_fragen_antworten/jugendbeitraege/checkout.cfm": {
+  "geprueft": "2026-11-16",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Fragen und Antworten von Jugendlichen zu Selbstvertrauen und Selbstwert",
+  "weiterleitung": ""
+ },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/selbstvertrauen_aufpeppen/gnomio_entwaffnen/uebungen_fuer_mehr_selbstwert.cfm": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -483,7 +490,7 @@
   "weiterleitung": ""
  },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/start/stress_wie_warum_was_strategien/stress/was_hilft_dir_gegen_stress.cfm": {
-  "geprueft": "2026-11-10",
+  "geprueft": "2026-11-16",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Was hilft dir gegen Stress?",
@@ -662,6 +669,29 @@
   "titel": "",
   "weiterleitung": ""
  },
+ "https://www.srf.ch/play/tv/einstein/video/emotionale-intelligenz-was-steckt-hinter-den-gefuehlen?urn=urn:srf:video:7142cf8d-a91a-4fed-b021-f4cf83041d37": {
+  "datum": "2021-05-27",
+  "geprueft": "2026-11-16",
+  "kanal": "SRF Einstein",
+  "ok": true,
+  "sekunden": 2178,
+  "status": "OK",
+  "titel": "Emotionale Intelligenz: Was steckt hinter den Gefühlen?"
+ },
+ "https://www.srf.ch/play/tv/mental-health-bei-jugendlichen/video/meine-identitaet?urn=urn%3Asrf%3Avideo%3Ab9da8d08-387e-4538-8277-adffa8fa3a6c": {
+  "geprueft": "2026-11-16",
+  "ok": false,
+  "status": "Fehler: AttributeError: 'NoneType' object has no attribute 'group'"
+ },
+ "https://www.srf.ch/play/tv/mental-health-bei-jugendlichen/video/meine-identitaet?urn=urn:srf:video:b9da8d08-387e-4538-8277-adffa8fa3a6c": {
+  "datum": "2025-10-18",
+  "geprueft": "2026-11-16",
+  "kanal": "SRF Mental Health bei Jugendlichen",
+  "ok": true,
+  "sekunden": 652,
+  "status": "OK",
+  "titel": "Meine Identität"
+ },
  "https://www.srf.ch/play/tv/puls/video/bewegung-tut-gut-so-steigt-die-motivation-fuer-sport-im-alltag?urn=urn:srf:video:4cc2458e-38b7-4a13-a8e9-ec55cf5ba648": {
   "datum": "2022-05-23",
   "geprueft": "2026-11-10",
@@ -724,6 +754,13 @@
   "titel": "Zeitdiebe - Erkennen und Beseitigen",
   "weiterleitung": ""
  },
+ "https://www.viacharacter.org/": {
+  "geprueft": "2026-11-16",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "VIA Character Strengths Survey & Character Reports",
+  "weiterleitung": ""
+ },
  "https://www.youtube.com/watch?v=-LV2uWk5iCE": {
   "datum": "2019-04-08",
   "geprueft": "2026-11-10",
@@ -768,6 +805,15 @@
   "sekunden": 763,
   "status": "OK",
   "titel": "Dopamin: So kriegst du es in den Griff | Studio Q"
+ },
+ "https://www.youtube.com/watch?v=0L_uYTxRz1I": {
+  "datum": "2025-04-01",
+  "geprueft": "2026-11-16",
+  "kanal": "Quarks Dimension Ralph",
+  "ok": true,
+  "sekunden": 596,
+  "status": "OK",
+  "titel": "Rauslassen oder unterdrücken – was sollte ich tun, wenn ich wütend bin? | Quarks Dimension Ralph"
  },
  "https://www.youtube.com/watch?v=0Seo5InNh5E": {
   "datum": "2025-08-20",
@@ -831,6 +877,15 @@
   "sekunden": 482,
   "status": "OK",
   "titel": "Schnell auswendig lernen mit dem \"Spacing Effect\" 💾"
+ },
+ "https://www.youtube.com/watch?v=38NX0OTSeVE": {
+  "datum": "2023-01-09",
+  "geprueft": "2026-11-16",
+  "kanal": "Inntal Institut",
+  "ok": true,
+  "sekunden": 164,
+  "status": "OK",
+  "titel": "Daniela Blickhan - Was sind Charakterstärken in der Positiven Psychologie?"
  },
  "https://www.youtube.com/watch?v=3SpyavZgZYo": {
   "datum": "2020-05-14",
@@ -1102,6 +1157,15 @@
   "status": "OK",
   "titel": "Shaolin Meister Shi Heng Yi: Wie lerne ich Selbstbeherrschung? | Sternstunde Religion | SRF Kultur"
  },
+ "https://www.youtube.com/watch?v=BEUOT-cqJYg": {
+  "datum": "2024-09-30",
+  "geprueft": "2026-11-16",
+  "kanal": "Psychologie im Alltag",
+  "ok": true,
+  "sekunden": 483,
+  "status": "OK",
+  "titel": "Kraft- und Energielos- was dir WIRKLICH deine Energie raubt"
+ },
  "https://www.youtube.com/watch?v=BF9xAm8hqPA": {
   "datum": "2024-08-18",
   "geprueft": "2026-11-10",
@@ -1120,6 +1184,15 @@
   "status": "OK",
   "titel": "Prüfungsangst: Was hilft wirklich dagegen? | Die Ratgeber"
  },
+ "https://www.youtube.com/watch?v=BII2DYZLn38": {
+  "datum": "2022-04-04",
+  "geprueft": "2026-11-16",
+  "kanal": "lernfoerderung",
+  "ok": true,
+  "sekunden": 459,
+  "status": "OK",
+  "titel": "✅ Gefühle beschreiben - die sieben wichtigsten Emotionen"
+ },
  "https://www.youtube.com/watch?v=BpsoZi1FYPM": {
   "datum": "2023-01-04",
   "geprueft": "2026-11-10",
@@ -1137,6 +1210,15 @@
   "sekunden": 469,
   "status": "OK",
   "titel": "Prüfungsvorbereitung – Mit dem richtigen Zeitmanagement easy Lernen"
+ },
+ "https://www.youtube.com/watch?v=CIkPomNfE90": {
+  "datum": "2026-05-14",
+  "geprueft": "2026-11-16",
+  "kanal": "Stiftung Gesundheitswissen",
+  "ok": true,
+  "sekunden": 151,
+  "status": "OK",
+  "titel": "Wie beeinflussen Charakterstärken unser Leben?"
  },
  "https://www.youtube.com/watch?v=CgfdDAaGUeg": {
   "datum": "2021-12-14",
@@ -1173,6 +1255,15 @@
   "sekunden": 396,
   "status": "OK",
   "titel": "Wie du Dir (fast) alles merken kannst - Chunking"
+ },
+ "https://www.youtube.com/watch?v=FDA0jo5-pOo": {
+  "datum": "2025-04-17",
+  "geprueft": "2026-11-16",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 1158,
+  "status": "OK",
+  "titel": "So urteilen Menschen auf den ersten Blick! | Terra Xplore mit Leon Windscheid"
  },
  "https://www.youtube.com/watch?v=FY5LQWjVrhI": {
   "datum": "2016-10-31",
@@ -1228,6 +1319,15 @@
   "status": "OK",
   "titel": "Richtig Pausen machen beim Lernen! | Wissen für die Ausbildung | Prozubi.de"
  },
+ "https://www.youtube.com/watch?v=H14bBuluwB8": {
+  "datum": "2013-05-09",
+  "geprueft": "2026-11-16",
+  "kanal": "TED",
+  "ok": true,
+  "sekunden": 373,
+  "status": "OK",
+  "titel": "Grit: The Power of Passion and Perseverance | Angela Lee Duckworth | TED"
+ },
  "https://www.youtube.com/watch?v=H6R6nR_N0Yo": {
   "datum": "2022-04-14",
   "geprueft": "2026-11-12",
@@ -1246,6 +1346,15 @@
   "status": "OK",
   "titel": "Aufschieben: Schluss mit Müllzeit!"
  },
+ "https://www.youtube.com/watch?v=HjbD4DETe50": {
+  "datum": "2023-02-19",
+  "geprueft": "2026-11-16",
+  "kanal": "Sozialpsychologie mit Prof. Erb",
+  "ok": true,
+  "sekunden": 1236,
+  "status": "OK",
+  "titel": "Grit: Leidenschaft und Hartnäckigkeit | Sozialpsychologie mit Prof. Erb"
+ },
  "https://www.youtube.com/watch?v=HxR1s05CLu4": {
   "datum": "2022-07-11",
   "geprueft": "2026-11-09",
@@ -1254,6 +1363,15 @@
   "sekunden": 1889,
   "status": "OK",
   "titel": "Gesunder Schlaf – wie du dein Schlafproblem in den Griff bekommst | Puls | SRF"
+ },
+ "https://www.youtube.com/watch?v=I79fZFvz9JA": {
+  "datum": "2018-07-11",
+  "geprueft": "2026-11-16",
+  "kanal": "Sprouts Deutschland",
+  "ok": true,
+  "sekunden": 318,
+  "status": "OK",
+  "titel": "Growth Mindset vs. Fixed Mindset - Zwei Unterschiedliche Denkweisen"
  },
  "https://www.youtube.com/watch?v=I7txkQNHlmw": {
   "datum": "2020-03-18",
@@ -1272,6 +1390,15 @@
   "sekunden": 1965,
   "status": "OK",
   "titel": "Lehrabbruch – und jetzt?"
+ },
+ "https://www.youtube.com/watch?v=IHOwB39RFqo": {
+  "datum": "2022-05-14",
+  "geprueft": "2026-11-16",
+  "kanal": "DAK niceones",
+  "ok": true,
+  "sekunden": 257,
+  "status": "OK",
+  "titel": "Emotion oder Gefühl? Das ist der Unterschied! | #gesundesmiteinander | DAK-Gesundheit"
  },
  "https://www.youtube.com/watch?v=IHy9v4pjTvw": {
   "datum": "2022-03-26",
@@ -1354,6 +1481,15 @@
   "status": "OK",
   "titel": "Die ADHS-Have-Done-Liste! So viel befriedigender als eine To-Do-Liste!"
  },
+ "https://www.youtube.com/watch?v=Jx4PF8cS9a8": {
+  "datum": "2018-12-19",
+  "geprueft": "2026-11-16",
+  "kanal": "STARTUP TEENS",
+  "ok": true,
+  "sekunden": 237,
+  "status": "OK",
+  "titel": "Die eigenen Stärken finden"
+ },
  "https://www.youtube.com/watch?v=K1xUS-5I6Qc": {
   "datum": "2019-04-26",
   "geprueft": "2026-11-10",
@@ -1371,6 +1507,15 @@
   "sekunden": 878,
   "status": "OK",
   "titel": "Die Loci-Methode - Der Weg zum Gedächtnispalast"
+ },
+ "https://www.youtube.com/watch?v=K6mBD9W0xyE": {
+  "datum": "2022-12-18",
+  "geprueft": "2026-11-16",
+  "kanal": "Lernen der Zukunft Andreas K. Giermaier",
+  "ok": true,
+  "sekunden": 600,
+  "status": "OK",
+  "titel": "Unterdrückte Gefühle | Warum es Männer oft schwerer haben | Erfolg bei Männern | Vera F. Birkenbihl"
  },
  "https://www.youtube.com/watch?v=KLgop0GyKD8": {
   "datum": "2026-04-13",
@@ -1417,6 +1562,24 @@
   "status": "OK",
   "titel": "Macht Zucker dumm?  | 42 - Die Antwort auf fast alles | ARTE"
  },
+ "https://www.youtube.com/watch?v=M-akvGaMcYE": {
+  "datum": "2019-01-31",
+  "geprueft": "2026-11-16",
+  "kanal": "DW Deutsch",
+  "ok": true,
+  "sekunden": 230,
+  "status": "OK",
+  "titel": "Der erste Eindruck ohne zweite Chance | Made in Germany"
+ },
+ "https://www.youtube.com/watch?v=MFhEHNdmT8o": {
+  "datum": "2022-01-30",
+  "geprueft": "2026-11-16",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 490,
+  "status": "OK",
+  "titel": "Das JOHARI FENSTER - die wichtigsten Erkenntnisse aus der Persönlichkeitspsychologie | ERZIEHERKANAL"
+ },
  "https://www.youtube.com/watch?v=N5KpQ4q77fs": {
   "datum": "2021-11-08",
   "geprueft": "2026-11-16",
@@ -1446,7 +1609,7 @@
  },
  "https://www.youtube.com/watch?v=O0N5CrXBqgE": {
   "datum": "2025-12-10",
-  "geprueft": "2026-11-10",
+  "geprueft": "2026-11-16",
   "kanal": "Studyflix",
   "ok": true,
   "sekunden": 261,
@@ -1534,6 +1697,15 @@
   "status": "OK",
   "titel": "Die 5 Minuten Regel: Wie du produktiver und effizienter wirst"
  },
+ "https://www.youtube.com/watch?v=PNNLONE3Skg": {
+  "datum": "2022-01-25",
+  "geprueft": "2026-11-16",
+  "kanal": "ACTitude – Für mehr psychische Flexibilität",
+  "ok": true,
+  "sekunden": 265,
+  "status": "OK",
+  "titel": "Emotionsregulation mit der Übung Anker setzen ⚓️ (sofort umsetzbar)"
+ },
  "https://www.youtube.com/watch?v=PZgmA3llLso": {
   "datum": "2019-05-28",
   "geprueft": "2026-11-12",
@@ -1579,6 +1751,15 @@
   "status": "OK",
   "titel": "Chunking | Sozialpsychologie mit Prof. Erb"
  },
+ "https://www.youtube.com/watch?v=QMKAV3I6kF0": {
+  "datum": "2019-10-24",
+  "geprueft": "2026-11-16",
+  "kanal": "10 Jahre Gesundheitscontent – DAK-Gesundheit",
+  "ok": true,
+  "sekunden": 210,
+  "status": "OK",
+  "titel": "Ich-Botschaften und alles wird einfacher | #gesundesmiteinander mit René Träder | DAK-Gesundheit"
+ },
  "https://www.youtube.com/watch?v=QNyKtYJ-e7Y": {
   "datum": "2023-03-07",
   "geprueft": "2026-11-09",
@@ -1596,6 +1777,15 @@
   "sekunden": 147,
   "status": "OK",
   "titel": "Was ist Selbstwirksamkeit?"
+ },
+ "https://www.youtube.com/watch?v=QSwrupCDqY0": {
+  "datum": "2023-12-06",
+  "geprueft": "2026-11-16",
+  "kanal": "Menschen und Muster",
+  "ok": true,
+  "sekunden": 816,
+  "status": "OK",
+  "titel": "Warum uns Authentizität so wichtig ist"
  },
  "https://www.youtube.com/watch?v=QT8I4BoiL74": {
   "datum": "2022-06-25",
@@ -1687,6 +1877,15 @@
   "status": "OK",
   "titel": "Das Eisenhower-Prinzip | Richtig priorisieren lernen | #gesundesmiteinander | DAK-Gesundheit"
  },
+ "https://www.youtube.com/watch?v=TSfCh2FYn7c": {
+  "datum": "2022-04-26",
+  "geprueft": "2026-11-16",
+  "kanal": "krisenchat",
+  "ok": true,
+  "sekunden": 595,
+  "status": "OK",
+  "titel": "Was ist Emotionsregulation?"
+ },
  "https://www.youtube.com/watch?v=Tm0f5iXMeso": {
   "datum": "2018-07-12",
   "geprueft": "2026-11-10",
@@ -1722,6 +1921,24 @@
   "sekunden": 419,
   "status": "OK",
   "titel": "Wie sinnvoll ist ein Dankbarkeitstagebuch? 30 Tage Selbstversuch"
+ },
+ "https://www.youtube.com/watch?v=U3TVByjqI2c": {
+  "datum": "2019-02-20",
+  "geprueft": "2026-11-16",
+  "kanal": "Ausbildung.de",
+  "ok": true,
+  "sekunden": 180,
+  "status": "OK",
+  "titel": "Was sind meine Stärken und Schwächen?"
+ },
+ "https://www.youtube.com/watch?v=UiKfCiKOjsk": {
+  "datum": "2017-10-15",
+  "geprueft": "2026-11-16",
+  "kanal": "AnkerWissen",
+  "ok": true,
+  "sekunden": 245,
+  "status": "OK",
+  "titel": "Das Johari Fenster einfach erklärt + BEISPIEL!"
  },
  "https://www.youtube.com/watch?v=VVhD-e9TiDI": {
   "datum": "2025-05-16",
@@ -1903,6 +2120,15 @@
   "status": "OK",
   "titel": "ABC Methode | Einfach erklärt | [Zeitmanagement]"
  },
+ "https://www.youtube.com/watch?v=YuZPdldC9-s": {
+  "datum": "2024-08-15",
+  "geprueft": "2026-11-16",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 1646,
+  "status": "OK",
+  "titel": "Männerbild im Wandel: So schwierig ist es heute, ein Mann zu sein | Terra Xplore mit Leon Windscheid"
+ },
  "https://www.youtube.com/watch?v=ZVrBAIln4KY": {
   "datum": "2023-11-23",
   "geprueft": "2026-11-09",
@@ -1929,6 +2155,15 @@
   "sekunden": 347,
   "status": "OK",
   "titel": "Stressoren: Was gibt es für Stressoren? 🤯 (einfach erklärt mit Beispielen für Stressfaktoren)"
+ },
+ "https://www.youtube.com/watch?v=_757yLXMHJM": {
+  "datum": "2024-02-11",
+  "geprueft": "2026-11-16",
+  "kanal": "Glühhirn Universum",
+  "ok": true,
+  "sekunden": 536,
+  "status": "OK",
+  "titel": "Das Rad der Emotionen einfach erklärt: Gefühle benennen und verstehen"
  },
  "https://www.youtube.com/watch?v=_9tQhtnU1Jw": {
   "datum": "2026-10-01",
@@ -2064,6 +2299,24 @@
   "sekunden": 687,
   "status": "OK",
   "titel": "Erinnerungen: Wie funktioniert unser Gedächtnis? | Quarks | Ralphs Universum"
+ },
+ "https://www.youtube.com/watch?v=cbE3QtlfvvE": {
+  "datum": "2025-04-02",
+  "geprueft": "2026-11-16",
+  "kanal": "Stefanie Stahl",
+  "ok": true,
+  "sekunden": 189,
+  "status": "OK",
+  "titel": "Plötzliche Wut? Das steckt dahinter! Psychologie Kompakt mit Stefanie Stahl"
+ },
+ "https://www.youtube.com/watch?v=cbce4LWmUec": {
+  "datum": "2021-08-16",
+  "geprueft": "2026-11-16",
+  "kanal": "mindyourlife",
+  "ok": true,
+  "sekunden": 308,
+  "status": "OK",
+  "titel": "Die Tagesleistungskurve"
  },
  "https://www.youtube.com/watch?v=ctZAQid_Bm4": {
   "datum": "2026-01-19",
@@ -2244,6 +2497,15 @@
   "sekunden": 334,
   "status": "OK",
   "titel": "Wie Du Alles Verstehen Kannst (Feynman Methode)"
+ },
+ "https://www.youtube.com/watch?v=hPdWrQsy5sI": {
+  "datum": "2017-09-20",
+  "geprueft": "2026-11-16",
+  "kanal": "PINKTUM",
+  "ok": true,
+  "sekunden": 104,
+  "status": "OK",
+  "titel": "Das Johari Fenster"
  },
  "https://www.youtube.com/watch?v=haKp72rxkFY": {
   "datum": "2026-08-16",
@@ -2443,6 +2705,15 @@
   "status": "OK",
   "titel": "Gesundheitswirksame Bewegung für Kinder und Jugendliche – Bewegungsempfehlungen"
  },
+ "https://www.youtube.com/watch?v=loXsuD8raZg": {
+  "datum": "2018-04-14",
+  "geprueft": "2026-11-16",
+  "kanal": "Logical Lemon",
+  "ok": true,
+  "sekunden": 274,
+  "status": "OK",
+  "titel": "So steuerst Du deine Emotionen"
+ },
  "https://www.youtube.com/watch?v=mKKAPCMU1bw": {
   "datum": "2019-02-17",
   "geprueft": "2026-11-10",
@@ -2487,6 +2758,15 @@
   "sekunden": 296,
   "status": "OK",
   "titel": "Deutsch Basics: Die 5-Schritt-Lesetechnik lernen und verstehen! | kolleg24 | planet schule | ARD"
+ },
+ "https://www.youtube.com/watch?v=mnnRCoJHouM": {
+  "datum": "2024-03-03",
+  "geprueft": "2026-11-16",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 264,
+  "status": "OK",
+  "titel": "ICH Botschaften und DU Botschaften - Du Botschaften umwandeln (+Beispiel) | ERZIEHERKANAL"
  },
  "https://www.youtube.com/watch?v=mtDrWYf6Te8": {
   "datum": "2026-02-16",
@@ -2542,6 +2822,15 @@
   "status": "OK",
   "titel": "Hör auf die Eisenhower-Matrix zu nutzen - Hier ist warum"
  },
+ "https://www.youtube.com/watch?v=oeDggA60zp8": {
+  "datum": "2023-03-06",
+  "geprueft": "2026-11-16",
+  "kanal": "Psychologie im Alltag",
+  "ok": true,
+  "sekunden": 493,
+  "status": "OK",
+  "titel": "SO bist DU echt, ehrlich und authentisch!"
+ },
  "https://www.youtube.com/watch?v=p-qL2uxE5LM": {
   "datum": "2021-09-04",
   "geprueft": "2026-11-16",
@@ -2569,6 +2858,15 @@
   "status": "OK",
   "titel": "LERNPLAN erstellen für die Uni, Oberstufe oder das Abitur // #backtoschool 2020"
  },
+ "https://www.youtube.com/watch?v=pwizLAQsX3k": {
+  "datum": "2017-07-19",
+  "geprueft": "2026-11-16",
+  "kanal": "Glücksdetektiv",
+  "ok": true,
+  "sekunden": 479,
+  "status": "OK",
+  "titel": "10 Fragen, um deine Stärken zu entdecken"
+ },
  "https://www.youtube.com/watch?v=pzb26UiQwEc": {
   "datum": "2022-04-06",
   "geprueft": "2026-11-09",
@@ -2577,6 +2875,15 @@
   "sekunden": 814,
   "status": "OK",
   "titel": "ABC Analyse: Schrittweise am einfachen Beispiel erklärt"
+ },
+ "https://www.youtube.com/watch?v=q99DgQ2tICI": {
+  "datum": "2022-12-02",
+  "geprueft": "2026-11-16",
+  "kanal": "Bob Blume",
+  "ok": true,
+  "sekunden": 423,
+  "status": "OK",
+  "titel": "Growth Mindset - oder warum ich etwas NOCH nicht kann"
  },
  "https://www.youtube.com/watch?v=qRLQDCyPqYQ": {
   "datum": "2019-09-05",
@@ -2640,6 +2947,15 @@
   "sekunden": 222,
   "status": "OK",
   "titel": "Digital Detox - Tipps für eine kleine Smartphone-Pause | Dr. Johannes Wimmer"
+ },
+ "https://www.youtube.com/watch?v=rnkigFb5KOk": {
+  "datum": "2021-03-21",
+  "geprueft": "2026-11-16",
+  "kanal": "DAK niceones",
+  "ok": true,
+  "sekunden": 229,
+  "status": "OK",
+  "titel": "Frustrationstoleranz: So gehst du besser mit Frust um | #gesundesmiteinander | DAK-Gesundheit"
  },
  "https://www.youtube.com/watch?v=rpOnDFYUQiw": {
   "datum": "2023-05-05",
@@ -2758,6 +3074,15 @@
   "status": "OK",
   "titel": "Mental Health bei Jugendlichen: Was hilft gegen Stress & Angst? | neuneinhalb | WDR"
  },
+ "https://www.youtube.com/watch?v=ulgJjcWYZLk": {
+  "datum": "2025-02-24",
+  "geprueft": "2026-11-16",
+  "kanal": "SRF Wissen",
+  "ok": true,
+  "sekunden": 1888,
+  "status": "OK",
+  "titel": "Besser trainieren – Wie uns richtige Erholung und Ernährung stärker machen | Puls | SRF Wissen"
+ },
  "https://www.youtube.com/watch?v=undmT0Jh7H4": {
   "datum": "2024-10-18",
   "geprueft": "2026-11-12",
@@ -2850,7 +3175,7 @@
  },
  "https://www.youtube.com/watch?v=wLHPgcOekvw": {
   "datum": "2025-10-29",
-  "geprueft": "2026-11-10",
+  "geprueft": "2026-11-16",
   "kanal": "Studyflix",
   "ok": true,
   "sekunden": 267,
@@ -2983,6 +3308,15 @@
   "status": "OK",
   "titel": "Journaling – Tagebuch schreiben für die mentale Gesundheit | die Ratgeber"
  },
+ "https://www.youtube.com/watch?v=yRDV1ypHA_k": {
+  "datum": "2020-09-28",
+  "geprueft": "2026-11-16",
+  "kanal": "Institut für Ressourcenaktivierung",
+  "ok": true,
+  "sekunden": 148,
+  "status": "OK",
+  "titel": "INFO: Was sind Ihre persönlichen Kraftquellen? Erkennen Sie Ihre Ressourcen!"
+ },
  "https://www.youtube.com/watch?v=yjutSUDuhbc": {
   "datum": "2021-06-17",
   "geprueft": "2026-11-09",
@@ -3009,6 +3343,15 @@
   "sekunden": 511,
   "status": "OK",
   "titel": "Ordnung auf dem PC: Sinnvolle digitale Ordnerstruktur"
+ },
+ "https://www.youtube.com/watch?v=z2ewXqQ78hM": {
+  "datum": "2022-11-11",
+  "geprueft": "2026-11-16",
+  "kanal": "VIGOZONE",
+  "ok": true,
+  "sekunden": 353,
+  "status": "OK",
+  "titel": "Was tun gegen Gruppenzwang? Tipps von @laurinspire"
  },
  "https://www.youtube.com/watch?v=zIxJaB7E_5U": {
   "datum": "2024-01-20",

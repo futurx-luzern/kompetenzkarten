@@ -1,0 +1,89 @@
+{
+ "titel": "Emotionen im Griff haben",
+ "kategorie": "Gefühle kontrollieren können",
+ "aufgabe": "Informiere dich darüber, wie du deine Gefühle besonders in stressigen Situationen besser kontrollieren kannst. Erfahre, welche Techniken dir helfen können, ruhig zu bleiben und deine Emotionen zu steuern. Erstelle eine Liste mit diesen Techniken, die dir im Alltag helfen.",
+ "ziel": "Verstehe, wie du deine Emotionen besser kontrollierst, um in schwierigen Momenten gelassen zu bleiben.",
+ "text": [
+  "Du bist wütend und sagst etwas, das dir nachher leidtut. Oder du bist so nervös, dass du nicht mehr klar denken kannst. Starke Gefühle können uns überrollen.",
+  "Emotionen im Griff haben heisst nicht, sie zu unterdrücken. Es heisst, sie wahrzunehmen und dann bewusst zu entscheiden, wie du reagierst. Auf dieser Karte lernst du, wie das geht."
+ ],
+ "methode_titel": "So bleibst du bei starken Gefühlen handlungsfähig",
+ "fragen": [
+  "In welchen Situationen gehen deine Gefühle mit dir durch?",
+  "Was hast du bisher gemacht, um dich zu beruhigen? Was hat geholfen?",
+  "Welchen Schritt der STOPP-Methode willst du beim nächsten Mal ausprobieren?"
+ ],
+ "suche": [
+  "Emotionsregulation",
+  "Wut kontrollieren",
+  "STOPP-Methode"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=O0N5CrXBqgE",
+   "titel": "So kontrollierst du deine Emotionen",
+   "dauer": "4,5 Min.",
+   "quelle": "Studyflix, 2025"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cbE3QtlfvvE",
+   "titel": "Plötzliche Wut? Das steckt dahinter",
+   "dauer": "3 Min.",
+   "quelle": "Stefanie Stahl (Psychologin), 2025"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=loXsuD8raZg",
+   "titel": "So steuerst du deine Emotionen",
+   "dauer": "4,5 Min.",
+   "quelle": "Logical Lemon",
+   "notiz": "Gezeichnet erklärt. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=TSfCh2FYn7c",
+   "titel": "Was ist Emotionsregulation?",
+   "dauer": "10 Min.",
+   "quelle": "krisenchat (Beratung für junge Menschen)",
+   "notiz": "Für Jugendliche gemacht"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=PNNLONE3Skg",
+   "titel": "Übung «Anker setzen» bei starken Gefühlen",
+   "dauer": "4,5 Min.",
+   "quelle": "ACTitude (Psychologie)",
+   "notiz": "Eine Übung zum Mitmachen"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=0L_uYTxRz1I",
+   "titel": "Wut rauslassen oder unterdrücken?",
+   "dauer": "10 Min.",
+   "quelle": "Quarks (Ralph Caspers), 2025",
+   "notiz": "Was die Forschung über Wut weiss"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://greator.com/emotionen-kontrollieren/",
+   "grund": "Seite eines Coaching-Unternehmens mit Verkaufsfokus"
+  },
+  {
+   "url": "https://feigenwinter.com/emotionen-im-griff/",
+   "grund": "Seite eines Coaches"
+  },
+  {
+   "url": "https://www.aok.de/pk/magazin/wohlbefinden/selbstbewusstsein/wer-bin-ich-wenn-meine-gefuehle-maechtiger-sind-als-mein-verstand/",
+   "grund": "Ersetzt durch Videos für Jugendliche"
+  }
+ ]
+}
