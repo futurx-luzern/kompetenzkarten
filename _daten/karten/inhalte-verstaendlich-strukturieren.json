@@ -1,0 +1,82 @@
+{
+ "titel": "Inhalte verständlich strukturieren",
+ "kategorie": "Kommunikation und Präsentation",
+ "aufgabe": "Recherchiere, wie man Inhalte für eine Präsentation oder ein Gespräch verständlich strukturiert. Erstelle eine kurze Zusammenfassung oder ein Diagramm der besten Strukturierungstechniken.",
+ "ziel": "Verstehe, wie eine klare Struktur dir hilft, Informationen effektiv zu vermitteln.",
+ "text": [
+  "Manche Vorträge sind spannend und klar, bei anderen schaltet man nach zwei Minuten ab. Oft liegt der Unterschied nicht am Thema, sondern an der Struktur.",
+  "Auf dieser Karte lernst du, wie du einen Vortrag oder eine Präsentation so aufbaust, dass dein Publikum gut folgen kann und das Wichtigste behält."
+ ],
+ "methode_titel": "So strukturierst du einen Vortrag",
+ "fragen": [
+  "Erinnere dich an einen guten Vortrag. Was war daran gut strukturiert?",
+  "Was ist die Kernbotschaft deines nächsten Vortrags?",
+  "Wie willst du die Einleitung gestalten, damit alle zuhören?"
+ ],
+ "suche": [
+  "Referat aufbauen",
+  "Präsentation Einleitung",
+  "roter Faden Vortrag"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=R3veNdZxNME",
+   "titel": "Referat-Tipps: die richtige Struktur",
+   "dauer": "3,5 Min.",
+   "quelle": "simpleclub",
+   "notiz": "Für Schülerinnen und Schüler"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QtWfe08RhvY",
+   "titel": "Gliederung erstellen in 5 Schritten",
+   "dauer": "4 Min.",
+   "quelle": "lernfoerderung"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=bemJFa03ro4",
+   "titel": "Einleitung und Schluss einer Präsentation",
+   "dauer": "8 Min.",
+   "quelle": "Jugend präsentiert, 2023",
+   "notiz": "Von einem Präsentationswettbewerb für Jugendliche"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cHZFcHaH1JU",
+   "titel": "Präsentieren und Referate: Tipps",
+   "dauer": "7 Min.",
+   "quelle": "Die Merkhilfe",
+   "notiz": "Aufbau und Vortrag"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=qRLQDCyPqYQ",
+   "titel": "10 Tipps für ein richtig gutes Referat",
+   "dauer": "13 Min.",
+   "quelle": "Lehrerschmidt",
+   "notiz": "Ein Lehrer erklärt, worauf es ankommt"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://wortliga.de/komplexe-themen-einfach-erklaeren-ein-leitfaden/",
+   "titel": "Komplexe Themen einfach erklären",
+   "dauer": "8 Min.",
+   "quelle": "Wortliga",
+   "notiz": "Tipps für verständliche Sprache. Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.beatrixschwarzbach.de/artikel/rede-struktur",
+   "grund": "Seite einer Rhetorik-Trainerin"
+  }
+ ]
+}

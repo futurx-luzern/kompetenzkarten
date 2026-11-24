@@ -3,7 +3,7 @@
 Stand 2026-11-24. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 107 online, 9 bereit, 6 offen (von 122)
+**Total:** 116 online, 6 bereit, 0 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -182,24 +182,24 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Perspektivübernahme üben | `perspektivuebernahme-ueben.html` | bereit |
-| Emotionale Intelligenz fördern | `emotionale-intelligenz-foerdern.html` | bereit |
-| Gefühle anderer wahrnehmen | `gefuehle-anderer-wahrnehmen.html` | bereit |
-| Was bewegt andere? | `was-bewegt-andere.html` | bereit |
-| Nähe und Distanz regulieren | `naehe-und-distanz-regulieren.html` | bereit |
-| Miteinander fühlen | `miteinander-fuehlen.html` | bereit |
-| Beziehungen aktiv gestalten | `beziehungen-aktiv-gestalten.html` | bereit |
-| Wertschätzung zeigen | `wertschaetzung-zeigen.html` | bereit |
-| Schwächen zeigen | `schwaechen-zeigen.html` | bereit |
+| Perspektivübernahme üben | `perspektivuebernahme-ueben.html` | online |
+| Emotionale Intelligenz fördern | `emotionale-intelligenz-foerdern.html` | online |
+| Gefühle anderer wahrnehmen | `gefuehle-anderer-wahrnehmen.html` | online |
+| Was bewegt andere? | `was-bewegt-andere.html` | online |
+| Nähe und Distanz regulieren | `naehe-und-distanz-regulieren.html` | online |
+| Miteinander fühlen | `miteinander-fuehlen.html` | online |
+| Beziehungen aktiv gestalten | `beziehungen-aktiv-gestalten.html` | online |
+| Wertschätzung zeigen | `wertschaetzung-zeigen.html` | online |
+| Schwächen zeigen | `schwaechen-zeigen.html` | online |
 
 ## Paket 14: Kommunikation und Präsentation (6 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Lampenfieber reduzieren | `lampenfieber-reduzieren.html` | offen |
-| Sprech- und Atemtechniken | `sprech--und-atemtechniken.html` | offen |
-| Aktives Zuhören praktizieren | `aktives-zuhoeren-praktizieren.html` | offen |
-| Gewaltfreie Kommunikation anwenden | `gewaltfreie-kommunikation-anwenden.html` | offen |
-| Inhalte verständlich strukturieren | `inhalte-verstaendlich-strukturieren.html` | offen |
-| Visuelle Hilfsmittel nutzen | `visuelle-hilfsmittel-nutzen.html` | offen |
+| Lampenfieber reduzieren | `lampenfieber-reduzieren.html` | bereit |
+| Sprech- und Atemtechniken | `sprech--und-atemtechniken.html` | bereit |
+| Aktives Zuhören praktizieren | `aktives-zuhoeren-praktizieren.html` | bereit |
+| Gewaltfreie Kommunikation anwenden | `gewaltfreie-kommunikation-anwenden.html` | bereit |
+| Inhalte verständlich strukturieren | `inhalte-verstaendlich-strukturieren.html` | bereit |
+| Visuelle Hilfsmittel nutzen | `visuelle-hilfsmittel-nutzen.html` | bereit |
 

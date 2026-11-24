@@ -356,6 +356,13 @@
   "titel": "Forschung — WOOP my life",
   "weiterleitung": ""
  },
+ "https://wortliga.de/komplexe-themen-einfach-erklaeren-ein-leitfaden/": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Komplexe Themen und Sachverhalte einfach erklären",
+  "weiterleitung": ""
+ },
  "https://www.147.ch/de/": {
   "geprueft": "2026-11-24",
   "ok": true,
@@ -772,6 +779,13 @@
   "titel": "Verletzlichkeit: Wie man sich schwach und stark zugleich fühlen kann - Spektrum der Wissenschaft",
   "weiterleitung": ""
  },
+ "https://www.sprechen.com/atemtechnik/": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Atemtechnik hilft gegen Lampenfieber – Die Schule des Sprechens GmbH",
+  "weiterleitung": "https://sprechen.com/atemtechnik/"
+ },
  "https://www.srf.ch/play/tv/einstein/video/emotionale-intelligenz-was-steckt-hinter-den-gefuehlen?urn=urn:srf:video:7142cf8d-a91a-4fed-b021-f4cf83041d37": {
   "datum": "2021-05-27",
   "geprueft": "2026-11-16",
@@ -1065,6 +1079,15 @@
   "status": "OK",
   "titel": "Kritikfähigkeit lernen: Richtig mit Kritik umgehen"
  },
+ "https://www.youtube.com/watch?v=2DTSjOTCYhE": {
+  "datum": "2020-09-06",
+  "geprueft": "2026-11-24",
+  "kanal": "DAK niceones",
+  "ok": true,
+  "sekunden": 199,
+  "status": "OK",
+  "titel": "Schluss mit Lampenfieber!  | 6 Tipps für starke Nerven | #gesundesmiteinander | DAK-Gesundheit"
+ },
  "https://www.youtube.com/watch?v=2HWB3MrV8fc": {
   "datum": "2024-03-22",
   "geprueft": "2026-11-10",
@@ -1073,6 +1096,15 @@
   "sekunden": 466,
   "status": "OK",
   "titel": "Lernexperten Lerntipp 32: Die SQ3R-Methode"
+ },
+ "https://www.youtube.com/watch?v=2K9vrXU0280": {
+  "datum": "2017-07-12",
+  "geprueft": "2026-11-24",
+  "kanal": "Doro Plutte",
+  "ok": true,
+  "sekunden": 207,
+  "status": "OK",
+  "titel": "Nervosität vor dem Auftritt: Drei Tipps, die wirklich helfen"
  },
  "https://www.youtube.com/watch?v=2ovcQgIN5G4": {
   "datum": "2015-10-21",
@@ -1308,6 +1340,15 @@
   "status": "OK",
   "titel": "Die 4-7-8 Atemtechnik: Geführte Übung zum Mitmachen"
  },
+ "https://www.youtube.com/watch?v=998xVVsEX_M": {
+  "datum": "2017-09-07",
+  "geprueft": "2026-11-24",
+  "kanal": "Susanne Lorenz",
+  "ok": true,
+  "sekunden": 204,
+  "status": "OK",
+  "titel": "praktisches Beispiel zur gewaltfreien Kommunikation"
+ },
  "https://www.youtube.com/watch?v=9MOYAXTwcGU": {
   "datum": "2021-01-05",
   "geprueft": "2026-11-10",
@@ -1380,6 +1421,15 @@
   "status": "OK",
   "titel": "Systemisches Konsensieren"
  },
+ "https://www.youtube.com/watch?v=ADracv9gkSA": {
+  "datum": "2020-01-22",
+  "geprueft": "2026-11-24",
+  "kanal": "JugendrotkreuzOnline",
+  "ok": true,
+  "sekunden": 143,
+  "status": "OK",
+  "titel": "Deutsches Jugendrotkreuz – Gewaltfreie Kommunikation"
+ },
  "https://www.youtube.com/watch?v=AOLALcMlsis": {
   "datum": "2024-12-08",
   "geprueft": "2026-11-10",
@@ -1406,6 +1456,15 @@
   "sekunden": 511,
   "status": "OK",
   "titel": "Richtig trinken: Wie viel Wasser ist zu viel? | Quarks"
+ },
+ "https://www.youtube.com/watch?v=AuqTOZq1sZw": {
+  "datum": "2012-04-06",
+  "geprueft": "2026-11-24",
+  "kanal": "Eniqma Edition | Bell Media",
+  "ok": true,
+  "sekunden": 206,
+  "status": "OK",
+  "titel": "Aktiv Zuhören - Alltag - Negativbeispiel || Eniqma Edition by Bell Media."
  },
  "https://www.youtube.com/watch?v=B-DXt1oCKuU": {
   "datum": "2023-04-04",
@@ -1524,6 +1583,15 @@
   "status": "OK",
   "titel": "Verbindlichkeit vs Nachlässigkeit (+Übung)"
  },
+ "https://www.youtube.com/watch?v=E5wbIKapwyo": {
+  "datum": "2023-06-24",
+  "geprueft": "2026-11-24",
+  "kanal": "JW",
+  "ok": true,
+  "sekunden": 383,
+  "status": "OK",
+  "titel": "Powerpoint Präsentation gestalten: Vom Anfänger zum Profi"
+ },
  "https://www.youtube.com/watch?v=EIOuHYvrvtk": {
   "datum": "2026-10-13",
   "geprueft": "2026-11-09",
@@ -1631,6 +1699,15 @@
   "sekunden": 160,
   "status": "OK",
   "titel": "Brainfood 🧠 Essen für Konzentration, Lernen, bessere Stimmung & mehr Energie"
+ },
+ "https://www.youtube.com/watch?v=GHcV5UGKEog": {
+  "datum": "2020-04-29",
+  "geprueft": "2026-11-24",
+  "kanal": "JW",
+  "ok": true,
+  "sekunden": 214,
+  "status": "OK",
+  "titel": "Professionelle PowerPoint Präsentationen - schnell und einfach!"
  },
  "https://www.youtube.com/watch?v=GtZvjYVcGfY": {
   "datum": "2017-12-02",
@@ -1776,6 +1853,15 @@
   "status": "OK",
   "titel": "Beste Lesetechnik für die Literaturrecherche - SQ3R (ausführliche Version)"
  },
+ "https://www.youtube.com/watch?v=IVVrG8Rrq7c": {
+  "datum": "2018-01-02",
+  "geprueft": "2026-11-24",
+  "kanal": "musstewissen Deutsch",
+  "ok": true,
+  "sekunden": 327,
+  "status": "OK",
+  "titel": "5 Tipps gegen Lampenfieber! I musstewissen Deutsch"
+ },
  "https://www.youtube.com/watch?v=IjFnG5dZunE": {
   "datum": "2020-06-27",
   "geprueft": "2026-11-24",
@@ -1902,6 +1988,15 @@
   "status": "OK",
   "titel": "Unterdrückte Gefühle | Warum es Männer oft schwerer haben | Erfolg bei Männern | Vera F. Birkenbihl"
  },
+ "https://www.youtube.com/watch?v=K7iWUMpetvw": {
+  "datum": "2023-10-29",
+  "geprueft": "2026-11-24",
+  "kanal": "Uwe Bothe",
+  "ok": true,
+  "sekunden": 592,
+  "status": "OK",
+  "titel": "Aktives Zuhören – 7 Wege, um Menschen zu verstehen (ganz einfach)"
+ },
  "https://www.youtube.com/watch?v=KLgop0GyKD8": {
   "datum": "2026-04-13",
   "geprueft": "2026-11-09",
@@ -1965,6 +2060,15 @@
   "status": "OK",
   "titel": "Knietzsche und der Respekt"
  },
+ "https://www.youtube.com/watch?v=LcBjcdQWbGA": {
+  "datum": "2022-12-08",
+  "geprueft": "2026-11-24",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 100,
+  "status": "OK",
+  "titel": "Gewaltfreie Kommunikation in unter 120 Sekunden erklärt | ERZIEHERKANAL"
+ },
  "https://www.youtube.com/watch?v=Lq4F8aSX0RY": {
   "datum": "2024-03-08",
   "geprueft": "2026-11-10",
@@ -2001,6 +2105,24 @@
   "status": "OK",
   "titel": "Richtig argumentieren | Diskussion gewinnen | Deutsch"
  },
+ "https://www.youtube.com/watch?v=M3we4ZWN5FM": {
+  "datum": "",
+  "geprueft": "2026-11-24",
+  "kanal": "",
+  "ok": false,
+  "sekunden": 0,
+  "status": "LOGIN_REQUIRED",
+  "titel": ""
+ },
+ "https://www.youtube.com/watch?v=M8uDLNcx_cA": {
+  "datum": "2022-06-10",
+  "geprueft": "2026-11-24",
+  "kanal": "DAK niceones",
+  "ok": true,
+  "sekunden": 279,
+  "status": "OK",
+  "titel": "So gelingt dir Zuhören! | #gesundesmiteinander | DAK-Gesundheit"
+ },
  "https://www.youtube.com/watch?v=MFhEHNdmT8o": {
   "datum": "2022-01-30",
   "geprueft": "2026-11-16",
@@ -2027,6 +2149,15 @@
   "sekunden": 1038,
   "status": "OK",
   "titel": "Gehmeditation – auftanken an der frischen Luft (geführt, 17 Min)"
+ },
+ "https://www.youtube.com/watch?v=NLQEcUZJX4w": {
+  "datum": "2022-05-12",
+  "geprueft": "2026-11-24",
+  "kanal": "Doro Plutte",
+  "ok": true,
+  "sekunden": 208,
+  "status": "OK",
+  "titel": "Aktiv Zuhören: mit diesen einfachen Tipps klappt es"
  },
  "https://www.youtube.com/watch?v=NLhHiyWRzN8": {
   "datum": "2023-08-04",
@@ -2181,6 +2312,15 @@
   "status": "OK",
   "titel": "Emotionsregulation mit der Übung Anker setzen ⚓️ (sofort umsetzbar)"
  },
+ "https://www.youtube.com/watch?v=PRIsWmWRB6c": {
+  "datum": "2018-02-22",
+  "geprueft": "2026-11-24",
+  "kanal": "Moderatorenschule Baden-Württemberg Nicole Krieger",
+  "ok": true,
+  "sekunden": 410,
+  "status": "OK",
+  "titel": "Deutlich sprechen: Die besten Tipps gegen Nuscheln | Tipps für Ihren überzeugenden Auftritt | #01"
+ },
  "https://www.youtube.com/watch?v=PZgmA3llLso": {
   "datum": "2019-05-28",
   "geprueft": "2026-11-12",
@@ -2316,6 +2456,15 @@
   "status": "OK",
   "titel": "Zwei Männer und der Bestätigungsfehler (Confirmation Bias)"
  },
+ "https://www.youtube.com/watch?v=QtWfe08RhvY": {
+  "datum": "2019-12-06",
+  "geprueft": "2026-11-24",
+  "kanal": "lernfoerderung",
+  "ok": true,
+  "sekunden": 237,
+  "status": "OK",
+  "titel": "✅ Gliederung erstellen in 5 Schritten | Anleitung für Referat, Aufsatz, Hausarbeit"
+ },
  "https://www.youtube.com/watch?v=R2KzxH9_PDA": {
   "datum": "2020-05-19",
   "geprueft": "2026-11-24",
@@ -2324,6 +2473,15 @@
   "sekunden": 385,
   "status": "OK",
   "titel": "Der Feedback Burger: Feedback geben leicht gemacht"
+ },
+ "https://www.youtube.com/watch?v=R3veNdZxNME": {
+  "datum": "2019-01-20",
+  "geprueft": "2026-11-24",
+  "kanal": "simpleclub - Die Lernapp",
+  "ok": true,
+  "sekunden": 209,
+  "status": "OK",
+  "titel": "REFERAT TIPPS (1/3) ● Präsentation vorbereiten: Struktur & Recherche"
  },
  "https://www.youtube.com/watch?v=RCDOSan-Oxs": {
   "datum": "2020-02-19",
@@ -2559,6 +2717,15 @@
   "status": "OK",
   "titel": "GEWALTFREIE KOMMUNIKATION nach Marshall Rosenberg - gewaltfrei kommunizieren | ERZIEHERKANAL"
  },
+ "https://www.youtube.com/watch?v=VerskOj-vpk": {
+  "datum": "2020-11-19",
+  "geprueft": "2026-11-24",
+  "kanal": "Slide Campus - Präsentationen, die endlich sitzen.",
+  "ok": true,
+  "sekunden": 542,
+  "status": "OK",
+  "titel": "3 Design Tipps, um deine PowerPoint-Präsentation sofort zu verbessern (inkl. Morphen)"
+ },
  "https://www.youtube.com/watch?v=VqEHyQChTok": {
   "datum": "2022-12-20",
   "geprueft": "2026-11-10",
@@ -2622,6 +2789,15 @@
   "status": "OK",
   "titel": "In wenigen Schritten zum sicheren Passwort | BSI"
  },
+ "https://www.youtube.com/watch?v=WvbJZfkFpDo": {
+  "datum": "2025-10-13",
+  "geprueft": "2026-11-24",
+  "kanal": "Stefanie Stahl",
+  "ok": true,
+  "sekunden": 377,
+  "status": "OK",
+  "titel": "Lampenfieber? Angst ist keine Ausrede! Mit Stefanie Stahl"
+ },
  "https://www.youtube.com/watch?v=X1RNHpUKsRk": {
   "datum": "2022-05-16",
   "geprueft": "2026-11-10",
@@ -2648,6 +2824,15 @@
   "sekunden": 218,
   "status": "OK",
   "titel": "Die Pomodoro Technik - in 4 Minuten erklärt"
+ },
+ "https://www.youtube.com/watch?v=XQQEtCzfaYU": {
+  "datum": "2017-06-21",
+  "geprueft": "2026-11-24",
+  "kanal": "Doro Plutte",
+  "ok": true,
+  "sekunden": 216,
+  "status": "OK",
+  "titel": "3 Atemübungen für eine sichere und kraftvolle Stimme"
  },
  "https://www.youtube.com/watch?v=XekS-d5utzE": {
   "datum": "2020-10-21",
@@ -2684,6 +2869,15 @@
   "sekunden": 110,
   "status": "OK",
   "titel": "Die Wirkung von Dankbarkeit im Gehirn und Körper"
+ },
+ "https://www.youtube.com/watch?v=Xwrs2IOc2pM": {
+  "datum": "2020-03-14",
+  "geprueft": "2026-11-24",
+  "kanal": "Michael Mittag",
+  "ok": true,
+  "sekunden": 210,
+  "status": "OK",
+  "titel": "GFK3: Wolfs  und Giraffensprache"
  },
  "https://www.youtube.com/watch?v=Y6m5EODSQ_o": {
   "datum": "2018-09-19",
@@ -2865,6 +3059,15 @@
   "status": "OK",
   "titel": "\"Achtsam Gehen\" | Erdberührung nach Thích Nhất Hạnh | Tägliche Praxis"
  },
+ "https://www.youtube.com/watch?v=aB8AWGHEpqY": {
+  "datum": "2018-06-14",
+  "geprueft": "2026-11-24",
+  "kanal": "Moderatorenschule Baden-Württemberg Nicole Krieger",
+  "ok": true,
+  "sekunden": 409,
+  "status": "OK",
+  "titel": "Nie mehr zu schnell sprechen, mit 3 einfachen Übungen | Tipps für Ihren überzeugenden Auftritt | #17"
+ },
  "https://www.youtube.com/watch?v=aLl0-_KDJ5g": {
   "datum": "2024-04-21",
   "geprueft": "2026-11-09",
@@ -2909,6 +3112,24 @@
   "sekunden": 988,
   "status": "OK",
   "titel": "FOBO: Was tun gegen die Angst vor einer falschen Entscheidung? | Terra Xplore mit Lisa Budzinski"
+ },
+ "https://www.youtube.com/watch?v=bemJFa03ro4": {
+  "datum": "2023-01-02",
+  "geprueft": "2026-11-24",
+  "kanal": "Jugend präsentiert",
+  "ok": true,
+  "sekunden": 471,
+  "status": "OK",
+  "titel": "Einleitung und Schluss einer Präsentation"
+ },
+ "https://www.youtube.com/watch?v=bhdZyTUeZOA": {
+  "datum": "2018-05-17",
+  "geprueft": "2026-11-24",
+  "kanal": "Moderatorenschule Baden-Württemberg Nicole Krieger",
+  "ok": true,
+  "sekunden": 327,
+  "status": "OK",
+  "titel": "Die ultimative Mentalübung gegen Lampenfieber  | Tipps für Ihren überzeugenden Auftritt | #13"
  },
  "https://www.youtube.com/watch?v=bmqFN8cFjzg": {
   "datum": "2017-04-21",
@@ -2982,6 +3203,15 @@
   "status": "OK",
   "titel": "Tipps zum Selbstbewusstsein aufbauen und Selbstwertgefühl stärken"
  },
+ "https://www.youtube.com/watch?v=cHZFcHaH1JU": {
+  "datum": "2017-02-12",
+  "geprueft": "2026-11-24",
+  "kanal": "Die Merkhilfe",
+  "ok": true,
+  "sekunden": 406,
+  "status": "OK",
+  "titel": "Präsentieren & Referate - Tipps & Tricks für Vorträge & Präsentationen in Schule, Ausbildung, Uni"
+ },
  "https://www.youtube.com/watch?v=cJrKwI7McK4": {
   "datum": "2021-07-11",
   "geprueft": "2026-11-10",
@@ -2990,6 +3220,15 @@
   "sekunden": 687,
   "status": "OK",
   "titel": "Erinnerungen: Wie funktioniert unser Gedächtnis? | Quarks | Ralphs Universum"
+ },
+ "https://www.youtube.com/watch?v=cQfxaTocvvE": {
+  "datum": "2020-09-07",
+  "geprueft": "2026-11-24",
+  "kanal": "Wirkungsvoll Präsentieren",
+  "ok": true,
+  "sekunden": 290,
+  "status": "OK",
+  "titel": "Flipchart gestalten: Sechs Regeln für Profis"
  },
  "https://www.youtube.com/watch?v=cYV2LKhynig": {
   "datum": "2025-06-18",
@@ -3513,6 +3752,15 @@
   "status": "OK",
   "titel": "Sozialkognitive Lerntheorie: Banduras Experimente mit der Schlagpuppe"
  },
+ "https://www.youtube.com/watch?v=lU2EWelKDE0": {
+  "datum": "2018-09-13",
+  "geprueft": "2026-11-24",
+  "kanal": "Sprechen wie die Profis",
+  "ok": true,
+  "sekunden": 177,
+  "status": "OK",
+  "titel": "Richtig Atmen – Sprechen wie die Profis"
+ },
  "https://www.youtube.com/watch?v=lZGEmq8WsKY": {
   "datum": "2024-08-07",
   "geprueft": "2026-11-24",
@@ -3630,6 +3878,15 @@
   "status": "OK",
   "titel": "Interleaving - Gemischtes Üben - Smarter lernen 🎓 Lernen lernen – Die Erfolgsserie für bessere Noten"
  },
+ "https://www.youtube.com/watch?v=nJJZKCj8dgA": {
+  "datum": "2016-09-09",
+  "geprueft": "2026-11-24",
+  "kanal": "NZZ Format",
+  "ok": true,
+  "sekunden": 1844,
+  "status": "OK",
+  "titel": "Lampenfieber - Dokumentation von NZZ Format (2005)"
+ },
  "https://www.youtube.com/watch?v=nKIg0ttgS10": {
   "datum": "2019-05-13",
   "geprueft": "2026-11-16",
@@ -3647,6 +3904,15 @@
   "sekunden": 1686,
   "status": "OK",
   "titel": "Verliert unser Gehirn den Fokus? | 42 - Die Antwort auf fast alles | ARTE"
+ },
+ "https://www.youtube.com/watch?v=nnxLJCmErPs": {
+  "datum": "2020-07-30",
+  "geprueft": "2026-11-24",
+  "kanal": "Arno Fischbacher",
+  "ok": true,
+  "sekunden": 195,
+  "status": "OK",
+  "titel": "Visualisieren beim Präsentieren? 5 Tipps für beeindruckende Flipcharts"
  },
  "https://www.youtube.com/watch?v=o-4bmxO9Tc8": {
   "datum": "2025-12-26",
@@ -3692,6 +3958,15 @@
   "sekunden": 493,
   "status": "OK",
   "titel": "SO bist DU echt, ehrlich und authentisch!"
+ },
+ "https://www.youtube.com/watch?v=oiPHLGN23P8": {
+  "datum": "2018-09-13",
+  "geprueft": "2026-11-24",
+  "kanal": "Sprechen wie die Profis",
+  "ok": true,
+  "sekunden": 184,
+  "status": "OK",
+  "titel": "Übungen für eine klare Aussprache – Sprechen wie die Profis"
  },
  "https://www.youtube.com/watch?v=p-qL2uxE5LM": {
   "datum": "2021-09-04",
@@ -3767,7 +4042,7 @@
  },
  "https://www.youtube.com/watch?v=qRLQDCyPqYQ": {
   "datum": "2019-09-05",
-  "geprueft": "2026-11-10",
+  "geprueft": "2026-11-24",
   "kanal": "Lehrerschmidt",
   "ok": true,
   "sekunden": 774,
@@ -4170,6 +4445,15 @@
   "status": "OK",
   "titel": "Eule oder Lerche? So wirkt dein Chronotyp auf Sport, Stoffwechsel und Schlaf | ARD GESUND"
  },
+ "https://www.youtube.com/watch?v=x86fGQWxvhI": {
+  "datum": "2020-10-29",
+  "geprueft": "2026-11-24",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 679,
+  "status": "OK",
+  "titel": "Sprechtraining: Charismatischere Stimme in 24 Stunden? | Quarks"
+ },
  "https://www.youtube.com/watch?v=x9I6ml-unwE": {
   "datum": "2023-09-07",
   "geprueft": "2026-11-24",
@@ -4223,6 +4507,15 @@
   "sekunden": 261,
   "status": "OK",
   "titel": "Fragen und um Hilfe bitten - deswegen lohnt es sich! | Stefanie Voss"
+ },
+ "https://www.youtube.com/watch?v=xgAogY-iIQI": {
+  "datum": "2012-04-06",
+  "geprueft": "2026-11-24",
+  "kanal": "Eniqma Edition | Bell Media",
+  "ok": true,
+  "sekunden": 232,
+  "status": "OK",
+  "titel": "Aktiv Zuhören - Alltag - Positivbeispiel. || Eniqma Edition by Bell Media."
  },
  "https://www.youtube.com/watch?v=xhBTnzAs-h0": {
   "datum": "2019-02-06",
