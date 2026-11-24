@@ -20,6 +20,7 @@ Sonderfälle stehen in [`_daten/qr-sonderfaelle.md`](../_daten/qr-sonderfaelle.m
 | `_daten/pruefungen/paket-NN.md` | Prüftabelle eines Pakets für die Freigabe (wird erzeugt) |
 | `_daten/status.md` | Statusliste aller Karten (wird erzeugt) |
 | `assets/` | Stylesheet, Schrift, Übungs-Skript |
+| `lehrpersonen.html` | Anleitung für Lehrpersonen. Von Hand geschrieben, wird nicht von `bauen.py` erzeugt. Verlinkt in der Fusszeile der Übersicht |
 
 ## Befehle
 

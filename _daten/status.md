@@ -3,7 +3,7 @@
 Stand 2026-11-24. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 116 online, 6 bereit, 0 offen (von 122)
+**Total:** 122 online, 0 bereit, 0 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -196,10 +196,10 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Lampenfieber reduzieren | `lampenfieber-reduzieren.html` | bereit |
-| Sprech- und Atemtechniken | `sprech--und-atemtechniken.html` | bereit |
-| Aktives Zuhören praktizieren | `aktives-zuhoeren-praktizieren.html` | bereit |
-| Gewaltfreie Kommunikation anwenden | `gewaltfreie-kommunikation-anwenden.html` | bereit |
-| Inhalte verständlich strukturieren | `inhalte-verstaendlich-strukturieren.html` | bereit |
-| Visuelle Hilfsmittel nutzen | `visuelle-hilfsmittel-nutzen.html` | bereit |
+| Lampenfieber reduzieren | `lampenfieber-reduzieren.html` | online |
+| Sprech- und Atemtechniken | `sprech--und-atemtechniken.html` | online |
+| Aktives Zuhören praktizieren | `aktives-zuhoeren-praktizieren.html` | online |
+| Gewaltfreie Kommunikation anwenden | `gewaltfreie-kommunikation-anwenden.html` | online |
+| Inhalte verständlich strukturieren | `inhalte-verstaendlich-strukturieren.html` | online |
+| Visuelle Hilfsmittel nutzen | `visuelle-hilfsmittel-nutzen.html` | online |
 
