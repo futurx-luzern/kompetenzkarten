@@ -1,0 +1,72 @@
+{
+ "titel": "Unterstützung annehmen und geben",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Informiere dich darüber, wie du bewusst mit Hilfestellungen umgehst, sowohl wenn du sie annimmst als auch wenn du sie anbietest. Lerne, wie du Unterstützung reflektiert einsetzt und dabei die Bedürfnisse aller Beteiligten berücksichtigst. Erstelle eine Liste mit Tipps, die dir helfen, reflektiert und respektvoll mit Hilfestellungen umzugehen.",
+ "ziel": "Verstehe, wie du Unterstützung bewusst annehmen und geben kannst.",
+ "text": [
+  "Du kommst bei einer Aufgabe nicht weiter, fragst aber niemanden. Oder du siehst, dass jemand Hilfe bräuchte, weisst aber nicht, wie du helfen sollst.",
+  "Hilfe annehmen und Hilfe geben gehören zusammen. Auf dieser Karte erfährst du, warum es vielen schwerfällt, um Hilfe zu bitten, und wie du gut unterstützen kannst."
+ ],
+ "methode_titel": "Hilfe annehmen und geben",
+ "fragen": [
+  "Fällt es dir eher leicht oder schwer, um Hilfe zu bitten? Warum?",
+  "Wann hast du zuletzt jemandem geholfen? Wie war das für dich?",
+  "Bei wem kannst du dir Hilfe holen, in der Schule, im Betrieb, privat?"
+ ],
+ "suche": [
+  "um Hilfe bitten",
+  "Hilfe annehmen",
+  "147 Pro Juventute"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=tUW0Y-uO97Q",
+   "titel": "Warum du Hilfe annehmen solltest",
+   "dauer": "7,5 Min.",
+   "quelle": "Glücksdetektiv",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=xbAxYyFpfh4",
+   "titel": "Fragen und um Hilfe bitten lohnt sich",
+   "dauer": "4,5 Min.",
+   "quelle": "Stefanie Voss (Coachin)"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.147.ch/de/",
+   "titel": "147: Beratung für Kinder und Jugendliche",
+   "dauer": "Webseite",
+   "quelle": "Pro Juventute",
+   "notiz": "Hilfe per Telefon, Chat oder SMS"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=6Om7hFYwRrU",
+   "titel": "Hilfe annehmen: Wie kann ich das lernen?",
+   "dauer": "2,5 Min.",
+   "quelle": "Herbstlust (Psychotherapie-Praxis), 2024"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.psgz.ch/news/um-hilfe-bitten-und-hilfe-annehmen-wieso-uns-das-oft-schwerfallt/",
+   "titel": "Um Hilfe bitten und Hilfe annehmen: Wieso das oft schwerfällt",
+   "dauer": "5 Min.",
+   "quelle": "psgz.ch (Schweiz)",
+   "notiz": "Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=qTo-0CMxTQo",
+   "grund": "Kleiner Coaching-Kanal, ersetzt durch Fachstellen"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "titel": "Zu deinem Wort stehen",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Lerne, wie wichtig es ist, sich an getroffene Vereinbarungen zu halten und Verbindlichkeit in der Zusammenarbeit zu zeigen. Lerne, wie du zuverlässig und vertrauenswürdig bleibst, indem du deine Zusagen einhältst. Erstelle eine Liste mit Tipps, die dir helfen, verbindlich zu handeln.",
+ "ziel": "Verstehe, wie du verbindlich handelst und dich an Vereinbarungen hältst.",
+ "text": [
+  "«Ich mach das schon.» – Und dann passiert doch nichts. Wer immer wieder Zusagen nicht einhält, verliert das Vertrauen der anderen.",
+  "Zu seinem Wort zu stehen, ist im Lehrbetrieb, in der Schule und unter Freunden eine der wichtigsten Eigenschaften überhaupt. Auf dieser Karte erfährst du, was Verbindlichkeit ausmacht und was du tun kannst, wenn du eine Zusage nicht einhalten kannst."
+ ],
+ "methode_titel": "Verbindlich sein",
+ "uebung": {
+  "frage": "Verbindlich oder unverbindlich?",
+  "optionen": [
+   "Verbindlich",
+   "Unverbindlich"
+  ],
+  "hinweis": "Verbindlich heisst: Du hältst dich an Abmachungen oder informierst früh, wenn es nicht geht.",
+  "aufgaben": [
+   {
+    "text": "Du merkst am Montag, dass du die Aufgabe bis Freitag nicht schaffst, und sagst es sofort.",
+    "richtig": "Verbindlich",
+    "warum": "Früh Bescheid geben gehört dazu."
+   },
+   {
+    "text": "Du sagst zu allem Ja, auch wenn du weisst, dass du keine Zeit hast.",
+    "richtig": "Unverbindlich",
+    "warum": "Wer zu viel zusagt, kann es nicht einhalten."
+   },
+   {
+    "text": "Du kommst 20 Minuten zu spät und schreibst erst, als alle schon warten.",
+    "richtig": "Unverbindlich",
+    "warum": "Zu spät informiert."
+   },
+   {
+    "text": "Du sagst: «Das kann ich bis Mittwoch, nicht schon bis Montag.»",
+    "richtig": "Verbindlich",
+    "warum": "Realistisch zusagen ist verbindlich."
+   },
+   {
+    "text": "Du hast etwas vergessen und gibst es offen zu.",
+    "richtig": "Verbindlich",
+    "warum": "Ehrlich sein gehört dazu."
+   }
+  ]
+ },
+ "fragen": [
+  "Wann hast du eine Zusage nicht eingehalten? Was ist passiert?",
+  "Auf wen kannst du dich immer verlassen? Woran merkst du das?",
+  "Was willst du tun, um verbindlicher zu sein?"
+ ],
+ "suche": [
+  "Zuverlässigkeit",
+  "Verbindlichkeit",
+  "Versprechen halten"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://karrierebibel.de/zuverlaessigkeit/",
+   "titel": "Zuverlässigkeit: Bedeutung und Tipps",
+   "dauer": "8 Min.",
+   "quelle": "Karrierebibel",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ci6B3eofaIc",
+   "titel": "Warum Verbindlichkeit so wichtig ist",
+   "dauer": "6 Min.",
+   "quelle": "Dr. Stefan Frädrich (Gedankentanken)"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=DmwbNtKoV5s",
+   "titel": "Verbindlichkeit oder Nachlässigkeit",
+   "dauer": "16 Min.",
+   "quelle": "Ramón Schlemmbach (Psychologe)",
+   "notiz": "Mit einer Übung",
+   "warnung": "Am Anfang Werbung für ein Coaching"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://de.indeed.com/karriere-guide/karriereplanung/zuverlaessigkeit-lernen",
+   "grund": "Jobportal, eher für Bewerbungen"
+  }
+ ],
+ "bemerkung": "Zu diesem Thema gibt es wenig gute Videos für Jugendliche. Die Mini-Einführung und die Übung decken das Wichtigste ab."
+}

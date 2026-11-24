@@ -1,0 +1,72 @@
+{
+ "titel": "Gemeinsam entscheiden",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Suche im Internet Informationen, wie du offen für Kompromisslösungen und Konsensfindung in Gruppenprozessen bleibst. Lerne, wie du Entscheidungen respektierst, auch wenn sie nicht deinem Wunsch entsprechen. Erstelle eine Liste mit Tipps, die dir helfen, Konsens und Kompromisse zu finden und akzeptieren.",
+ "ziel": "Lerne, wie du offen für Kompromisse bist und gemeinsame Entscheidungen akzeptierst.",
+ "text": [
+  "Eine Gruppe muss sich einigen, aber alle wollen etwas anderes. Am Ende setzt sich die lauteste Person durch, oder die Diskussion dreht sich endlos im Kreis.",
+  "Es gibt verschiedene Methoden, wie Gruppen gemeinsam entscheiden können. Auf dieser Karte lernst du sie kennen und erfährst, wann welche passt."
+ ],
+ "methode_titel": "Wie Gruppen entscheiden können",
+ "fragen": [
+  "Wie entscheidet ihr in deiner Klasse, im Team oder in der Familie? Bist du zufrieden damit?",
+  "Welche Methode würdest du für welche Situation wählen?",
+  "Probiere das Systemische Konsensieren in einer Gruppe aus. Wie war es?"
+ ],
+ "suche": [
+  "Konsens Konsent",
+  "Systemisches Konsensieren",
+  "Gruppenentscheidung"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=S5lI0XCQbE4",
+   "titel": "Kompromiss oder Konsens?",
+   "dauer": "2,5 Min.",
+   "quelle": "ComTeam (Organisationsberatung)",
+   "notiz": "Kurz der Unterschied erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=LSIj9ggAFnM",
+   "titel": "Entscheidungen in Gruppen: Konsens und Konsent",
+   "dauer": "5 Min.",
+   "quelle": "hanzKurz erklärt, 2023"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=A5As9tcy2dU",
+   "titel": "Systemisches Konsensieren",
+   "dauer": "6 Min.",
+   "quelle": "SK-Prinzip (Erfinder der Methode)",
+   "notiz": "Die Methode an einem Beispiel"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.vitaminb.ch/uploads/media/default/2287/Gemeinsam%20entscheiden_2021.pdf",
+   "titel": "Gemeinsam entscheiden",
+   "dauer": "PDF",
+   "quelle": "vitamin B (Fachstelle für Vereine, Schweiz)",
+   "notiz": "Methoden für Gruppen und Vereine. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=jAbtGJfgXAE",
+   "titel": "Der Groupthink-Effekt: Warum Gruppen schlechter entscheiden",
+   "dauer": "6,5 Min.",
+   "quelle": "Laura Klimecki (Psychologin), 2026"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=9HfqWE5i-oQ",
+   "grund": "Werbekanal eines HR-Software-Anbieters"
+  }
+ ]
+}

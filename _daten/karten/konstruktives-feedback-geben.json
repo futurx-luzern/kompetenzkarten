@@ -1,0 +1,104 @@
+{
+ "titel": "Konstruktives Feedback geben",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Recherchiere, wie man konstruktives Feedback gibt und wie es zur Verbesserung der Leistung und Zusammenarbeit beitragen kann. Erstelle eine kurze Zusammenfassung oder eine Checkliste für Feedback",
+ "ziel": "Verstehe, wie du durch konstruktives Feedback die Entwicklung anderer unterstützen kannst.",
+ "text": [
+  "Nach einer Präsentation, nach einem Arbeitsauftrag, im Team: Immer wieder sollst du anderen eine Rückmeldung geben. Aber wie sagt man, was nicht so gut war, ohne jemanden zu verletzen?",
+  "Konstruktives Feedback hilft der anderen Person weiter. Auf dieser Karte lernst du einfache Regeln und eine Formel, mit der dein Feedback ankommt."
+ ],
+ "methode_titel": "So gibst du gutes Feedback",
+ "uebung": {
+  "frage": "Ist das gutes Feedback?",
+  "optionen": [
+   "Gutes Feedback",
+   "Eher nicht"
+  ],
+  "hinweis": "Gutes Feedback ist konkret, beschreibt das Verhalten und macht einen Vorschlag.",
+  "aufgaben": [
+   {
+    "text": "«Deine Präsentation war schlecht.»",
+    "richtig": "Eher nicht",
+    "warum": "Zu allgemein, keine Hilfe zur Verbesserung."
+   },
+   {
+    "text": "«Mir ist aufgefallen, dass du sehr schnell gesprochen hast. Ich konnte nicht alles mitschreiben. Vielleicht kannst du nach jeder Folie eine kurze Pause machen.»",
+    "richtig": "Gutes Feedback",
+    "warum": "Wahrnehmung, Wirkung und Wunsch."
+   },
+   {
+    "text": "«Du bist halt einfach chaotisch.»",
+    "richtig": "Eher nicht",
+    "warum": "Bewertet die Person statt das Verhalten."
+   },
+   {
+    "text": "«Deine Grafiken waren sehr übersichtlich. Bei Folie 4 war mir der Text zu klein.»",
+    "richtig": "Gutes Feedback",
+    "warum": "Konkret, mit Lob und einem klaren Punkt zur Verbesserung."
+   },
+   {
+    "text": "«Alles super!» (obwohl dir einiges aufgefallen ist)",
+    "richtig": "Eher nicht",
+    "warum": "Freundlich, aber nicht hilfreich."
+   }
+  ]
+ },
+ "fragen": [
+  "Wann hast du zuletzt Feedback gegeben? Wie ist es angekommen?",
+  "Was fällt dir beim Feedback-Geben schwer?",
+  "Formuliere ein Feedback mit der WWW-Formel für eine echte Situation."
+ ],
+ "suche": [
+  "Feedback geben Regeln",
+  "WWW Feedback",
+  "Feedback Burger"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=1DlSMQr4D6g",
+   "titel": "Die Feedbackformel WWW",
+   "dauer": "2,5 Min.",
+   "quelle": "youknow, 2022",
+   "notiz": "Wahrnehmung, Wirkung, Wunsch. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=gbYPp15qniA",
+   "titel": "Feedback geben leicht gemacht",
+   "dauer": "5 Min.",
+   "quelle": "planet schule (SWR/WDR), 2026",
+   "notiz": "Für Lernende gemacht"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=R2KzxH9_PDA",
+   "titel": "Der Feedback-Burger",
+   "dauer": "6,5 Min.",
+   "quelle": "Projekte leicht gemacht",
+   "notiz": "Kritik zwischen Lob verpacken, mit Vor- und Nachteilen"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://cdn.gryps.ch/media/filer_public/8c/31/8c31bf60-21a8-49c9-8d41-085a56a9d961/gryps_anleitung_feedback_richtig_geben_und_empfangen.pdf",
+   "titel": "Feedback richtig geben und empfangen",
+   "dauer": "PDF, 2 Seiten",
+   "quelle": "gryps (Schweiz)",
+   "notiz": "Kurze Anleitung zum Ausdrucken. Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.personio.ch/hr-lexikon/feedback/",
+   "grund": "Seite eines HR-Software-Anbieters"
+  },
+  {
+   "url": "https://www.valamis.com/de/hub/konstruktives-feedback",
+   "grund": "Seite eines Software-Anbieters"
+  }
+ ]
+}
