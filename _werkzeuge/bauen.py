@@ -314,7 +314,7 @@ def uebersicht():
 <main>
 {"".join(teile)}
 </main>
-<footer>Kompetenzkarten · FuturX</footer>
+<footer>Kompetenzkarten · FuturX · <a href="lehrpersonen.html">Für Lehrpersonen</a></footer>
 <script>
 (function () {{
   var feld = document.getElementById('suche'), leer = document.getElementById('kein-treffer');

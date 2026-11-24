@@ -1,0 +1,55 @@
+# Prüft einmal im Monat alle Links der Kompetenzkarten.
+# Bei toten oder veränderten Links wird ein Issue mit dem Label «linkpruefung» eröffnet
+# (oder ein bestehendes offenes Issue ergänzt). Von Hand starten: Actions › Monatliche Linkprüfung › Run workflow.
+name: Monatliche Linkprüfung
+
+on:
+  schedule:
+    - cron: "0 5 1 * *"   # am 1. jedes Monats um 5 Uhr UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Links prüfen
+        id: pruefen
+        run: |
+          set +e
+          python -I _werkzeuge/pruefen.py links > bericht.txt 2>&1
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+          cat bericht.txt
+
+      - name: Probleme als Issue melden
+        if: steps.pruefen.outputs.code != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          {
+            echo "Die monatliche Linkprüfung vom $(date +%d.%m.%Y) hat Probleme gefunden."
+            echo
+            echo "Bitte die betroffenen Links in \`_daten/karten/<seite>.json\` ersetzen oder entfernen und die Seite mit \`python -I _werkzeuge/bauen.py <seite>\` neu bauen (siehe \`_werkzeuge/LIESMICH.md\`)."
+            echo
+            echo '```'
+            grep -A2 '^PROBLEM' bericht.txt
+            echo
+            tail -n 1 bericht.txt
+            echo '```'
+          } > issue.md
+          gh label create linkpruefung --color FBCA04 --description "Automatische Linkprüfung" --force
+          nr=$(gh issue list --label linkpruefung --state open --json number --jq '.[0].number')
+          if [ -n "$nr" ]; then
+            gh issue comment "$nr" --body-file issue.md
+          else
+            gh issue create --title "Linkprüfung: tote oder veränderte Links" --label linkpruefung --body-file issue.md
+          fi

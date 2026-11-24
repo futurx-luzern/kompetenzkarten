@@ -20,6 +20,7 @@ Sonderfälle stehen in [`_daten/qr-sonderfaelle.md`](../_daten/qr-sonderfaelle.m
 | `_daten/pruefungen/paket-NN.md` | Prüftabelle eines Pakets für die Freigabe (wird erzeugt) |
 | `_daten/status.md` | Statusliste aller Karten (wird erzeugt) |
 | `assets/` | Stylesheet, Schrift, Übungs-Skript |
+| `lehrpersonen.html` | Anleitung für Lehrpersonen. Von Hand geschrieben, wird nicht von `bauen.py` erzeugt. Verlinkt in der Fusszeile der Übersicht |
 
 ## Befehle
 
@@ -69,3 +70,14 @@ Sie lässt sich jederzeit wiederholen, zum Beispiel einmal pro Semester.
 | `entfernt` | nein | Links der alten Seite mit `url` und `grund` (erscheinen in der Prüftabelle) |
 | `qr_hinweis` | nein | Hinweis-Kasten für fremde Karten, deren QR-Code auf diese Seite zeigt |
 | `bemerkung` | nein | Freier Text unter der Tabelle in der Prüftabelle |
+
+## Monatliche Linkprüfung auf GitHub
+
+Der Workflow `.github/workflows/linkpruefung.yml` prüft am 1. jedes Monats alle Links (`pruefen.py links`).
+Findet er tote Links oder stark abweichende Videolängen, eröffnet er ein Issue mit dem Label `linkpruefung`
+(oder ergänzt ein offenes). Von Hand starten: auf GitHub unter *Actions › Monatliche Linkprüfung › Run workflow*.
+
+Hinweise:
+- YouTube bremst viele Abfragen oder verlangt von Servern eine Anmeldung. Dann prüft `pruefen.py` über oEmbed
+  und meldet nur eindeutig gelöschte Videos (oEmbed 400/404). Private oder gesperrte Videos fallen so nicht immer auf.
+- GitHub pausiert geplante Workflows, wenn im Repo 60 Tage lang nichts passiert. Dann auf der Actions-Seite wieder aktivieren.
