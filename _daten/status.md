@@ -1,9 +1,9 @@
 # Statusliste Kompetenzkarten
 
-Stand 2026-11-16. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
+Stand 2026-11-24. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 82 online, 8 bereit, 32 offen (von 122)
+**Total:** 90 online, 8 bereit, 24 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -142,27 +142,27 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Gefühle in Worte fassen | `gefuehle-in-worte-fassen.html` | bereit |
-| Deine Emotionen zeigen | `deine-emotionen-zeigen.html` | bereit |
-| Emotionen im Griff haben | `emotionen-im-griff-haben.html` | bereit |
-| Deine Stärken kennen | `deine-staerken-kennen.html` | bereit |
-| Echt sein | `echt-sein.html` | bereit |
-| Wie andere dich sehen | `wie-andere-dich-sehen.html` | bereit |
-| Deine Kräfte und Zeit clever nutzen | `deine-kraefte-und-zeit-clever-nutzen.html` | bereit |
-| Dranbleiben, auch wenn es schwierig wird | `dranbleiben-auch-wenn-es-schwierig-wird.html` | bereit |
+| Gefühle in Worte fassen | `gefuehle-in-worte-fassen.html` | online |
+| Deine Emotionen zeigen | `deine-emotionen-zeigen.html` | online |
+| Emotionen im Griff haben | `emotionen-im-griff-haben.html` | online |
+| Deine Stärken kennen | `deine-staerken-kennen.html` | online |
+| Echt sein | `echt-sein.html` | online |
+| Wie andere dich sehen | `wie-andere-dich-sehen.html` | online |
+| Deine Kräfte und Zeit clever nutzen | `deine-kraefte-und-zeit-clever-nutzen.html` | online |
+| Dranbleiben, auch wenn es schwierig wird | `dranbleiben-auch-wenn-es-schwierig-wird.html` | online |
 
 ## Paket 11: Meinung und Auftreten (8 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Deine Meinung sagen | `deine-meinung-sagen.html` | offen |
-| Zu deiner Meinung stehen | `zu-deiner-meinung-stehen.html` | offen |
-| Unterschiedliche Meinungen aushalten | `unterschiedliche-meinungen-aushalten.html` | offen |
-| Selbstbewusst auftreten | `selbstbewusst-auftreten.html` | offen |
-| Körpersprache verstehen | `koerpersprache-verstehen.html` | offen |
-| Mutig Neues ausprobieren | `mutig-neues-ausprobieren.html` | offen |
-| Neue Ideen willkommen heissen | `neue-ideen-willkommen-heissen.html` | offen |
-| Was ist wirklich wichtig? | `was-ist-wirklich-wichtig.html` | offen |
+| Deine Meinung sagen | `deine-meinung-sagen.html` | bereit |
+| Zu deiner Meinung stehen | `zu-deiner-meinung-stehen.html` | bereit |
+| Unterschiedliche Meinungen aushalten | `unterschiedliche-meinungen-aushalten.html` | bereit |
+| Selbstbewusst auftreten | `selbstbewusst-auftreten.html` | bereit |
+| Körpersprache verstehen | `koerpersprache-verstehen.html` | bereit |
+| Mutig Neues ausprobieren | `mutig-neues-ausprobieren.html` | bereit |
+| Neue Ideen willkommen heissen | `neue-ideen-willkommen-heissen.html` | bereit |
+| Was ist wirklich wichtig? | `was-ist-wirklich-wichtig.html` | bereit |
 
 ## Paket 12: Sozialkompetenz: Team und Konflikte (9 Karten)
 

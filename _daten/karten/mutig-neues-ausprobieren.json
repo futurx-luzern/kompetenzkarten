@@ -1,0 +1,101 @@
+{
+ "titel": "Mutig Neues ausprobieren",
+ "kategorie": "Mut für Ungewohntes haben",
+ "aufgabe": "Erfahre, wie du dir mehr Mut aneignen kannst, um Ungewohntes und Unbekanntes auszuprobieren. Lerne, welche Schritte dir helfen, über deine Komfortzone hinauszugehen und neue Herausforderungen anzunehmen. Erstelle eine Liste mit Tipps, die dir helfen, mutiger im Umgang mit neuen Situationen zu werden.",
+ "ziel": "Verstehe, wie du mutiger wirst und dich traust, Neues auszuprobieren.",
+ "text": [
+  "Eine neue Sportart, ein Schnuppertag in einem fremden Beruf, vor der Klasse sprechen, alleine reisen: Neues auszuprobieren macht oft Angst.",
+  "Doch genau dort, wo es ein bisschen unbequem wird, lernen wir am meisten. Auf dieser Karte lernst du das Modell der drei Zonen kennen und wie du Schritt für Schritt mutiger wirst."
+ ],
+ "methode_titel": "Die drei Zonen",
+ "uebung": {
+  "frage": "In welcher Zone bist du hier vermutlich?",
+  "optionen": [
+   "Komfortzone",
+   "Lernzone",
+   "Panikzone"
+  ],
+  "hinweis": "Lernzone heisst: ungewohnt und etwas aufregend, aber machbar.",
+  "aufgaben": [
+   {
+    "text": "Du schaust zum fünften Mal deine Lieblingsserie.",
+    "richtig": "Komfortzone",
+    "warum": "Bekannt, sicher, nichts Neues."
+   },
+   {
+    "text": "Du schnupperst zum ersten Mal in einem Beruf, den du noch nicht kennst.",
+    "richtig": "Lernzone",
+    "warum": "Neu und etwas aufregend, aber gut machbar."
+   },
+   {
+    "text": "Du sollst ohne Vorbereitung vor 500 Leuten eine Rede halten.",
+    "richtig": "Panikzone",
+    "warum": "Viel zu viel auf einmal."
+   },
+   {
+    "text": "Du fragst im Laden selbst nach, statt deine Freundin fragen zu lassen.",
+    "richtig": "Lernzone",
+    "warum": "Ein kleiner, mutiger Schritt."
+   },
+   {
+    "text": "Du gehst mit deinen besten Freunden an den gleichen Ort wie immer.",
+    "richtig": "Komfortzone",
+    "warum": "Vertraut und sicher."
+   }
+  ]
+ },
+ "fragen": [
+  "Was hast du zuletzt zum ersten Mal gemacht? Wie hat es sich angefühlt?",
+  "Was würdest du gerne ausprobieren, traust dich aber noch nicht?",
+  "Was wäre ein erster kleiner Schritt in deine Lernzone?"
+ ],
+ "suche": [
+  "Komfortzone Lernzone Panikzone",
+  "Komfortzone verlassen",
+  "Mut trotz Angst"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=-llXeBM3LgE",
+   "titel": "Die Komfortzone verlassen mit dem 3-Zonen-Modell",
+   "dauer": "3 Min.",
+   "quelle": "Ideen-Couch"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=f6znnNttyhk",
+   "titel": "Das 3-Zonen-Lernmodell",
+   "dauer": "5 Min.",
+   "quelle": "der-simon.com",
+   "notiz": "Warum wir in der Lernzone am meisten lernen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=sPvrBrDWoac",
+   "titel": "Mut fassen: Tipps und Tricks",
+   "dauer": "16,5 Min.",
+   "quelle": "Felix Thönnessen (Coach)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=UQqLSOPYEjw",
+   "titel": "Weg mit der Angst",
+   "dauer": "22 Min.",
+   "quelle": "Terra Xplore (ZDF), 2026",
+   "notiz": "Wie eine junge Frau ihre Angst überwunden hat",
+   "warnung": "Es geht auch um Angststörungen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.ardmediathek.de/video/die-ratgeber/mutig-sein-im-alltag/ndr/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM0NTMyOV9nYW56ZVNlbmR1bmc",
+   "grund": "Video in der Mediathek nicht mehr verfügbar"
+  }
+ ]
+}

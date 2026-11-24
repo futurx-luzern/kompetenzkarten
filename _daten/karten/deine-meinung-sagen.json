@@ -1,0 +1,114 @@
+{
+ "titel": "Deine Meinung sagen",
+ "kategorie": "Anliegen und Bedürfnisse anmelden",
+ "aufgabe": "Überlege, wie du deine Bedürfnisse und Anliegen direkt und klar äussern kannst, ohne lange zu zögern. Lerne Techniken, die dir helfen, mutiger und direkter zu kommunizieren. Erstelle eine Liste mit Tipps, die dir helfen, deine Anliegen klar und respektvoll vorzutragen.",
+ "ziel": "Verstehe, wie du deine Anliegen klar und direkt vorbringst.",
+ "text": [
+  "In der Klasse wird abgestimmt, im Betrieb wird über einen neuen Ablauf gesprochen, unter Freunden wird geplant, was ihr am Wochenende macht. Und du denkst etwas anderes, sagst aber nichts.",
+  "Seine Meinung zu sagen braucht Mut. Es lässt sich aber lernen. Auf dieser Karte erfährst du, wie du deine Meinung und deine Anliegen klar und respektvoll vertrittst."
+ ],
+ "methode_titel": "So sagst du deine Meinung",
+ "uebung": {
+  "frage": "Passiv, aggressiv oder selbstsicher?",
+  "optionen": [
+   "Passiv",
+   "Aggressiv",
+   "Selbstsicher"
+  ],
+  "hinweis": "Selbstsicher heisst: klar sagen, was du denkst, und dabei respektvoll bleiben.",
+  "aufgaben": [
+   {
+    "text": "«Mir egal, macht einfach.» (Obwohl es dir nicht egal ist.)",
+    "richtig": "Passiv",
+    "warum": "Du verschweigst deine Meinung."
+   },
+   {
+    "text": "«Das ist die dümmste Idee, die ich je gehört habe.»",
+    "richtig": "Aggressiv",
+    "warum": "Abwertend gegenüber den anderen."
+   },
+   {
+    "text": "«Ich sehe das anders. Mir wäre wichtig, dass wir früher anfangen, weil ich am Abend Training habe.»",
+    "richtig": "Selbstsicher",
+    "warum": "Klar, begründet und respektvoll."
+   },
+   {
+    "text": "Du ärgerst dich still und erzählst es nachher allen anderen.",
+    "richtig": "Passiv",
+    "warum": "Du sagst es nicht der Person, die es betrifft."
+   },
+   {
+    "text": "«Ich hätte gerne eine Erklärung, warum ich diese Aufgabe nochmals machen muss.»",
+    "richtig": "Selbstsicher",
+    "warum": "Ein klares Anliegen, freundlich formuliert."
+   }
+  ]
+ },
+ "fragen": [
+  "In welchen Situationen fällt es dir schwer, deine Meinung zu sagen? Warum?",
+  "Bist du eher passiv, aggressiv oder selbstsicher? Ist das überall gleich?",
+  "Wo möchtest du in nächster Zeit deine Meinung klarer sagen?"
+ ],
+ "suche": [
+  "Meinung sagen Tipps",
+  "selbstsicher kommunizieren",
+  "Ich-Botschaften"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=_k92Cba_0zQ",
+   "titel": "Zu passiv? So sagst du deine Meinung",
+   "dauer": "7,5 Min.",
+   "quelle": "Ramón Schlemmbach (Psychologe), 2022"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QMKAV3I6kF0",
+   "titel": "Ich-Botschaften und alles wird einfacher",
+   "dauer": "3,5 Min.",
+   "quelle": "DAK (Krankenkasse)",
+   "notiz": "Meinung sagen, ohne anzugreifen"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/jugendliche_fragen_antworten/jugendbeitraege/checkout.cfm",
+   "titel": "Jugendliche fragen und antworten: Selbstvertrauen",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Erfahrungen von anderen Jugendlichen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=DkBDCToZymc",
+   "titel": "Kritik auf diplomatische Art: 7 Tipps",
+   "dauer": "10,5 Min.",
+   "quelle": "Dr. Wlodarek (Psychologin)",
+   "notiz": "Wie man auch Kritik so sagt, dass sie ankommt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=M3p11yGM5CI",
+   "titel": "Richtig argumentieren in drei Schritten",
+   "dauer": "5 Min.",
+   "quelle": "musstewissen Deutsch (funk)",
+   "notiz": "Damit deine Meinung überzeugt"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://de.wikihow.com/Deine-Meinung-sagen",
+   "grund": "Allgemeiner Ratgeber ohne Fachstelle"
+  },
+  {
+   "url": "https://www.dr-holzinger-institut.de/blog/seine-meinung-sagen/",
+   "grund": "Blog eines Coaching-Instituts"
+  }
+ ],
+ "bemerkung": "Für Fortgeschrittene nichts Passendes gefunden, die Karte «Zu deiner Meinung stehen» vertieft das Thema."
+}

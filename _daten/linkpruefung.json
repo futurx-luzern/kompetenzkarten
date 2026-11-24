@@ -125,6 +125,13 @@
   "titel": "Erfolgstagebuch: Vorlage, Vorteile + Tipps zum Inhalt",
   "weiterleitung": ""
  },
+ "https://karrierebibel.de/prioritaten-setzen/": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Prioritäten setzen: 9 einfache Methoden + 5 häufige Fehler",
+  "weiterleitung": ""
+ },
  "https://karrierebibel.de/selbstreflexion/": {
   "geprueft": "2026-11-16",
   "ok": true,
@@ -186,6 +193,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "",
+  "weiterleitung": ""
+ },
+ "https://studyflix.de/biologie/prioritaeten-setzen-4780/video": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Prioritäten setzen • Methoden zur Priorisierung von Aufgaben - Video · Studyflix",
   "weiterleitung": ""
  },
  "https://studyflix.de/jobs/karriere-tipps/brainstorming-7144": {
@@ -413,7 +427,7 @@
   "weiterleitung": ""
  },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/jugendliche_fragen_antworten/jugendbeitraege/checkout.cfm": {
-  "geprueft": "2026-11-16",
+  "geprueft": "2026-11-24",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Fragen und Antworten von Jugendlichen zu Selbstvertrauen und Selbstwert",
@@ -564,6 +578,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Wissenswertes über Muskulatur: Bewegung und Muskeltypen - Helsana",
+  "weiterleitung": ""
+ },
+ "https://www.hrtoday.ch/de/article/gut-miteinander-streiten": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Gut miteinander streiten | hrtoday.ch",
   "weiterleitung": ""
  },
  "https://www.jobteaser.com/de/advices/abc-analyse-besseres-zeitmanagement-durch-priorisierung": {
@@ -740,6 +761,11 @@
   "titel": "Bildschirmarbeit. Wichtige Informationen für Ihr Wohlbefinden (für Benützerinnen und Benützer)",
   "weiterleitung": ""
  },
+ "https://www.theschooloflife.com/berlin/blog/3-gedanken-die-uns-bei-meinungsverschiedenheiten-helfen/": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 403: automatisch nicht prüfbar, bitte von Hand öffnen"
+ },
  "https://www.tk.de/techniker/magazin/life-balance/balance-im-job/arbeit-pausen-foerdern-leistung-2007200": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -769,6 +795,15 @@
   "sekunden": 1093,
   "status": "OK",
   "titel": "Pausen - Wie Pausen deine Produktivität sofort steigern!!!"
+ },
+ "https://www.youtube.com/watch?v=-llXeBM3LgE": {
+  "datum": "2022-01-18",
+  "geprueft": "2026-11-24",
+  "kanal": "Ideen-Couch",
+  "ok": true,
+  "sekunden": 170,
+  "status": "OK",
+  "titel": "SO verlässt du deine Komfortzone mit dem 3 Zonen Modell 💥"
  },
  "https://www.youtube.com/watch?v=-ttJuqi8Rho": {
   "datum": "2025-04-07",
@@ -815,6 +850,15 @@
   "status": "OK",
   "titel": "Rauslassen oder unterdrücken – was sollte ich tun, wenn ich wütend bin? | Quarks Dimension Ralph"
  },
+ "https://www.youtube.com/watch?v=0OKmbwmaivc": {
+  "datum": "2020-01-26",
+  "geprueft": "2026-11-24",
+  "kanal": "Yvonne de Bark",
+  "ok": true,
+  "sekunden": 348,
+  "status": "OK",
+  "titel": "Selbstbewusst auftreten - 7 Tipps für mehr Selbstsicherheit beim präsentieren oder Rede halten"
+ },
  "https://www.youtube.com/watch?v=0Seo5InNh5E": {
   "datum": "2025-08-20",
   "geprueft": "2026-11-12",
@@ -859,6 +903,15 @@
   "sekunden": 52,
   "status": "OK",
   "titel": "Liegende Acht"
+ },
+ "https://www.youtube.com/watch?v=27veNzyeSM4": {
+  "datum": "2018-01-06",
+  "geprueft": "2026-11-24",
+  "kanal": "lernfoerderung",
+  "ok": true,
+  "sekunden": 151,
+  "status": "OK",
+  "titel": "Gruppenzwang - der MINI-Test: Wie anfällig bist du?"
  },
  "https://www.youtube.com/watch?v=2HWB3MrV8fc": {
   "datum": "2024-03-22",
@@ -931,6 +984,15 @@
   "sekunden": 553,
   "status": "OK",
   "titel": "Entscheidungsbaum - ABWL - Entscheidung unter Unsicherheit"
+ },
+ "https://www.youtube.com/watch?v=4GD9uTuTDm0": {
+  "datum": "2018-05-30",
+  "geprueft": "2026-11-24",
+  "kanal": "Glücksdetektiv",
+  "ok": true,
+  "sekunden": 482,
+  "status": "OK",
+  "titel": "Werte erkennen: So findest du heraus, was dir wichtig ist"
  },
  "https://www.youtube.com/watch?v=4Q-fwlxyk14": {
   "datum": "2022-03-06",
@@ -1229,6 +1291,15 @@
   "status": "OK",
   "titel": "Datenschutz - So schützt du deine personenbezogenen Daten! | so geht MEDIEN | planet schule | ARD"
  },
+ "https://www.youtube.com/watch?v=DkBDCToZymc": {
+  "datum": "2019-09-07",
+  "geprueft": "2026-11-24",
+  "kanal": "Dr. Wlodarek Life Coaching",
+  "ok": true,
+  "sekunden": 640,
+  "status": "OK",
+  "titel": "Kritik auf diplomatische Art – 7 wirkungsvolle Tipps, mit denen Sie bei anderen mehr erreichen"
+ },
  "https://www.youtube.com/watch?v=EIOuHYvrvtk": {
   "datum": "2026-10-13",
   "geprueft": "2026-11-09",
@@ -1247,6 +1318,15 @@
   "status": "OK",
   "titel": "Müde in der Schule: Warum Teenies ausschlafen sollten | Quarks"
  },
+ "https://www.youtube.com/watch?v=Efol-avY0F4": {
+  "datum": "2025-01-14",
+  "geprueft": "2026-11-24",
+  "kanal": "ACTitude – Für mehr psychische Flexibilität",
+  "ok": true,
+  "sekunden": 863,
+  "status": "OK",
+  "titel": "Werte identifizieren 🌟 was ist dir wichtig?"
+ },
  "https://www.youtube.com/watch?v=Elt4JAsBGeE": {
   "datum": "2023-09-13",
   "geprueft": "2026-11-10",
@@ -1255,6 +1335,15 @@
   "sekunden": 396,
   "status": "OK",
   "titel": "Wie du Dir (fast) alles merken kannst - Chunking"
+ },
+ "https://www.youtube.com/watch?v=Eu3BtU_suMA": {
+  "datum": "2025-03-05",
+  "geprueft": "2026-11-24",
+  "kanal": "Karrierebibel",
+  "ok": true,
+  "sekunden": 210,
+  "status": "OK",
+  "titel": "Nonverbale Kommunikation – einfach erklärt + Beispiele"
  },
  "https://www.youtube.com/watch?v=FDA0jo5-pOo": {
   "datum": "2025-04-17",
@@ -1282,6 +1371,15 @@
   "sekunden": 1434,
   "status": "OK",
   "titel": "KI in der Schule: Ersetzen ChatGPT & Co. bald Lehrerinnen und Lehrer? | PUR+"
+ },
+ "https://www.youtube.com/watch?v=G6B7-GCbHuI": {
+  "datum": "2023-06-25",
+  "geprueft": "2026-11-24",
+  "kanal": "Glücksdetektiv",
+  "ok": true,
+  "sekunden": 746,
+  "status": "OK",
+  "titel": "Prioritäten setzen: 5 einfache Fragen, die mir im Alltag helfen, bessere Entscheidungen zu treffen"
  },
  "https://www.youtube.com/watch?v=GDFfpMEvsqY": {
   "datum": "2021-06-19",
@@ -1363,6 +1461,15 @@
   "sekunden": 1889,
   "status": "OK",
   "titel": "Gesunder Schlaf – wie du dein Schlafproblem in den Griff bekommst | Puls | SRF"
+ },
+ "https://www.youtube.com/watch?v=I40g6U3K7hc": {
+  "datum": "2018-10-21",
+  "geprueft": "2026-11-24",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 313,
+  "status": "OK",
+  "titel": "Das Asch-Experiment: So manipuliert uns die Gruppe | Quarks"
  },
  "https://www.youtube.com/watch?v=I79fZFvz9JA": {
   "datum": "2018-07-11",
@@ -1526,6 +1633,15 @@
   "status": "OK",
   "titel": "People Pleasing: Warum wir so schwer Nein sagen können | Reden hilft | ARD GESUND"
  },
+ "https://www.youtube.com/watch?v=KjqyJcaHpCU": {
+  "datum": "2020-12-02",
+  "geprueft": "2026-11-24",
+  "kanal": "Hochschule Hannover",
+  "ok": true,
+  "sekunden": 259,
+  "status": "OK",
+  "titel": "Big Five: Film 6 - Offenheit für Erfahrungen - Persönlichkeit erklärt"
+ },
  "https://www.youtube.com/watch?v=Ks80Mg4aezU": {
   "datum": "2023-02-07",
   "geprueft": "2026-11-10",
@@ -1553,6 +1669,15 @@
   "status": "OK",
   "titel": "Brainfood - Wie Ernährung unser Gehirn und Verhalten beeinflusst | Einstein | SRF Wissen"
  },
+ "https://www.youtube.com/watch?v=Lah73VwTLvo": {
+  "datum": "2019-01-16",
+  "geprueft": "2026-11-24",
+  "kanal": "Knietzsche",
+  "ok": true,
+  "sekunden": 180,
+  "status": "OK",
+  "titel": "Knietzsche und der Respekt"
+ },
  "https://www.youtube.com/watch?v=Lq4F8aSX0RY": {
   "datum": "2024-03-08",
   "geprueft": "2026-11-10",
@@ -1570,6 +1695,15 @@
   "sekunden": 230,
   "status": "OK",
   "titel": "Der erste Eindruck ohne zweite Chance | Made in Germany"
+ },
+ "https://www.youtube.com/watch?v=M3p11yGM5CI": {
+  "datum": "2018-02-27",
+  "geprueft": "2026-11-24",
+  "kanal": "musstewissen Deutsch",
+  "ok": true,
+  "sekunden": 309,
+  "status": "OK",
+  "titel": "Richtig argumentieren | Diskussion gewinnen | Deutsch"
  },
  "https://www.youtube.com/watch?v=MFhEHNdmT8o": {
   "datum": "2022-01-30",
@@ -1663,7 +1797,7 @@
  },
  "https://www.youtube.com/watch?v=OSk0AUT4_8o": {
   "datum": "2022-06-05",
-  "geprueft": "2026-11-16",
+  "geprueft": "2026-11-24",
   "kanal": "Dinge Erklärt – Kurzgesagt",
   "ok": true,
   "sekunden": 657,
@@ -1678,6 +1812,15 @@
   "sekunden": 159,
   "status": "OK",
   "titel": "Schlüsselwörter in Texten ✅ Erklärung und Beispiel"
+ },
+ "https://www.youtube.com/watch?v=Otr4Lfh5Qm8": {
+  "datum": "2023-02-07",
+  "geprueft": "2026-11-24",
+  "kanal": "Sprouts Deutschland",
+  "ok": true,
+  "sekunden": 319,
+  "status": "OK",
+  "titel": "Aschs Konformitätsexperiment"
  },
  "https://www.youtube.com/watch?v=P7lWoPTyCl4": {
   "datum": "2025-05-02",
@@ -1753,7 +1896,7 @@
  },
  "https://www.youtube.com/watch?v=QMKAV3I6kF0": {
   "datum": "2019-10-24",
-  "geprueft": "2026-11-16",
+  "geprueft": "2026-11-24",
   "kanal": "10 Jahre Gesundheitscontent – DAK-Gesundheit",
   "ok": true,
   "sekunden": 210,
@@ -1805,6 +1948,15 @@
   "status": "OK",
   "titel": "Mind-Map einfach erklärt! | Aufbau | Beispiel"
  },
+ "https://www.youtube.com/watch?v=Qm7d_7BafpY": {
+  "datum": "2020-03-10",
+  "geprueft": "2026-11-24",
+  "kanal": "Sprouts Deutschland",
+  "ok": true,
+  "sekunden": 305,
+  "status": "OK",
+  "titel": "Zwei Männer und der Bestätigungsfehler (Confirmation Bias)"
+ },
  "https://www.youtube.com/watch?v=RCDOSan-Oxs": {
   "datum": "2020-02-19",
   "geprueft": "2026-11-10",
@@ -1813,6 +1965,15 @@
   "sekunden": 162,
   "status": "OK",
   "titel": "Schnell-Lesen: Wie funktioniert das? | Abendschau | BR24"
+ },
+ "https://www.youtube.com/watch?v=RcpdW46ZvhM": {
+  "datum": "2020-01-28",
+  "geprueft": "2026-11-24",
+  "kanal": "Tuna Cagla",
+  "ok": true,
+  "sekunden": 484,
+  "status": "OK",
+  "titel": "Denkhüte von Edward de Bono - Kreativitätstechnik"
  },
  "https://www.youtube.com/watch?v=Rn_S4Nga2Yc": {
   "datum": "2023-08-29",
@@ -1840,6 +2001,15 @@
   "sekunden": 465,
   "status": "OK",
   "titel": "Prokrastination: Warum wir Aufgaben aufschieben | Reden hilft | ARD GESUND"
+ },
+ "https://www.youtube.com/watch?v=SKpXrQzgems": {
+  "datum": "2022-10-07",
+  "geprueft": "2026-11-24",
+  "kanal": "Uwe Peter Kanning",
+  "ok": true,
+  "sekunden": 863,
+  "status": "OK",
+  "titel": "069: Funktioniert Power Posing? '15 Minuten Wirtschaftspsychologie' Prof. Dr. Kanning"
  },
  "https://www.youtube.com/watch?v=SLXXVpzPB5k": {
   "datum": "2025-10-22",
@@ -1930,6 +2100,24 @@
   "sekunden": 180,
   "status": "OK",
   "titel": "Was sind meine Stärken und Schwächen?"
+ },
+ "https://www.youtube.com/watch?v=UNIhHVGbPU4": {
+  "datum": "2024-10-02",
+  "geprueft": "2026-11-24",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 1628,
+  "status": "OK",
+  "titel": "Gruppenzwang & Mobbing: Wenn andere bestimmen, wer du bist | Terra Xplore mit Eric Mayer"
+ },
+ "https://www.youtube.com/watch?v=UQqLSOPYEjw": {
+  "datum": "2026-11-05",
+  "geprueft": "2026-11-24",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 1321,
+  "status": "OK",
+  "titel": "Weg mit der Angst: So hat Nane ihre Angst überwunden | Terra Xplore mit Leon Windscheid"
  },
  "https://www.youtube.com/watch?v=UiKfCiKOjsk": {
   "datum": "2017-10-15",
@@ -2093,6 +2281,15 @@
   "status": "OK",
   "titel": "Geführter Bodyscan für Innere Ruhe (5 min)"
  },
+ "https://www.youtube.com/watch?v=YOOZ8jttiA8": {
+  "datum": "2017-07-16",
+  "geprueft": "2026-11-24",
+  "kanal": "Logical Lemon",
+  "ok": true,
+  "sekunden": 471,
+  "status": "OK",
+  "titel": "Sehen, was Andere denken (Körpersprache lesen) | Teil 1"
+ },
  "https://www.youtube.com/watch?v=YUeykO3HI-g": {
   "datum": "2023-07-02",
   "geprueft": "2026-11-16",
@@ -2192,6 +2389,15 @@
   "status": "OK",
   "titel": "4 Brain Gym Übungen, die dich in deinen Rhythmus bringen"
  },
+ "https://www.youtube.com/watch?v=_UgLUg-l0kc": {
+  "datum": "2023-02-14",
+  "geprueft": "2026-11-24",
+  "kanal": "Sprouts Deutschland",
+  "ok": true,
+  "sekunden": 441,
+  "status": "OK",
+  "titel": "Grahams Hierarchie der Meinungsverschiedenheit"
+ },
  "https://www.youtube.com/watch?v=_V_VBrW3ZuY": {
   "datum": "2024-12-17",
   "geprueft": "2026-11-09",
@@ -2200,6 +2406,15 @@
   "sekunden": 637,
   "status": "OK",
   "titel": "Social Media: Warum kann ich nicht aufhören mit Binge-Scrolling?  | Quarks Dimension Ralph"
+ },
+ "https://www.youtube.com/watch?v=_k92Cba_0zQ": {
+  "datum": "2022-08-02",
+  "geprueft": "2026-11-24",
+  "kanal": "Ramón Schlemmbach Psychologe, M.Sc.",
+  "ok": true,
+  "sekunden": 445,
+  "status": "OK",
+  "titel": "Du bist zu passiv, willst deine Meinung sagen und Entscheidungen treffen können – So wirst du aktiv"
  },
  "https://www.youtube.com/watch?v=a0CSU5GrtvM": {
   "datum": "2024-10-10",
@@ -2264,6 +2479,15 @@
   "status": "OK",
   "titel": "Wie suche ich in swisscovery RZS?"
  },
+ "https://www.youtube.com/watch?v=buze8CyPHvE": {
+  "datum": "2025-07-11",
+  "geprueft": "2026-11-24",
+  "kanal": "ARTEde",
+  "ok": true,
+  "sekunden": 1671,
+  "status": "OK",
+  "titel": "Warum trauen wir uns nicht zu streiten?  | 42 - Die Antwort auf fast alles | ARTE"
+ },
  "https://www.youtube.com/watch?v=c259e3BmxiE": {
   "datum": "2019-12-19",
   "geprueft": "2026-11-10",
@@ -2272,6 +2496,15 @@
   "sekunden": 1546,
   "status": "OK",
   "titel": "Achtsamkeit – was ist das eigentlich? | Gert Scobel"
+ },
+ "https://www.youtube.com/watch?v=c76utE6QICQ": {
+  "datum": "2021-06-24",
+  "geprueft": "2026-11-24",
+  "kanal": "Moderatorenschule Baden-Württemberg Nicole Krieger",
+  "ok": true,
+  "sekunden": 572,
+  "status": "OK",
+  "titel": "Ich sehe, was du denkst I Körpersprache lesen und deuten | Nicole Krieger"
  },
  "https://www.youtube.com/watch?v=c8NdFOXBgxE": {
   "datum": "2015-01-07",
@@ -2290,6 +2523,15 @@
   "sekunden": 3113,
   "status": "OK",
   "titel": "Langeweile - Das unerforschte Gefühl | Doku HD | ARTE"
+ },
+ "https://www.youtube.com/watch?v=cGlwONLj0tU": {
+  "datum": "2025-03-11",
+  "geprueft": "2026-11-24",
+  "kanal": "AOK – Mental Gesund",
+  "ok": true,
+  "sekunden": 231,
+  "status": "OK",
+  "titel": "Tipps zum Selbstbewusstsein aufbauen und Selbstwertgefühl stärken"
  },
  "https://www.youtube.com/watch?v=cJrKwI7McK4": {
   "datum": "2021-07-11",
@@ -2426,6 +2668,15 @@
   "status": "OK",
   "titel": "Besser entscheiden. Intuition & Risikokompetenz - Interview mit Prof. Dr. Gerd Gigerenzer"
  },
+ "https://www.youtube.com/watch?v=f6znnNttyhk": {
+  "datum": "2019-12-02",
+  "geprueft": "2026-11-24",
+  "kanal": "der-simon. com",
+  "ok": true,
+  "sekunden": 293,
+  "status": "OK",
+  "titel": "Das 3 Zonen Lernmodell \"Raus aus der Komfortzone\" - wie lernen möglich ist am Lern-Modell erklärt"
+ },
  "https://www.youtube.com/watch?v=fCu6yYXbCzU": {
   "datum": "2024-11-26",
   "geprueft": "2026-11-10",
@@ -2452,6 +2703,15 @@
   "sekunden": 1803,
   "status": "OK",
   "titel": "Digital Detox: Macht offline glücklich? | Twist | ARTE"
+ },
+ "https://www.youtube.com/watch?v=fWqZqT3T5k0": {
+  "datum": "2018-08-14",
+  "geprueft": "2026-11-24",
+  "kanal": "SchülerkarriereTV",
+  "ok": true,
+  "sekunden": 133,
+  "status": "OK",
+  "titel": "Die perfekte Körpersprache im Vorstellungsgespräch | Schülerkarriere"
  },
  "https://www.youtube.com/watch?v=fYidB0rKnuI": {
   "datum": "2022-10-23",
@@ -2482,7 +2742,7 @@
  },
  "https://www.youtube.com/watch?v=g6_aNHrKofs": {
   "datum": "2024-01-02",
-  "geprueft": "2026-11-10",
+  "geprueft": "2026-11-24",
   "kanal": "Quarks Dimension Ralph",
   "ok": true,
   "sekunden": 830,
@@ -2578,6 +2838,15 @@
   "sekunden": 171,
   "status": "OK",
   "titel": "Die Feynman Technik – Effektiv Lernen"
+ },
+ "https://www.youtube.com/watch?v=jroMrSypxNE": {
+  "datum": "2022-07-17",
+  "geprueft": "2026-11-24",
+  "kanal": "stellenanzeigen.de",
+  "ok": true,
+  "sekunden": 291,
+  "status": "OK",
+  "titel": "Körpersprache im Vorstellungsgespräch: 5 absolute No-Gos | careeasy Karrieretipps"
  },
  "https://www.youtube.com/watch?v=jytnXMSqgi0": {
   "datum": "2023-06-28",
@@ -2723,6 +2992,15 @@
   "status": "OK",
   "titel": "Mindmaps - Zusammenhänge besser behalten"
  },
+ "https://www.youtube.com/watch?v=mTVgQE_IE3o": {
+  "datum": "2026-01-08",
+  "geprueft": "2026-11-24",
+  "kanal": "Irgendwas mit ARTE und Kultur",
+  "ok": true,
+  "sekunden": 1612,
+  "status": "OK",
+  "titel": "Glück und Selbstvertrauen | unhappy | ARTE"
+ },
  "https://www.youtube.com/watch?v=mV_A4wO8k5w": {
   "datum": "2025-12-30",
   "geprueft": "2026-11-10",
@@ -2848,6 +3126,15 @@
   "sekunden": 84,
   "status": "OK",
   "titel": "Müde Augen vom Bildschirm? Diese schnellen Übungen können helfen"
+ },
+ "https://www.youtube.com/watch?v=pOGO-JByT5c": {
+  "datum": "2023-07-27",
+  "geprueft": "2026-11-24",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 985,
+  "status": "OK",
+  "titel": "Körpersprache: Ich sehe, was du fühlst | Terra Xplore mit Geowissenschaftlerin Thora Schubert"
  },
  "https://www.youtube.com/watch?v=pr-JdgDLRQM": {
   "datum": "2020-08-26",
@@ -2993,6 +3280,15 @@
   "status": "OK",
   "titel": "Richtig belohnen! - Wie Belohnungen wirklich motivieren. | Betzold"
  },
+ "https://www.youtube.com/watch?v=sPvrBrDWoac": {
+  "datum": "2021-11-28",
+  "geprueft": "2026-11-24",
+  "kanal": "Felix Thönnessen",
+  "ok": true,
+  "sekunden": 985,
+  "status": "OK",
+  "titel": "Wieso MUT der Schlüssel zum ERFOLG ist | So wirst du mutig!"
+ },
  "https://www.youtube.com/watch?v=t2SKPL0C1uE": {
   "datum": "2020-12-08",
   "geprueft": "2026-11-10",
@@ -3128,6 +3424,15 @@
   "status": "OK",
   "titel": "Rat&Tat: Lehrvertragsauflösung-DE"
  },
+ "https://www.youtube.com/watch?v=vphK-h5cxTg": {
+  "datum": "2023-01-25",
+  "geprueft": "2026-11-24",
+  "kanal": "thekey.academy",
+  "ok": true,
+  "sekunden": 175,
+  "status": "OK",
+  "titel": "Warum Prioritäten setzen so wichtig ist"
+ },
  "https://www.youtube.com/watch?v=vqZ4GqKQ-Og": {
   "datum": "2023-06-09",
   "geprueft": "2026-11-10",
@@ -3181,6 +3486,15 @@
   "sekunden": 267,
   "status": "OK",
   "titel": "So verbesserst du dein Zeitmanagement!  - 10 Tipps"
+ },
+ "https://www.youtube.com/watch?v=wj3keu2mO-s": {
+  "datum": "2024-10-14",
+  "geprueft": "2026-11-24",
+  "kanal": "Stefanie Stahl",
+  "ok": true,
+  "sekunden": 537,
+  "status": "OK",
+  "titel": "5 Tipps für ein stärkeres Selbstwertgefühl"
  },
  "https://www.youtube.com/watch?v=x1trrADDk7w": {
   "datum": "2025-11-04",

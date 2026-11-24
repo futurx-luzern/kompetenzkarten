@@ -1,0 +1,81 @@
+{
+ "titel": "Körpersprache verstehen",
+ "kategorie": "Körpersignale bewusst beachten",
+ "aufgabe": "Erfahre, wie du die Körpersprache bei dir selbst und anderen besser wahrnimmst und verstehst. Lerne, welche Körpersignale besonders wichtig sind und wie du sie richtig deutest. Erstelle eine Liste mit den wichtigsten Körpersignalen und deren Bedeutung.",
+ "ziel": "Verstehe, wie du Körpersprache bewusst wahrnimmst und nutzt.",
+ "text": [
+  "Noch bevor du etwas sagst, hat dein Gegenüber schon einen Eindruck von dir, durch deine Haltung, deinen Blick und deinen Gesichtsausdruck. Und umgekehrt verrät auch die Körpersprache der anderen viel.",
+  "Auf dieser Karte lernst du die wichtigsten Signale der Körpersprache kennen, wie du sie bei anderen liest und wie du deine eigene bewusst einsetzt, zum Beispiel im Bewerbungsgespräch."
+ ],
+ "methode_titel": "Die Sprache des Körpers",
+ "fragen": [
+  "Welche Körpersignale hast du heute bei anderen bemerkt?",
+  "Wie wirkt deine eigene Körpersprache? Was hast du an dir beobachtet?",
+  "Worauf willst du im nächsten Bewerbungsgespräch oder Vortrag achten?"
+ ],
+ "suche": [
+  "Körpersprache lesen",
+  "Körpersprache Bewerbungsgespräch",
+  "nonverbale Kommunikation"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Eu3BtU_suMA",
+   "titel": "Nonverbale Kommunikation einfach erklärt",
+   "dauer": "3,5 Min.",
+   "quelle": "Karrierebibel, 2025"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=fWqZqT3T5k0",
+   "titel": "Die richtige Körpersprache im Vorstellungsgespräch",
+   "dauer": "2 Min.",
+   "quelle": "SchülerkarriereTV",
+   "notiz": "Für Jugendliche auf Lehrstellensuche"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=YOOZ8jttiA8",
+   "titel": "Sehen, was andere denken: Körpersprache lesen",
+   "dauer": "8 Min.",
+   "quelle": "Logical Lemon",
+   "notiz": "Gezeichnet erklärt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=jroMrSypxNE",
+   "titel": "Körpersprache im Vorstellungsgespräch: 5 Fehler",
+   "dauer": "5 Min.",
+   "quelle": "stellenanzeigen.de, 2022"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=c76utE6QICQ",
+   "titel": "Körpersprache bewusst wahrnehmen",
+   "dauer": "9,5 Min.",
+   "quelle": "Moderatorenschule Baden-Württemberg",
+   "notiz": "Mimik und Gestik richtig deuten. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=pOGO-JByT5c",
+   "titel": "Körpersprache: Ich sehe, was du fühlst",
+   "dauer": "16,5 Min.",
+   "quelle": "Terra Xplore (ZDF), 2023",
+   "notiz": "Was die Forschung über Körpersprache weiss. Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=LXKCk-KudIc",
+   "grund": "Kanal einer lokalen Coaching-Praxis"
+  }
+ ]
+}
