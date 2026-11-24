@@ -1,0 +1,88 @@
+{
+ "titel": "Konfliktmanagement im Team",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Finde heraus, welche Methoden es gibt, um Konflikte im Team zu lösen. Erstelle eine kurze Zusammenfassung oder eine Übersicht der besten Techniken für Konfliktmanagement.",
+ "ziel": "Lerne, wie du durch Konfliktlösung die Harmonie und Produktivität im Team förderst.",
+ "text": [
+  "In jedem Team kracht es irgendwann. Unterschiedliche Meinungen, ungleich verteilte Arbeit, Missverständnisse: Konflikte gehören zur Zusammenarbeit.",
+  "Wichtig ist, dass sie gut gelöst werden und nicht eskalieren. Auf dieser Karte lernst du verschiedene Arten kennen, mit Konflikten umzugehen, und erfährst, wie Konflikte Schritt für Schritt eskalieren können."
+ ],
+ "methode_titel": "Konflikte im Team lösen",
+ "fragen": [
+  "Welchen Konflikt in einem Team hast du erlebt? Wie wurde er gelöst?",
+  "Welche der fünf Arten, mit Konflikten umzugehen, wählst du oft?",
+  "Was würdest du beim nächsten Konflikt im Team anders machen?"
+ ],
+ "suche": [
+  "Konfliktstile",
+  "Eskalationsstufen Glasl",
+  "Konflikte im Team lösen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=tJgkHsZv9F4",
+   "titel": "Die 5 Wege, Konflikte zu lösen",
+   "dauer": "3,5 Min.",
+   "quelle": "Smart Leadership"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/konflikte/tipps/probleme_mit_kollegen.cfm",
+   "titel": "Konflikte mit Kolleginnen und Kollegen lösen",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Für Jugendliche und Lernende"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=1vuYtTabWkc",
+   "titel": "Die 9 Stufen der Konflikteskalation nach Glasl",
+   "dauer": "6 Min.",
+   "quelle": "Erzieherkanal, 2024"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=OdY4RHlge2U",
+   "titel": "5 Strategien zur Konfliktlösung",
+   "dauer": "8,5 Min.",
+   "quelle": "ZEIT Akademie, 2023",
+   "notiz": "Eine Fachperson erklärt, wann welche Strategie passt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=PxxtNm9wGOU",
+   "titel": "Das Harvard-Konzept: Verhandeln, damit alle gewinnen",
+   "dauer": "3 Min.",
+   "quelle": "youknow, 2023"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=PaDeg1Rkjmg",
+   "titel": "Konflikteskalation nach Glasl: alle 9 Stufen",
+   "dauer": "12 Min.",
+   "quelle": "Projekte leicht gemacht",
+   "notiz": "Ausführlich mit Beispielen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://begeisterungsland.de/konflikte-im-team/",
+   "grund": "Blog einer Beratungsfirma"
+  },
+  {
+   "url": "https://www.karriere.at/c/a/konflikte-im-team",
+   "grund": "Jobportal, für Berufstätige"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=JN8bCP3wGmI",
+   "grund": "Kanal einer Beratungsfirma, für Führungskräfte"
+  }
+ ]
+}

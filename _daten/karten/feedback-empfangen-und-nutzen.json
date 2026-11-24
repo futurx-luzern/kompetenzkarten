@@ -1,0 +1,73 @@
+{
+ "titel": "Feedback empfangen und nutzen",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Finde heraus, wie man Feedback effektiv empfangen und in persönliche Verbesserungen umsetzen kann. Erstelle eine kurze Zusammenfassung oder eine Liste der besten Techniken.",
+ "ziel": "Erfahre, wie du durch das Annehmen von Feedback persönlich und beruflich wachsen kannst.",
+ "text": [
+  "«Kann ich dir kurz ein Feedback geben?» Bei diesem Satz zucken viele zusammen. Kritik zu hören, tut manchmal weh.",
+  "Dabei ist Feedback ein Geschenk: Es zeigt dir, wie du auf andere wirkst und wo du dich verbessern kannst. Auf dieser Karte lernst du, Feedback gelassen anzunehmen und sinnvoll zu nutzen."
+ ],
+ "methode_titel": "So nimmst du Feedback an",
+ "fragen": [
+  "Wie reagierst du normalerweise auf Kritik?",
+  "Welches Feedback hat dir schon einmal wirklich weitergeholfen?",
+  "Was nimmst du dir vor, wenn du das nächste Mal Feedback bekommst?"
+ ],
+ "suche": [
+  "Feedback annehmen",
+  "Kritikfähigkeit",
+  "mit Kritik umgehen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=SrcWbdEH4vw",
+   "titel": "Die Feedbackformel LIMO",
+   "dauer": "2 Min.",
+   "quelle": "youknow, 2022",
+   "notiz": "So nimmst du Feedback an"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=gSKWwd-GmgQ",
+   "titel": "Kritik gelassen annehmen",
+   "dauer": "4 Min.",
+   "quelle": "RedeFabrik",
+   "notiz": "Kritik nicht persönlich nehmen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=29ZFByK1UJM",
+   "titel": "Kritikfähigkeit lernen",
+   "dauer": "4 Min.",
+   "quelle": "Karrierebibel, 2025"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=vr0O3ssX40E",
+   "titel": "Feedback richtig annehmen",
+   "dauer": "5,5 Min.",
+   "quelle": "Prof. Dr. Jürgen Radel (HTW Berlin), 2024",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://cdn.gryps.ch/media/filer_public/8c/31/8c31bf60-21a8-49c9-8d41-085a56a9d961/gryps_anleitung_feedback_richtig_geben_und_empfangen.pdf",
+   "titel": "Feedback richtig geben und empfangen",
+   "dauer": "PDF, 2 Seiten",
+   "quelle": "gryps (Schweiz)",
+   "notiz": "Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=JtR7eQolUg8",
+   "grund": "Werbevideo einer Job-App"
+  }
+ ]
+}

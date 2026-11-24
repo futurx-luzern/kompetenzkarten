@@ -3,7 +3,7 @@
 Stand 2026-11-24. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 90 online, 8 bereit, 24 offen (von 122)
+**Total:** 98 online, 9 bereit, 15 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -155,28 +155,28 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Deine Meinung sagen | `deine-meinung-sagen.html` | bereit |
-| Zu deiner Meinung stehen | `zu-deiner-meinung-stehen.html` | bereit |
-| Unterschiedliche Meinungen aushalten | `unterschiedliche-meinungen-aushalten.html` | bereit |
-| Selbstbewusst auftreten | `selbstbewusst-auftreten.html` | bereit |
-| Körpersprache verstehen | `koerpersprache-verstehen.html` | bereit |
-| Mutig Neues ausprobieren | `mutig-neues-ausprobieren.html` | bereit |
-| Neue Ideen willkommen heissen | `neue-ideen-willkommen-heissen.html` | bereit |
-| Was ist wirklich wichtig? | `was-ist-wirklich-wichtig.html` | bereit |
+| Deine Meinung sagen | `deine-meinung-sagen.html` | online |
+| Zu deiner Meinung stehen | `zu-deiner-meinung-stehen.html` | online |
+| Unterschiedliche Meinungen aushalten | `unterschiedliche-meinungen-aushalten.html` | online |
+| Selbstbewusst auftreten | `selbstbewusst-auftreten.html` | online |
+| Körpersprache verstehen | `koerpersprache-verstehen.html` | online |
+| Mutig Neues ausprobieren | `mutig-neues-ausprobieren.html` | online |
+| Neue Ideen willkommen heissen | `neue-ideen-willkommen-heissen.html` | online |
+| Was ist wirklich wichtig? | `was-ist-wirklich-wichtig.html` | online |
 
 ## Paket 12: Sozialkompetenz: Team und Konflikte (9 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Konflikte ansprechen | `konflikte-ansprechen.html` | offen |
-| Konfliktmanagement im Team | `konfliktmanagement-im-team.html` | offen |
-| Konstruktives Feedback geben | `konstruktives-feedback-geben.html` | offen |
-| Feedback empfangen und nutzen | `feedback-empfangen-und-nutzen.html` | offen |
-| Rollenverteilung im Team | `rollenverteilung-im-team.html` | offen |
-| Gemeinsam entscheiden | `gemeinsam-entscheiden.html` | offen |
-| Zu deinem Wort stehen | `zu-deinem-wort-stehen.html` | offen |
-| Unterstützung annehmen und geben | `unterstuetzung-annehmen-und-geben.html` | offen |
-| Grenzen respektieren | `grenzen-respektieren.html` | offen |
+| Konflikte ansprechen | `konflikte-ansprechen.html` | bereit |
+| Konfliktmanagement im Team | `konfliktmanagement-im-team.html` | bereit |
+| Konstruktives Feedback geben | `konstruktives-feedback-geben.html` | bereit |
+| Feedback empfangen und nutzen | `feedback-empfangen-und-nutzen.html` | bereit |
+| Rollenverteilung im Team | `rollenverteilung-im-team.html` | bereit |
+| Gemeinsam entscheiden | `gemeinsam-entscheiden.html` | bereit |
+| Zu deinem Wort stehen | `zu-deinem-wort-stehen.html` | bereit |
+| Unterstützung annehmen und geben | `unterstuetzung-annehmen-und-geben.html` | bereit |
+| Grenzen respektieren | `grenzen-respektieren.html` | bereit |
 
 ## Paket 13: Sozialkompetenz: Empathie und Beziehungen (9 Karten)
 

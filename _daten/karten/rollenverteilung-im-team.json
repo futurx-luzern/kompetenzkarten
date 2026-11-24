@@ -1,0 +1,67 @@
+{
+ "titel": "Rollenverteilung im Team",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Recherchiere, wie eine effektive Rollenverteilung im Team zur besseren Zusammenarbeit beiträgt. Erstelle eine kurze Zusammenfassung oder ein Diagramm der wichtigsten Prinzipien.",
+ "ziel": "Verstehe, wie klare Rollenverteilungen die Teamarbeit verbessern.",
+ "text": [
+  "Bei Gruppenarbeiten passiert es oft: Eine Person macht alles, andere fast nichts. Oder alle wollen bestimmen und niemand schreibt mit.",
+  "In einem guten Team hat jede Person eine Rolle, die zu ihren Stärken passt. Auf dieser Karte lernst du typische Teamrollen kennen und erfährst, wie sich Teams mit der Zeit entwickeln."
+ ],
+ "methode_titel": "Rollen im Team",
+ "fragen": [
+  "Welche Rolle übernimmst du in Gruppen meistens?",
+  "Welche Rolle fehlt oft in deinen Teams?",
+  "Wie würdest du die Rollen in eurer nächsten Gruppenarbeit verteilen?"
+ ],
+ "suche": [
+  "Teamrollen Belbin",
+  "Teamphasen Tuckman",
+  "Teamarbeit Tipps"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=v_miIH8opwg",
+   "titel": "Teamwork in 3 Minuten erklärt",
+   "dauer": "3,5 Min.",
+   "quelle": "youknow"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=rmYP1U869D8",
+   "titel": "Die 9 Teamrollen nach Belbin",
+   "dauer": "6,5 Min.",
+   "quelle": "Erzieherkanal, 2024",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://studyflix.de/jobs/karriere-tipps/teamrollen-nach-belbin-4773",
+   "titel": "Teamrollen nach Belbin",
+   "dauer": "6 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=oXk_2gNVo7w",
+   "titel": "Teamphasen nach Tuckman",
+   "dauer": "5 Min.",
+   "quelle": "Erzieherkanal, 2024",
+   "notiz": "Warum es am Anfang oft kracht"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ekPhfzcShxY",
+   "titel": "Teamrollen nach Belbin: so funktioniert ein gutes Team",
+   "dauer": "11 Min.",
+   "quelle": "Projekte leicht gemacht",
+   "notiz": "Bleibt von der alten Seite"
+  }
+ ]
+}

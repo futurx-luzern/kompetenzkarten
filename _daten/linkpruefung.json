@@ -34,6 +34,13 @@
   "titel": "",
   "weiterleitung": ""
  },
+ "https://cdn.gryps.ch/media/filer_public/8c/31/8c31bf60-21a8-49c9-8d41-085a56a9d961/gryps_anleitung_feedback_richtig_geben_und_empfangen.pdf": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
+ },
  "https://famigros.migros.ch/de/kinder-und-jugendliche/erziehung-und-entwicklung/mediale-vorbilder-von-jugendlichen": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -139,6 +146,13 @@
   "titel": "Selbstreflexion: Definition, Beispiele + 50 Fragen",
   "weiterleitung": ""
  },
+ "https://karrierebibel.de/zuverlaessigkeit/": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Zuverlässigkeit: Beispiele im Beruf + Vorsicht Arbeitsfalle",
+  "weiterleitung": ""
+ },
  "https://lerntool.ch/buc/lernbereiche/pruefungsstrategien/": {
   "geprueft": "2026-11-10",
   "ok": true,
@@ -159,6 +173,13 @@
   "status": "HTTP 200",
   "titel": "Prüfungsangst: Mit diesen 11 Tipps bleibst du bei Tests entspannter",
   "weiterleitung": ""
+ },
+ "https://proitera.ch/eigene-grenzen-kennen-und-fremde-grenzen-respektieren/": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Eigene Grenzen kennen und fremde Grenzen respektieren | Proitera",
+  "weiterleitung": "https://proitera.ch/de/blog/grenzen-kennen-und-respektieren/"
  },
  "https://prozessfux.com/de/newsblog/posts/2022-06-03_Wie-Du-mit-der-10-Minuten-Regel-die-Prokrastination-bekaempfst.php": {
   "geprueft": "2026-11-09",
@@ -235,6 +256,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Selbstmotivation • Strategien, Tipps und Beispiele · Studyflix",
+  "weiterleitung": ""
+ },
+ "https://studyflix.de/jobs/karriere-tipps/teamrollen-nach-belbin-4773": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Teamrollen nach Belbin • einfach erklärt · Studyflix",
   "weiterleitung": ""
  },
  "https://studyflix.de/jobs/karriere-tipps/zeitmanagement-4730": {
@@ -315,7 +343,7 @@
   "weiterleitung": ""
  },
  "https://www.147.ch/de/": {
-  "geprueft": "2026-11-10",
+  "geprueft": "2026-11-24",
   "ok": true,
   "status": "HTTP 200",
   "titel": "147 | Wir sind für dich da",
@@ -419,6 +447,13 @@
   "titel": "Stress am Arbeitsplatz",
   "weiterleitung": ""
  },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/gewalt/aktion/so_wehre_ich_mich/tipps/bei_konflikten.cfm": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Konflikte ansprechen und lösen",
+  "weiterleitung": ""
+ },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/medienkompetenz/ressourcen/cybermobbing_medien_gewalt/konsum/leben_ohne_bildschirm.cfm": {
   "geprueft": "2026-11-10",
   "ok": true,
@@ -445,6 +480,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Wer bin ich? Gefühle sind Wegweiser",
+  "weiterleitung": ""
+ },
+ "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/konflikte/tipps/probleme_mit_kollegen.cfm": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Konflikte mit Kolleginnen und Kollegen lösen",
   "weiterleitung": ""
  },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/stress/setting/unterricht_pruefungen/pruefungen/prufungsvorbereitung.cfm": {
@@ -629,6 +671,13 @@
   "titel": "Feynman-Methode: Effektiver lernen durch Verstehen - ostjob.ch",
   "weiterleitung": ""
  },
+ "https://www.psgz.ch/news/um-hilfe-bitten-und-hilfe-annehmen-wieso-uns-das-oft-schwerfallt/": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "PSGZ | Psychische Gesundheit Zug | Um Hilfe bitten und Hilfe annehmen - Wieso uns das oft schwerfällt",
+  "weiterleitung": ""
+ },
  "https://www.psy.uni-hamburg.de/arbeitsbereiche/paedagogische-psychologie-und-motivation/personen/oettingen-gabriele/dokumente/krott-marheinecke-oettingen-2019-mentale-kontrastierung-und-woop-foerdern-einsicht-und-veraenderung.pdf": {
   "geprueft": "2026-11-09",
   "ok": false,
@@ -787,6 +836,13 @@
   "titel": "VIA Character Strengths Survey & Character Reports",
   "weiterleitung": ""
  },
+ "https://www.vitaminb.ch/uploads/media/default/2287/Gemeinsam%20entscheiden_2021.pdf": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
+ },
  "https://www.youtube.com/watch?v=-LV2uWk5iCE": {
   "datum": "2019-04-08",
   "geprueft": "2026-11-10",
@@ -804,6 +860,15 @@
   "sekunden": 170,
   "status": "OK",
   "titel": "SO verlässt du deine Komfortzone mit dem 3 Zonen Modell 💥"
+ },
+ "https://www.youtube.com/watch?v=-rR2IifdxEU": {
+  "datum": "2025-06-12",
+  "geprueft": "2026-11-24",
+  "kanal": "Karrierebibel",
+  "ok": true,
+  "sekunden": 206,
+  "status": "OK",
+  "titel": "Gewaltfreie Kommunikation nach Rosenberg – einfach erklärt"
  },
  "https://www.youtube.com/watch?v=-ttJuqi8Rho": {
   "datum": "2025-04-07",
@@ -886,6 +951,15 @@
   "status": "OK",
   "titel": "Mentales Kontrastieren in der Praxis - Die Wenn-Dann-Pläne"
  },
+ "https://www.youtube.com/watch?v=1DlSMQr4D6g": {
+  "datum": "2022-03-01",
+  "geprueft": "2026-11-24",
+  "kanal": "youknow",
+  "ok": true,
+  "sekunden": 158,
+  "status": "OK",
+  "titel": "Die Feedbackformel WWW – Mit WWW erfolgreich Feedback geben"
+ },
  "https://www.youtube.com/watch?v=1L6kr09dTgE": {
   "datum": "2017-06-30",
   "geprueft": "2026-11-09",
@@ -904,6 +978,15 @@
   "status": "OK",
   "titel": "Liegende Acht"
  },
+ "https://www.youtube.com/watch?v=1vuYtTabWkc": {
+  "datum": "2024-12-08",
+  "geprueft": "2026-11-24",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 364,
+  "status": "OK",
+  "titel": "9 STUFEN der KONFLIKTESKALATION nach GLASL - Konflikte nach Glasl einfach erklärt | ERZIEHERKANAL"
+ },
  "https://www.youtube.com/watch?v=27veNzyeSM4": {
   "datum": "2018-01-06",
   "geprueft": "2026-11-24",
@@ -913,6 +996,15 @@
   "status": "OK",
   "titel": "Gruppenzwang - der MINI-Test: Wie anfällig bist du?"
  },
+ "https://www.youtube.com/watch?v=29ZFByK1UJM": {
+  "datum": "2025-04-11",
+  "geprueft": "2026-11-24",
+  "kanal": "Karrierebibel",
+  "ok": true,
+  "sekunden": 249,
+  "status": "OK",
+  "titel": "Kritikfähigkeit lernen: Richtig mit Kritik umgehen"
+ },
  "https://www.youtube.com/watch?v=2HWB3MrV8fc": {
   "datum": "2024-03-22",
   "geprueft": "2026-11-10",
@@ -921,6 +1013,15 @@
   "sekunden": 466,
   "status": "OK",
   "titel": "Lernexperten Lerntipp 32: Die SQ3R-Methode"
+ },
+ "https://www.youtube.com/watch?v=2ovcQgIN5G4": {
+  "datum": "2015-10-21",
+  "geprueft": "2026-11-24",
+  "kanal": "GONEASTRAYfilms",
+  "ok": true,
+  "sekunden": 179,
+  "status": "OK",
+  "titel": "Beidseitiges Einverständnis - so einfach wie Tee"
  },
  "https://www.youtube.com/watch?v=2zeLJ5t-nok": {
   "datum": "2019-06-29",
@@ -1066,6 +1167,15 @@
   "status": "OK",
   "titel": "Stress - Was passiert im Körper?"
  },
+ "https://www.youtube.com/watch?v=6Om7hFYwRrU": {
+  "datum": "2024-08-09",
+  "geprueft": "2026-11-24",
+  "kanal": "Herbstlust",
+  "ok": true,
+  "sekunden": 135,
+  "status": "OK",
+  "titel": "Hilfe annehmen: Wie kann ich das lernen?"
+ },
  "https://www.youtube.com/watch?v=6dhHvfXjoFA": {
   "datum": "2023-07-07",
   "geprueft": "2026-11-10",
@@ -1183,6 +1293,15 @@
   "status": "OK",
   "titel": "Progressive Muskelentspannung (PMR) - was ist das?"
  },
+ "https://www.youtube.com/watch?v=A5As9tcy2dU": {
+  "datum": "2011-12-02",
+  "geprueft": "2026-11-24",
+  "kanal": "SK-Prinzip-Kanal",
+  "ok": true,
+  "sekunden": 373,
+  "status": "OK",
+  "titel": "Systemisches Konsensieren"
+ },
  "https://www.youtube.com/watch?v=AOLALcMlsis": {
   "datum": "2024-12-08",
   "geprueft": "2026-11-10",
@@ -1273,6 +1392,15 @@
   "status": "OK",
   "titel": "Prüfungsvorbereitung – Mit dem richtigen Zeitmanagement easy Lernen"
  },
+ "https://www.youtube.com/watch?v=CGKcLP4PVVM": {
+  "datum": "2021-10-22",
+  "geprueft": "2026-11-24",
+  "kanal": "Dr. Christine Braehler",
+  "ok": true,
+  "sekunden": 359,
+  "status": "OK",
+  "titel": "Wie Du Dich abgrenzt, wenn andere Deine Grenzen nicht respektieren"
+ },
  "https://www.youtube.com/watch?v=CIkPomNfE90": {
   "datum": "2026-05-14",
   "geprueft": "2026-11-16",
@@ -1299,6 +1427,15 @@
   "sekunden": 640,
   "status": "OK",
   "titel": "Kritik auf diplomatische Art – 7 wirkungsvolle Tipps, mit denen Sie bei anderen mehr erreichen"
+ },
+ "https://www.youtube.com/watch?v=DmwbNtKoV5s": {
+  "datum": "2018-11-07",
+  "geprueft": "2026-11-24",
+  "kanal": "Ramón Schlemmbach Psychologe, M.Sc.",
+  "ok": true,
+  "sekunden": 959,
+  "status": "OK",
+  "titel": "Verbindlichkeit vs Nachlässigkeit (+Übung)"
  },
  "https://www.youtube.com/watch?v=EIOuHYvrvtk": {
   "datum": "2026-10-13",
@@ -1669,6 +1806,15 @@
   "status": "OK",
   "titel": "Brainfood - Wie Ernährung unser Gehirn und Verhalten beeinflusst | Einstein | SRF Wissen"
  },
+ "https://www.youtube.com/watch?v=LSIj9ggAFnM": {
+  "datum": "2023-01-10",
+  "geprueft": "2026-11-24",
+  "kanal": "hanzKurz erklärt",
+  "ok": true,
+  "sekunden": 299,
+  "status": "OK",
+  "titel": "Entscheidungen in Gruppen: Konsens versus Konsent"
+ },
  "https://www.youtube.com/watch?v=Lah73VwTLvo": {
   "datum": "2019-01-16",
   "geprueft": "2026-11-24",
@@ -1804,6 +1950,15 @@
   "status": "OK",
   "titel": "So krempelst du dein Leben um!"
  },
+ "https://www.youtube.com/watch?v=OdY4RHlge2U": {
+  "datum": "2023-06-08",
+  "geprueft": "2026-11-24",
+  "kanal": "ZEIT Akademie",
+  "ok": true,
+  "sekunden": 504,
+  "status": "OK",
+  "titel": "5 Strategien zur Konfliktlösung – Von Durchsetzung bis Empathie"
+ },
  "https://www.youtube.com/watch?v=OnpTOyclUw4": {
   "datum": "2020-05-11",
   "geprueft": "2026-11-10",
@@ -1858,6 +2013,15 @@
   "status": "OK",
   "titel": "Risikoanalyse einfach erklärt:  Schritt-für-Schritt Anleitung"
  },
+ "https://www.youtube.com/watch?v=PaDeg1Rkjmg": {
+  "datum": "2020-11-04",
+  "geprueft": "2026-11-24",
+  "kanal": "Projekte leicht gemacht",
+  "ok": true,
+  "sekunden": 724,
+  "status": "OK",
+  "titel": "Konflikteskalation nach Glasl: Die 9 Eskalationsstufen an praktischen Beispielen erklärt"
+ },
  "https://www.youtube.com/watch?v=Pf0ZSMchPds": {
   "datum": "2022-11-16",
   "geprueft": "2026-11-09",
@@ -1866,6 +2030,15 @@
   "sekunden": 332,
   "status": "OK",
   "titel": "Der Marshmallow Test"
+ },
+ "https://www.youtube.com/watch?v=PxxtNm9wGOU": {
+  "datum": "2023-01-05",
+  "geprueft": "2026-11-24",
+  "kanal": "youknow",
+  "ok": true,
+  "sekunden": 180,
+  "status": "OK",
+  "titel": "Das Harvard-Konzept - so wird Verhandeln zur Win-Win-Situation"
  },
  "https://www.youtube.com/watch?v=Pz207H-J2tE": {
   "datum": "2025-08-11",
@@ -1878,7 +2051,7 @@
  },
  "https://www.youtube.com/watch?v=Q16NkzC3czM": {
   "datum": "2026-02-24",
-  "geprueft": "2026-11-09",
+  "geprueft": "2026-11-24",
   "kanal": "Stefanie Stahl",
   "ok": true,
   "sekunden": 442,
@@ -1957,6 +2130,15 @@
   "status": "OK",
   "titel": "Zwei Männer und der Bestätigungsfehler (Confirmation Bias)"
  },
+ "https://www.youtube.com/watch?v=R2KzxH9_PDA": {
+  "datum": "2020-05-19",
+  "geprueft": "2026-11-24",
+  "kanal": "Projekte leicht gemacht",
+  "ok": true,
+  "sekunden": 385,
+  "status": "OK",
+  "titel": "Der Feedback Burger: Feedback geben leicht gemacht"
+ },
  "https://www.youtube.com/watch?v=RCDOSan-Oxs": {
   "datum": "2020-02-19",
   "geprueft": "2026-11-10",
@@ -1992,6 +2174,15 @@
   "sekunden": 188,
   "status": "OK",
   "titel": "Prokrastination: Mit der Pomodoro-Technik das Aufschieben vermeiden – Lerntipps von sofatutor"
+ },
+ "https://www.youtube.com/watch?v=S5lI0XCQbE4": {
+  "datum": "2018-06-27",
+  "geprueft": "2026-11-24",
+  "kanal": "ComTeam Academy \\u0026 Consulting GmbH",
+  "ok": true,
+  "sekunden": 135,
+  "status": "OK",
+  "titel": "Kompromiss vs Konsens"
  },
  "https://www.youtube.com/watch?v=S70IGHfI9-Q": {
   "datum": "2026-04-22",
@@ -2037,6 +2228,15 @@
   "sekunden": 284,
   "status": "OK",
   "titel": "Wie sich Stress auf den Körper auswirkt – Sharon Horesh Bergquist"
+ },
+ "https://www.youtube.com/watch?v=SrcWbdEH4vw": {
+  "datum": "2022-05-03",
+  "geprueft": "2026-11-24",
+  "kanal": "youknow",
+  "ok": true,
+  "sekunden": 133,
+  "status": "OK",
+  "titel": "Die Feedbackformel LIMO – Mit LIMO Feedback souverän annehmen"
  },
  "https://www.youtube.com/watch?v=SyNoySmKlok": {
   "datum": "2021-10-09",
@@ -2136,6 +2336,15 @@
   "sekunden": 89,
   "status": "OK",
   "titel": "Entspanne sofort mit progressiver Muskelentspannung (PMR)"
+ },
+ "https://www.youtube.com/watch?v=VWumM6LwOng": {
+  "datum": "2023-09-10",
+  "geprueft": "2026-11-24",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 650,
+  "status": "OK",
+  "titel": "GEWALTFREIE KOMMUNIKATION nach Marshall Rosenberg - gewaltfrei kommunizieren | ERZIEHERKANAL"
  },
  "https://www.youtube.com/watch?v=VqEHyQChTok": {
   "datum": "2022-12-20",
@@ -2247,7 +2456,7 @@
  },
  "https://www.youtube.com/watch?v=Xphn3_z7KDc": {
   "datum": "2025-12-03",
-  "geprueft": "2026-11-09",
+  "geprueft": "2026-11-24",
   "kanal": "Studyflix",
   "ok": true,
   "sekunden": 255,
@@ -2443,6 +2652,15 @@
   "status": "OK",
   "titel": "Liegende Acht und Überkreuzbewegungen"
  },
+ "https://www.youtube.com/watch?v=bL3P-7F5ffc": {
+  "datum": "2022-11-17",
+  "geprueft": "2026-11-24",
+  "kanal": "KISS Stuttgart",
+  "ok": true,
+  "sekunden": 221,
+  "status": "OK",
+  "titel": "Hilfe, Konflikt in der Gruppe – Wie ansprechen?"
+ },
  "https://www.youtube.com/watch?v=bPPt8aU7Xao": {
   "datum": "2022-07-10",
   "geprueft": "2026-11-09",
@@ -2560,6 +2778,15 @@
   "status": "OK",
   "titel": "Die Tagesleistungskurve"
  },
+ "https://www.youtube.com/watch?v=ci6B3eofaIc": {
+  "datum": "2018-04-02",
+  "geprueft": "2026-11-24",
+  "kanal": "Dr. Stefan Frädrich",
+  "ok": true,
+  "sekunden": 363,
+  "status": "OK",
+  "titel": "Warum Verbindlichkeit wichtiger ist als Worte"
+ },
  "https://www.youtube.com/watch?v=ctZAQid_Bm4": {
   "datum": "2026-01-19",
   "geprueft": "2026-11-16",
@@ -2640,6 +2867,15 @@
   "sekunden": 547,
   "status": "OK",
   "titel": "Endlich DISZIPLIN aufbauen - so gehts!✅"
+ },
+ "https://www.youtube.com/watch?v=ekPhfzcShxY": {
+  "datum": "2021-05-05",
+  "geprueft": "2026-11-24",
+  "kanal": "Projekte leicht gemacht",
+  "ok": true,
+  "sekunden": 664,
+  "status": "OK",
+  "titel": "Teamrollen Belbin: Wie du hochperformante Teams formst"
  },
  "https://www.youtube.com/watch?v=epm8BKYh5h0": {
   "datum": "2022-06-30",
@@ -2749,6 +2985,24 @@
   "status": "OK",
   "titel": "Wie werde ich kreativer? | Quarks Dimension Ralph mit @coldmirror und @wolterzwillinge"
  },
+ "https://www.youtube.com/watch?v=gSKWwd-GmgQ": {
+  "datum": "2019-11-02",
+  "geprueft": "2026-11-24",
+  "kanal": "RedeFabrik - Kommunikation \\u0026 Charisma",
+  "ok": true,
+  "sekunden": 234,
+  "status": "OK",
+  "titel": "Gelassen Kritik annehmen können ohne es persönlich zu nehmen"
+ },
+ "https://www.youtube.com/watch?v=gbYPp15qniA": {
+  "datum": "2026-09-29",
+  "geprueft": "2026-11-24",
+  "kanal": "planet schule",
+  "ok": true,
+  "sekunden": 300,
+  "status": "OK",
+  "titel": "Deutsch Basics: Feedback geben leicht gemacht! | kolleg24 | planet schule | ARD"
+ },
  "https://www.youtube.com/watch?v=ge6u-u-22OM": {
   "datum": "2018-05-26",
   "geprueft": "2026-11-10",
@@ -2802,6 +3056,15 @@
   "sekunden": 227,
   "status": "OK",
   "titel": "Lernen mit System: Interleaving für effektive Wissensvernetzung 🌟🔗"
+ },
+ "https://www.youtube.com/watch?v=jAbtGJfgXAE": {
+  "datum": "2026-07-02",
+  "geprueft": "2026-11-24",
+  "kanal": "Die Münchner Psychologin - Laura Klimecki",
+  "ok": true,
+  "sekunden": 399,
+  "status": "OK",
+  "titel": "Der Groupthink Effekt  - Warum Gruppen dümmere Entscheidungen treffen"
  },
  "https://www.youtube.com/watch?v=jXLZIYwRJLE": {
   "datum": "2021-06-15",
@@ -3100,6 +3363,15 @@
   "status": "OK",
   "titel": "Hör auf die Eisenhower-Matrix zu nutzen - Hier ist warum"
  },
+ "https://www.youtube.com/watch?v=oXk_2gNVo7w": {
+  "datum": "2024-02-11",
+  "geprueft": "2026-11-24",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 309,
+  "status": "OK",
+  "titel": "TEAMPHASEN nach TUCKMAN - Phasenmodell der Teamentwicklung | ERZIEHERKANAL"
+ },
  "https://www.youtube.com/watch?v=oeDggA60zp8": {
   "datum": "2023-03-06",
   "geprueft": "2026-11-16",
@@ -3235,6 +3507,15 @@
   "status": "OK",
   "titel": "Digital Detox - Tipps für eine kleine Smartphone-Pause | Dr. Johannes Wimmer"
  },
+ "https://www.youtube.com/watch?v=rmYP1U869D8": {
+  "datum": "2024-02-04",
+  "geprueft": "2026-11-24",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 396,
+  "status": "OK",
+  "titel": "TEAMROLLEN nach BELBIN - Die 9 Rollen in Teams | ERZIEHERKANAL"
+ },
  "https://www.youtube.com/watch?v=rnkigFb5KOk": {
   "datum": "2021-03-21",
   "geprueft": "2026-11-16",
@@ -3325,6 +3606,24 @@
   "status": "OK",
   "titel": "SRF Media school: Wie machst du einen Vortrag? | Recherchieren (1) | Kindervideos | SRF Kids"
  },
+ "https://www.youtube.com/watch?v=tJgkHsZv9F4": {
+  "datum": "2020-07-10",
+  "geprueft": "2026-11-24",
+  "kanal": "Smart Leadership",
+  "ok": true,
+  "sekunden": 218,
+  "status": "OK",
+  "titel": "Konflikte lösen – Die 5 Konfliktlösungswege"
+ },
+ "https://www.youtube.com/watch?v=tUW0Y-uO97Q": {
+  "datum": "2018-04-18",
+  "geprueft": "2026-11-24",
+  "kanal": "Glücksdetektiv",
+  "ok": true,
+  "sekunden": 462,
+  "status": "OK",
+  "titel": "Warum du unbedingt Hilfe annehmen solltest"
+ },
  "https://www.youtube.com/watch?v=tq8CvN5h4Qo": {
   "datum": "2025-01-28",
   "geprueft": "2026-11-10",
@@ -3379,6 +3678,15 @@
   "status": "OK",
   "titel": "Besser trainieren – Wie uns richtige Erholung und Ernährung stärker machen | Puls | SRF Wissen"
  },
+ "https://www.youtube.com/watch?v=uljJ4yNm7A8": {
+  "datum": "2023-10-01",
+  "geprueft": "2026-11-24",
+  "kanal": "Stefanie Stahl",
+  "ok": true,
+  "sekunden": 1257,
+  "status": "OK",
+  "titel": "Streiten ohne Eskalation: So kommunizierst du effektiv in Konfliktsituationen"
+ },
  "https://www.youtube.com/watch?v=undmT0Jh7H4": {
   "datum": "2024-10-18",
   "geprueft": "2026-11-12",
@@ -3406,6 +3714,15 @@
   "status": "OK",
   "titel": "Richtig Pause machen: Wie du deine Lernpausen optimal nutzt und das Maximum an Erholung erreichst"
  },
+ "https://www.youtube.com/watch?v=vNaFmw-v8CM": {
+  "datum": "2022-05-18",
+  "geprueft": "2026-11-24",
+  "kanal": "Sprouts Deutschland",
+  "ok": true,
+  "sekunden": 280,
+  "status": "OK",
+  "titel": "Gewaltfreie Kommunikation"
+ },
  "https://www.youtube.com/watch?v=v_CH0_VM-9A": {
   "datum": "2023-04-13",
   "geprueft": "2026-11-16",
@@ -3414,6 +3731,15 @@
   "sekunden": 3002,
   "status": "OK",
   "titel": "Jugendliche unter Druck – Wie psychische Probleme jungen Menschen zusetzen (2/2) DOK | SRF"
+ },
+ "https://www.youtube.com/watch?v=v_miIH8opwg": {
+  "datum": "2017-06-28",
+  "geprueft": "2026-11-24",
+  "kanal": "youknow",
+  "ok": true,
+  "sekunden": 209,
+  "status": "OK",
+  "titel": "Teamwork in 3 Minuten erklärt"
  },
  "https://www.youtube.com/watch?v=vhiWoXdzHEQ": {
   "datum": "2023-01-12",
@@ -3441,6 +3767,15 @@
   "sekunden": 599,
   "status": "OK",
   "titel": "Performance-Druck und Prüfungsangst | Dr. Johannes Wimmer"
+ },
+ "https://www.youtube.com/watch?v=vr0O3ssX40E": {
+  "datum": "2024-05-22",
+  "geprueft": "2026-11-24",
+  "kanal": "Prof. Dr. Jürgen Radel - HTW Berlin",
+  "ok": true,
+  "sekunden": 325,
+  "status": "OK",
+  "titel": "Mögliche Reaktionen auf negatives Feedback: Wie Sie es positiv nutzen"
  },
  "https://www.youtube.com/watch?v=vsJ01LxdAi4": {
   "datum": "2025-05-14",
@@ -3540,6 +3875,15 @@
   "sekunden": 182,
   "status": "OK",
   "titel": "Achtsamkeit im Alltag: Tipps und Übungen für weniger Stress"
+ },
+ "https://www.youtube.com/watch?v=xbAxYyFpfh4": {
+  "datum": "2021-01-05",
+  "geprueft": "2026-11-24",
+  "kanal": "Stefanie Voss",
+  "ok": true,
+  "sekunden": 261,
+  "status": "OK",
+  "titel": "Fragen und um Hilfe bitten - deswegen lohnt es sich! | Stefanie Voss"
  },
  "https://www.youtube.com/watch?v=xhBTnzAs-h0": {
   "datum": "2019-02-06",

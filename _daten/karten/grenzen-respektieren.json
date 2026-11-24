@@ -1,0 +1,81 @@
+{
+ "titel": "Grenzen respektieren",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Lerne, wie du mit den eigenen und fremden Einschränkungen flexibel und akzeptierend umgehst. Lerne, wie du die Grenzen anderer respektierst und deinen eigenen Raum schützt. Erstelle eine Liste mit Tipps, die dir helfen, Flexibilität und Akzeptanz in Beziehungen zu fördern.",
+ "ziel": "Lerne, wie du Grenzen respektierst und flexibel auf Herausforderungen reagierst.",
+ "text": [
+  "Ein Witz, der für dich lustig ist, verletzt jemand anderen. Ein Foto, das du teilst, ist der Person darauf peinlich. Eine Umarmung ist nicht für alle okay.",
+  "Jeder Mensch hat eigene Grenzen. Sie zu erkennen und zu respektieren, ist wichtig für jedes Miteinander. Auf dieser Karte lernst du, welche Arten von Grenzen es gibt und wie du sie respektierst und deine eigenen zeigst."
+ ],
+ "methode_titel": "Grenzen erkennen und respektieren",
+ "fragen": [
+  "Wann hat jemand eine deiner Grenzen überschritten? Wie hast du reagiert?",
+  "Woran merkst du, dass du bei jemand anderem eine Grenze überschreitest?",
+  "Wie kannst du deine eigenen Grenzen klarer zeigen?"
+ ],
+ "suche": [
+  "Grenzen setzen",
+  "Grenzen respektieren",
+  "Consent erklärt"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Xphn3_z7KDc",
+   "titel": "Grenzen setzen: Wie du Nein sagen kannst",
+   "dauer": "4,5 Min.",
+   "quelle": "Studyflix, 2025"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=2ovcQgIN5G4",
+   "titel": "Beidseitiges Einverständnis: so einfach wie Tee",
+   "dauer": "3 Min.",
+   "quelle": "Blue Seat Studios (deutsche Fassung)",
+   "notiz": "Warum ein Nein ein Nein ist, mit einem einfachen Vergleich"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.147.ch/de/",
+   "titel": "147: Beratung für Kinder und Jugendliche",
+   "dauer": "Webseite",
+   "quelle": "Pro Juventute",
+   "notiz": "Auch zu Grenzverletzungen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Q16NkzC3czM",
+   "titel": "Ich kann keine Grenzen setzen",
+   "dauer": "7,5 Min.",
+   "quelle": "Stefanie Stahl (Psychologin), 2026"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=CGKcLP4PVVM",
+   "titel": "Sich abgrenzen, wenn Grenzen überschritten werden",
+   "dauer": "6 Min.",
+   "quelle": "Dr. Christine Brähler (Psychologin)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://proitera.ch/eigene-grenzen-kennen-und-fremde-grenzen-respektieren/",
+   "titel": "Eigene Grenzen kennen und fremde respektieren",
+   "dauer": "6 Min.",
+   "quelle": "proitera (Schweiz)",
+   "notiz": "Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.studysmarter.de/magazine/grenzen-setzen-einhalten/",
+   "grund": "Ersetzt durch Fachstellen"
+  }
+ ]
+}

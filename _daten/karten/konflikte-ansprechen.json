@@ -1,0 +1,83 @@
+{
+ "titel": "Konflikte ansprechen",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Informiere dich darüber, wie du Spannungen frühzeitig erkennst und sie gezielt ansprichst. Lerne, wie du Konflikte auf eine konstruktive Weise angehst, bevor sie eskalieren. Erstelle eine Liste mit Tipps, die dir helfen, Spannungen im Team oder in Beziehungen anzusprechen.",
+ "ziel": "Lerne, wie du Spannungen frühzeitig erkennst und konstruktiv löst",
+ "text": [
+  "Dein Kollege kommt immer zu spät, die Mitbewohnerin räumt nie auf, jemand im Team macht seinen Teil nicht. Du ärgerst dich, sagst aber nichts. Kennst du das?",
+  "Konflikte anzusprechen braucht Mut. Es lohnt sich aber, weil sich unausgesprochene Probleme oft verschlimmern. Auf dieser Karte lernst du, wie du einen Konflikt so ansprichst, dass eine Lösung möglich wird."
+ ],
+ "methode_titel": "So sprichst du einen Konflikt an",
+ "fragen": [
+  "Welchen Konflikt hast du schon lange nicht angesprochen? Warum nicht?",
+  "Wie würdest du ihn mit den vier Schritten formulieren?",
+  "Was war schwierig an der Übung, was hat sich gut angefühlt?"
+ ],
+ "suche": [
+  "Gewaltfreie Kommunikation",
+  "Konfliktgespräch führen",
+  "Konflikt ansprechen Tipps"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=vNaFmw-v8CM",
+   "titel": "Gewaltfreie Kommunikation",
+   "dauer": "4,5 Min.",
+   "quelle": "Sprouts, 2022",
+   "notiz": "Die vier Schritte gezeichnet erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=bL3P-7F5ffc",
+   "titel": "Konflikte ansprechen: Tipps",
+   "dauer": "3,5 Min.",
+   "quelle": "KISS Stuttgart (Selbsthilfe-Kontaktstelle)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/gewalt/aktion/so_wehre_ich_mich/tipps/bei_konflikten.cfm",
+   "titel": "Konflikte ansprechen und lösen",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Für Jugendliche geschrieben"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=-rR2IifdxEU",
+   "titel": "Gewaltfreie Kommunikation nach Rosenberg",
+   "dauer": "3,5 Min.",
+   "quelle": "Karrierebibel, 2025",
+   "notiz": "Mit Beispielen aus dem Berufsalltag"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=VWumM6LwOng",
+   "titel": "Gewaltfreie Kommunikation ausführlich",
+   "dauer": "11 Min.",
+   "quelle": "Erzieherkanal",
+   "notiz": "Mit Beispiel Schritt für Schritt"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=uljJ4yNm7A8",
+   "titel": "Streiten ohne Eskalation",
+   "dauer": "21 Min.",
+   "quelle": "Stefanie Stahl (Psychologin)",
+   "notiz": "Was in Konflikten psychologisch passiert"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=c3ADNHhhxYw",
+   "grund": "Kanal einer Unternehmensberatung, für Führungskräfte"
+  }
+ ]
+}
