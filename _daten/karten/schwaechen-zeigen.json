@@ -1,0 +1,80 @@
+{
+ "titel": "Schwächen zeigen",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Erfahre, wie du Schwächen oder Fehler eingestehen kannst, ohne dass es dein Selbstbewusstsein mindert. Lerne, wie du aus Fehlern lernst und sie als Teil deines Wachstums akzeptierst. Erstelle eine Liste mit Tipps, die dir helfen, deine Fehler zuzugeben und daran zu arbeiten.",
+ "ziel": "Lerne, wie du offen mit deinen Schwächen und Fehlern umgehst und daraus lernst.",
+ "text": [
+  "Einen Fehler zugeben, sagen «Das kann ich nicht» oder «Ich brauche Hilfe»: Für viele ist das unangenehm. Man hat Angst, schwach oder unfähig zu wirken.",
+  "Doch Schwächen zu zeigen kann eine Stärke sein. Auf dieser Karte erfährst du, warum das so ist, was die Forschung dazu sagt und wie du gut mit eigenen Fehlern umgehst."
+ ],
+ "methode_titel": "Warum Schwächen zeigen stark ist",
+ "fragen": [
+  "Wann fällt es dir schwer, eine Schwäche oder einen Fehler zuzugeben?",
+  "Wie reagierst du, wenn andere ihre Schwächen zeigen?",
+  "Bei wem kannst du dich auch mal schwach zeigen?"
+ ],
+ "suche": [
+  "Verletzlichkeit Brené Brown",
+  "Fehler zugeben",
+  "Schwäche zeigen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=0diuz6I4IBo",
+   "titel": "Fehler im Job gemacht? So reagierst du richtig",
+   "dauer": "6,5 Min.",
+   "quelle": "Stefanie Voss (Coachin), 2024"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=lZGEmq8WsKY",
+   "titel": "Die Macht der Verletzlichkeit",
+   "dauer": "9 Min.",
+   "quelle": "Dr. Anna N. Kluger (Psychologin), 2024",
+   "notiz": "Die Ideen von Brené Brown auf Deutsch erklärt"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.spektrum.de/kolumne/verletzlichkeit-wie-man-sich-schwach-und-stark-zugleich-fuehlen-kann/1957774",
+   "titel": "Verletzlichkeit: schwach und stark zugleich",
+   "dauer": "6 Min.",
+   "quelle": "Spektrum der Wissenschaft",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=iCvmsMzlF7o",
+   "titel": "Die Macht der Verletzlichkeit",
+   "dauer": "21 Min.",
+   "quelle": "TED (Brené Brown)",
+   "notiz": "Einer der bekanntesten Vorträge zum Thema",
+   "warnung": "Auf Englisch, deutsche Untertitel einschaltbar",
+   "sprache": "en"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=hiIahhoON5g",
+   "titel": "Warum Verletzlichkeit keine Schwäche ist",
+   "dauer": "59 Min.",
+   "quelle": "SRF Sternstunde Philosophie, 2026",
+   "notiz": "Ein philosophisches Gespräch",
+   "warnung": "Lang, gut in Teilen schauen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=_ZbE5wPjTXk",
+   "grund": "Kanal für Paarbeziehungen"
+  },
+  {
+   "url": "https://www.stil.de/sitten-traditionen/stehen-sie-zu-ihren-schwaechen-7-saeulen-einer-gesunden-fehlerkultur/",
+   "grund": "Benimm-Magazin, für Erwachsene"
+  }
+ ]
+}

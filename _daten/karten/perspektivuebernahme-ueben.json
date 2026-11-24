@@ -1,0 +1,65 @@
+{
+ "titel": "Perspektivübernahme üben",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Recherchiere, wie Perspektivübernahme die Empathie und das Verständnis in der Kommunikation stärkt. Erstelle eine kurze Zusammenfassung oder eine Liste der Vorteile dieser Technik.",
+ "ziel": "Erfahre, wie du durch Perspektivübernahme die Kommunikation und Zusammenarbeit verbessern kannst.",
+ "text": [
+  "Jemand reagiert unfreundlich, und du denkst sofort: «Was hat der gegen mich?» Dabei weisst du gar nicht, was in der anderen Person vorgeht.",
+  "Perspektivübernahme heisst, eine Situation auch mit den Augen der anderen zu sehen. Das hilft, Missverständnisse zu vermeiden und andere besser zu verstehen. Auf dieser Karte lernst du, wie du das üben kannst."
+ ],
+ "methode_titel": "So übst du Perspektivübernahme",
+ "fragen": [
+  "Erinnerst du dich an eine Situation, in der du jemanden falsch eingeschätzt hast?",
+  "Wie hat sich die Situation verändert, als du die andere Sicht verstanden hast?",
+  "In welcher Situation willst du Perspektivübernahme bewusst ausprobieren?"
+ ],
+ "suche": [
+  "Perspektivwechsel",
+  "Empathie lernen",
+  "Perspektivübernahme Übung"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=0xjSGi9vrbs",
+   "titel": "Empathie lernen in 4 Schritten",
+   "dauer": "4 Min.",
+   "quelle": "DAK (Krankenkasse)",
+   "notiz": "Ein Psychologe erklärt, wie man sich hineinversetzt"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.anti-bias.eu/anti-bias-strategien/schritte-gegen-persoenliche-bias/perspektivenuebernahme/",
+   "titel": "Perspektivenübernahme als Strategie gegen Vorurteile",
+   "dauer": "5 Min.",
+   "quelle": "anti-bias.eu",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=JEsEtn9U0OI",
+   "titel": "So öffnen wir uns für andere Perspektiven",
+   "dauer": "24 Min.",
+   "quelle": "3sat nano, 2024",
+   "notiz": "Was die Forschung über andere Sichtweisen weiss"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=x9I6ml-unwE",
+   "titel": "Superkraft Empathie",
+   "dauer": "27 Min.",
+   "quelle": "Terra Xplore (ZDF), 2023",
+   "notiz": "Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=_uv9LYwJ3g0",
+   "grund": "Erklärt Empathie bei kleinen Kindern, für Erzieherinnen und Erzieher"
+  }
+ ]
+}

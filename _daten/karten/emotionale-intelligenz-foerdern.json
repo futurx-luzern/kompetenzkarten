@@ -1,0 +1,80 @@
+{
+ "titel": "Emotionale Intelligenz fördern",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Informiere dich darüber, was emotionale Intelligenz ist und wie sie in sozialen Situationen angewendet wird. Erstelle eine kurze Zusammenfassung oder eine Infografik der wichtigsten Aspekte.",
+ "ziel": "Lerne, wie du durch emotionale Intelligenz erfolgreicher in sozialen Interaktionen wirst.",
+ "text": [
+  "Manche Menschen spüren sofort, wenn die Stimmung im Raum kippt. Sie können gut trösten, schlichten und motivieren. Man sagt, sie haben eine hohe emotionale Intelligenz.",
+  "Emotionale Intelligenz ist nicht angeboren, sondern lässt sich trainieren. Auf dieser Karte lernst du, was dazugehört und wie du sie im Alltag stärken kannst."
+ ],
+ "methode_titel": "Die vier Bereiche der emotionalen Intelligenz",
+ "fragen": [
+  "In welchem der vier Bereiche bist du stark? Wo möchtest du besser werden?",
+  "Erzähl von einer Situation, in der dir emotionale Intelligenz geholfen hat.",
+  "Was willst du in nächster Zeit bewusst üben?"
+ ],
+ "suche": [
+  "emotionale Intelligenz",
+  "Goleman",
+  "Empathie trainieren"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=EmD-9HR6ZZ0",
+   "titel": "Emotionale Intelligenz",
+   "dauer": "3,5 Min.",
+   "quelle": "Sprouts, 2024",
+   "notiz": "Gezeichnet erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/wer_bin_ich_was_tue_ich/deine_gefuehle/gefuehle_sind_wegweiser.cfm",
+   "titel": "Wer bin ich? Gefühle sind Wegweiser",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)",
+   "notiz": "Eigene Gefühle wahrnehmen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=QHh-qZ7ufiI",
+   "titel": "Emotionale Intelligenz: Was das ist und wie man sie stärkt",
+   "dauer": "7 Min.",
+   "quelle": "Ingrid und Peter Gerstbach"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=IHOwB39RFqo",
+   "titel": "Emotion oder Gefühl? Der Unterschied",
+   "dauer": "4,5 Min.",
+   "quelle": "DAK (Krankenkasse), 2022"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=hBLi7dB9bPA",
+   "titel": "Emotionale Intelligenz: Wie Gefühle unser Leben prägen",
+   "dauer": "36 Min.",
+   "quelle": "SRF Einstein, 2021",
+   "notiz": "Ausführliche Sendung mit Forschenden"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://hospitalityinsights.ehl.edu/de/emotionale-intelligenz-foerdern",
+   "grund": "Blog einer Hotelfachschule, für Führungskräfte"
+  },
+  {
+   "url": "https://utopia.de/ratgeber/emotionale-intelligenz-steigern-wertvolle-tipps_74216/",
+   "grund": "Lifestyle-Ratgeber mit Werbung"
+  },
+  {
+   "url": "https://zeitzuleben.de/emotionale-intelligenz/",
+   "grund": "Ersetzt durch Videos und feel-ok"
+  }
+ ]
+}

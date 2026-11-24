@@ -1,0 +1,104 @@
+{
+ "titel": "Was bewegt andere?",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Recherchiere, warum es wichtig ist, sich für die Beweggründe und Motive anderer Menschen zu interessieren. Lerne, wie du dieses Interesse ehrlich und respektvoll zeigen kannst, um bessere Beziehungen aufzubauen. Erstelle eine Liste mit Tipps, wie du deine Aufmerksamkeit für die Motive anderer Menschen steigern kannst.",
+ "ziel": "Verstehe, wie du dein Interesse an den Motiven anderer Menschen stärkst.",
+ "text": [
+  "Was beschäftigt deine Mitschüler, deine Arbeitskolleginnen, deine Familie gerade? Oft wissen wir es gar nicht, weil wir nicht richtig nachfragen oder nicht richtig zuhören.",
+  "Auf dieser Karte lernst du, wie aktives Zuhören funktioniert und welche Bedürfnisse hinter dem Verhalten von Menschen stecken können."
+ ],
+ "methode_titel": "Interesse zeigen und zuhören",
+ "uebung": {
+  "frage": "Hilft das beim Zuhören oder eher nicht?",
+  "optionen": [
+   "Hilft",
+   "Eher nicht"
+  ],
+  "hinweis": "Denk an die vier Punkte des aktiven Zuhörens.",
+  "aufgaben": [
+   {
+    "text": "Du schaust während des Gesprächs auf dein Handy.",
+    "richtig": "Eher nicht",
+    "warum": "Die Person merkt, dass du nicht ganz bei ihr bist."
+   },
+   {
+    "text": "«Du meinst also, dass dich das Projekt gerade überfordert?»",
+    "richtig": "Hilft",
+    "warum": "Zusammenfassen zeigt, dass du verstanden hast."
+   },
+   {
+    "text": "Du unterbrichst, um von deinem eigenen Erlebnis zu erzählen.",
+    "richtig": "Eher nicht",
+    "warum": "Das Gespräch dreht sich dann um dich."
+   },
+   {
+    "text": "«Wie war das für dich?»",
+    "richtig": "Hilft",
+    "warum": "Eine offene Frage lädt zum Erzählen ein."
+   },
+   {
+    "text": "Du gibst sofort fünf Ratschläge.",
+    "richtig": "Eher nicht",
+    "warum": "Oft möchte die Person zuerst einfach gehört werden."
+   }
+  ]
+ },
+ "fragen": [
+  "Wer hört dir richtig gut zu? Was macht diese Person anders?",
+  "Was hast du beim aktiven Zuhören über die andere Person erfahren?",
+  "Welches Bedürfnis könnte hinter einem Verhalten stecken, das dich ärgert?"
+ ],
+ "suche": [
+  "aktives Zuhören",
+  "Bedürfnispyramide Maslow",
+  "offene Fragen stellen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Yq-cOp9tb8g",
+   "titel": "Aktives Zuhören",
+   "dauer": "2,5 Min.",
+   "quelle": "Institut für Personalforschung",
+   "notiz": "Kurz gezeigt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=PJklq_88PPs",
+   "titel": "Aktives Zuhören nach Carl Rogers",
+   "dauer": "7 Min.",
+   "quelle": "Erzieherkanal",
+   "notiz": "Die Techniken mit Beispielen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=0QQOzUmrbLA",
+   "titel": "Die Bedürfnispyramide nach Maslow",
+   "dauer": "5 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Was Menschen antreibt"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cYV2LKhynig",
+   "titel": "Aktives Zuhören: So lernt ihr, euch zu verstehen",
+   "dauer": "27,5 Min.",
+   "quelle": "Terra Xplore (ZDF), 2025",
+   "notiz": "Was gutes Zuhören ausmacht"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.dieterjakob.de/interesse-zeigen/",
+   "grund": "Seite nicht mehr erreichbar"
+  },
+  {
+   "url": "https://selbsthilfeforum.aspies.de/forum/index.php?thread/9560-das-interesse-an-anderen-menschen/",
+   "grund": "Forumsbeitrag, nicht mehr erreichbar"
+  }
+ ]
+}

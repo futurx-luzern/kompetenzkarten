@@ -3,7 +3,7 @@
 Stand 2026-11-24. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 98 online, 9 bereit, 15 offen (von 122)
+**Total:** 107 online, 9 bereit, 6 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -168,29 +168,29 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Konflikte ansprechen | `konflikte-ansprechen.html` | bereit |
-| Konfliktmanagement im Team | `konfliktmanagement-im-team.html` | bereit |
-| Konstruktives Feedback geben | `konstruktives-feedback-geben.html` | bereit |
-| Feedback empfangen und nutzen | `feedback-empfangen-und-nutzen.html` | bereit |
-| Rollenverteilung im Team | `rollenverteilung-im-team.html` | bereit |
-| Gemeinsam entscheiden | `gemeinsam-entscheiden.html` | bereit |
-| Zu deinem Wort stehen | `zu-deinem-wort-stehen.html` | bereit |
-| Unterstützung annehmen und geben | `unterstuetzung-annehmen-und-geben.html` | bereit |
-| Grenzen respektieren | `grenzen-respektieren.html` | bereit |
+| Konflikte ansprechen | `konflikte-ansprechen.html` | online |
+| Konfliktmanagement im Team | `konfliktmanagement-im-team.html` | online |
+| Konstruktives Feedback geben | `konstruktives-feedback-geben.html` | online |
+| Feedback empfangen und nutzen | `feedback-empfangen-und-nutzen.html` | online |
+| Rollenverteilung im Team | `rollenverteilung-im-team.html` | online |
+| Gemeinsam entscheiden | `gemeinsam-entscheiden.html` | online |
+| Zu deinem Wort stehen | `zu-deinem-wort-stehen.html` | online |
+| Unterstützung annehmen und geben | `unterstuetzung-annehmen-und-geben.html` | online |
+| Grenzen respektieren | `grenzen-respektieren.html` | online |
 
 ## Paket 13: Sozialkompetenz: Empathie und Beziehungen (9 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Perspektivübernahme üben | `perspektivuebernahme-ueben.html` | offen |
-| Emotionale Intelligenz fördern | `emotionale-intelligenz-foerdern.html` | offen |
-| Gefühle anderer wahrnehmen | `gefuehle-anderer-wahrnehmen.html` | offen |
-| Was bewegt andere? | `was-bewegt-andere.html` | offen |
-| Nähe und Distanz regulieren | `naehe-und-distanz-regulieren.html` | offen |
-| Miteinander fühlen | `miteinander-fuehlen.html` | offen |
-| Beziehungen aktiv gestalten | `beziehungen-aktiv-gestalten.html` | offen |
-| Wertschätzung zeigen | `wertschaetzung-zeigen.html` | offen |
-| Schwächen zeigen | `schwaechen-zeigen.html` | offen |
+| Perspektivübernahme üben | `perspektivuebernahme-ueben.html` | bereit |
+| Emotionale Intelligenz fördern | `emotionale-intelligenz-foerdern.html` | bereit |
+| Gefühle anderer wahrnehmen | `gefuehle-anderer-wahrnehmen.html` | bereit |
+| Was bewegt andere? | `was-bewegt-andere.html` | bereit |
+| Nähe und Distanz regulieren | `naehe-und-distanz-regulieren.html` | bereit |
+| Miteinander fühlen | `miteinander-fuehlen.html` | bereit |
+| Beziehungen aktiv gestalten | `beziehungen-aktiv-gestalten.html` | bereit |
+| Wertschätzung zeigen | `wertschaetzung-zeigen.html` | bereit |
+| Schwächen zeigen | `schwaechen-zeigen.html` | bereit |
 
 ## Paket 14: Kommunikation und Präsentation (6 Karten)
 
