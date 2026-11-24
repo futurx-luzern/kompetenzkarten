@@ -1,0 +1,94 @@
+{
+ "titel": "Selbstbewusst auftreten",
+ "kategorie": "Sich durchsetzen",
+ "aufgabe": "Informiere dich darüber, wie du in Gesprächen oder Diskussionen deinen Standpunkt klar und respektvoll vertreten kannst. Notiere die besten Techniken, die dir helfen, selbstsicher aufzutreten, ohne dabei unfreundlich zu wirken. Gestalte eine einfache Mindmap, die diese Strategien visualisiert.",
+ "ziel": "Lerne, wie du dich in unterschiedlichen Situationen selbstbewusst und respektvoll durchsetzen kannst.",
+ "text": [
+  "Manche Menschen wirken sofort sicher, wenn sie einen Raum betreten. Andere werden übersehen, obwohl sie gute Ideen haben. Oft liegt der Unterschied im Auftreten.",
+  "Selbstbewusstes Auftreten kann man lernen. Es hat mit Haltung, Stimme und Vorbereitung zu tun und mit dem Gefühl, dass du etwas zu sagen hast. Auf dieser Karte erfährst du, wie das geht."
+ ],
+ "methode_titel": "So trittst du selbstbewusst auf",
+ "fragen": [
+  "In welchen Situationen trittst du sicher auf, in welchen eher unsicher?",
+  "Was hast du an deiner Haltung, Stimme oder Wortwahl bemerkt?",
+  "Welchen Tipp willst du beim nächsten Gespräch oder Vortrag ausprobieren?"
+ ],
+ "suche": [
+  "selbstbewusst auftreten",
+  "Selbstwert stärken",
+  "sicher wirken Körpersprache"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cGlwONLj0tU",
+   "titel": "Tipps für mehr Selbstbewusstsein",
+   "dauer": "4 Min.",
+   "quelle": "AOK Mental Gesund, 2025",
+   "notiz": "Ein Arzt erklärt Selbstwert und Selbstvertrauen"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=0OKmbwmaivc",
+   "titel": "Selbstbewusst auftreten: 7 Tipps",
+   "dauer": "6 Min.",
+   "quelle": "Yvonne de Bark (Schauspielerin und Trainerin)",
+   "notiz": "Konkrete Tipps zu Haltung und Stimme",
+   "warnung": "Wirbt am Anfang für einen Kurs"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/jugendliche_fragen_antworten/jugendbeitraege/checkout.cfm",
+   "titel": "Jugendliche fragen und antworten: Selbstvertrauen",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=wj3keu2mO-s",
+   "titel": "5 Tipps für ein stärkeres Selbstwertgefühl",
+   "dauer": "9 Min.",
+   "quelle": "Stefanie Stahl (Psychologin), 2024"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=SKpXrQzgems",
+   "titel": "Funktioniert Power Posing?",
+   "dauer": "14,5 Min.",
+   "quelle": "Prof. Uwe Peter Kanning (Wirtschaftspsychologie), 2022",
+   "notiz": "Was die Forschung zu Haltung und Selbstbewusstsein sagt"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=mTVgQE_IE3o",
+   "titel": "Glück und Selbstvertrauen",
+   "dauer": "27 Min.",
+   "quelle": "ARTE unhappy, 2026",
+   "notiz": "Menschen erzählen, wie sie ihre Unsicherheit überwunden haben"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.weka.ch/themen/fuehrung-kompetenzen/selbstmanagement/selbst-und-zeitmanagement/article/sich-durchsetzen-5-tricks-um-sich-besser-durchzusetzen/",
+   "grund": "Für Führungskräfte geschrieben"
+  },
+  {
+   "url": "https://mm-coach.me/sich-durchsetzen-lernen/",
+   "grund": "Blog eines Coaches"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=2EU9qr9lJnI",
+   "grund": "Video nicht mehr verfügbar"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=nyR6DEFWi5A",
+   "grund": "Passt eher zu Diskussionen als zum Auftreten"
+  }
+ ]
+}

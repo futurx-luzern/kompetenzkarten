@@ -1,0 +1,92 @@
+{
+ "titel": "Was ist wirklich wichtig?",
+ "kategorie": "Prioritäten setzen/erkennen",
+ "aufgabe": "Recherchiere, wie du lernst, Prioritäten zu setzen, um deine Aufgaben besser zu organisieren. Lerne, wie du erkennst, was wirklich wichtig ist, und wie du deine Energie auf diese Dinge fokussierst. Erstelle eine kurze Liste oder ein Diagramm, das dir hilft, das Wichtige vom Unwichtigen zu unterscheiden.",
+ "ziel": "Lerne, wie du Prioritäten setzt und deine Energie auf das Wesentliche konzentrierst.",
+ "text": [
+  "Manchmal rennt man den ganzen Tag herum und hat am Abend trotzdem das Gefühl, nichts Wichtiges gemacht zu haben. Das passiert, wenn das Dringende das Wichtige verdrängt.",
+  "Auf dieser Karte geht es um die Frage: Was ist mir wirklich wichtig? Wer seine Werte kennt, kann bessere Entscheidungen treffen und Prioritäten setzen."
+ ],
+ "methode_titel": "Grosse Steine zuerst",
+ "fragen": [
+  "Was sind deine fünf wichtigsten Werte?",
+  "Bekommen deine «grossen Steine» im Moment genug Zeit?",
+  "Was willst du ändern, damit mehr Zeit für das Wichtige bleibt?"
+ ],
+ "suche": [
+  "eigene Werte finden",
+  "Prioritäten setzen",
+  "big rocks Stephen Covey"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=vphK-h5cxTg",
+   "titel": "Warum Prioritäten setzen so wichtig ist",
+   "dauer": "3 Min.",
+   "quelle": "thekey.academy, 2023",
+   "notiz": "Kurz erklärt",
+   "warnung": "Wirbt am Schluss für einen Online-Kurs"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=4GD9uTuTDm0",
+   "titel": "Werte erkennen: Was dir wirklich wichtig ist",
+   "dauer": "8 Min.",
+   "quelle": "Glücksdetektiv",
+   "notiz": "Mit einer Übung zum Mitmachen"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://studyflix.de/biologie/prioritaeten-setzen-4780/video",
+   "titel": "Prioritäten setzen",
+   "dauer": "5 Min.",
+   "quelle": "Studyflix",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=G6B7-GCbHuI",
+   "titel": "Prioritäten setzen: 5 einfache Fragen",
+   "dauer": "12,5 Min.",
+   "quelle": "Glücksdetektiv, 2023",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Efol-avY0F4",
+   "titel": "Werte identifizieren: Was ist dir wichtig?",
+   "dauer": "14,5 Min.",
+   "quelle": "ACTitude (Psychologie), 2025"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://karrierebibel.de/prioritaten-setzen/",
+   "titel": "Prioritäten setzen: Methoden und Tipps",
+   "dauer": "8 Min.",
+   "quelle": "Karrierebibel",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=OSk0AUT4_8o",
+   "titel": "So krempelst du dein Leben um",
+   "dauer": "11 Min.",
+   "quelle": "Kurzgesagt (deutsche Fassung)",
+   "notiz": "Wie man bewusster nach den eigenen Werten lebt"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.novus-dahle.com/de/prioritaeten-setzen-5-tipps-zum-zeitmanagement-und-der-prioritaetensetzung/",
+   "grund": "Seite nicht mehr erreichbar, Büromaterial-Hersteller"
+  }
+ ]
+}

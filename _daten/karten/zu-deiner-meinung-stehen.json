@@ -1,0 +1,87 @@
+{
+ "titel": "Zu deiner Meinung stehen",
+ "kategorie": "Den eigenen Standpunkt finden",
+ "aufgabe": "Lerne, wie du deinen eigenen Standpunkt in Diskussionen klar und selbstbewusst vertrittst. Recherchiere, wie du deine Meinung findest und sie überzeugend kommunizierst. Erstelle eine Liste mit Techniken, die dir helfen, deinen Standpunkt zu formulieren und zu verteidigen.",
+ "ziel": "Lerne, wie du deinen eigenen Standpunkt findest und selbstbewusst vertrittst.",
+ "text": [
+  "Alle in der Gruppe finden etwas gut, nur du nicht. Sagst du trotzdem, was du denkst? Oder passt du dich lieber an?",
+  "Zu seiner Meinung zu stehen ist nicht einfach, weil der Druck einer Gruppe sehr stark sein kann. Auf dieser Karte erfährst du, was die Forschung dazu herausgefunden hat und wie du standhaft bleibst, ohne stur zu werden."
+ ],
+ "methode_titel": "Standhaft bleiben",
+ "fragen": [
+  "Wann hast du dich schon einmal der Gruppe angepasst, obwohl du anders gedacht hast?",
+  "Was hat dir geholfen, wenn du bei deiner Meinung geblieben bist?",
+  "Wann ist es richtig, die eigene Meinung zu ändern?"
+ ],
+ "suche": [
+  "Asch-Experiment",
+  "Gruppenzwang",
+  "Meinung begründen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=I40g6U3K7hc",
+   "titel": "Das Asch-Experiment: So beeinflusst uns die Gruppe",
+   "dauer": "5 Min.",
+   "quelle": "Quarks",
+   "notiz": "Das Experiment nachgestellt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=27veNzyeSM4",
+   "titel": "Gruppenzwang: Der Mini-Test",
+   "dauer": "2,5 Min.",
+   "quelle": "lernfoerderung",
+   "notiz": "Wie anfällig bist du?"
+  },
+  {
+   "stufe": 1,
+   "typ": "lesen",
+   "url": "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/jugendliche_fragen_antworten/jugendbeitraege/checkout.cfm",
+   "titel": "Jugendliche fragen und antworten: Selbstvertrauen",
+   "dauer": "5 Min.",
+   "quelle": "feel-ok.ch (Schweiz)"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Otr4Lfh5Qm8",
+   "titel": "Aschs Konformitätsexperiment",
+   "dauer": "5,5 Min.",
+   "quelle": "Sprouts, 2023",
+   "notiz": "Gezeichnet erklärt, mit Hintergründen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=M3p11yGM5CI",
+   "titel": "Richtig argumentieren in drei Schritten",
+   "dauer": "5 Min.",
+   "quelle": "musstewissen Deutsch (funk)",
+   "notiz": "Eine begründete Meinung ist stabiler"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=UNIhHVGbPU4",
+   "titel": "Gruppenzwang und Mobbing: Wenn andere bestimmen",
+   "dauer": "27 Min.",
+   "quelle": "Terra Xplore (ZDF), 2024",
+   "notiz": "Ein Psychologe erklärt, wie Gruppen Druck machen",
+   "warnung": "Ernstes Thema, es geht auch um Mobbing"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.xn--meinselbstwertgefhl-mbc.ch/jeux-tests/zur-eigenen-meinung-stehen-n110",
+   "grund": "Seite nicht mehr erreichbar"
+  },
+  {
+   "url": "https://www.karriere.at/c/a/eigene-meinung#:~:text=Warum%20ist%20es%20wichtig%2C%20zur%20eigenen%20Meinung%20zu%20stehen&text=Bist%20du%20dir%20innerlich%20im,dich%20nicht%20nur%20angenehm%20sind.",
+   "grund": "Jobportal, für Berufstätige geschrieben"
+  }
+ ]
+}

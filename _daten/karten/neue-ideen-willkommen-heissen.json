@@ -1,0 +1,68 @@
+{
+ "titel": "Neue Ideen willkommen heissen",
+ "kategorie": "Neue oder ungewohnte Ideen",
+ "aufgabe": "Lerne, warum es wichtig ist, offen für neue oder ungewohnte Ideen zu sein und wie du deine Neugierde und Kreativität fördern kannst. Erfahre, welche Strategien dir helfen, neue Perspektiven zuzulassen und ungewohnte Ideen auszuprobieren. Erstelle eine Liste mit Tipps, die dir helfen, offen für Neues zu bleiben.",
+ "ziel": "Lerne, wie du dich für neue Perspektiven und Ideen öffnest und neugierig bleibst.",
+ "text": [
+  "«Das haben wir schon immer so gemacht.» Diesen Satz hört man oft, wenn jemand etwas Neues vorschlägt. Dabei entstehen gute Lösungen oft gerade aus ungewohnten Ideen.",
+  "Offen für neue Ideen zu sein heisst nicht, alles gut zu finden. Es heisst, einer Idee eine faire Chance zu geben, bevor man urteilt. Auf dieser Karte lernst du Methoden, die dabei helfen."
+ ],
+ "methode_titel": "So gibst du neuen Ideen eine Chance",
+ "fragen": [
+  "Wie reagierst du normalerweise, wenn jemand eine ungewohnte Idee hat?",
+  "Welche Idee hast du zuerst abgelehnt und später gut gefunden?",
+  "Wo könntest du «Ja, und ...» statt «Ja, aber ...» ausprobieren?"
+ ],
+ "suche": [
+  "Denkhüte de Bono",
+  "Offenheit Persönlichkeit",
+  "Ja und statt Ja aber"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=KjqyJcaHpCU",
+   "titel": "Offenheit für Erfahrungen",
+   "dauer": "4,5 Min.",
+   "quelle": "Hochschule Hannover",
+   "notiz": "Eine Persönlichkeitseigenschaft kurz erklärt"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Qm7d_7BafpY",
+   "titel": "Der Bestätigungsfehler",
+   "dauer": "5 Min.",
+   "quelle": "Sprouts",
+   "notiz": "Warum wir Neues oft vorschnell ablehnen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=RcpdW46ZvhM",
+   "titel": "Die Denkhüte von de Bono",
+   "dauer": "8 Min.",
+   "quelle": "Tuna Cagla",
+   "notiz": "Mit Übungsbeispiel"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=g6_aNHrKofs",
+   "titel": "Wie werde ich kreativer?",
+   "dauer": "14 Min.",
+   "quelle": "Quarks (Ralph Caspers), 2024"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.herder.de/kiga-heute/fachmagazin/archiv/2015-45-jg/11-12-2015/kreativitaet-faellt-nicht-vom-himmel-wie-die-foerderung-kreativer-kompetenzen-gelingt/",
+   "grund": "Fachartikel für Kindergarten-Lehrpersonen"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=32g1vYzik9s",
+   "grund": "Video nicht mehr verfügbar"
+  }
+ ]
+}
