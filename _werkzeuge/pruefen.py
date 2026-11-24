@@ -17,6 +17,7 @@ import json
 import pathlib
 import re
 import subprocess
+import time
 import sys
 import urllib.error
 import urllib.request
@@ -68,13 +69,41 @@ def holen(url, max_bytes=None):
         return r.status, r.geturl(), body.decode("utf-8", "ignore")
 
 
+def oembed_youtube(vid):
+    """Ersatzprüfung, wenn die Videoseite nicht lesbar ist.
+    oEmbed liefert 404 (oder 400), wenn das Video gelöscht ist. 401/403 heisst oft nur «Einbetten nicht erlaubt»
+    und ist darum kein sicherer Hinweis auf ein totes Video. Gemeldet werden nur 400 und 404."""
+    for versuch in range(3):
+        try:
+            holen(f"https://www.youtube.com/oembed?format=json&url=https://www.youtube.com/watch?v={vid}")
+            return "OK"
+        except urllib.error.HTTPError as e:
+            if e.code in (400, 404):
+                return f"oEmbed HTTP {e.code}: Video gelöscht oder nicht gefunden"
+            if e.code != 429:
+                return "OK"  # nicht eindeutig prüfbar, kein Fehlalarm
+            time.sleep(5 * (versuch + 1))
+    return "OK"  # weiterhin gebremst: nicht prüfbar, kein Fehlalarm
+
+
 def pruefe_youtube(url):
     vid = re.search(r"(?:v=|youtu\.be/)([\w-]{11})", url).group(1)
-    _, _, b = holen(f"https://www.youtube.com/watch?v={vid}&hl=de")
+    try:
+        _, _, b = holen(f"https://www.youtube.com/watch?v={vid}&hl=de")
+    except urllib.error.HTTPError as e:
+        if e.code != 429:
+            raise
+        # YouTube bremst zu viele Abfragen: dann nur über oEmbed prüfen (ohne Dauer)
+        status = oembed_youtube(vid)
+        return dict(ok=status == "OK", status=status if status != "OK" else "OK (oEmbed, YouTube bremst)")
     g = lambda pat: (m.group(1) if (m := re.search(pat, b)) else "")
     status = g(r'"playabilityStatus":\{"status":"([A-Z_]+)"')
     sek = int(g(r'"lengthSeconds":"(\d+)"') or 0)
     titel = html.unescape(g(r'<meta name="title" content="([^"]*)"'))
+    if status in ("LOGIN_REQUIRED", ""):
+        # YouTube verlangt von Servern (z.B. GitHub Actions) oft eine Anmeldung gegen Bots.
+        o = oembed_youtube(vid)
+        status = "OK" if o == "OK" else f"{status or 'unbekannt'} ({o})"
     return dict(ok=status == "OK", status=status or "unbekannt", sekunden=sek,
                 datum=g(r'"publishDate":"([^"]*)"')[:10], kanal=g(r'"ownerChannelName":"([^"]*)"'), titel=titel)
 
@@ -133,7 +162,7 @@ def links(args):
             aufgaben.append((s, l))
     cache = json.loads(CACHE.read_text(encoding="utf-8")) if CACHE.exists() else {}
     urls = sorted({l["url"] for _, l in aufgaben})
-    with cf.ThreadPoolExecutor(8) as ex:
+    with cf.ThreadPoolExecutor(4) as ex:
         for url, r in ex.map(pruefe, urls):
             cache[url] = r
     CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8", newline="\n")
