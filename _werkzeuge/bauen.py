@@ -151,6 +151,15 @@ def block_qr_hinweis(k):
     return "\n".join(teile)
 
 
+SPRACHEN = {"en": "Englisch", "englisch": "Englisch"}
+
+
+def sprach_chip(l):
+    """Fremdsprachige Links sichtbar kennzeichnen (Feld "sprache", z.B. "en")."""
+    s = l.get("sprache", "").strip()
+    return f'<span class="chip sprache">{E(SPRACHEN.get(s.lower(), s))}</span>' if s else ""
+
+
 def block_links(k):
     teile = []
     for s in (1, 2, 3):
@@ -162,7 +171,7 @@ def block_links(k):
         for l in ls:
             teile.append(
                 f'    <li><a href="{E(l["url"])}" target="_blank" rel="noopener">'
-                f'<span class="chips"><span class="chip">{TYP[l["typ"]]}</span><span class="chip zeit">{E(l["dauer"])}</span></span>'
+                f'<span class="chips"><span class="chip">{TYP[l["typ"]]}</span><span class="chip zeit">{E(l["dauer"])}</span>{sprach_chip(l)}</span>'
                 f'<span class="t">{E(l["titel"])}</span><span class="q">{E(l["quelle"])}</span></a></li>')
         teile.append("  </ul>")
     return "\n".join(teile)

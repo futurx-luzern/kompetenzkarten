@@ -3,7 +3,7 @@
 Stand 2026-11-16. Erzeugt mit `python -I _werkzeuge/pruefen.py status`.
 
 Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nicht online · **offen** = alte Seite
-**Total:** 76 online, 6 bereit, 40 offen (von 122)
+**Total:** 82 online, 8 bereit, 32 offen (von 122)
 
 
 ## Paket 0: Grundlage und Pilot (7 Karten)
@@ -131,25 +131,25 @@ Status: **online** = neu und auf der Website · **bereit** = neu, aber noch nich
 
 | Karte | Seite | Status |
 |---|---|---|
-| Gehmeditation kennenlernen | `gehmeditation-kennenlernen.html` | bereit |
-| Progressive Muskelentspannung | `progressive-muskelentspannung.html` | bereit |
-| Regelmässige Selbstreflexion praktizieren | `regelmaessige-selbstreflexion-praktizieren.html` | bereit |
-| Tagebuchführung zur Selbstreflexion | `tagebuchfuehrung-zur-selbstreflexion.html` | bereit |
-| Stressoren identifizieren | `stressoren-identifizieren.html` | bereit |
-| Achtsamkeit im Alltag integrieren | `achtsamkeit-im-alltag-integrieren.html` | bereit |
+| Gehmeditation kennenlernen | `gehmeditation-kennenlernen.html` | online |
+| Progressive Muskelentspannung | `progressive-muskelentspannung.html` | online |
+| Regelmässige Selbstreflexion praktizieren | `regelmaessige-selbstreflexion-praktizieren.html` | online |
+| Tagebuchführung zur Selbstreflexion | `tagebuchfuehrung-zur-selbstreflexion.html` | online |
+| Stressoren identifizieren | `stressoren-identifizieren.html` | online |
+| Achtsamkeit im Alltag integrieren | `achtsamkeit-im-alltag-integrieren.html` | online |
 
 ## Paket 10: Gefühle und Selbstbild (8 Karten)
 
 | Karte | Seite | Status |
 |---|---|---|
-| Gefühle in Worte fassen | `gefuehle-in-worte-fassen.html` | offen |
-| Deine Emotionen zeigen | `deine-emotionen-zeigen.html` | offen |
-| Emotionen im Griff haben | `emotionen-im-griff-haben.html` | offen |
-| Deine Stärken kennen | `deine-staerken-kennen.html` | offen |
-| Echt sein | `echt-sein.html` | offen |
-| Wie andere dich sehen | `wie-andere-dich-sehen.html` | offen |
-| Deine Kräfte und Zeit clever nutzen | `deine-kraefte-und-zeit-clever-nutzen.html` | offen |
-| Dranbleiben, auch wenn es schwierig wird | `dranbleiben-auch-wenn-es-schwierig-wird.html` | offen |
+| Gefühle in Worte fassen | `gefuehle-in-worte-fassen.html` | bereit |
+| Deine Emotionen zeigen | `deine-emotionen-zeigen.html` | bereit |
+| Emotionen im Griff haben | `emotionen-im-griff-haben.html` | bereit |
+| Deine Stärken kennen | `deine-staerken-kennen.html` | bereit |
+| Echt sein | `echt-sein.html` | bereit |
+| Wie andere dich sehen | `wie-andere-dich-sehen.html` | bereit |
+| Deine Kräfte und Zeit clever nutzen | `deine-kraefte-und-zeit-clever-nutzen.html` | bereit |
+| Dranbleiben, auch wenn es schwierig wird | `dranbleiben-auch-wenn-es-schwierig-wird.html` | bereit |
 
 ## Paket 11: Meinung und Auftreten (8 Karten)
 

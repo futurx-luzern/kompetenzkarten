@@ -1,0 +1,334 @@
+
+######## Gefühle in Worte fassen  (gefuehle-in-worte-fassen.html, Innere Erleben reflektieren)
+Aufgabe: Lerne, wie du deine Gedanken und Gefühle besser verstehst und ausdrückst. Erfahre, warum es wichtig ist, über deine inneren Erlebnisse zu sprechen und wie du diese klarer formulieren kannst. Erstelle eine kurze Liste mit Tipps, die dir helfen, deine Emotionen besser zu verbalisieren.
+Ziel: Lerne, wie du deine Gefühle und Gedanken klarer ausdrückst und mit anderen teilst.
+Alt-Intro: Es ist nicht immer einfach, die eigenen Gefühle und Gedanken in Worte zu fassen. Doch genau das ist wichtig, um Missverständnisse zu vermeiden und eine gute Kommunikation zu gewährleisten. Wenn du lernst, deine inneren Erlebnisse klar und verständlich auszudrücken, kannst du nicht nur dich selbst be
+Alte Links:
+  OK                                              | Wie du deine Gefühle in Worte fassen kannst | https://worte-und-wunder.de/gefuehle-in-worte-fassen/
+  OK                                              | Tipps zum Verbalisieren von Gefühlen | https://praxistipps.focus.de/gefuehle-beschreiben-wie-sie-lernen-ihre-gefuehle-in-worte-zu-fassen_108477
+  OK                                              | Das Gefühlsrad: Ein Werkzeug, um Emotionen besser zu versteh | https://greator.com/gefuehlsrad/
+  OK    7:39 2022-04-04 lernfoerderung            | Video: Gefühle besser ausdrücken lernen | https://www.youtube.com/watch?v=BII2DYZLn38
+  Suche «Gefühle benennen lernen»:
+    _757yLXMHJM |    8:57 | vor 2 Jahren    | Glühhirn Universum           | 3.944 Aufrufe    | Das Rad der Emotionen einfach erklärt: Gefühle benennen und verstehen
+    nUjJlFEua5M |   20:06 | vor 7 Jahren    | BETZ BEWEGT - Robert Betz    | 813.831 Aufrufe  | Anleitung zum bewussten Fühlen Teil 1: Körperliche Empfindungen
+    fMrwsyTJOS0 |    2:05 | vor 1 Jahr      | Soma Kids Club               | 12.664 Aufrufe   | Gefühle verstehen | Emotionen ausdrücken lernen für Kinder
+    M3bTYdg9GQY |    6:05 | vor 11 Monaten  | MOOCit The Monkey Dance      | 350 Aufrufe      | Gefühle erkennen und benennen
+    TncZs3dNBPw |    7:53 | vor 4 Jahren    | MutMentorin                  | 4.309 Aufrufe    | Über Gefühle sprechen lernen - Mit meinen 5 Tipps schaffst Du das
+    3aY3XKnewDM |   11:49 | vor 5 Jahren    | Christine Wilde (Psychologin | 14.654 Aufrufe   | Gefühle fühlen lernen - Eine Anleitung zum Mitmachen
+    MSmeWeTkeHI |   19:01 | vor 3 Jahren    | Stefanie Stahl               | 103.035 Aufrufe  | Gefühle vermeiden: So bekommt ihr einen besseren Zugang zu euch selbst
+    lmZZVh2LVGs |    8:03 | vor 3 Jahren    | Gefühlsmonster               | 14.861 Aufrufe   | Gefühlsmonster in der Kita – Emotionale Kompetenz lernen mit den Gefühlsmonster®-Karten
+    H_D5hFhtbtc |   24:31 | vor 5 Jahren    | CHECKER WELT                 | 1.750.471 Aufrufe | Der Gefühle-Check | Reportage für Kinder | Checker Tobi | BR
+    zDqBl30C_YI |    2:39 | vor 6 Jahren    | Youth University – Erfolg na | 21.765 Aufrufe   | So entstehen deine Emotionen | Life Academy
+  Suche «Gefühlsrad erklärt»:
+    _757yLXMHJM |    8:57 | vor 2 Jahren    | Glühhirn Universum           | 3.946 Aufrufe    | Das Rad der Emotionen einfach erklärt: Gefühle benennen und verstehen
+    5wwahbsJfBQ |    9:58 | vor 4 Jahren    | Lernen der Zukunft Andreas K | 113.939 Aufrufe  | Keine Gefühle mehr | Wir fühlen zu wenig | Empathie | Mitgefühl | Vera F. Birkenbihl
+    Fg1zeISr3ms |    1:57 | vor 3 Jahren    | KKH Kaufmännische Krankenkas | 911 Aufrufe      | Du und Deine Emotionen – mit Gefühlen richtig umgehen | Präventionsprogramm DUDE kurz erkl
+    loXsuD8raZg |    4:34 | vor 8 Jahren    | Logical Lemon                | 219.505 Aufrufe  | So steuerst Du deine Emotionen
+    QmytqAMZUI0 |    3:24 | vor 12 Jahren   | ichraum                      | 54.245 Aufrufe   | ich.kurs Emotionen erkennen: James-Lange-Theorie der Emotion
+    BiMagC-8HEE |    3:36 | vor 4 Jahren    | ErzieherWissen               | 19.847 Aufrufe   | Emotionen Vs Gefühle | Der Unterschied
+    FRQUaXRLYrY |    2:56 | vor 1 Jahr      | Positive Kinderwelt          | 2.214 Aufrufe    | Eula die Eule erklärt: Alle Gefühle sind wichtig! | Eine fröhliche Kindergeschichte über G
+    RY4h0aoL-iI |    5:46 | vor 11 Monaten  | LAUF-RAT                     | 1.449 Aufrufe    | Lebensrad verstehen & nutzen: Ein einfaches Reflexionstool zur Orientierung und Stärkung
+    e3WR4vkpC74 |   10:00 | vor 2 Jahren    | Lernen der Zukunft Andreas K | 541.985 Aufrufe  | Egoisten, Narzissmus und Arroganz | Vera F Birkenbihl
+    H_D5hFhtbtc |   24:31 | vor 5 Jahren    | CHECKER WELT                 | 1.750.471 Aufrufe | Der Gefühle-Check | Reportage für Kinder | Checker Tobi | BR
+  Suche «Emotionen erkennen Psychologie»:
+    EDA7IX-bXVw |    2:48 | vor 4 Jahren    | GeRannyMo - Der Gaming-Psych | 1.061 Aufrufe    | Wie geht eigentlich Menschen lesen? Wir lernen Emotionen & Mimik deuten | Körpersprach-Psy
+    7t4opnMv2CY |   10:24 | vor 1 Jahr      | WissensHub by ISM            | 9.872 Aufrufe    | Wie entstehen Emotionen: Die wichtigsten Emotionstheorien im Fokus | Wirtschaftspsychologi
+    QmytqAMZUI0 |    3:24 | vor 12 Jahren   | ichraum                      | 54.245 Aufrufe   | ich.kurs Emotionen erkennen: James-Lange-Theorie der Emotion
+    _757yLXMHJM |    8:57 | vor 2 Jahren    | Glühhirn Universum           | 3.946 Aufrufe    | Das Rad der Emotionen einfach erklärt: Gefühle benennen und verstehen
+    RcMfDGwEma4 |    5:02 | vor 4 Jahren    | ErzieherWissen               | 17.146 Aufrufe   | Was sind Emotionen? – Gefühle, Definition, Beispiel
+    BiMagC-8HEE |    3:36 | vor 4 Jahren    | ErzieherWissen               | 19.847 Aufrufe   | Emotionen Vs Gefühle | Der Unterschied
+    BK_dzGMzkhk | 1:00:42 | vor 5 Jahren    | Manuel Pietzonka             | 34.635 Aufrufe   | Emotionspsychologie 1 - Was sind Emotionen und wie entstehen sie?
+    MQl_DoNb43s |   20:11 | vor 3 Jahren    | Stoische Zeiten              | 20.206 Aufrufe   | WIE du DEINE EMOTIONEN kontrollierst | ERHÖHE deine EMOTIONALE INTELLIGENZ (EQ) | Stoizism
+    Uizp_YzsFW8 |    1:57 | vor 10 Jahren   | MDI Management Development I | 52.702 Aufrufe   | Die 7 Basisemotionen - Erkennen Sie alle Gesichtsausdrücke?
+    QJ1a-Up9E54 |   11:54 | vor 1 Jahr      | Simon Josef Eckert           | 562.457 Aufrufe  | Die 10 wichtigsten Regeln fürs Leben, aus 5 Jahren Psychologiestudium
+
+######## Deine Emotionen zeigen  (deine-emotionen-zeigen.html, Gefühle zum Ausdruck bringen)
+Aufgabe: Finde heraus, wie du deine Gefühle offen und ehrlich zeigen kannst, ohne dich dabei unwohl zu fühlen. Erfahre, welche Wege es gibt, um Emotionen sicher und angemessen auszudrücken. Erstelle eine Liste mit den besten Tipps, die dir dabei helfen, deine Gefühle auf gesunde Weise zu zeigen.
+Ziel: Lerne, wie du deine Emotionen sicher und offen ausdrücken kannst.
+Alt-Intro: Emotionen sind ein wesentlicher Teil unseres Lebens, doch es kann manchmal schwierig sein, sie offen und ehrlich zu zeigen. Viele Menschen fühlen sich unwohl dabei, ihre Gefühle zu offenbaren, aus Angst vor Ablehnung oder Missverständnissen. Dabei ist es wichtig, Emotionen auf gesunde Weise auszudrü
+Alte Links:
+  OK                                              | Gefühle zeigen: Warum es wichtig ist | https://anchukoegl.com/gefuehle-zeigen/
+  OK                                              | Gefühle beim Dating ehrlich ausdrücken | https://www.elitepartner.ch/magazin/daten/gefuehle-zeigen/
+  Suche «Gefühle zeigen Schwäche»:
+    uoAT01PlgKA |    4:15 | vor 5 Jahren    | BETZ BEWEGT - Robert Betz    | 56.283 Aufrufe   | Mein Partner kann nicht über Gefühle sprechen
+    MSmeWeTkeHI |   19:01 | vor 3 Jahren    | Stefanie Stahl               | 103.035 Aufrufe  | Gefühle vermeiden: So bekommt ihr einen besseren Zugang zu euch selbst
+    rRR8zboaeLQ | 1:02:15 | vor 8 Jahren    | Tobias Beck                  | 9.466 Aufrufe    | Gefühle zeigen ist keine Schwäche - Maria Anna Schwarzberg | Tobias Beck
+    M5bY7-wuTjA |   22:21 | vor 9 Monaten   | Tiefe Psychologie            | 23.016 Aufrufe   | So testet ein Mann eine Frau, wenn seine Gefühle ernst sind | Carl Jung
+    XkkFGasO6RU |    5:36 | vor 5 Jahren    | Positive Welt by Jan         | 1.556 Aufrufe    | 6 Arten, wie Männer Ihre Gefühle zeigen, ohne ein Wort zu sagen
+    t5eFjjyVKm8 |    6:31 | vor 4 Monaten   | Empathic Leon                | 56 Aufrufe       | Gefühle zeigen ist keine Schwäche - CSD Cottbus 2026
+    K6mBD9W0xyE |   10:00 | vor 3 Jahren    | Lernen der Zukunft Andreas K | 482.740 Aufrufe  | Unterdrückte Gefühle | Warum es Männer oft schwerer haben | Erfolg bei Männern | Vera F. B
+    5wwahbsJfBQ |    9:58 | vor 4 Jahren    | Lernen der Zukunft Andreas K | 113.939 Aufrufe  | Keine Gefühle mehr | Wir fühlen zu wenig | Empathie | Mitgefühl | Vera F. Birkenbihl
+    7tsPqXdQdP0 |    5:08 | vor 2 Jahren    | Christian Sander             | 5.252 Aufrufe    | Wie du einem Mann deine Gefühle zeigst - ohne dass er Angst bekommt ;-)
+    d5wp-c6dkXQ | 1:51:30 | vor 10 Monaten  | Mindseed mit Léon Heimann    | 29.509 Aufrufe   | Warum so viele Männer keinen Zugang zu ihren Gefühlen haben | Björn Süfke
+  Suche «Ich-Botschaften Gefühle ausdrücken»:
+    mnnRCoJHouM |    4:25 | vor 2 Jahren    | Erzieherkanal - Wissen, Theo | 36.622 Aufrufe   | ICH Botschaften und DU Botschaften - Du Botschaften umwandeln (+Beispiel) | ERZIEHERKANAL
+    QMKAV3I6kF0 |    3:31 | vor 7 Jahren    | 10 Jahre Gesundheitscontent  | 269.404 Aufrufe  | Ich-Botschaften und alles wird einfacher | #gesundesmiteinander mit René Träder | DAK-Gesu
+    jqChJrz352I |    3:02 | vor 7 Jahren    | Sylvia Bruch                 | 89.927 Aufrufe   | Konflikte vermeiden mit Ich - Botschaften
+    I8N8o7XTMrc |    0:41 | vor 5 Jahren    | DAS ARGUTRAINING #WIeDER_SPR | 2.899 Aufrufe    | Ich Botschaften kurz
+    KPl34DscstE |    4:28 | vor 3 Jahren    | ErzieherWissen               | 20.819 Aufrufe   | ICH-Botschaften & DU-Botschaften - Kommunikation | Definition, Unterschied, Beispiel
+    Fpfl6E6G_F0 |    7:26 | vor 4 Monaten   | Erzieherkanal - Wissen, Theo | 3.898 Aufrufe    | Ich-Botschaften und Du-Botschaften (Kommunikation) mit Beispiel einfach erklärt | ERZIEHER
+    HVfBRw5O5pA |    5:31 | vor 11 Monaten  | MOOCit The Monkey Dance      | 684 Aufrufe      | Kommunikation mit Ich-Botschaften
+    WJXF_BzLhjQ | 1:06:43 | vor 3 Jahren    | Michael Begelspacher         | 48.793 Aufrufe   | Damit Dir unterdrückte Gefühle nicht zum Verhängnis werden, solltest Du Dir dieses Video a
+    qofH8kAQKS0 |   12:07 | vor 2 Jahren    | Karsten Noack                | 929 Aufrufe      | Ich-Botschaften: Tipps für bessere Kommunikation
+    PDLJQiQagcM |   19:46 | vor 2 Std.      | Katy Intuitive Tarot         | 845 Aufrufe      | ✩ 𝙎𝙄𝙀 𝙃𝘼𝘽𝙀𝙉 𝘿𝙄𝘾𝙃 𝙐𝙉𝙏𝙀𝙍𝙎𝘾𝙃Ä𝙏𝙕𝙏! 𝙉𝙖𝙘𝙝 𝙙𝙞𝙚𝙨𝙚𝙢 𝙑𝙚𝙧𝙧𝙖𝙩 𝙬𝙚𝙣𝙙𝙚𝙩 𝙨𝙞𝙘𝙝 𝙙𝙖𝙨 𝘽𝙡𝙖𝙩𝙩 𝙯𝙪 𝘿𝙀𝙄𝙉𝙀𝙉 𝙂𝙪𝙣𝙨𝙩𝙚𝙣 
+  Suche «Gefühle zeigen Männer Jungs»:
+    EMziWpzdLRI |    7:37 | vor 2 Jahren    | Christian Sander             | 39.243 Aufrufe   | Männer verlieben sich in VIER Phasen
+    9URrxVIUmRU |    5:48 | vor 2 Jahren    | Master Your Mind             | 31.517 Aufrufe   | Wie ein Mann mit Emotionen umgehen muss
+    K6mBD9W0xyE |   10:00 | vor 3 Jahren    | Lernen der Zukunft Andreas K | 482.741 Aufrufe  | Unterdrückte Gefühle | Warum es Männer oft schwerer haben | Erfolg bei Männern | Vera F. B
+    M5bY7-wuTjA |   22:21 | vor 9 Monaten   | Tiefe Psychologie            | 23.020 Aufrufe   | So testet ein Mann eine Frau, wenn seine Gefühle ernst sind | Carl Jung
+    YuZPdldC9-s |   27:26 | vor 2 Jahren    | Terra Xplore                 | 270.182 Aufrufe  | Männerbild im Wandel: So schwierig ist es heute, ein Mann zu sein | Terra Xplore mit Leon 
+    bXQI_7gPFHs |   24:41 | vor 5 Monaten   | Fokus Kontext                | 3.017 Aufrufe    | Männer testen dich so, wenn sie sich in dich verlieben | Carl Jung
+    XkkFGasO6RU |    5:36 | vor 5 Jahren    | Positive Welt by Jan         | 1.556 Aufrufe    | 6 Arten, wie Männer Ihre Gefühle zeigen, ohne ein Wort zu sagen
+    VvG5mmmVe8o | 1:52:11 | vor 3 Monaten   | Tiefe Psychologie            | 13.801 Aufrufe   | Dieses Zeichen zeigt, dass seine Gefühle stärker sind, als er zugibt | Carl Jung
+    Wc-TPGPtz9I |   47:09 | vor 1 Jahr      | Menschliche Denkweis         | 2.095 Aufrufe    | Er Zeigt Keine Gefühle? Das Ist Der Versteckte Grund Hinter Seiner Kälte - Carl Jung
+    d5wp-c6dkXQ | 1:51:30 | vor 10 Monaten  | Mindseed mit Léon Heimann    | 29.509 Aufrufe   | Warum so viele Männer keinen Zugang zu ihren Gefühlen haben | Björn Süfke
+
+######## Emotionen im Griff haben  (emotionen-im-griff-haben.html, Gefühle kontrollieren können)
+Aufgabe: Informiere dich darüber, wie du deine Gefühle besonders in stressigen Situationen besser kontrollieren kannst. Erfahre, welche Techniken dir helfen können, ruhig zu bleiben und deine Emotionen zu steuern. Erstelle eine Liste mit diesen Techniken, die dir im Alltag helfen.
+Ziel: Verstehe, wie du deine Emotionen besser kontrollierst, um in schwierigen Momenten gelassen zu bleiben.
+Alt-Intro: Emotionen zu kontrollieren, ist besonders in stressigen Situationen eine Herausforderung. Wut, Angst oder Frustration können leicht die Oberhand gewinnen, wenn wir uns nicht bewusst um ihre Steuerung bemühen. Doch mit den richtigen Techniken kannst du lernen, deine Gefühle zu managen und auch in sch
+Alte Links:
+  OK                                              | Emotionen kontrollieren: So geht’s | https://greator.com/emotionen-kontrollieren/
+  OK                                              | Emotionen in stressigen Situationen im Griff behalten | https://www.aok.de/pk/magazin/wohlbefinden/selbstbewusstsein/wer-bin-ich-wenn-meine-gefuehle-maechtiger-sind-als-mein-verstand/
+  OK                                              | Techniken zum Umgang mit Emotionen | https://feigenwinter.com/emotionen-im-griff/
+  OK    4:34 2018-04-14 Logical Lemon             | Video: Emotionen besser kontrollieren | https://www.youtube.com/watch?v=loXsuD8raZg
+  Suche «Emotionsregulation erklärt»:
+    TSfCh2FYn7c |    9:55 | vor 4 Jahren    | krisenchat                   | 14.586 Aufrufe   | Was ist Emotionsregulation?
+    7t4opnMv2CY |   10:24 | vor 1 Jahr      | WissensHub by ISM            | 9.872 Aufrufe    | Wie entstehen Emotionen: Die wichtigsten Emotionstheorien im Fokus | Wirtschaftspsychologi
+    Y_XKiIC9K9I |    9:31 | vor 3 Jahren    | ACTitude – Für mehr psychisc | 5.830 Aufrufe    | Was gehört zu Emotionsregulation ⛈🔜🌦 Umgang mit Gefühlen (Wissen, Psychologie)
+    IHOwB39RFqo |    4:17 | vor 4 Jahren    | DAK niceones                 | 30.523 Aufrufe   | Emotion oder Gefühl? Das ist der Unterschied! | #gesundesmiteinander | DAK-Gesundheit
+    E9wZpMTlSIY |    7:04 | vor 5 Jahren    | SUPERHELDENKIDS              | 55.796 Aufrufe   | Was ist Emotionsregulation Oder: Wie lernen Kinder ihre Gefühle zu lenken!
+    PNNLONE3Skg |    4:26 | vor 4 Jahren    | ACTitude – Für mehr psychisc | 23.303 Aufrufe   | Emotionsregulation mit der Übung Anker setzen ⚓️ (sofort umsetzbar)
+    zDqBl30C_YI |    2:39 | vor 6 Jahren    | Youth University – Erfolg na | 21.766 Aufrufe   | So entstehen deine Emotionen | Life Academy
+    QmytqAMZUI0 |    3:24 | vor 12 Jahren   | ichraum                      | 54.245 Aufrufe   | ich.kurs Emotionen erkennen: James-Lange-Theorie der Emotion
+    OHhq5vguo1E |    9:50 | vor 1 Jahr      | Dr. Verena Gruber            | 494 Aufrufe      | 7 Strategien, um deine Gefühle zu kontrollieren | Emotionsregulation einfach erklärt
+    9hqlKJfy_a0 |    8:41 | vor 3 Jahren    | Aktive Psychotherapie        | 14.658 Aufrufe   | Intensive Emotionen annehmen? | Emotionsregulation verstehen
+  Suche «Wut kontrollieren Tipps»:
+    2DnaM5IO7P0 |   12:12 | vor 9 Jahren    | Glücksdetektiv               | 272.597 Aufrufe  | Umgang mit Wut - 12 Tricks um loszulassen
+    Qp465C8QuM4 |    6:06 | vor 3 Jahren    | Unendliche Inspiration       | 29.613 Aufrufe   | Die geheime Methode, um Wut zu beherrschen und nie wieder wütend zu werden
+    4EsDXhqAhoA |   12:15 | vor 4 Jahren    | Dr. Reinhard Pichler - Coach | 25.726 Aufrufe   | Wie kann ich Aggressionen kontrollieren und Ausraster vermeiden?
+    wUxqR5w1jrg |   12:15 | vor 2 Jahren    | Dr. Wlodarek Life Coaching   | 63.654 Aufrufe   | Der wahre Nutzen negativer Gefühle – 5 Tipps, um Angst, Wut und Co. zu verstehen und zu nu
+    0L_uYTxRz1I |    9:57 | vor 1 Jahr      | Quarks Dimension Ralph       | 174.799 Aufrufe  | Rauslassen oder unterdrücken – was sollte ich tun, wenn ich wütend bin? | Quarks Dimension
+    VqidMvI5AuA |   23:52 | vor 2 Jahren    | Stoische Zeiten              | 8.808 Aufrufe    | Lerne die Kraft deiner Wut zu kontrollieren und positiv zu nutzen | Lebensverändernd | Sto
+    cbE3QtlfvvE |    3:10 | vor 1 Jahr      | Stefanie Stahl               | 22.943 Aufrufe   | Plötzliche Wut? Das steckt dahinter! Psychologie Kompakt mit Stefanie Stahl
+    ORR1VL_-x6s |   17:13 | vor 4 Jahren    | Zenmeister Hinnerk Polenski  | 46.074 Aufrufe   | 3 Tipps - Wie Du besser mit Ärger und Wut umgehen kannst
+    5X-R9QQHLwI |    7:16 | vor 14 Jahren   | BETZ BEWEGT - Robert Betz    | 506.950 Aufrufe  | Umgang mit Ärger und Wut - Robert Betz
+    4HDPptOtvfM |    9:59 | vor 5 Jahren    | Lernen der Zukunft Andreas K | 61.354 Aufrufe   | Wut & Ärger - was kann man dagegen tun? | Vera F. Birkenbihl | Erfolgspsychologie
+  Suche «Emotionen regulieren Jugendliche»:
+    Lg091sKZrkI |   16:15 | vor 2 Jahren    | Anti Toxic - Neustart nach t | 6.818 Aufrufe    | Selbstregulation - So regulieren gesunde Menschen ihre Emotionen
+    5nhtJM2By8Y |    9:34 | vor 3 Jahren    | Lernen der Zukunft Andreas K | 1.472.026 Aufrufe | Negative Gefühle SOFORT loswerden | Ängste auflösen | Liebe & Dankbarkeit | Vera F. Birken
+    fMrwsyTJOS0 |    2:05 | vor 1 Jahr      | Soma Kids Club               | 12.661 Aufrufe   | Gefühle verstehen | Emotionen ausdrücken lernen für Kinder
+    3HXEUEeR-7g |   16:08 | vor 4 Jahren    | Ramón Schlemmbach Psychologe | 450.821 Aufrufe  | So reagiere ich als Psychologe, wenn mein Kind wütend wird! (+ mein Sohn berichtet)
+    O0N5CrXBqgE |    4:21 | vor 11 Monaten  | Studyflix                    | 4.254 Aufrufe    | Wertvolle Tipps: So kontrollierst du deine Emotionen
+    zDqBl30C_YI |    2:39 | vor 6 Jahren    | Youth University – Erfolg na | 21.766 Aufrufe   | So entstehen deine Emotionen | Life Academy
+    0L_uYTxRz1I |    9:57 | vor 1 Jahr      | Quarks Dimension Ralph       | 174.799 Aufrufe  | Rauslassen oder unterdrücken – was sollte ich tun, wenn ich wütend bin? | Quarks Dimension
+    _clhd1HzNZE |    7:23 | vor 1 Jahr      | Level Up – Dein Mindset, dei | 2.208 Aufrufe    | Emotionale Dysregulation bei ADHS 💥 Wenn Gefühle zu intensiv sind
+    8tOmRdBNFdw |   14:36 | vor 5 Jahren    | HYPERBOLE                    | 917.402 Aufrufe  | FRAG EINE BORDERLINERIN I Maren über schmerzhafte Gefühlsausbrüche und Fehldiagnosen
+    WLnuksrYey8 |    9:45 | vor 8 Jahren    | Dr. Reinhard Pichler - Coach | 8.448 Aufrufe    | Emotional instabile Persönlichkeitsstörung bei Jugendlichen
+
+######## Deine Stärken kennen  (deine-staerken-kennen.html, Eigenen Kompetenzen und Ressourcen)
+Aufgabe: Informiere dich darüber, wie du deine eigenen Stärken und Fähigkeiten besser kennenlernen und nutzen kannst. Lerne, wie du bewusst mit deinen Ressourcen umgehst und sie gezielt einsetzt. Erstelle eine Liste oder ein Diagramm, das zeigt, wie du deine Kompetenzen optimal nutzt.
+Ziel: Lerne, wie du deine Fähigkeiten und Ressourcen bewusst und effektiv einsetzt.
+Alt-Intro: Jeder Mensch hat einzigartige Stärken und Fähigkeiten, die es zu entdecken und zu nutzen gilt. Oft sind wir uns unserer eigenen Talente nicht voll bewusst oder wissen nicht, wie wir sie optimal einsetzen können. Indem du deine Stärken erkennst und gezielt einsetzt, kannst du deine persönliche und be
+Alte Links:
+  OK    3:00 2019-02-20 Ausbildung.de             | Eigene Stärken erkennen und nutzen | https://www.youtube.com/watch?v=U3TVByjqI2c
+  OK    7:59 2017-07-19 Glücksdetektiv            | Wie du deine Fähigkeiten effektiv einsetzt | https://www.youtube.com/watch?v=pwizLAQsX3k
+  OK                                              | Stärken erkennen: Eine Anleitung | https://soulsweet.de/blog/eigene-staerken-erkennen/
+  Suche «eigene Stärken erkennen»:
+    pwizLAQsX3k |    8:00 | vor 9 Jahren    | Glücksdetektiv               | 109.123 Aufrufe  | 10 Fragen, um deine Stärken zu entdecken
+    FRP-F23fs2I |    7:18 | vor 5 Jahren    | Coaching für alle            | 1.402 Aufrufe    | Seine Stärken erkennen mithilfe der Positiven Psychologie
+    rE0NaeRUeS0 |   12:13 | vor 2 Jahren    | Dr. Wlodarek Life Coaching   | 124.555 Aufrufe  | Selbstwert stärken! - 7 Tipps für ein positives Selbstbild und mehr Selbstakzeptanz!
+    PgtjZb9dFA4 |    9:28 | vor 4 Monaten   | Still & Stark mit Melina und | 237 Aufrufe      | Sichtbar werden: Eigene Stärken erkennen und nutzen
+    GZ0qK96xnQs |    5:15 | vor 6 Jahren    | Ideen-Couch                  | 288 Aufrufe      | 7 Wege, mit denen du DIREKT deine Stärken findest 💪
+    qF7CkNprhJA |   10:00 | vor 4 Jahren    | Lernen der Zukunft Andreas K | 296.397 Aufrufe  | Berufung finden | Bestimmung & Lebensaufgabe finden | Talenteportfolio | Vera F. Birkenbih
+    G9n6XKZ7fbQ |   18:38 | vor 3 Jahren    | One Life Baby! - Finde Arbei | 40.089 Aufrufe   | Wie du deine Berufung findest, obwohl du keine echten Stärken hast
+    IGdfTFanylY |    2:40 | vor 6 Jahren    | Career Club by Bluebird Co.  | 1.355 Aufrufe    | IN 3 SCHRITTEN DEINE STÄRKEN HERAUSFINDEN! IN 2 MINUTEN ERKLÄRT!
+    Jx4PF8cS9a8 |    3:57 | vor 7 Jahren    | STARTUP TEENS                | 51.247 Aufrufe   | Die eigenen Stärken finden
+    Iz7xme8bjHE |   18:24 | vor 5 Jahren    | David Schaller               | 114 Aufrufe      | Stärken Erkennen - Die besten Persönlichkeitstests!
+  Suche «Stärken finden Jugendliche»:
+    pwizLAQsX3k |    8:00 | vor 9 Jahren    | Glücksdetektiv               | 109.123 Aufrufe  | 10 Fragen, um deine Stärken zu entdecken
+    4llzvjC1Dvs |   11:40 | vor 4 Jahren    | Dr. Reinhard Pichler - Coach | 5.117 Aufrufe    | So stärken Sie den Selbstwert Ihres Kindes!
+    FRP-F23fs2I |    7:18 | vor 5 Jahren    | Coaching für alle            | 1.402 Aufrufe    | Seine Stärken erkennen mithilfe der Positiven Psychologie
+    jk0PUtuAyqk |    9:05 | vor 8 Jahren    | Akademie für Lerncoaching    | 196.082 Aufrufe  | Ich kann das nicht! Selbstwirksamkeit bei Schüler/innen fördern
+    qF7CkNprhJA |   10:00 | vor 4 Jahren    | Lernen der Zukunft Andreas K | 296.397 Aufrufe  | Berufung finden | Bestimmung & Lebensaufgabe finden | Talenteportfolio | Vera F. Birkenbih
+    AKd5ijDfny4 |    4:36 | vor 5 Jahren    | Erschaffe dich neu           | 343.630 Aufrufe  | Wie wird man selbstbewusst? Selbstbewusstsein stärken in nur 5 Minuten!
+    U3TVByjqI2c |    3:01 | vor 7 Jahren    | Ausbildung.de                | 52.757 Aufrufe   | Was sind meine Stärken und Schwächen?
+    GZ0qK96xnQs |    5:15 | vor 6 Jahren    | Ideen-Couch                  | 288 Aufrufe      | 7 Wege, mit denen du DIREKT deine Stärken findest 💪
+    XqsCj4WS6f4 |    9:32 | vor 2 Jahren    | Lernen der Zukunft Andreas K | 181.456 Aufrufe  | Selbstzweifel loswerden | Selbstwertgefühl aufbauen | Selbstbewusster werden | Vera F Birk
+    OSk0AUT4_8o |   10:57 | vor 4 Jahren    | Dinge Erklärt – Kurzgesagt   | 4.236.221 Aufrufe | So krempelst du dein Leben um!
+  Suche «Charakterstärken VIA»:
+    m9X1-Q9Cllw |    6:03 | vor 3 Jahren    | mindboxplus                  | 675 Aufrufe      | Stärken? Was ist das? Eine Einführung in die Charakterstärken VIA
+    FRP-F23fs2I |    7:18 | vor 5 Jahren    | Coaching für alle            | 1.402 Aufrufe    | Seine Stärken erkennen mithilfe der Positiven Psychologie
+    38NX0OTSeVE |    2:45 | vor 3 Jahren    | Inntal Institut              | 1.265 Aufrufe    | Daniela Blickhan - Was sind Charakterstärken in der Positiven Psychologie?
+    AZfo7m7TEZs |    2:26 | vor 4 Jahren    | All for One HR               | 2.054 Aufrufe    | Charakterstärken - Positive Psychologie // Folge 8
+    CIkPomNfE90 |    2:32 | vor 6 Monaten   | Stiftung Gesundheitswissen   | 627 Aufrufe      | Wie beeinflussen Charakterstärken unser Leben?
+    al6HPDLi09k |    2:37 | vor 4 Jahren    | Dr. Nico Rose                | 463 Aufrufe      | Stärken erkennen im Führungsalltag + Natur der VIA Stärken von Chris Peterson & Martin Sel
+    LCWUasQXoNY |    2:44 | vor 3 Jahren    | mindboxplus                  | 43 Aufrufe       | BINDUNGSFÄHIGKEIT | Nutze deine Charakterstärke
+    POjc0JBfTEc |    9:54 | vor 4 Monaten   | Intelligent Change Solutions | 20 Aufrufe       | Charakterstärken der positiven Psychologie (Coaching Nugget 30)
+    sxFXl5UiXl4 |    0:26 | vor 1 Jahr      | butterflying - Spielerisch l | 99 Aufrufe       | VIA Stärken Spiel Schnelldurchlauf
+    Q5Qt9rQkabU |    3:26 | vor 5 Jahren    | Polarstern                   | 858 Aufrufe      | Was sind DEINE STÄRKEN? Charakterstärken erklärt in Stop-Motion
+
+######## Echt sein  (echt-sein.html, Authentizität)
+Aufgabe: Erfahre, warum es wichtig ist, authentisch zu sein – also so zu handeln und zu sprechen, wie du wirklich bist. Lerne, wie du ehrlich und echt bleibst, auch wenn es schwerfällt. Erstelle eine Liste mit Tipps, die dir helfen, authentischer im Alltag zu bleiben.
+Ziel: Lerne, wie du echt bleibst und eine Übereinstimmung zwischen deinem verbalen und nonverbalen Ausdruck erreichst.
+Alt-Intro: Authentizität bedeutet, wahrhaftig zu sein – das heisst, so zu handeln, zu sprechen und aufzutreten, wie du wirklich bist. Es geht darum, deine Werte und Überzeugungen ehrlich auszudrücken, selbst wenn es manchmal schwierig ist. Authentisch zu sein, stärkt nicht nur dein Selbstbewusstsein, sondern h
+Alte Links:
+  OK    8:13 2023-03-06 Psychologie im Alltag     | Video: Authentisch sein und bleiben | https://www.youtube.com/watch?v=oeDggA60zp8
+  TOT                                             | Artikel: Tipps für mehr Authentizität im Alltag | https://www.foodspring.de/magazine/authentisch-sein
+  Suche «Authentizität Psychologie»:
+    _VbnQ6v3V80 |   10:50 | vor 6 Jahren    | Dr. Wlodarek Life Coaching   | 47.730 Aufrufe   | So werden Sie authentisch – 5 Tipps, wie ehrlicher Umgang mit anderen Ihr Charisma erhöht.
+    ZrUSETdnLDE |   12:05 | vor 1 Jahr      | Tiefe Denker                 | 601 Aufrufe      | Wähle Dich Selbst - Deine Reise Zur Authentizität Beginnt Jetzt | Carl Jung
+    rEE_ezP347U |   18:37 | vor 1 Jahr      | Dr. Martin Spiegel           | 21.528 Aufrufe   | Der einzige Weg, authentisch zu sein #emotionaleintelligenz
+    QSwrupCDqY0 |   13:36 | vor 2 Jahren    | Menschen und Muster          | 68.028 Aufrufe   | Warum uns Authentizität so wichtig ist
+    ouMpWifE6uA |    5:46 | vor 10 Jahren   | Glücksdetektiv               | 86.771 Aufrufe   | Sei du selbst - 5 Tipps, um authentisch zu sein!
+    FSjCbAJVX1o |    4:26 | vor 6 Jahren    | Kopferfrischer               | 6.666 Aufrufe    | Leute die für andere authentisch sind tun diese 6 Dinge | Kopferfrischer
+    SXJ3s22r3IM |    8:41 | vor 1 Jahr      | Oliver Heuler                | 772 Aufrufe      | Authentizität und der Wert eines Menschen (2. Teil »Religion der Selbsthilfe-Ratgeber«)
+    C6ppUwiEeIY |   30:32 | vor 5 Jahren    | Loyola Productions Munich –  | 3.636 Aufrufe    | Motivation und Authentizität - Gedanken zur philosophischen Psychologie - Prof. Godehard B
+    KBOfxgPR4_E | 2:55:48 | vor 1 Jahr      | {ungeskriptet} by Ben        | 449.091 Aufrufe  | Du bist nicht authentisch – Das macht dich krank (Dr. Christian Zippel)
+    oeDggA60zp8 |    8:13 | vor 3 Jahren    | Psychologie im Alltag        | 14.170 Aufrufe   | SO bist DU echt, ehrlich und authentisch!
+  Suche «authentisch sein Jugendliche»:
+    _VbnQ6v3V80 |   10:50 | vor 6 Jahren    | Dr. Wlodarek Life Coaching   | 47.730 Aufrufe   | So werden Sie authentisch – 5 Tipps, wie ehrlicher Umgang mit anderen Ihr Charisma erhöht.
+    ouMpWifE6uA |    5:46 | vor 10 Jahren   | Glücksdetektiv               | 86.771 Aufrufe   | Sei du selbst - 5 Tipps, um authentisch zu sein!
+    QSwrupCDqY0 |   13:36 | vor 2 Jahren    | Menschen und Muster          | 68.028 Aufrufe   | Warum uns Authentizität so wichtig ist
+    FSjCbAJVX1o |    4:26 | vor 6 Jahren    | Kopferfrischer               | 6.666 Aufrufe    | Leute die für andere authentisch sind tun diese 6 Dinge | Kopferfrischer
+    3AGg7JNTDJE |   19:45 | vor 3 Jahren    | Greator                      | 73.150 Aufrufe   | Authentisch sein: Hör auf, dich zu verbiegen! // Dr. Stefan Frädrich
+    O1cvQYI4rMA |    3:58 | vor 5 Jahren    | Stefan Verra                 | 1.409 Aufrufe    | Authentisch sein - eine Expertenrunde (Vollversion)
+    T8iekVKrGsU |    9:11 | vor 3 Jahren    | Weekly Mind                  | 1.024 Aufrufe    | Authentisch sein: 14 Tipps, um mehr du selbst zu sein
+    5GGqfEJF6SM |   10:02 | vor 6 Jahren    | Soulshift with Bibiana Scalc | 41 Aufrufe       | kinder und Jugendliche von heute teil1 - authentisch sein in seiner Ganzheit verstehen und
+    rEE_ezP347U |   18:37 | vor 1 Jahr      | Dr. Martin Spiegel           | 21.528 Aufrufe   | Der einzige Weg, authentisch zu sein #emotionaleintelligenz
+    KBOfxgPR4_E | 2:55:48 | vor 1 Jahr      | {ungeskriptet} by Ben        | 449.091 Aufrufe  | Du bist nicht authentisch – Das macht dich krank (Dr. Christian Zippel)
+  Suche «sich selbst treu bleiben Gruppendruck»:
+    z2ewXqQ78hM |    5:54 | vor 4 Jahren    | VIGOZONE                     | 1.094 Aufrufe    | Was tun gegen Gruppenzwang? Tipps von @laurinspire
+    HnvW1x6Wgmc |    0:29 | vor 2 Jahren    | Rajithan Yogeswaran          | 112 Aufrufe      | Gruppenzwang: Sich selbst treu bleiben oder Erwartungen erfüllen?
+    ezr4iLEmUiQ |    0:46 | vor 1 Jahr      | Kernstimme                   | 1.482 Aufrufe    | Sich selbst treu bleiben: Warum Anbiedern nicht hilft #shorts
+    kUtultu__2g |    0:41 | vor 3 Wochen    | Klartext Denken              | 1.094 Aufrufe    | Er wollte dazugehören – und verlor sich selbst 💔 | Eine Geschichte über Gruppenzwang
+    7tplNm5P8Ng |    1:04 | vor 2 Wochen    | Scio                         | 253 Aufrufe      | Gruppendruck: Warum du der falschen Mehrheit folgst #shorts
+    3-on1OqaiHs |    0:55 | vor 2 Jahren    | Horst Wefer – Klarheit im Be | 446 Aufrufe      | Die Psychologie hinter Gruppenzwang!
+    jJP4K3Y3DxA |   12:50 | vor 6 Jahren    | Dr. Reinhard Pichler - Coach | 2.061 Aufrufe    | Was tun bei Gruppendruck und Gruppenzwang?
+    ah0-97TdxwQ |    0:07 | vor 2 Monaten   | EmotionX                     | 1.688 Aufrufe    | Was Gruppen über Menschen verraten. #shorts
+    vkFL8EEAdEw |    0:13 | vor 1 Jahr      | TrueMind                     | 1.465 Aufrufe    | Gruppenzwang – wenn Zugehörigkeit wichtiger wird als Wahrheit
+    AeiTGTrk40s |    0:06 | vor 4 Monaten   | Stärke                       | 6.030 Aufrufe    | Bleib dir selbst treu – Trotz falscher Menschen
+
+######## Wie andere dich sehen  (wie-andere-dich-sehen.html, Wirkung des eigenen Verhaltens)
+Aufgabe: Überlege, wie deine Stimme, Sprache, Körperhaltung und Mimik auf andere wirken können. Lerne, worauf du achten musst, um bewusst zu steuern, wie du auf andere wirkst. Erstelle eine kurze Übersicht, die dir zeigt, wie du dein Verhalten anpassen kannst, um deine Wirkung zu verbessern.
+Ziel: Verstehe, wie dein Verhalten von anderen wahrgenommen wird und wie du diese Wahrnehmung beeinflussen kannst.
+Alt-Intro: Dein Auftreten hat einen grossen Einfluss darauf, wie du von anderen wahrgenommen wirst. Deine Stimme, Sprache, Körperhaltung und Mimik tragen alle dazu bei, wie du auf andere wirkst. Ein bewusstes Verständnis dieser nonverbalen Signale kann dir helfen, deine Wirkung gezielt zu steuern und sicherzus
+Alte Links:
+  OK                                              | Nonverbale Kommunikation: Die Macht der Körpersprache | https://asana.com/de/resources/nonverbal-communication
+  TOT                                             | Skript zur Körpersprache: Ein Überblick | https://www.wissenschaftsmanagement-online.de/sites/www.wissenschaftsmanagement-online.de/files/migrated_wimoarticle/Bargs-Krpersprache-Script.pdf
+  TOT                                             | Video: Wie Körpersprache deine Wirkung beeinflusst | https://www.youtube.com/watch?v=JzWNigpq-WM
+  Suche «Selbstbild Fremdbild»:
+    EV3U5-ugdjQ |   16:33 | vor 3 Jahren    | Kristallgespräche mit Sandri | 718 Aufrufe      | Wenn sich Selbstbild und Fremdbild widersprechen Tipps für ein gesundes Selbstwertgefühl
+    Zd2zW68t_XQ |    4:07 | vor 6 Jahren    | SpectrumSeminare             | 7.233 Aufrufe    | Selbstbild und Fremdbild im Führungsalltag - das JOHARI-Fenster als Selbstanalyse-Tool
+    5KMDVh3J5Hc |    1:53 | vor 13 Jahren   | Ulrike Hensel                | 17.564 Aufrufe   | Wie hängen Selbstbild und Fremdbild bei Hochsensiblen zusammen?
+    PMgWgFi-lcI |    2:51 | vor 13 Jahren   | MrReverend66                 | 19.857 Aufrufe   | Selbstbild-Fremdbild
+    oDkRQw8WVtc |    9:24 | vor 1 Jahr      | Simon Josef Eckert           | 72.035 Aufrufe   | Dieses psychologische Experiment verändert dein Selbstbild für immer
+    tIQtd0oJQcw |    2:30 | vor 5 Jahren    | MasterMind                   | 2.775 Aufrufe    | Selbstbild & Fremdbild: Warum ist Feedback so wichtig?
+    IdW8lo8PKtI |   10:17 | vor 8 Jahren    | Charisma Factory             | 1.211 Aufrufe    | Selbstbild vs. Fremdbild - Auswirkung deiner Authentizität darauf - effektive Kommunikatio
+    sH3iBCthpqU |   17:10 | vor 4 Jahren    | Casy                         | 7.759 Aufrufe    | Selbstbild - Fremdbild (Fallbeispiel Fynn Kliemann)
+    72Ko2o6h-AQ |    7:21 | vor 3 Jahren    | Robin Fübbeker               | 12.425 Aufrufe   | Wie dein Selbstbild dein Leben kontrolliert!
+    McJuxzY3BsY |    2:18 | vor 9 Jahren    | Uwe erklärt                  | 4.154 Aufrufe    | Uwe erklärt "Fremdbild und Selbstbild"
+  Suche «Johari Fenster erklärt»:
+    8WpVNknOmqs |    9:01 | vor 5 Jahren    | Projekte leicht gemacht      | 81.232 Aufrufe   | Das Johari-Fenster einfach erklärt - Praxisbeispiele inklusive!
+    UiKfCiKOjsk |    4:05 | vor 9 Jahren    | AnkerWissen                  | 80.814 Aufrufe   | Das Johari Fenster einfach erklärt + BEISPIEL!
+    MFhEHNdmT8o |    8:10 | vor 4 Jahren    | Erzieherkanal - Wissen, Theo | 44.363 Aufrufe   | Das JOHARI FENSTER - die wichtigsten Erkenntnisse aus der Persönlichkeitspsychologie | ERZ
+    9vuTJHsKGao |    6:30 | vor 4 Jahren    | LAUF-RAT                     | 9.162 Aufrufe    | JOHARI-Fenster erklärt – Methode als PDF-Download
+    hPdWrQsy5sI |    1:45 | vor 9 Jahren    | PINKTUM                      | 143.548 Aufrufe  | Das Johari Fenster
+    GjUbwZ_44ks |    7:11 | vor 3 Wochen    | Erzieherkanal - Wissen, Theo | 3.251 Aufrufe    | JOHARI FENSTER Modell & Theorie einfach erklärt mit Beispielen | ERZIEHERKANAL
+    AgCcfq9NIIs |    5:35 | vor 8 Jahren    | ZumFachwirt                  | 21.563 Aufrufe   | Das Johari Fenster - Führung und Persönlichkeit
+    QLxPg7HaimQ |    3:02 | vor 1 Jahr      | Smart Leadership             | 1.934 Aufrufe    | Feedback geben – Johari Fenster
+    ZFLBvSu4eZE |    6:29 | vor 9 Jahren    | RedeFabrik - Kommunikation & | 37.980 Aufrufe   | Das Johari Fenster - Erklärung durch Beispiele
+    6sm_HIT_Vjk |    7:22 | vor 3 Jahren    | JobGeflüster                 | 6.835 Aufrufe    | Das bin ich nicht! Selbst- vs. Fremdwahrnehmung: Das Johari-Fenster
+  Suche «erster Eindruck Psychologie»:
+    _9wRO6d5nQA |   20:46 | vor 8 Jahren    | Sozialpsychologie mit Prof.  | 31.226 Aufrufe   | Der erste Eindruck zählt | Psychologie mit Prof. Erb
+    lx8pxtMPByU |    5:41 | vor 5 Jahren    | EINFACH CLEVER               | 5.975 Aufrufe    | 4 Tipps für einen guten ersten Eindruck | Psychologie des ersten  Eindrucks
+    GUYZTVWz_SQ |   12:03 | vor 3 Jahren    | Dr. Wlodarek Life Coaching   | 63.013 Aufrufe   | Der erste Eindruck zählt – 5 einfache Tipps für eine erfolgreiche erste Begegnung privat &
+    FDA0jo5-pOo |   19:18 | vor 1 Jahr      | Terra Xplore                 | 84.018 Aufrufe   | So urteilen Menschen auf den ersten Blick! | Terra Xplore mit Leon Windscheid
+    M-akvGaMcYE |    3:50 | vor 7 Jahren    | DW Deutsch                   | 21.742 Aufrufe   | Der erste Eindruck ohne zweite Chance | Made in Germany
+    _gUcfwhGn28 |   12:08 | vor 3 Jahren    | BC - Brain Codex             | 1.058 Aufrufe    | Wie funktioniert der erste Eindruck? / 5 Tipps
+    NS2QhLwsc_k |    5:04 | vor 4 Monaten   | Innenwelt                    | 658 Aufrufe      | Warum dein erster Eindruck fast immer falsch ist (Psychologie)
+    Xaghpc-1G9c |   11:52 | vor 3 Monaten   | PsychoLogischDE              | 38 Aufrufe       | Manche Menschen werden sofort gemocht - Die Psychologie hinter dem ersten Eindruck #persön
+    NlVs0f6q_xQ |    4:22 | vor 5 Jahren    | Erfolgsformel                | 962 Aufrufe      | Nutze 5 psychologische Tipps für den perfekten ersten Eindruck!
+    6z1REQyl8UY |    8:43 | vor 11 Jahren   | Alexander Plath - Trainer. C | 26.522 Aufrufe   | Der erste Eindruck - warum der erste Eindruck für Sie so wichtig ist - Video Training -
+
+######## Deine Kräfte und Zeit clever nutzen  (deine-kraefte-und-zeit-clever-nutzen.html, Umgang mit eigenen Ressourcen)
+Aufgabe: Erkunde, wie du deine Energie und Zeit besser einteilen kannst, um den ganzen Tag über produktiv zu bleiben. Lerne Techniken kennen, die dir helfen, deine Aufgaben sinnvoll zu planen und dabei auch Pausen einzuplanen. Erstelle einen Tagesplan oder eine Liste mit den besten Tipps, um deine Ressourcen effizient zu nutzen.
+Ziel: Verstehe, wie du deine Energie und Zeit so einteilst, dass du Aufgaben schaffst, ohne dich zu überlasten.
+Alt-Intro: Zeit und Energie sind kostbare Ressourcen, die du klug einsetzen musst, um deinen Alltag erfolgreich zu meistern. Wenn du deine Kräfte und Zeit effizient nutzt, kannst du mehr erreichen und gleichzeitig Stress und Überlastung vermeiden. Es geht darum, Prioritäten zu setzen, deine Aufgaben sinnvoll z
+Alte Links:
+  OK                                              | Ressourcen aktivieren und besser nutzen | https://hellobetter.de/aerzte-psychotherapeuten/ressourcenaktivierung/
+  Suche «Energiemanagement Tipps»:
+    t3pOk2AFXDs |   16:14 | vor 1 Monat     | Tips, Tricks & More          | 40.412 Aufrufe   | Wir wollten DAS BESTE Energiemanagement - also haben wir es gebaut!..
+    NNrLq1W8S8I |    3:43 | vor 8 Monaten   | Rayk Hahne                   | 59 Aufrufe       | Wie Du durch Energiemanagement ein neuer Mensch wirst!
+    B59coSJi_Jo |    6:15 | vor 7 Jahren    | VOREST AG                    | 21.443 Aufrufe   | Was ist die Energiemanagement Norm ISO 50001?
+    QjgcOBkarac | 1:26:55 | vor 1 Jahr      | NetZero Academy              | 498 Aufrufe      | Energiemanagement 2025 - Pflichten, Förderungen, Software und mehr!
+    sXgEIWwadAI |   12:35 | vor 2 Wochen    | Energiewende-Tipps           | 1.924 Aufrufe    | Dynamischer Tarif zusammen mit Photovoltaik: Was bringt mir mein Energiemanagement?
+    oSeKyyXttUE |   26:38 | vor 2 Jahren    | Fasy.nation                  | 94 Aufrufe       | Dein bestmögliches Energie-Management - 10 Tipps als Abschluss der Serie # 120
+    cQzqY_k7DUQ |    2:36 | vor 2 Jahren    | FraunhoferIPA                | 101 Aufrufe      | Tipps. Hacks. Sidefacts: Energie-Erfassung im Lackierprozess
+    HgXo8sXSW8Q |   10:53 | vor 13 Jahren   | Siemens Knowledge Hub        | 2.790 Aufrufe    | Energiemanagement mit SIMATIC -- Mit System zu höchster Energieeffizienz
+    DRsb3iVb--w |   18:57 | vor 1 Jahr      | Felix Goldbach               | 29.020 Aufrufe   | Welches Energiemanagement-System für deine Solaranlage ist das richtige?
+    FRD-6n-P_DA |   17:37 | vor 2 Wochen    | gewaltig nachhaltig          | 27.759 Aufrufe   | Zu wenig Strom aus der Photovoltaik - Energiemanagement übernimmt die intelligente Stromve
+  Suche «Energie einteilen Alltag»:
+    oy5MbAq6xJA |    6:38 | vor 5 Monaten   | Schweizer Paraplegiker-Stift | 3.387 Aufrufe    | Nadjas Alltag mit einer inkompletten Tetraplegie: Mutter sein, arbeiten, Energie einteilen
+    cfE3QqyGSi8 |   11:47 | vor 1 Jahr      | Sladi                        | 4.582 Aufrufe    | Mehr Energie im Alltag - 5 einfache Tipps, die sofort helfen
+    2S8voEHD53g |   16:38 | vor 4 Jahren    | Dr. med. Ulrich Bauhofer | g | 135.919 Aufrufe  | Mehr Energie: Die 3 ultimativen Tipps gegen Energievampire
+    FbjFmL4t-3w |    9:57 | vor 2 Jahren    | Lernen der Zukunft Andreas K | 83.777 Aufrufe   | Was tun, wenn die Energie fehlt | Erfolg Selbstwertgefühl und mehr Zeit | Vera F. Birkenbi
+    ukj00RbvZaQ |   10:10 | vor 5 Jahren    | Dinge Erklärt – Kurzgesagt   | 1.616.469 Aufrufe | Warum lebst du? - Energie & Entropie
+    BEUOT-cqJYg |    8:03 | vor 2 Jahren    | Psychologie im Alltag        | 6.291 Aufrufe    | Kraft- und Energielos- was dir WIRKLICH deine Energie raubt
+    2kpSxbCAsf4 |   46:48 | vor 3 Wochen    | RTL Doku                     | 95.038 Aufrufe   | Spartipps bei Energie, Einkauf, Urlaub & Co | RTL DOKU
+    QLOmunjQ7cE |   11:39 | vor 7 Tagen     | Sarah Schall                 | 561 Aufrufe      | Putzen mit ME/CFS, Long Covid
+    tlVnDe3gpWM |    9:14 | vor 12 Tagen    | Psychologie im Alltag        | 4.463 Aufrufe    | 10 Dinge, die dir jeden Tag unnötig Kraft und Energie rauben!
+    Yj0Gg-XGUMc |   44:26 | vor 9 Tagen     | Angela Ludwig                | 12.214 Aufrufe   | So schaffst du Ordnung, wenn du keine Energie mehr hast
+  Suche «Ressourcen Psychologie Kraftquellen»:
+    n4xMVlu8cf0 |   20:29 | vor 3 Jahren    | Yvonne Müller - Soziale  Ang | 41 Aufrufe       | Ressourcen sind Deine Kraftquellen
+    DPRK7a_VALM |   11:32 | vor 10 Jahren   | Hochschule für Angewandte Ps | 3.298 Aufrufe    | 6.2 die Ressourcen
+    F3w7tlJRcYA |   16:01 | vor 1 Jahr      | Dr. Wlodarek Life Coaching   | 52.701 Aufrufe   | Entdecken Sie Ihre inneren Kraftquellen! – 5 Tipps für Energie und Stärke in stressigen Ze
+    cIzIDB1aTeU |    5:40 | vor 4 Jahren    | Andrea Köhn                  | 630 Aufrufe      | 4 Ressourcen, die deine unerschöpflichen Kraftquellen sind
+    yRDV1ypHA_k |    2:28 | vor 6 Jahren    | Institut für Ressourcenaktiv | 362 Aufrufe      | INFO: Was sind Ihre persönlichen Kraftquellen? Erkennen Sie Ihre Ressourcen!
+    Eeu3RW4urJk |    3:50 | vor 6 Jahren    | Europäische Schule für Biody | 165 Aufrufe      | Biodynamische Körperpsychotherapie - Ressourcen Übung
+    U2BwaXFUfR0 |    0:55 | vor 1 Jahr      | nilo                         | 8 Aufrufe        | Mentale Gesundheit stärken: So findest du deine Kraftquellen
+    kqSQUk-Mm38 |    7:40 | vor 2 Jahren    | Akademie für Wirtschafts- un | 1.914 Aufrufe    | Der Ressourcenbaum 🌳 | Dein visuelles Werkzeug | Identifiziere DEINE innere Stärke 💪 | F+U
+    RPJyw432ADE |    6:38 | vor 6 Jahren    | Biodynamik                   | 406 Aufrufe      | Biodynamische Körperpsychotherapie - Ressourcen
+    vzzFF1euqlw |    3:22 | vor 4 Jahren    | Dipl.-Psych. Dr. phil. Yvonn | 2.142 Aufrufe    | Fähigkeitenübung zur Ressourcenaktivierung
+
+######## Dranbleiben, auch wenn es schwierig wird  (dranbleiben-auch-wenn-es-schwierig-wird.html, Ziele allein weiterverfolgen)
+Aufgabe: Informiere dich darüber, wie du es schaffst, an deinen Zielen festzuhalten, auch wenn du auf dich allein gestellt bist. Finde heraus, wie du dich selbst motivieren kannst, auch in schwierigen Zeiten weiterzumachen. Erstelle eine Liste mit Strategien, die dir helfen, dein Durchhaltevermögen zu stärken.
+Ziel: Lerne, wie du deine Ziele erfolgreich alleine weiterverfolgst und dich selbst motivierst.
+Alt-Intro: Es gibt Zeiten, in denen es schwerfällt, an seinen Zielen festzuhalten, besonders wenn man alleine ist und keine Unterstützung erhält. In solchen Momenten ist es entscheidend, Strategien zu kennen, mit denen man sich selbst motivieren kann. Durchhaltevermögen bedeutet, auch in schwierigen Phasen nic
+Alte Links:
+  OK    2:55 2024-04-12 Ein Wunder für jeden Tag  | Video: Dranbleiben und Ziele erreichen | https://www.youtube.com/watch?v=vejD0yH9alU
+  OK   14:07 2021-04-20 Fachingen TV | StaatlFach | Selbstmotivation stärken | https://www.youtube.com/watch?v=dzM_x9fTcbo
+  OK                                              | Weitermachen oder aufgeben: Strategien für Durchhaltevermöge | https://www.bettinaramm.com/blog/weitermachen-oder-aufgeben
+  Suche «Durchhaltevermögen Grit»:
+    H14bBuluwB8 |    6:13 | vor 13 Jahren   | TED                          | 18.535.739 Aufrufe | Angela Lee Duckworth: Der Schlüssel zum Erfolg? Durchhaltevermögen.
+    rmW3Afu9npY | 1:31:47 | vor 1 Jahr      | Mel Robbins                  | 647.526 Aufrufe  | So entwickeln Sie eine Erfolgsmentalität: Die Wissenschaft von Leidenschaft und Ausdauer
+    HjbD4DETe50 |   20:36 | vor 3 Jahren    | Sozialpsychologie mit Prof.  | 2.081 Aufrufe    | Grit: Leidenschaft und Hartnäckigkeit | Sozialpsychologie mit Prof. Erb
+    qaeFnxSfSC4 |   18:38 | vor 17 Jahren   | TEDx Talks                   | 736.299 Aufrufe  | TEDxBlue – Dr. Angela Lee Duckworth – 18.10.09
+    AyoCGRrhMWQ |    9:40 | vor 1 Jahr      | Motiversity                  | 158.464 Aufrufe  | GRIT: DIE KRAFT DER AUSDAUER - Kraftvolle Motivationsreden
+    O96aAUQPvk0 |    1:07 | vor 7 Jahren    | Parent and Teen              | 55.537 Aufrufe   | Was ist Grit? | Angela Duckworth
+    U7axiVEskiA |    8:08 | vor 4 Monaten   | Nobel Summaries - Deutsch    | 13 Aufrufe       | Grit Zusammenfassung | Angela Duckworth und warum Durchhaltevermögen wichtiger ist als Tal
+    sYsfIHT1-2Y |    3:19 | vor 1 Jahr      | Boxoffice | Die Besten Filmm | 2.788 Aufrufe    | "Du bist ein Mann mit echtem Durchhaltevermögen" | True Grit - Vergeltung | German Deutsch
+    sWctLEdIgi4 |    6:17 | vor 10 Jahren   | Productivity Game            | 1.020.502 Aufrufe | GRIT by Angela Duckworth | Animated CORE Message
+    rNuPw9H55us |    2:00 | vor 5 Jahren    | INSPIRED Motivation          | 74.541 Aufrufe   | Grit - Motivational Video
+  Suche «dranbleiben Motivation Tipps»:
+    SxmUoiC65PM |    7:58 | vor 7 Jahren    | Andreas Buhr                 | 94.408 Aufrufe   | Wie motiviere ich mich? 5 Wege zur Selbstmotivation
+    wkSZDO7L-WI |    8:31 | vor 6 Jahren    | Sascha Huber                 | 412.387 Aufrufe  | SOFORT nicht mehr FAUL | 10 Tipps für mehr Motivation!
+    xdvwSIEGYw0 |   16:52 | vor 2 Jahren    | DoktorWeigl                  | 155.500 Aufrufe  | 8 Tipps gegen Antriebslosigkeit und wenig Bock! Wieder mehr Power, Energie und Lebensfreud
+    BZZjMwVKqX0 |    4:26 | vor 7 Jahren    | Sascha Huber                 | 2.148.758 Aufrufe | 4 MINUTEN PURE MOTIVATION | Hör dir das jeden Morgen an!
+    9CjT0tnLD-U |    5:16 | vor 6 Jahren    | Erschaffe dich neu           | 133.738 Aufrufe  | Wie du dauerhaft motiviert bleibst – Die Locus Regel
+    NgVseQLs3Q0 |   13:09 | vor 2 Jahren    | Anina Maly                   | 5.070 Aufrufe    | Endlich Abnehmen ohne Selbstsabotage | Wirkungsvoller Tipp für dauerhafte Motivation
+    XbA2wscsLBc |    7:00 | vor 6 Jahren    | Sascha Huber                 | 1.174.577 Aufrufe | 7 MINUTEN PURE MOTIVATION | Hör dir das jeden Morgen an!
+    h6dyu2oq_Qs |   10:57 | vor 2 Jahren    | Coach Stef                   | 68.476 Aufrufe   | 12 Tricks für langfristige MOTIVATION im Training
+    npWlYhLYXrw |   17:50 | vor 1 Jahr      | Anina Maly                   | 45.952 Aufrufe   | 11 Dinge, durch die ich Abnehmen ENDLICH durchziehen konnte | Tipps für nachhaltigen Erfol
+    Yj_uwA4AiLk |    8:46 | vor 11 Jahren   | Goeerki                      | 16.283 Aufrufe   | Zwei Motivationskiller! Tipps zum dranbleiben
+  Suche «Rückschläge umgehen Resilienz»:
+    FuimRysd9rc |   13:06 | vor 6 Jahren    | Glücksdetektiv               | 64.005 Aufrufe   | Rückschläge überwinden: Sofort neue Motivation durch diesen Trick
+    BqfdRSjTDQE |    7:21 | vor 5 Jahren    | OttoBulletproof              | 6.515 Aufrufe    | Wie geht man mit Rückschlägen um? | Bulletproofentrepreneur
+    zJUXsrNlykE |   56:04 | vor 3 Jahren    | ERF Jess – Talkwerk          | 14.411 Aufrufe   | Wie du den Angriffen des Lebens trotzen kannst | Über Rückschläge und Resilienz
+    XxSmX-i3c3w |   10:16 | vor 6 Jahren    | Erschaffe dich neu           | 173.453 Aufrufe  | Die 7 Säulen der Resilienz (für eiserne Innere Stärke)
+    m0kdRNFdN8k |   12:51 | vor 6 Jahren    | Dr. Wlodarek Life Coaching   | 207.633 Aufrufe  | Resilienz – Immunsystem der Seele. 5 Tipps, um an Krisen und Schicksalsschlägen nicht zu z
+    hMkpX6gg-iY |   12:42 | vor 2 Jahren    | Dr. Wlodarek Life Coaching   | 109.258 Aufrufe  | Resilienz entwickeln! 7 Tipps, wie Sie Ihre Widerstandskraft stärken und Krisen meistern!
+    rWDaVxWsTiA |   32:16 | vor 4 Jahren    | LitLounge                    | 196.275 Aufrufe  | Resilienz: Mit belastenden Situationen umgehen | Stefanie Stahl #62 | So bin ich eben Podc
+    5MGrzO2ZDao |   11:07 | vor 5 Jahren    | Dr. Wlodarek Life Coaching   | 26.158 Aufrufe   | Niederlagen überwinden – 4 Schritte, um Misserfolge und Fehlschläge positiv zu verarbeiten
+    8QzrVwYK34k |   21:26 | vor 6 Jahren    | Michaela Merten              | 3.123 Aufrufe    | Wie du mit Rückschlägen umgehen kannst | Folge 16
+    jReqyALOfhk |   10:35 | vor 7 Jahren    | Das Resilienz-Programm       | 105.679 Aufrufe  | 5 Resilienz-Übungen für das tägliche Resilienz-Training
