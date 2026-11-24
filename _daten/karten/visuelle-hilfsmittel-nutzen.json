@@ -1,0 +1,111 @@
+{
+ "titel": "Visuelle Hilfsmittel nutzen",
+ "kategorie": "Kommunikation und Präsentation",
+ "aufgabe": "Informiere dich darüber, welche visuellen Hilfsmittel (z.B. PowerPoint, Flipcharts) du für Präsentationen einsetzen kannst und wie sie effektiv genutzt werden. Erstelle eine kurze Zusammenfassung oder eine Liste mit Tipps.",
+ "ziel": "Lerne, wie du durch den Einsatz visueller Hilfsmittel deine Präsentationen anschaulicher gestaltest.",
+ "text": [
+  "Zu viel Text, zu kleine Schrift, wilde Animationen: Viele Präsentationen scheitern an den Folien. Dabei können gute Bilder und Grafiken einen Vortrag viel verständlicher machen.",
+  "Auf dieser Karte lernst du, wie du Folien, Flipcharts und andere Hilfsmittel so einsetzt, dass sie dein Publikum unterstützen."
+ ],
+ "methode_titel": "So setzt du visuelle Hilfsmittel ein",
+ "uebung": {
+  "frage": "Gute Folie oder eher nicht?",
+  "optionen": [
+   "Gut",
+   "Eher nicht"
+  ],
+  "hinweis": "Denk an die vier Regeln: wenig Text, gross genug, Bilder statt Text, einheitlich.",
+  "aufgaben": [
+   {
+    "text": "Eine Folie mit 12 ganzen Sätzen in Schriftgrösse 14.",
+    "richtig": "Eher nicht",
+    "warum": "Zu viel Text, zu klein."
+   },
+   {
+    "text": "Eine Folie mit einem grossen Foto und einer kurzen Überschrift.",
+    "richtig": "Gut",
+    "warum": "Ein Bild und eine klare Aussage."
+   },
+   {
+    "text": "Jede Folie hat eine andere Schrift und andere Farben.",
+    "richtig": "Eher nicht",
+    "warum": "Wirkt unruhig und lenkt ab."
+   },
+   {
+    "text": "Ein einfaches Balkendiagramm mit drei Balken und klarer Beschriftung.",
+    "richtig": "Gut",
+    "warum": "Zahlen werden auf einen Blick verständlich."
+   },
+   {
+    "text": "Jeder Aufzählungspunkt fliegt mit Toneffekt einzeln herein.",
+    "richtig": "Eher nicht",
+    "warum": "Effekte lenken vom Inhalt ab."
+   }
+  ]
+ },
+ "fragen": [
+  "Was stört dich an schlechten Präsentationsfolien am meisten?",
+  "Welche Hilfsmittel passen zu deinem nächsten Vortrag?",
+  "Was willst du an deinen eigenen Folien verbessern?"
+ ],
+ "suche": [
+  "PowerPoint Tipps",
+  "gute Folien gestalten",
+  "Flipchart gestalten"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=GHcV5UGKEog",
+   "titel": "Professionelle PowerPoint-Präsentation: 5 Tipps",
+   "dauer": "3,5 Min.",
+   "quelle": "JW"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=E5wbIKapwyo",
+   "titel": "PowerPoint-Präsentation gestalten",
+   "dauer": "6,5 Min.",
+   "quelle": "JW",
+   "notiz": "Wie Folien übersichtlich werden"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cQfxaTocvvE",
+   "titel": "Flipchart gestalten: sechs Regeln",
+   "dauer": "5 Min.",
+   "quelle": "Wirkungsvoll Präsentieren"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=nnxLJCmErPs",
+   "titel": "Visualisieren beim Präsentieren: 5 Tipps",
+   "dauer": "3,5 Min.",
+   "quelle": "Arno Fischbacher (Stimm- und Präsentationstrainer)"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=VerskOj-vpk",
+   "titel": "3 Design-Tipps für bessere PowerPoint-Folien",
+   "dauer": "9 Min.",
+   "quelle": "Slide Campus",
+   "notiz": "Für Fortgeschrittene in PowerPoint",
+   "warnung": "Wirbt für einen kostenpflichtigen Kurs"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=M3we4ZWN5FM",
+   "grund": "Video nur noch mit Anmeldung sichtbar"
+  },
+  {
+   "url": "https://simpleshow.com/de/blog/effektive-praesentationen-wie-visuelle-hilfsmittel-deine-botschaft-verstaerken/",
+   "grund": "Blog eines Software-Anbieters für Erklärvideos"
+  }
+ ]
+}

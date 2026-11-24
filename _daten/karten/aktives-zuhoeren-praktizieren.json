@@ -1,0 +1,117 @@
+{
+ "titel": "Aktives Zuhören praktizieren",
+ "kategorie": "Kommunikation und Präsentation",
+ "aufgabe": "Recherchiere, was aktives Zuhören ausmacht und wie es in der Kommunikation angewendet wird. Erstelle eine kurze Zusammenfassung oder eine Übersicht der wichtigsten Techniken.",
+ "ziel": "Erfahre, wie aktives Zuhören die Kommunikation und das Verständnis in Gesprächen verbessert.",
+ "text": [
+  "Zuhören klingt einfach: Mund zu, Ohren auf. Doch richtig gutes Zuhören ist eine Fähigkeit, die man üben muss.",
+  "Auf dieser Karte lernst du die Techniken des aktiven Zuhörens konkret kennen und siehst an Beispielen, wie es im Alltag gelingt oder misslingt. Danach probierst du es selbst aus."
+ ],
+ "methode_titel": "Die Techniken des aktiven Zuhörens",
+ "uebung": {
+  "frage": "Welche Technik ist das?",
+  "optionen": [
+   "Paraphrasieren",
+   "Verbalisieren",
+   "Nachfragen",
+   "Zusammenfassen"
+  ],
+  "hinweis": "Paraphrasieren wiederholt den Inhalt, Verbalisieren spricht das Gefühl an.",
+  "aufgaben": [
+   {
+    "text": "«Du hast also das Gefühl, dass du im Team zu wenig mitreden kannst?»",
+    "richtig": "Paraphrasieren",
+    "warum": "Der Inhalt wird in eigenen Worten wiederholt."
+   },
+   {
+    "text": "«Das klingt, als hätte dich das ziemlich verletzt.»",
+    "richtig": "Verbalisieren",
+    "warum": "Das Gefühl wird angesprochen."
+   },
+   {
+    "text": "«Was ist dann passiert?»",
+    "richtig": "Nachfragen",
+    "warum": "Eine offene Frage lädt zum Weitererzählen ein."
+   },
+   {
+    "text": "«Also: Du möchtest mehr Verantwortung, mehr Rückmeldung und einen festen Ansprechpartner.»",
+    "richtig": "Zusammenfassen",
+    "warum": "Die wichtigsten Punkte werden gebündelt."
+   }
+  ]
+ },
+ "fragen": [
+  "Was war schwierig, als du aktives Zuhören ausprobiert hast?",
+  "Wie hat die andere Person reagiert?",
+  "In welcher Situation im Betrieb oder in der Schule kann dir Paraphrasieren helfen?"
+ ],
+ "suche": [
+  "aktives Zuhören Übung",
+  "Paraphrasieren",
+  "Carl Rogers Zuhören"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=AuqTOZq1sZw",
+   "titel": "Aktiv zuhören im Alltag: so nicht",
+   "dauer": "3,5 Min.",
+   "quelle": "Eniqma (Lernvideos)",
+   "notiz": "Ein Negativbeispiel als kurze Szene"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=xgAogY-iIQI",
+   "titel": "Aktiv zuhören im Alltag: so gelingt es",
+   "dauer": "4 Min.",
+   "quelle": "Eniqma (Lernvideos)",
+   "notiz": "Die gleiche Szene, diesmal gut gelöst"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=M8uDLNcx_cA",
+   "titel": "So gelingt dir Zuhören",
+   "dauer": "4,5 Min.",
+   "quelle": "DAK (Krankenkasse), 2022",
+   "notiz": "Ein Psychologe erklärt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=NLQEcUZJX4w",
+   "titel": "Aktiv zuhören: sechs einfache Tipps",
+   "dauer": "3,5 Min.",
+   "quelle": "Doro Plutte (Sprechtrainerin)"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=K7iWUMpetvw",
+   "titel": "Aktives Zuhören: 7 Wege, Menschen zu verstehen",
+   "dauer": "10 Min.",
+   "quelle": "Uwe Bothe (Kommunikationstrainer)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=cYV2LKhynig",
+   "titel": "Aktives Zuhören: So lernt ihr, euch zu verstehen",
+   "dauer": "27,5 Min.",
+   "quelle": "Terra Xplore (ZDF), 2025"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://blog.hubspot.de/marketing/aktiv-zuhoeren-formulierungen",
+   "grund": "Marketing-Blog eines Software-Anbieters"
+  },
+  {
+   "url": "https://www.streitvermittler-mediator.de/blog-mediation/aktives-zuhoeren.html",
+   "grund": "Blog einer Mediationsfirma, ersetzt durch Beispielvideos"
+  }
+ ]
+}

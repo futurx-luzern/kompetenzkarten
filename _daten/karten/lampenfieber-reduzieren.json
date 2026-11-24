@@ -1,0 +1,87 @@
+{
+ "titel": "Lampenfieber reduzieren",
+ "kategorie": "Kommunikation und Präsentation",
+ "aufgabe": "Recherchiere, welche Methoden es gibt, um Lampenfieber vor einem Auftritt zu reduzieren (z.B. Atemtechniken, Visualisierung). Erstelle eine kurze Zusammenfassung oder ein kleines Handout mit den effektivsten Methoden.",
+ "ziel": "Verstehe, wie du durch gezielte Techniken deine Nervosität vor Präsentationen minimierst.",
+ "text": [
+  "Morgen musst du vor der Klasse präsentieren, und schon heute ist dir mulmig. Das Herz klopft, du denkst an alles, was schiefgehen könnte.",
+  "Lampenfieber ist normal und lässt sich in den Griff bekommen. Auf dieser Karte erfährst du, warum es entsteht und was vorher, kurz vor dem Auftritt und währenddessen hilft."
+ ],
+ "methode_titel": "Was gegen Lampenfieber hilft",
+ "fragen": [
+  "Wann hattest du zuletzt Lampenfieber? Wie hat es sich angefühlt?",
+  "Was hat dir bisher geholfen?",
+  "Welchen Tipp willst du bei deinem nächsten Auftritt ausprobieren?"
+ ],
+ "suche": [
+  "Lampenfieber Tipps",
+  "Nervosität Referat",
+  "Präsentationsangst"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=IVVrG8Rrq7c",
+   "titel": "5 Tipps gegen Lampenfieber",
+   "dauer": "5,5 Min.",
+   "quelle": "musstewissen Deutsch (funk)",
+   "notiz": "Für Schülerinnen und Schüler gemacht"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=2DTSjOTCYhE",
+   "titel": "Schluss mit Lampenfieber: 6 Tipps",
+   "dauer": "3,5 Min.",
+   "quelle": "DAK (Krankenkasse)"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=WvbJZfkFpDo",
+   "titel": "Lampenfieber? Angst ist keine Ausrede",
+   "dauer": "6,5 Min.",
+   "quelle": "Stefanie Stahl (Psychologin), 2025"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=2K9vrXU0280",
+   "titel": "Nervosität vor dem Auftritt: drei Soforthilfen",
+   "dauer": "3,5 Min.",
+   "quelle": "Doro Plutte (Sprechtrainerin)"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=bhdZyTUeZOA",
+   "titel": "Eine Mentalübung gegen Lampenfieber",
+   "dauer": "5,5 Min.",
+   "quelle": "Moderatorenschule Baden-Württemberg"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=nJJZKCj8dgA",
+   "titel": "Lampenfieber: eine Dokumentation",
+   "dauer": "31 Min.",
+   "quelle": "NZZ Format (Schweiz)",
+   "notiz": "Wie Profis mit Lampenfieber umgehen und was die Forschung sagt"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.stepstone.de/magazin/artikel/tipps-gegen-lampenfieber",
+   "grund": "Jobportal, für Berufstätige"
+  },
+  {
+   "url": "https://rhetorik-online.de/lampenfieber-bekaempfen-tipps/",
+   "grund": "Seite eines Rhetorik-Kursanbieters"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=iGx1qDn73oM",
+   "grund": "Kanal einer lokalen Coaching-Praxis"
+  }
+ ]
+}

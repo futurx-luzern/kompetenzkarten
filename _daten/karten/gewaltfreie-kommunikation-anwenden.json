@@ -1,0 +1,108 @@
+{
+ "titel": "Gewaltfreie Kommunikation anwenden",
+ "kategorie": "Kommunikation und Präsentation",
+ "aufgabe": "Finde heraus, wie die Methode der gewaltfreien Kommunikation funktioniert und wie sie zu konstruktiven Gesprächen beiträgt. Erstelle eine kurze Zusammenfassung oder eine Infografik zur Methode.",
+ "ziel": "Lerne, wie du durch gewaltfreie Kommunikation Konflikte vermeiden und konstruktive Dialoge führen kannst.",
+ "text": [
+  "Du kennst die vier Schritte der Gewaltfreien Kommunikation vielleicht schon. Aber wie wendet man sie im echten Leben an, wenn man wütend ist und das Gegenüber auch?",
+  "Auf dieser Karte geht es um die Praxis: die Wolfs- und die Giraffensprache, typische Stolpersteine und viele Beispiele. Am Ende formulierst du eigene Sätze für eine echte Situation."
+ ],
+ "methode_titel": "Gewaltfreie Kommunikation in der Praxis",
+ "uebung": {
+  "frage": "Wolfssprache oder Giraffensprache?",
+  "optionen": [
+   "Wolf",
+   "Giraffe"
+  ],
+  "hinweis": "Die Giraffe beschreibt, was sie sieht, fühlt und braucht. Der Wolf urteilt und macht Vorwürfe.",
+  "aufgaben": [
+   {
+    "text": "«Du bist so faul, nie hilfst du mit!»",
+    "richtig": "Wolf",
+    "warum": "Ein Urteil und ein Vorwurf."
+   },
+   {
+    "text": "«Ich bin enttäuscht, weil ich mich auf deine Hilfe verlassen habe. Kannst du morgen mitkommen?»",
+    "richtig": "Giraffe",
+    "warum": "Gefühl, Bedürfnis und eine konkrete Bitte."
+   },
+   {
+    "text": "«Wenn du das nochmals machst, rede ich nicht mehr mit dir.»",
+    "richtig": "Wolf",
+    "warum": "Eine Drohung."
+   },
+   {
+    "text": "«Mir ist aufgefallen, dass du heute zweimal zu spät warst.»",
+    "richtig": "Giraffe",
+    "warum": "Eine Beobachtung ohne Bewertung."
+   },
+   {
+    "text": "«Typisch, du denkst immer nur an dich.»",
+    "richtig": "Wolf",
+    "warum": "Verallgemeinerung und Urteil."
+   }
+  ]
+ },
+ "fragen": [
+  "Formuliere eine echte Situation in den vier Schritten. Wie klingt das?",
+  "Wann sprichst du eher Wolfssprache? Was löst das aus?",
+  "Was ist an der Gewaltfreien Kommunikation schwierig, was hilfreich?"
+ ],
+ "suche": [
+  "Gewaltfreie Kommunikation Beispiel",
+  "Wolfssprache Giraffensprache",
+  "GFK im Alltag"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ADracv9gkSA",
+   "titel": "Gewaltfreie Kommunikation",
+   "dauer": "2,5 Min.",
+   "quelle": "Jugendrotkreuz",
+   "notiz": "Kurz und für Jugendliche"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Xwrs2IOc2pM",
+   "titel": "Wolfs- und Giraffensprache",
+   "dauer": "3,5 Min.",
+   "quelle": "Michael Mittag mit Annamarie Ryter"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=LcBjcdQWbGA",
+   "titel": "Gewaltfreie Kommunikation in unter 2 Minuten",
+   "dauer": "2 Min.",
+   "quelle": "Erzieherkanal, 2022",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=998xVVsEX_M",
+   "titel": "Ein praktisches Beispiel zur Gewaltfreien Kommunikation",
+   "dauer": "3,5 Min.",
+   "quelle": "Susanne Lorenz"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=VWumM6LwOng",
+   "titel": "Gewaltfreie Kommunikation nach Rosenberg ausführlich",
+   "dauer": "11 Min.",
+   "quelle": "Erzieherkanal, 2023",
+   "notiz": "Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://karlhosang.de/gewaltfreie-kommunikation-gfk/",
+   "grund": "Seite eines Trainers mit Kursangeboten"
+  }
+ ],
+ "bemerkung": "Die Grundlagen der vier Schritte stehen auch auf der Karte «Konflikte ansprechen». Diese Karte geht in die Praxis."
+}

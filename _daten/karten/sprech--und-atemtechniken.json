@@ -1,0 +1,89 @@
+{
+ "titel": "Sprech- und Atemtechniken",
+ "kategorie": "Kommunikation und Präsentation",
+ "aufgabe": "Informiere dich, welche Sprech- und Atemtechniken dir helfen können, vor Publikum klar und überzeugend zu sprechen. Erstelle eine kurze Zusammenfassung oder ein Plakat mit den wichtigsten Techniken.",
+ "ziel": "Lerne, wie du durch richtige Atem- und Sprechtechniken deine Stimme optimal einsetzt.",
+ "text": [
+  "Du hast einen guten Vortrag vorbereitet, aber niemand versteht dich richtig: zu leise, zu schnell, genuschelt. Oder dir geht mitten im Satz die Luft aus.",
+  "Mit ein paar Sprech- und Atemtechniken wirst du besser verstanden und wirkst sicherer. Auf dieser Karte lernst du die wichtigsten und probierst einfache Übungen aus."
+ ],
+ "methode_titel": "So sprichst du klar und ruhig",
+ "fragen": [
+  "Was ist dir aufgefallen, als du dich beim Sprechen aufgenommen hast?",
+  "Welche Übung hat dir am meisten geholfen?",
+  "Woran willst du bei deinem nächsten Vortrag besonders achten?"
+ ],
+ "suche": [
+  "Atemtechnik Sprechen",
+  "deutlich sprechen Übungen",
+  "Sprechtempo"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=lU2EWelKDE0",
+   "titel": "Richtig atmen beim Sprechen",
+   "dauer": "3 Min.",
+   "quelle": "Sprechen wie die Profis",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=oiPHLGN23P8",
+   "titel": "Übungen für eine klare Aussprache",
+   "dauer": "3 Min.",
+   "quelle": "Sprechen wie die Profis"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=XQQEtCzfaYU",
+   "titel": "3 Atemübungen für eine sichere Stimme",
+   "dauer": "3,5 Min.",
+   "quelle": "Doro Plutte (Sprechtrainerin)"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=PRIsWmWRB6c",
+   "titel": "Deutlich sprechen: die besten Tipps",
+   "dauer": "7 Min.",
+   "quelle": "Moderatorenschule Baden-Württemberg"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=aB8AWGHEpqY",
+   "titel": "Nie mehr zu schnell sprechen",
+   "dauer": "7 Min.",
+   "quelle": "Moderatorenschule Baden-Württemberg",
+   "notiz": "Drei Übungen für das richtige Tempo"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.sprechen.com/atemtechnik/",
+   "titel": "Atemtechnik für eine starke Stimme",
+   "dauer": "6 Min.",
+   "quelle": "sprechen.com",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=x86fGQWxvhI",
+   "titel": "Sprechtraining: Kann man charismatischer klingen?",
+   "dauer": "11,5 Min.",
+   "quelle": "Quarks",
+   "notiz": "Ein Experiment mit drei Versuchspersonen"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=gt1c-3x5jLs",
+   "grund": "Video nicht mehr verfügbar"
+  }
+ ]
+}
