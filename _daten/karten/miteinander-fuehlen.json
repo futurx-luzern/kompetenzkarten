@@ -1,0 +1,78 @@
+{
+ "titel": "Miteinander fühlen",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Erfahre, wie du besser mit anderen Menschen in Kontakt trittst und ihnen emotionale Resonanz gibst. Lerne, wie du deine eigene Empathie und Einfühlungsvermögen steigerst, um tiefere Verbindungen aufzubauen. Erstelle eine Liste mit Tipps, die dir helfen, echte emotionale Resonanz zu geben.",
+ "ziel": "Lerne, wie du bessere Verbindungen zu anderen Menschen aufbaust, indem du emotional in Kontakt trittst und Resonanz zeigst.",
+ "text": [
+  "Wenn ein Freund traurig ist, wirst du auch etwas traurig. Wenn alle lachen, lachst du mit. Wir Menschen fühlen miteinander, oft ohne es zu merken.",
+  "Auf dieser Karte erfährst du, wie dieses Mitschwingen funktioniert, was der Unterschied zwischen Mitleid, Empathie und Mitgefühl ist und wie du für andere da sein kannst, ohne selbst unterzugehen."
+ ],
+ "methode_titel": "Mitleid, Empathie und Mitgefühl",
+ "fragen": [
+  "Wann hast du zuletzt stark mitgefühlt? Wie war das für dich?",
+  "Was hilft dir, wenn es dir schlecht geht: Mitleid, Empathie oder Mitgefühl?",
+  "Wie kannst du für andere da sein und trotzdem auf dich achten?"
+ ],
+ "suche": [
+  "Mitgefühl Empathie Unterschied",
+  "Spiegelneuronen",
+  "Empathie Grenzen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=IzW6mlQoBvA",
+   "titel": "Warum ist Lachen ansteckend?",
+   "dauer": "3,5 Min.",
+   "quelle": "Die Sendung mit der Maus, 2022",
+   "notiz": "Kurz und anschaulich, auch zum Gähnen"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=9yL0PEWMYPk",
+   "titel": "Mitleid oder Mitgefühl: der kleine Unterschied",
+   "dauer": "3 Min.",
+   "quelle": "Empalogics (Psychologie einfach erklärt)"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ifOGx8ELCno",
+   "titel": "Vorsicht, Empathie!",
+   "dauer": "6 Min.",
+   "quelle": "maiLab (Mai Thi Nguyen-Kim)",
+   "notiz": "Was Mitgefühl von Empathie unterscheidet"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=pJJ7aotTvxs",
+   "titel": "Mitgefühlsmüdigkeit: Wenn zu viel Empathie schadet",
+   "dauer": "27 Min.",
+   "quelle": "Terra Xplore (ZDF), 2024"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=BZfirgLqK7I",
+   "titel": "Brené Brown über Empathie",
+   "dauer": "3 Min.",
+   "quelle": "RSA (Animation), deutsche Untertitel",
+   "notiz": "Der Unterschied zwischen Empathie und Mitleid, als Zeichentrick",
+   "warnung": "Auf Englisch, mit deutschen Untertiteln",
+   "sprache": "en"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.suedostschweiz.ch/zeitung/emotionale-resonanz-ist-angeboren",
+   "grund": "Seite nicht mehr erreichbar"
+  },
+  {
+   "url": "https://fastercapital.com/de/thema/die-emotionale-resonanz-nutzen.html",
+   "grund": "Automatisch erzeugter Text ohne Fachstelle"
+  }
+ ]
+}

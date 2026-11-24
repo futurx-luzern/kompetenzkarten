@@ -1,0 +1,98 @@
+{
+ "titel": "Nähe und Distanz regulieren",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Lerne, wie du die richtige Balance zwischen Nähe und Distanz in Beziehungen findest. Lerne Techniken, die dir helfen, diese Balance bewusst zu steuern und dabei sowohl deine eigenen als auch die Bedürfnisse anderer zu berücksichtigen. Erstelle eine Liste mit Tipps, die dir helfen, Nähe und Distanz gut zu regulieren.",
+ "ziel": "Verstehe, wie du in Beziehungen Nähe und Distanz gut regulierst.",
+ "text": [
+  "Manche Menschen kommen dir beim Reden sehr nahe, andere halten immer Abstand. Manche umarmen zur Begrüssung, andere geben nicht einmal die Hand.",
+  "Wie viel Nähe angenehm ist, ist sehr verschieden. Auf dieser Karte lernst du, wie du Nähe und Distanz bewusst regulierst, in Freundschaften, im Beruf und auch digital."
+ ],
+ "methode_titel": "Nähe und Distanz",
+ "uebung": {
+  "frage": "In welcher Zone ist dieser Abstand normalerweise?",
+  "optionen": [
+   "Intim",
+   "Persönlich",
+   "Sozial",
+   "Öffentlich"
+  ],
+  "hinweis": "Intim bis 50 cm, persönlich bis 1,2 m, sozial bis 3,5 m, öffentlich darüber.",
+  "aufgaben": [
+   {
+    "text": "Du sprichst mit einer Kundin am Schalter.",
+    "richtig": "Sozial",
+    "warum": "Professioneller Kontakt mit Fremden."
+   },
+   {
+    "text": "Du umarmst deine Schwester.",
+    "richtig": "Intim",
+    "warum": "Nur für sehr vertraute Personen."
+   },
+   {
+    "text": "Du hältst einen Vortrag vor der Klasse.",
+    "richtig": "Öffentlich",
+    "warum": "Grosser Abstand zum Publikum."
+   },
+   {
+    "text": "Du unterhältst dich mit deinem besten Kollegen in der Pause.",
+    "richtig": "Persönlich",
+    "warum": "Vertraute Gesprächsdistanz."
+   }
+  ]
+ },
+ "fragen": [
+  "Wann ist dir jemand schon zu nahe gekommen? Wie hast du reagiert?",
+  "Wie viel Nähe und wie viel Zeit für dich brauchst du in Freundschaften?",
+  "Wie viel Nähe passt in deinem Beruf zu Kundschaft oder Kollegen?"
+ ],
+ "suche": [
+  "Nähe und Distanz",
+  "Distanzzonen",
+  "professionelle Distanz"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Oi7v84vBlV8",
+   "titel": "Nähe und Distanz",
+   "dauer": "5 Min.",
+   "quelle": "insieme Zürich",
+   "notiz": "Einfach erklärt, mit Beispielen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=mVo_mTVR3JY",
+   "titel": "Nähe und Distanz: Balance finden",
+   "dauer": "6 Min.",
+   "quelle": "Erzieherkanal, 2024",
+   "notiz": "Nähe und Distanz im Beruf"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=jn4u0gbQIgM",
+   "titel": "Nähe und Distanz in Beziehungen",
+   "dauer": "5,5 Min.",
+   "quelle": "Dami Charf (Traumatherapeutin)",
+   "notiz": "Warum manche mehr Nähe brauchen als andere",
+   "warnung": "Am Schluss Werbung für eine Mitgliedschaft"
+  },
+  {
+   "stufe": 3,
+   "typ": "lesen",
+   "url": "https://devirada.ch/fileadmin/user_upload/devirada/Dokumente/Paarberatung_Texte_Download/artikel_Der_ewige_Tanz_zwischen_Na__he_und_Distanz_MF_100519.pdf",
+   "titel": "Der ewige Tanz zwischen Nähe und Distanz",
+   "dauer": "PDF",
+   "quelle": "devirada (Beratungsstelle, Schweiz)",
+   "notiz": "Fachartikel über Beziehungen. Bleibt von der alten Seite"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://chrisbloom.de/blog/naehe-distanz-problem-in-beziehungen/",
+   "grund": "Blog eines Coaches für Paarbeziehungen"
+  }
+ ]
+}

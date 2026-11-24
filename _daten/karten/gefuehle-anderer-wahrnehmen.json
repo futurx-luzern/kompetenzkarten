@@ -1,0 +1,81 @@
+{
+ "titel": "Gefühle anderer wahrnehmen",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Informiere dich darüber, wie du besser erkennst, was andere Menschen fühlen, und wie du ihre Emotionen richtig einordnest. Lerne Techniken, die dir helfen, die Gefühle anderer besser wahrzunehmen und zu verstehen. Erstelle eine Liste mit Tipps, die dir dabei helfen, deine Empathie zu stärken.",
+ "ziel": "Verstehe, wie du deine Empathie entwickelst und die Gefühle anderer besser einordnest.",
+ "text": [
+  "Deine Kollegin ist heute stiller als sonst. Ein Freund lacht, aber irgendwie wirkt es nicht echt. Oft merken wir, dass etwas nicht stimmt, ohne es genau benennen zu können.",
+  "Gefühle anderer wahrzunehmen, ist der erste Schritt zur Empathie. Auf dieser Karte lernst du, auf welche Signale du achten kannst und wie du passend reagierst."
+ ],
+ "methode_titel": "So nimmst du Gefühle anderer wahr",
+ "fragen": [
+  "Woran merkst du bei Freunden oder in der Familie, dass es jemandem nicht gut geht?",
+  "Wie reagierst du dann normalerweise?",
+  "Was möchtest du beim nächsten Mal anders machen?"
+ ],
+ "suche": [
+  "Empathie lernen",
+  "Basisemotionen Mimik",
+  "Gefühle erkennen"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=0xjSGi9vrbs",
+   "titel": "Empathie lernen in 4 Schritten",
+   "dauer": "4 Min.",
+   "quelle": "DAK (Krankenkasse)",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Uizp_YzsFW8",
+   "titel": "Die 7 Basisemotionen im Gesicht",
+   "dauer": "2 Min.",
+   "quelle": "MDI",
+   "notiz": "Teste, ob du sie erkennst"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=w46sewZ0pNc",
+   "titel": "Wie du versteckte Gefühle erkennst",
+   "dauer": "6 Min.",
+   "quelle": "Logical Lemon",
+   "notiz": "Gezeichnet erklärt"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=6pJeW4eAw0c",
+   "titel": "Mimik lesen und deuten: die 7 Basisemotionen",
+   "dauer": "4 Min.",
+   "quelle": "Peter Kovacs"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://www.geo.de/wissen/empathie-lernen--wie-wir-mitfuehlender-werden-33707242.html",
+   "titel": "Empathie lernen: Wie wir mitfühlender werden",
+   "dauer": "8 Min.",
+   "quelle": "GEO",
+   "notiz": "Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=x9I6ml-unwE",
+   "titel": "Superkraft Empathie: So kannst du sie lernen",
+   "dauer": "27 Min.",
+   "quelle": "Terra Xplore (ZDF), 2023"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.lernen.net/artikel/empathie-mitgefuehl-lernen-depo-1791/",
+   "grund": "Seite nicht mehr erreichbar"
+  }
+ ]
+}

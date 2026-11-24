@@ -1,0 +1,64 @@
+{
+ "titel": "Beziehungen aktiv gestalten",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Erfahre, warum es wichtig ist, sich offen und bereitwillig auf Beziehungen einzulassen. Lerne, wie du aktiv daran arbeitest, eine Beziehung zu pflegen und zu gestalten. Erstelle eine Liste mit Tipps, die dir helfen, Beziehungen bewusst und aktiv zu gestalten.",
+ "ziel": "Verstehe, wie du offen auf andere zugehst und Beziehungen aktiv pflegst.",
+ "text": [
+  "Freundschaften sind eines der wichtigsten Dinge im Leben. Doch nach der Schulzeit, beim Start in die Lehre oder nach einem Umzug verliert man sich oft aus den Augen.",
+  "Beziehungen brauchen Pflege. Auf dieser Karte erfährst du, was gute Beziehungen ausmacht und wie du sie aktiv gestaltest, mit Freunden, in der Familie und im Lehrbetrieb."
+ ],
+ "methode_titel": "Was gute Beziehungen ausmacht",
+ "fragen": [
+  "Welche Beziehungen sind dir besonders wichtig? Warum?",
+  "Was tust du heute, um diese Beziehungen zu pflegen?",
+  "Mit wem möchtest du dich bald wieder melden?"
+ ],
+ "suche": [
+  "Freundschaft pflegen",
+  "gute Freundschaft",
+  "Freunde finden"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=Mve5HMcc4js",
+   "titel": "Was macht für dich eine gute Freundschaft aus?",
+   "dauer": "4 Min.",
+   "quelle": "Akademie für Lerncoaching",
+   "notiz": "Jugendliche erzählen"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=HYuqC13LZ1Q",
+   "titel": "Warum du nicht genug Freunde hast",
+   "dauer": "16 Min.",
+   "quelle": "Kurzgesagt (deutsche Fassung), 2022",
+   "notiz": "Wie Freundschaften entstehen, mit Quellen"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=ZpKlnLRMa44",
+   "titel": "Braucht man beste Freunde?",
+   "dauer": "26,5 Min.",
+   "quelle": "ARTE unhappy, 2023"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.youtube.com/watch?v=MJGKN8E4GNs",
+   "grund": "Kanal eines Beziehungscoaches"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=QMeeP9fy3Pc",
+   "grund": "Für Lehrpersonen gemacht"
+  },
+  {
+   "url": "https://www.neuenarrative.de/magazin/beziehungen-gestalten-wachstum",
+   "grund": "Magazin für Organisationsentwicklung"
+  }
+ ],
+ "bemerkung": "Gute Texte zum Lesen für Jugendliche fehlen. Die Mini-Einführung deckt das Wichtigste ab."
+}

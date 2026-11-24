@@ -1,0 +1,76 @@
+{
+ "titel": "Wertschätzung zeigen",
+ "kategorie": "Soziale Kompetenz",
+ "aufgabe": "Recherchiere, wie du eine wertschätzende und nicht wertende Haltung gegenüber anderen Menschen einnimmst. Lerne, wie du respektvoll mit den Meinungen und Grenzen anderer umgehst. Erstelle eine Liste mit Tipps, die dir helfen, Respekt und Wertschätzung in deinen Beziehungen zu zeigen.",
+ "ziel": "Lerne, wie du respektvoll und wertschätzend mit anderen umgehst.",
+ "text": [
+  "Ein ehrliches «Danke», ein Lob für gute Arbeit, ein offenes Ohr: Wertschätzung muss nicht gross sein, um viel zu bewirken.",
+  "Trotzdem vergessen wir oft, anderen zu zeigen, was wir an ihnen schätzen. Auf dieser Karte lernst du, wie du Wertschätzung zeigen kannst und wie ein gutes Kompliment aussieht."
+ ],
+ "methode_titel": "So zeigst du Wertschätzung",
+ "fragen": [
+  "Wann hast du dich zuletzt richtig wertgeschätzt gefühlt? Was hat die andere Person getan?",
+  "Wem möchtest du bald einmal Danke sagen?",
+  "Wie fühlt es sich an, ein ehrliches Kompliment zu machen?"
+ ],
+ "suche": [
+  "Wertschätzung zeigen",
+  "Komplimente machen",
+  "Dankbarkeit"
+ ],
+ "links": [
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=IjFnG5dZunE",
+   "titel": "Komplimente machen leicht gemacht",
+   "dauer": "3 Min.",
+   "quelle": "DAK (Krankenkasse)"
+  },
+  {
+   "stufe": 1,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=S3llDZYo0kQ",
+   "titel": "Wie beeinflusst Dankbarkeit unser Wohlbefinden?",
+   "dauer": "2 Min.",
+   "quelle": "Stiftung Gesundheitswissen, 2026"
+  },
+  {
+   "stufe": 2,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=M3Ft7coNuMA",
+   "titel": "Die Kraft der Komplimente",
+   "dauer": "10 Min.",
+   "quelle": "Quarks",
+   "notiz": "Ein Experiment: Was machen Komplimente mit uns?"
+  },
+  {
+   "stufe": 2,
+   "typ": "lesen",
+   "url": "https://karrierebibel.de/wertschaetzung/",
+   "titel": "Wertschätzung: Bedeutung und Tipps",
+   "dauer": "8 Min.",
+   "quelle": "Karrierebibel",
+   "notiz": "Auch zur Wertschätzung im Beruf. Bleibt von der alten Seite"
+  },
+  {
+   "stufe": 3,
+   "typ": "video",
+   "url": "https://www.youtube.com/watch?v=HGKn3iUA5M0",
+   "titel": "Ein Mittel gegen Unzufriedenheit",
+   "dauer": "9,5 Min.",
+   "quelle": "Kurzgesagt (deutsche Fassung)",
+   "notiz": "Was Dankbarkeit mit uns macht"
+  }
+ ],
+ "entfernt": [
+  {
+   "url": "https://www.lernen.net/artikel/wertschaetzung-10-tipps-5253/",
+   "grund": "Seite nicht mehr erreichbar"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=ABZ8ix0Z0GY",
+   "grund": "20 Minuten Podcast eines Paares, eher für Partnerschaften"
+  }
+ ]
+}

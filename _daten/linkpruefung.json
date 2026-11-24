@@ -41,6 +41,13 @@
   "titel": "",
   "weiterleitung": ""
  },
+ "https://devirada.ch/fileadmin/user_upload/devirada/Dokumente/Paarberatung_Texte_Download/artikel_Der_ewige_Tanz_zwischen_Na__he_und_Distanz_MF_100519.pdf": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "",
+  "weiterleitung": ""
+ },
  "https://famigros.migros.ch/de/kinder-und-jugendliche/erziehung-und-entwicklung/mediale-vorbilder-von-jugendlichen": {
   "geprueft": "2026-11-09",
   "ok": true,
@@ -144,6 +151,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "Selbstreflexion: Definition, Beispiele + 50 Fragen",
+  "weiterleitung": ""
+ },
+ "https://karrierebibel.de/wertschaetzung/": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Wertschätzung: Mehr als Belohnung und Lob",
   "weiterleitung": ""
  },
  "https://karrierebibel.de/zuverlaessigkeit/": {
@@ -363,6 +377,13 @@
   "titel": "PQRST-Methode: in 5 Schritten effektiv lernen | AllesGelingt!",
   "weiterleitung": "https://www.allesgelingt.de/blog/p-q-r-s-t_lernmethode"
  },
+ "https://www.anti-bias.eu/anti-bias-strategien/schritte-gegen-persoenliche-bias/perspektivenuebernahme/": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Perspektivenübernahme - in die Schuhe des Gegenübers schlüpfen - Anti-Bias",
+  "weiterleitung": ""
+ },
  "https://www.aok.de/pk/magazin/koerper-psyche/gehirn-nerven/die-konzentration-steigern-durch-konzentrationsuebungen/": {
   "geprueft": "2026-11-10",
   "ok": true,
@@ -476,7 +497,7 @@
   "weiterleitung": ""
  },
  "https://www.feel-ok.ch/de_CH/jugendliche/themen/selbstvertrauen/aktion/wer_bin_ich_was_tue_ich/deine_gefuehle/gefuehle_sind_wegweiser.cfm": {
-  "geprueft": "2026-11-16",
+  "geprueft": "2026-11-24",
   "ok": true,
   "status": "HTTP 200",
   "titel": "Wer bin ich? Gefühle sind Wegweiser",
@@ -593,6 +614,11 @@
   "status": "HTTP 200",
   "titel": "Freizeit und Arbeitszeit klar trennen – Elternmagazin Fritz+Fränzi",
   "weiterleitung": "https://www.fritzundfraenzi.ch/entscheide-dich-arbeitszeit-oder-freizeit"
+ },
+ "https://www.geo.de/wissen/empathie-lernen--wie-wir-mitfuehlender-werden-33707242.html": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 403: automatisch nicht prüfbar, bitte von Hand öffnen"
  },
  "https://www.handysektor.de/artikel/darum-solltest-du-im-internet-nicht-alles-preisgeben/": {
   "geprueft": "2026-11-09",
@@ -737,6 +763,13 @@
   "ok": true,
   "status": "HTTP 200",
   "titel": "",
+  "weiterleitung": ""
+ },
+ "https://www.spektrum.de/kolumne/verletzlichkeit-wie-man-sich-schwach-und-stark-zugleich-fuehlen-kann/1957774": {
+  "geprueft": "2026-11-24",
+  "ok": true,
+  "status": "HTTP 200",
+  "titel": "Verletzlichkeit: Wie man sich schwach und stark zugleich fühlen kann - Spektrum der Wissenschaft",
   "weiterleitung": ""
  },
  "https://www.srf.ch/play/tv/einstein/video/emotionale-intelligenz-was-steckt-hinter-den-gefuehlen?urn=urn:srf:video:7142cf8d-a91a-4fed-b021-f4cf83041d37": {
@@ -924,6 +957,15 @@
   "status": "OK",
   "titel": "Selbstbewusst auftreten - 7 Tipps für mehr Selbstsicherheit beim präsentieren oder Rede halten"
  },
+ "https://www.youtube.com/watch?v=0QQOzUmrbLA": {
+  "datum": "2020-03-04",
+  "geprueft": "2026-11-24",
+  "kanal": "Studyflix",
+  "ok": true,
+  "sekunden": 300,
+  "status": "OK",
+  "titel": "Bedürfnispyramide Maslow - einfach erklärt - mit Beispiel!"
+ },
  "https://www.youtube.com/watch?v=0Seo5InNh5E": {
   "datum": "2025-08-20",
   "geprueft": "2026-11-12",
@@ -942,6 +984,15 @@
   "status": "OK",
   "titel": "Augenübungen - 4 Übungen gegen müde Augen am Bildschirm"
  },
+ "https://www.youtube.com/watch?v=0diuz6I4IBo": {
+  "datum": "2024-03-04",
+  "geprueft": "2026-11-24",
+  "kanal": "Stefanie Voss",
+  "ok": true,
+  "sekunden": 381,
+  "status": "OK",
+  "titel": "Fehler im Job gemacht? So reagierst du richtig. Entschuldigung mal anders"
+ },
  "https://www.youtube.com/watch?v=0emqvMQVauA": {
   "datum": "2021-01-02",
   "geprueft": "2026-11-09",
@@ -950,6 +1001,15 @@
   "sekunden": 414,
   "status": "OK",
   "titel": "Mentales Kontrastieren in der Praxis - Die Wenn-Dann-Pläne"
+ },
+ "https://www.youtube.com/watch?v=0xjSGi9vrbs": {
+  "datum": "2021-04-18",
+  "geprueft": "2026-11-24",
+  "kanal": "DAK niceones",
+  "ok": true,
+  "sekunden": 237,
+  "status": "OK",
+  "titel": "Empathie lernen | In 4 Schritten zu mehr Einfühlungsvermögen | #gesundesmiteinander | DAK-Gesundheit"
  },
  "https://www.youtube.com/watch?v=1DlSMQr4D6g": {
   "datum": "2022-03-01",
@@ -1185,6 +1245,15 @@
   "status": "OK",
   "titel": "Welche Folgen kann Stress haben?"
  },
+ "https://www.youtube.com/watch?v=6pJeW4eAw0c": {
+  "datum": "2013-02-27",
+  "geprueft": "2026-11-24",
+  "kanal": "Peter Kovacs",
+  "ok": true,
+  "sekunden": 248,
+  "status": "OK",
+  "titel": "Mimik lesen und deuten - die 7 Basisemotionen - nach Paul Ekman"
+ },
  "https://www.youtube.com/watch?v=7n31HKucjwA": {
   "datum": "2026-09-07",
   "geprueft": "2026-11-10",
@@ -1293,6 +1362,15 @@
   "status": "OK",
   "titel": "Progressive Muskelentspannung (PMR) - was ist das?"
  },
+ "https://www.youtube.com/watch?v=9yL0PEWMYPk": {
+  "datum": "2018-07-29",
+  "geprueft": "2026-11-24",
+  "kanal": "ΞMPΛLOGICS - Psychologie einfach erklärt",
+  "ok": true,
+  "sekunden": 181,
+  "status": "OK",
+  "titel": "Mitleid vs. Mitgefühl - Der kleine aber feine Unterschied | Psychologie...einfach erklärt"
+ },
  "https://www.youtube.com/watch?v=A5As9tcy2dU": {
   "datum": "2011-12-02",
   "geprueft": "2026-11-24",
@@ -1373,6 +1451,15 @@
   "sekunden": 459,
   "status": "OK",
   "titel": "✅ Gefühle beschreiben - die sieben wichtigsten Emotionen"
+ },
+ "https://www.youtube.com/watch?v=BZfirgLqK7I": {
+  "datum": "2018-12-11",
+  "geprueft": "2026-11-24",
+  "kanal": "Raspberry Hill",
+  "ok": true,
+  "sekunden": 173,
+  "status": "OK",
+  "titel": "Brené Brown über Empathie (mit deutschen Untertiteln)"
  },
  "https://www.youtube.com/watch?v=BpsoZi1FYPM": {
   "datum": "2023-01-04",
@@ -1472,6 +1559,15 @@
   "sekunden": 396,
   "status": "OK",
   "titel": "Wie du Dir (fast) alles merken kannst - Chunking"
+ },
+ "https://www.youtube.com/watch?v=EmD-9HR6ZZ0": {
+  "datum": "2024-08-08",
+  "geprueft": "2026-11-24",
+  "kanal": "Sprouts Deutschland",
+  "ok": true,
+  "sekunden": 199,
+  "status": "OK",
+  "titel": "Emotionale Intelligenz"
  },
  "https://www.youtube.com/watch?v=Eu3BtU_suMA": {
   "datum": "2025-03-05",
@@ -1581,6 +1677,24 @@
   "status": "OK",
   "titel": "Aufschieben: Schluss mit Müllzeit!"
  },
+ "https://www.youtube.com/watch?v=HGKn3iUA5M0": {
+  "datum": "2020-07-15",
+  "geprueft": "2026-11-24",
+  "kanal": "Dinge Erklärt – Kurzgesagt",
+  "ok": true,
+  "sekunden": 558,
+  "status": "OK",
+  "titel": "Ein Mittel gegen Unzufriedenheit"
+ },
+ "https://www.youtube.com/watch?v=HYuqC13LZ1Q": {
+  "datum": "2022-08-28",
+  "geprueft": "2026-11-24",
+  "kanal": "Dinge Erklärt – Kurzgesagt",
+  "ok": true,
+  "sekunden": 947,
+  "status": "OK",
+  "titel": "Warum du nicht genug Freunde hast!"
+ },
  "https://www.youtube.com/watch?v=HjbD4DETe50": {
   "datum": "2023-02-19",
   "geprueft": "2026-11-16",
@@ -1637,7 +1751,7 @@
  },
  "https://www.youtube.com/watch?v=IHOwB39RFqo": {
   "datum": "2022-05-14",
-  "geprueft": "2026-11-16",
+  "geprueft": "2026-11-24",
   "kanal": "DAK niceones",
   "ok": true,
   "sekunden": 257,
@@ -1662,6 +1776,15 @@
   "status": "OK",
   "titel": "Beste Lesetechnik für die Literaturrecherche - SQ3R (ausführliche Version)"
  },
+ "https://www.youtube.com/watch?v=IjFnG5dZunE": {
+  "datum": "2020-06-27",
+  "geprueft": "2026-11-24",
+  "kanal": "DAK niceones",
+  "ok": true,
+  "sekunden": 163,
+  "status": "OK",
+  "titel": "Komplimente machen leicht gemacht | #gesundesmiteinander | DAK-Gesundheit"
+ },
  "https://www.youtube.com/watch?v=IxViccBvsj8": {
   "datum": "2016-04-26",
   "geprueft": "2026-11-10",
@@ -1670,6 +1793,15 @@
   "sekunden": 167,
   "status": "OK",
   "titel": "3 Min. | Autogenes Training | Entspannung | züritüütsch"
+ },
+ "https://www.youtube.com/watch?v=IzW6mlQoBvA": {
+  "datum": "2022-11-11",
+  "geprueft": "2026-11-24",
+  "kanal": "Die Maus",
+  "ok": true,
+  "sekunden": 204,
+  "status": "OK",
+  "titel": "Warum ist Lachen ansteckend? | DieMaus | WDR"
  },
  "https://www.youtube.com/watch?v=J2hBEl8eIro": {
   "datum": "2019-03-31",
@@ -1706,6 +1838,15 @@
   "sekunden": 128,
   "status": "OK",
   "titel": "Brauchen wir mindestens zwei Liter Wasser am Tag?"
+ },
+ "https://www.youtube.com/watch?v=JEsEtn9U0OI": {
+  "datum": "2024-07-04",
+  "geprueft": "2026-11-24",
+  "kanal": "3sat NANO",
+  "ok": true,
+  "sekunden": 1453,
+  "status": "OK",
+  "titel": "So öffnen wir uns für andere Perspektiven | Ludwig Wittgenstein | Gert Scobel"
  },
  "https://www.youtube.com/watch?v=JTlDIu_PXlE": {
   "datum": "2020-12-09",
@@ -1842,6 +1983,15 @@
   "status": "OK",
   "titel": "Der erste Eindruck ohne zweite Chance | Made in Germany"
  },
+ "https://www.youtube.com/watch?v=M3Ft7coNuMA": {
+  "datum": "2021-01-19",
+  "geprueft": "2026-11-24",
+  "kanal": "Quarks",
+  "ok": true,
+  "sekunden": 609,
+  "status": "OK",
+  "titel": "Kraft der Komplimente: Was macht eine Beziehung stark? | Quarks"
+ },
  "https://www.youtube.com/watch?v=M3p11yGM5CI": {
   "datum": "2018-02-27",
   "geprueft": "2026-11-24",
@@ -1859,6 +2009,15 @@
   "sekunden": 490,
   "status": "OK",
   "titel": "Das JOHARI FENSTER - die wichtigsten Erkenntnisse aus der Persönlichkeitspsychologie | ERZIEHERKANAL"
+ },
+ "https://www.youtube.com/watch?v=Mve5HMcc4js": {
+  "datum": "2020-04-07",
+  "geprueft": "2026-11-24",
+  "kanal": "Akademie für Lerncoaching",
+  "ok": true,
+  "sekunden": 236,
+  "status": "OK",
+  "titel": "\"Was macht für dich eine gute Freundschaft aus?\" Das antworten Jugendliche..."
  },
  "https://www.youtube.com/watch?v=N5KpQ4q77fs": {
   "datum": "2021-11-08",
@@ -1959,6 +2118,15 @@
   "status": "OK",
   "titel": "5 Strategien zur Konfliktlösung – Von Durchsetzung bis Empathie"
  },
+ "https://www.youtube.com/watch?v=Oi7v84vBlV8": {
+  "datum": "2019-08-23",
+  "geprueft": "2026-11-24",
+  "kanal": "insieme Zürich",
+  "ok": true,
+  "sekunden": 301,
+  "status": "OK",
+  "titel": "Naehe und Distanz"
+ },
  "https://www.youtube.com/watch?v=OnpTOyclUw4": {
   "datum": "2020-05-11",
   "geprueft": "2026-11-10",
@@ -1994,6 +2162,15 @@
   "sekunden": 287,
   "status": "OK",
   "titel": "Die 5 Minuten Regel: Wie du produktiver und effizienter wirst"
+ },
+ "https://www.youtube.com/watch?v=PJklq_88PPs": {
+  "datum": "2022-09-11",
+  "geprueft": "2026-11-24",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 415,
+  "status": "OK",
+  "titel": "AKTIVES ZUHÖREN nach Carl Rogers - die 7 Techniken einfach erklärt mit Beispielen | ERZIEHERKANAL"
  },
  "https://www.youtube.com/watch?v=PNNLONE3Skg": {
   "datum": "2022-01-25",
@@ -2057,6 +2234,15 @@
   "sekunden": 442,
   "status": "OK",
   "titel": "Ich kann keine Grenzen setzen – Psychologie Kompakt mit Stefanie Stahl"
+ },
+ "https://www.youtube.com/watch?v=QHh-qZ7ufiI": {
+  "datum": "2021-02-19",
+  "geprueft": "2026-11-24",
+  "kanal": "Ingrid und Peter Gerstbach",
+  "ok": true,
+  "sekunden": 432,
+  "status": "OK",
+  "titel": "Emotionale Intelligenz: Was das ist und wie Sie Ihre steigern können"
  },
  "https://www.youtube.com/watch?v=QJ2_7TDE4Wk": {
   "datum": "2022-02-06",
@@ -2174,6 +2360,15 @@
   "sekunden": 188,
   "status": "OK",
   "titel": "Prokrastination: Mit der Pomodoro-Technik das Aufschieben vermeiden – Lerntipps von sofatutor"
+ },
+ "https://www.youtube.com/watch?v=S3llDZYo0kQ": {
+  "datum": "2026-05-21",
+  "geprueft": "2026-11-24",
+  "kanal": "Stiftung Gesundheitswissen",
+  "ok": true,
+  "sekunden": 133,
+  "status": "OK",
+  "titel": "Wie beeinflusst Dankbarkeit unser Wohlbefinden?"
  },
  "https://www.youtube.com/watch?v=S5lI0XCQbE4": {
   "datum": "2018-06-27",
@@ -2327,6 +2522,24 @@
   "sekunden": 245,
   "status": "OK",
   "titel": "Das Johari Fenster einfach erklärt + BEISPIEL!"
+ },
+ "https://www.youtube.com/watch?v=Uizp_YzsFW8": {
+  "datum": "2016-06-14",
+  "geprueft": "2026-11-24",
+  "kanal": "MDI Management Development International",
+  "ok": true,
+  "sekunden": 116,
+  "status": "OK",
+  "titel": "Die 7 Basisemotionen - Erkennen Sie alle Gesichtsausdrücke?"
+ },
+ "https://www.youtube.com/watch?v=UqdlSo_eIt4": {
+  "datum": "2017-03-07",
+  "geprueft": "2026-11-24",
+  "kanal": "Stefanie Voss",
+  "ok": true,
+  "sekunden": 191,
+  "status": "OK",
+  "titel": "Perspektivwechsel - so einfach bekommen Sie den hin"
  },
  "https://www.youtube.com/watch?v=VVhD-e9TiDI": {
   "datum": "2025-05-16",
@@ -2526,6 +2739,15 @@
   "status": "OK",
   "titel": "ABC Methode | Einfach erklärt | [Zeitmanagement]"
  },
+ "https://www.youtube.com/watch?v=Yq-cOp9tb8g": {
+  "datum": "2020-09-13",
+  "geprueft": "2026-11-24",
+  "kanal": "Institut für Personalforschung",
+  "ok": true,
+  "sekunden": 153,
+  "status": "OK",
+  "titel": "Aktives Zuhören"
+ },
  "https://www.youtube.com/watch?v=YuZPdldC9-s": {
   "datum": "2024-08-15",
   "geprueft": "2026-11-16",
@@ -2552,6 +2774,15 @@
   "sekunden": 1285,
   "status": "OK",
   "titel": "Work-Life-Dilemma – Spagat zwischen Karriere und Lebensqualität | Reportage | rec. | SRF"
+ },
+ "https://www.youtube.com/watch?v=ZpKlnLRMa44": {
+  "datum": "2023-12-15",
+  "geprueft": "2026-11-24",
+  "kanal": "Irgendwas mit ARTE und Kultur",
+  "ok": true,
+  "sekunden": 1591,
+  "status": "OK",
+  "titel": "Braucht man beste Freunde? | unhappy - Ronja von Rönne | ARTE"
  },
  "https://www.youtube.com/watch?v=_4GgldW0cOQ": {
   "datum": "2022-09-13",
@@ -2759,6 +2990,15 @@
   "sekunden": 687,
   "status": "OK",
   "titel": "Erinnerungen: Wie funktioniert unser Gedächtnis? | Quarks | Ralphs Universum"
+ },
+ "https://www.youtube.com/watch?v=cYV2LKhynig": {
+  "datum": "2025-06-18",
+  "geprueft": "2026-11-24",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 1647,
+  "status": "OK",
+  "titel": "Aktives Zuhören: So lernt ihr, euch besser zu verstehen! | Terra Xplore mit Jasmina Neudecker"
  },
  "https://www.youtube.com/watch?v=cbE3QtlfvvE": {
   "datum": "2025-04-02",
@@ -3012,6 +3252,15 @@
   "status": "OK",
   "titel": "Wie Du Alles Verstehen Kannst (Feynman Methode)"
  },
+ "https://www.youtube.com/watch?v=hBLi7dB9bPA": {
+  "datum": "2021-05-31",
+  "geprueft": "2026-11-24",
+  "kanal": "SRF Wissen",
+  "ok": true,
+  "sekunden": 2173,
+  "status": "OK",
+  "titel": "Emotionale Intelligenz – Wie Gefühle uns bei der Arbeit beeinflussen | Einstein | SRF Wissen"
+ },
  "https://www.youtube.com/watch?v=hPdWrQsy5sI": {
   "datum": "2017-09-20",
   "geprueft": "2026-11-16",
@@ -3030,6 +3279,15 @@
   "status": "OK",
   "titel": "Macht Bildschirmarbeit die Augen kaputt? Augenarzt erklärt"
  },
+ "https://www.youtube.com/watch?v=hiIahhoON5g": {
+  "datum": "2026-04-13",
+  "geprueft": "2026-11-24",
+  "kanal": "SRF Kultur Sternstunden",
+  "ok": true,
+  "sekunden": 3542,
+  "status": "OK",
+  "titel": "Warum Verletzlichkeit keine Schwäche ist | Sternstunde Philosophie | SRF Kultur"
+ },
  "https://www.youtube.com/watch?v=hzLmih1gJpk": {
   "datum": "2024-07-12",
   "geprueft": "2026-11-10",
@@ -3038,6 +3296,24 @@
   "sekunden": 257,
   "status": "OK",
   "titel": "Was Stress mit unserem Gehirn macht - Madhumita Murgia"
+ },
+ "https://www.youtube.com/watch?v=iCvmsMzlF7o": {
+  "datum": "2011-01-03",
+  "geprueft": "2026-11-24",
+  "kanal": "TED",
+  "ok": true,
+  "sekunden": 1250,
+  "status": "OK",
+  "titel": "The Power of Vulnerability | Brené Brown | TED"
+ },
+ "https://www.youtube.com/watch?v=ifOGx8ELCno": {
+  "datum": "2017-12-20",
+  "geprueft": "2026-11-24",
+  "kanal": "MAITHINK X",
+  "ok": true,
+  "sekunden": 358,
+  "status": "OK",
+  "titel": "Vorsicht: Empathie! | Was Mitgefühl anstellen kann"
  },
  "https://www.youtube.com/watch?v=iiXRRIoW9aQ": {
   "datum": "2020-12-15",
@@ -3092,6 +3368,15 @@
   "sekunden": 284,
   "status": "OK",
   "titel": "So pitchst du eine Idee"
+ },
+ "https://www.youtube.com/watch?v=jn4u0gbQIgM": {
+  "datum": "2018-07-11",
+  "geprueft": "2026-11-24",
+  "kanal": "Dami Charf - Einfach Mensch Sein",
+  "ok": true,
+  "sekunden": 338,
+  "status": "OK",
+  "titel": "Nähe und Distanz in Beziehungen"
  },
  "https://www.youtube.com/watch?v=joiuVl9pqUY": {
   "datum": "2021-04-20",
@@ -3165,6 +3450,15 @@
   "status": "OK",
   "titel": "Dehydration: Symptome erkennen & Folgen von Wassermangel verstehen"
  },
+ "https://www.youtube.com/watch?v=kqhraIXWNxw": {
+  "datum": "2023-02-28",
+  "geprueft": "2026-11-24",
+  "kanal": "ACTitude – Für mehr psychische Flexibilität",
+  "ok": true,
+  "sekunden": 534,
+  "status": "OK",
+  "titel": "Perspektivwechsel 👥 🎭 Two Pieces of Paper (ACT Metapher 2023) 📃"
+ },
  "https://www.youtube.com/watch?v=ktAQa4OcVeQ": {
   "datum": "2018-11-15",
   "geprueft": "2026-11-09",
@@ -3219,6 +3513,15 @@
   "status": "OK",
   "titel": "Sozialkognitive Lerntheorie: Banduras Experimente mit der Schlagpuppe"
  },
+ "https://www.youtube.com/watch?v=lZGEmq8WsKY": {
+  "datum": "2024-08-07",
+  "geprueft": "2026-11-24",
+  "kanal": "Dr. Anna N. Kluger",
+  "ok": true,
+  "sekunden": 525,
+  "status": "OK",
+  "titel": "Vulnerabilität: Die Macht der Verletzlichkeit | Selbstfindung | Psychologie | Brené Brown"
+ },
  "https://www.youtube.com/watch?v=lZHAXBKssA0": {
   "datum": "2023-02-15",
   "geprueft": "2026-11-10",
@@ -3272,6 +3575,15 @@
   "sekunden": 667,
   "status": "OK",
   "titel": "Kopf, Körper & Mindset – Mental Health bei Jugendlichen | SRF school | SRF Wissen"
+ },
+ "https://www.youtube.com/watch?v=mVo_mTVR3JY": {
+  "datum": "2024-12-22",
+  "geprueft": "2026-11-24",
+  "kanal": "Erzieherkanal - Wissen, Theorien \\u0026 Infos",
+  "ok": true,
+  "sekunden": 359,
+  "status": "OK",
+  "titel": "NÄHE UND DISTANZ - Balance finden in der pädagogischen BEZIEHUNGSARBEIT | ERZIEHERKANAL"
  },
  "https://www.youtube.com/watch?v=mYOk76DHv8c": {
   "datum": "2021-08-25",
@@ -3398,6 +3710,15 @@
   "sekunden": 84,
   "status": "OK",
   "titel": "Müde Augen vom Bildschirm? Diese schnellen Übungen können helfen"
+ },
+ "https://www.youtube.com/watch?v=pJJ7aotTvxs": {
+  "datum": "2024-01-11",
+  "geprueft": "2026-11-24",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 1614,
+  "status": "OK",
+  "titel": "Mitgefühlsmüdigkeit: Wenn zu viel Empathie abstumpft | Terra Xplore mit Jasmina Neudecker"
  },
  "https://www.youtube.com/watch?v=pOGO-JByT5c": {
   "datum": "2023-07-27",
@@ -3795,6 +4116,15 @@
   "status": "OK",
   "titel": "Risikomatrix - 👨🏼‍🎓 EINFACH ERKLÄRT 👩🏼‍🎓"
  },
+ "https://www.youtube.com/watch?v=w46sewZ0pNc": {
+  "datum": "2018-06-09",
+  "geprueft": "2026-11-24",
+  "kanal": "Logical Lemon",
+  "ok": true,
+  "sekunden": 348,
+  "status": "OK",
+  "titel": "Wie Du versteckte Gefühle erkennst (Mikroexpressionen)"
+ },
  "https://www.youtube.com/watch?v=wH5ik6qcw60": {
   "datum": "2023-05-02",
   "geprueft": "2026-11-09",
@@ -3839,6 +4169,15 @@
   "sekunden": 464,
   "status": "OK",
   "titel": "Eule oder Lerche? So wirkt dein Chronotyp auf Sport, Stoffwechsel und Schlaf | ARD GESUND"
+ },
+ "https://www.youtube.com/watch?v=x9I6ml-unwE": {
+  "datum": "2023-09-07",
+  "geprueft": "2026-11-24",
+  "kanal": "Terra Xplore",
+  "ok": true,
+  "sekunden": 1618,
+  "status": "OK",
+  "titel": "Superkraft Empathie: So kannst du sie trainieren | Terra Xplore mit Biologin Jasmina Neudecker"
  },
  "https://www.youtube.com/watch?v=xCBS7uOqX-A": {
   "datum": "2020-12-01",
